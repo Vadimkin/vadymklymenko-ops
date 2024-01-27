@@ -8,7 +8,8 @@ This repository contains scripts for managing some features personal.
 
 This is a Shortcut script (triggered automatically daily) to export all starred articles from Reeder into json.
 
-<img src="./reeder-shortcuts.jpg" width="300px">
+| <img src="./reeder-shortcuts.jpg" width="300px">  | <img src="./reeader-shortcuts-1.png" width="300px"> |
+| ------------- | ------------- |
 
 ### Goodreads parser
 
