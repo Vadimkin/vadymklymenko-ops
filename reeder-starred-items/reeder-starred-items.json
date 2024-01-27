@@ -1,12 +1,24 @@
 {
     "items": [
         {
+            "title": "7 \u0437\u043d\u0430\u0445\u0456\u0434\u043e\u043a \u0449\u043e\u0434\u043e \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0439\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u0442\u043e\u0440\u0443 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c\u0443 \u0432 \u043f\u0440\u0438\u0444\u0440\u043e\u043d\u0442\u043e\u0432\u0438\u0445 \u0440\u0435\u0433\u0456\u043e\u043d\u0430\u0445",
+            "url": "https://texty.org.ua/articles/111565/7-znahidok-shodo-informacijnoho-prostoru-telehramu-v-pryfrontovyh-rehionah/"
+        },
+        {
+            "title": "#\u0442\u043e\u0439\u0442\u0430\u043a\u0435. \u041b\u0438\u0441\u0442 \u211629",
+            "url": "https://toytakeorg.substack.com/p/29"
+        },
+        {
             "title": "Social Media, AI, and the Battle for Your Brain",
             "url": "https://proto.life/2023/12/social-media-artificial-intelligence-and-the-battle-for-your-brain/"
         },
         {
             "title": "Balancing Engineering Cultures: Debate Everything vs. Just Tell Me What To Build",
             "url": "https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do"
+        },
+        {
+            "title": "The future of the library",
+            "url": "https://seths.blog/2011/05/the-future-of-the-library/"
         }
     ]
 }
