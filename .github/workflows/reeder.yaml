@@ -1,0 +1,33 @@
+name: Update reeder items
+
+on:
+  workflow_dispatch:
+    inputs:
+      payload:
+        # The maximum payload for inputs is 65,535 characters.
+        # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs
+        type: string
+        description: Payload to send to the webhook
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+#          cache: 'pip'
+      - name: Process reeder feed
+        env:
+          PAYLOAD: ${{ inputs.payload }}
+        run: echo "$PAYLOAD" | python reeder-starred-items/run.py
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: "github_actions"
+          message: '🤖 Added new reeder items'
