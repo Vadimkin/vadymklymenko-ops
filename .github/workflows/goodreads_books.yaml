@@ -1,0 +1,32 @@
+name: Update books
+
+on:
+  workflow_dispatch:
+  schedule:
+    # At 00:00 by UTC https://crontab.guru
+    - cron: '00 00 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip' # caching pip dependencies
+      - name: Install requirements
+        run: pip install -r goodreads-books/requirements.txt
+      - name: Parse goodreads
+        run: |
+          cd goodreads-books
+          python run.py
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: "github_actions"
+          message: '📚 Added new books'
