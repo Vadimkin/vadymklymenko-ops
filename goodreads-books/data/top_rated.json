@@ -529,17 +529,6 @@
       "own": true
     },
     {
-      "title": "Пройти крізь стіни",
-      "author": "Marina Abramović",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529527248l/40599524.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252400681",
-      "rating": 5,
-      "date_started": "2020-03-29",
-      "date_read": "2020-04-02",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
       "title": "Тонкое искусство пофигизма. Парадоксальный способ жить счастливо",
       "author": "Mark Manson",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517432488l/36110536.jpg",
@@ -551,39 +540,6 @@
       "own": false
     },
     {
-      "title": "It Doesn't Have to Be Crazy at Work",
-      "author": "Jason Fried",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523530659l/39674332.jpg",
-      "review_url": "https://www.goodreads.com/review/show/2796645001",
-      "rating": 4,
-      "date_started": null,
-      "date_read": "2019-04-23",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Sapiens. Краткая история человечества",
-      "author": "Yuval Noah Harari",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532631469l/40954425.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252448042",
-      "rating": 4,
-      "date_started": null,
-      "date_read": "2019-02-01",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Говорит командир корабля. Вопросы, ответы и наблюдения опытного пилота",
-      "author": "Patrick Smith",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427623753l/25240770.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3261201831",
-      "rating": 4,
-      "date_started": "2018-01-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
       "title": "Планета PIXAR. Моя неймовірна подорож зі Стівом Джобсом у створення історії розваг",
       "author": "Lawrence Levy",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515359723l/37850584.jpg",
@@ -591,83 +547,6 @@
       "rating": 4,
       "date_started": "2017-12-06",
       "date_read": "2017-12-14",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Zag. Найкращий посібник з брендингу",
-      "author": "Marty Neumeier",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497710626l/35451836.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252439231",
-      "rating": 4,
-      "date_started": null,
-      "date_read": "2017-12-01",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Пиши, сокращай. Как создавать сильный текст",
-      "author": "Maxim Ilyakhov",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531373998l/40789119.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252444911",
-      "rating": 4,
-      "date_started": null,
-      "date_read": "2016-12-01",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Saint porno. Історія про кіно і тіло",
-      "author": "Богдан Логвиненко",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461177494l/29966816.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252428597",
-      "rating": 4,
-      "date_started": null,
-      "date_read": "2016-06-01",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Мир по Кларксону [Mir po Klarxonu]",
-      "author": "Jeremy Clarkson",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532780270l/40966454.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269803318",
-      "rating": 4,
-      "date_started": "2015-11-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Год, прожитый по-библейски",
-      "author": "A.J. Jacobs",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398449053l/22011991.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269803967",
-      "rating": 4,
-      "date_started": "2015-09-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Таинственная история Билли Миллигана",
-      "author": "Daniel Keyes",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451888295l/28445642.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269810516",
-      "rating": 5,
-      "date_started": "2015-01-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Максимальная концентрация. Как сохранить эффективность в эпоху клипового мышления",
-      "author": "Lucy Jo Palladino",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418332772l/23768325.jpg",
-      "review_url": "https://www.goodreads.com/review/show/1155697269",
-      "rating": 4,
-      "date_started": null,
-      "date_read": "2014-12-01",
       "is_reading_now": false,
       "own": false
     },
