@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Our Enemies Will Vanish: The Russian Invasion and Ukraine's War of Independence",
+      "author": "Yaroslav Trofimov",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694468947l/196848512.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6194199435",
+      "rating": 4,
+      "date_started": "2024-02-03",
+      "date_read": "2024-02-10",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "All Marketers Are Liars: The Underground Classic That Explains How Marketing Really Works--and Why Authenticity Is the Best Marketing of All",
       "author": "Seth Godin",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348332473l/13099528.jpg",
