@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Повітряна війна і література",
+      "author": "W.G. Sebald",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670409908l/64408674.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6253813965",
+      "rating": 4,
+      "date_started": "2024-02-11",
+      "date_read": "2024-02-11",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "Our Enemies Will Vanish: The Russian Invasion and Ukraine's War of Independence",
       "author": "Yaroslav Trofimov",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694468947l/196848512.jpg",
