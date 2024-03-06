@@ -31,6 +31,7 @@ def main():
         "https://ciechanow.ski/atom.xml",
         "https://leonid.shevtsov.me/stendap/index.xml",
         "https://toytakeorg.substack.com/feed/",
+        "https://7uapoems.substack.com/feed/",
         "https://zametkin.me/feed/",
         "https://blog.alexkolodko.com/rss/",
         "https://world.hey.com/dhh/feed.atom",
@@ -41,6 +42,12 @@ def main():
         "https://waitbutwhy.com/feed",
         "https://reporters.media/feed/",
         "https://zaytsev.io/blog/rss/",
+        "https://www.the-next.me/rss/",
+        "https://zverok.space/feed.xml",
+        "https://paulstamatiou.com/posts.xml",
+        "https://www.julian.digital/feed",
+        "https://chrisnicholas.dev/rss.xml",
+        "https://oykun.com/rss/",
     ]
 
     entries = []
