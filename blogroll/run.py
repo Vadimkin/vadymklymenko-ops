@@ -40,6 +40,7 @@ def main():
         "https://snyder.substack.com/feed",
         "https://waitbutwhy.com/feed",
         "https://reporters.media/feed/",
+        "https://zaytsev.io/blog/rss/",
     ]
 
     entries = []
