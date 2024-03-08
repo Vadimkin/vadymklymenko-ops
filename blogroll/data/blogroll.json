@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Could Apple leave Europe?",
+      "link": "https://world.hey.com/dhh/could-apple-leave-europe-76441933",
+      "published": "2024-03-07T23:44:41Z"
+    },
+    {
+      "title": "Про клавішу пробілу в айфоні",
+      "link": "https://zametkin.me/2024/03/07/pro-klavishu-probilu-v-ajfoni/",
+      "published": "Thu, 07 Mar 2024 19:08:56 +0000"
+    },
+    {
       "title": "Committing to Windows",
       "link": "https://world.hey.com/dhh/committing-to-windows-2d6388fd",
       "published": "2024-03-07T00:19:31Z"
@@ -149,11 +159,6 @@
       "title": "Do learn",
       "link": "https://world.hey.com/jason/do-learn-54ece4d4",
       "published": "2024-02-27T17:20:20Z"
-    },
-    {
-      "title": "Propellerheads — Decksandrumsandrockandroll",
-      "link": "https://zametkin.me/2024/02/27/propellerheads-decksandrumsandrockandroll/",
-      "published": "Tue, 27 Feb 2024 12:11:49 +0000"
     },
     {
       "title": "Airfoil",
