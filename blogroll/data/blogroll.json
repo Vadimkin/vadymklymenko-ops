@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "10.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-10/",
+      "published": "Sun, 10 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "09.03.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-03-09/",
       "published": "Sat, 09 Mar 2024 00:00:00 +0000"
@@ -151,11 +156,6 @@
       "published": "Thu, 29 Feb 2024 16:17:15 +0000"
     },
     {
-      "title": "29.02.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-02-29/",
-      "published": "Thu, 29 Feb 2024 00:00:00 +0000"
-    },
-    {
       "title": "Garbage — Garbage",
       "link": "https://zametkin.me/2024/02/28/garbage-garbage/",
       "published": "Wed, 28 Feb 2024 13:34:28 +0000"
@@ -204,11 +204,6 @@
       "title": "Don't delegate your word",
       "link": "https://world.hey.com/jason/don-t-delegate-your-word-1875de99",
       "published": "2024-02-20T20:02:12Z"
-    },
-    {
-      "title": "Дизайн Нурофєну і Панадолу",
-      "link": "https://zaytsev.io/blog/nurofen-panadol/",
-      "published": "Tue, 20 Feb 2024 00:00:00 +0000"
     }
   ]
 }
