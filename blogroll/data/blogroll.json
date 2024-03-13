@@ -1,9 +1,24 @@
 {
   "feed": [
     {
+      "title": "Be less precious",
+      "link": "https://world.hey.com/dhh/be-less-precious-b20bf8c3",
+      "published": "2024-03-12T23:39:27Z"
+    },
+    {
+      "title": "Машина простору і часу від КПІ",
+      "link": "https://blog.alexkolodko.com/all/kpi-map-timemachine/",
+      "published": "Tue, 12 Mar 2024 19:12:19 +0300"
+    },
+    {
       "title": "Sleeve — стильний додаток для macOS, який доповнює Music і Spotify",
       "link": "https://zametkin.me/2024/03/12/sleeve-stylnyj-dodatok-dlya-macos-yakyj-dopovnyuye-music-i-spotify/",
       "published": "Tue, 12 Mar 2024 10:08:42 +0000"
+    },
+    {
+      "title": "12.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-12/",
+      "published": "Tue, 12 Mar 2024 00:00:00 +0000"
     },
     {
       "title": "МУР — Ти [Романтика]",
@@ -146,11 +161,6 @@
       "published": "Sat, 02 Mar 2024 14:10:17 +0300"
     },
     {
-      "title": "02.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-02/",
-      "published": "Sat, 02 Mar 2024 00:00:00 +0000"
-    },
-    {
       "title": "alt-J — An Awesome Wave",
       "link": "https://zametkin.me/2024/03/01/alt-j-an-awesome-wave/",
       "published": "Fri, 01 Mar 2024 19:16:00 +0000"
@@ -199,11 +209,6 @@
       "title": "Нові паркувальні зони у Києві",
       "link": "https://blog.alexkolodko.com/all/novi-parkuvalni-zoni-u-kiyevi/",
       "published": "Sun, 25 Feb 2024 19:03:44 +0300"
-    },
-    {
-      "title": "You couldn't know",
-      "link": "https://world.hey.com/jason/you-couldn-t-know-3d98330d",
-      "published": "2024-02-21T22:05:21Z"
     }
   ]
 }
