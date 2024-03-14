@@ -1,9 +1,19 @@
 {
   "feed": [
     {
+      "title": "Developers are on edge",
+      "link": "https://world.hey.com/dhh/developers-are-on-edge-4dfcf9c1",
+      "published": "2024-03-13T20:37:56Z"
+    },
+    {
       "title": "Мамо, дихай!",
       "link": "https://reporters.media/mamo-dyhaj/",
       "published": "Wed, 13 Mar 2024 14:11:28 +0000"
+    },
+    {
+      "title": "13.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-13/",
+      "published": "Wed, 13 Mar 2024 00:00:00 +0000"
     },
     {
       "title": "Be less precious",
@@ -146,11 +156,6 @@
       "published": "Sun, 03 Mar 2024 16:11:13 +0000"
     },
     {
-      "title": "03.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-03/",
-      "published": "Sun, 03 Mar 2024 00:00:00 +0000"
-    },
-    {
       "title": "GoGo Penguin — v2.0",
       "link": "https://zametkin.me/2024/03/02/gogo-penguin-v2-0/",
       "published": "Sat, 02 Mar 2024 20:00:35 +0000"
@@ -204,11 +209,6 @@
       "title": "Switching to Android was easy",
       "link": "https://world.hey.com/dhh/switching-to-android-was-easy-4bf28577",
       "published": "2024-02-25T20:27:11Z"
-    },
-    {
-      "title": "VSCode + WSL makes Windows awesome for web development",
-      "link": "https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528",
-      "published": "2024-02-25T19:07:31Z"
     },
     {
       "title": "Нові паркувальні зони у Києві",
