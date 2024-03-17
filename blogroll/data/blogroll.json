@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "16.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-16/",
+      "published": "Sat, 16 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "Chart the course, set the pace, hold the line",
       "link": "https://world.hey.com/dhh/chart-the-course-set-the-pace-hold-the-line-0f3ea916",
       "published": "2024-03-15T17:24:00Z"
@@ -139,11 +144,6 @@
       "title": "Did you know you can write your own typesafe React router in 500 lines?",
       "link": "https://sinja.io/blog/build-typesafe-react-router-from-scratch",
       "published": "Wed, 06 Mar 2024 00:00:00 GMT"
-    },
-    {
-      "title": "06.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-06/",
-      "published": "Wed, 06 Mar 2024 00:00:00 +0000"
     },
     {
       "title": "Be Kind, But Keep Your Integrity",
