@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Вмістожер: найкращий український подкаст про ігровий світ",
+      "link": "https://zametkin.me/2024/03/18/vmistozher-najkrashhyj-ukrayinskyj-podkast-pro-igrovyj-svit/",
+      "published": "Mon, 18 Mar 2024 10:00:00 +0000"
+    },
+    {
       "title": "Alex Albrecht pres.Melquíades — Allambie",
       "link": "https://zametkin.me/2024/03/17/alex-albrecht-pres-melquiades-allambie/",
       "published": "Sun, 17 Mar 2024 19:30:00 +0000"
@@ -166,11 +171,6 @@
       "published": "2024-03-05T23:09:54Z"
     },
     {
-      "title": "The Chemical Brothers — Surrender",
-      "link": "https://zametkin.me/2024/03/04/the-chemical-brothers-surrender/",
-      "published": "Mon, 04 Mar 2024 09:13:05 +0000"
-    },
-    {
       "title": "Reclaim your focus with ~12 lines of bash",
       "link": "https://www.autodidacts.io/coldturkey-selfcontrol-freedom-leechblock-alternative-in-bash/",
       "published": "Sun, 03 Mar 2024 23:52:05 GMT"
@@ -209,11 +209,6 @@
       "title": "Do learn",
       "link": "https://world.hey.com/jason/do-learn-54ece4d4",
       "published": "2024-02-27T17:20:20Z"
-    },
-    {
-      "title": "Airfoil",
-      "link": "https://ciechanow.ski/airfoil/",
-      "published": "Tue, 27 Feb 2024 04:00:00 -0800"
     }
   ]
 }
