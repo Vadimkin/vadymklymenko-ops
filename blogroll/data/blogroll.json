@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Röyksopp — Melody A.M.",
+      "link": "https://zametkin.me/2024/03/19/royksopp-melody-a-m/",
+      "published": "Tue, 19 Mar 2024 09:43:55 +0000"
+    },
+    {
       "title": "Вмістожер: найкращий український подкаст про ігровий світ",
       "link": "https://zametkin.me/2024/03/18/vmistozher-najkrashhyj-ukrayinskyj-podkast-pro-igrovyj-svit/",
       "published": "Mon, 18 Mar 2024 10:00:00 +0000"
@@ -149,11 +154,6 @@
       "title": "Книга «Чому ми спимо…»",
       "link": "https://zametkin.me/2024/03/06/chomu-my-spymo/",
       "published": "Wed, 06 Mar 2024 15:59:52 +0000"
-    },
-    {
-      "title": "Cервіс для спільної роботи: коментарі до макетів та графічних файлів",
-      "link": "https://zametkin.me/2024/03/06/zruchnyj-veb-servis-dlya-notatok-do-grafichnyh-fajliv/",
-      "published": "Wed, 06 Mar 2024 12:20:49 +0000"
     },
     {
       "title": "Did you know you can write your own typesafe React router in 500 lines?",
