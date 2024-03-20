@@ -1,15 +1,15 @@
 {
   "books": [
     {
-      "title": "The Creative Act: A Way of Being",
-      "author": "Rick Rubin",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663707011l/60965426.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5297505127",
+      "title": "Невеличка драма",
+      "author": "Valerian Pidmohylny",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692901365l/197800860.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6307310417",
       "rating": null,
-      "date_started": "2024-02-16",
+      "date_started": "2024-03-19",
       "date_read": null,
       "is_reading_now": true,
-      "own": false
+      "own": true
     },
     {
       "title": "Colorless Tsukuru Tazaki And His Years Of Pilgrimage",
@@ -43,6 +43,17 @@
       "date_read": null,
       "is_reading_now": true,
       "own": true
+    },
+    {
+      "title": "The Creative Act: A Way of Being",
+      "author": "Rick Rubin",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663707011l/60965426.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5297505127",
+      "rating": 4,
+      "date_started": "2024-02-16",
+      "date_read": "2024-03-19",
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Повітряна війна і література",
@@ -1022,17 +1033,6 @@
       "date_read": "2014-12-19",
       "is_reading_now": false,
       "own": true
-    },
-    {
-      "title": "Инферно         (Robert Langdon #4)",
-      "author": "Dan Brown",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377069013l/18363169.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269813295",
-      "rating": null,
-      "date_started": "2014-10-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
     },
     {
       "title": "Майдан. (Р)Еволюція духу",

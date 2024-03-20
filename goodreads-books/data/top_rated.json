@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "The Creative Act: A Way of Being",
+      "author": "Rick Rubin",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663707011l/60965426.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5297505127",
+      "rating": 4,
+      "date_started": "2024-02-16",
+      "date_read": "2024-03-19",
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Повітряна війна і література",
       "author": "W.G. Sebald",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670409908l/64408674.jpg",
