@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "20.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-20/",
+      "published": "Wed, 20 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "Корпоративні зайчики та продуктові дизайнери",
       "link": "https://www.govorukhin.com/blog/bunnies-and-real-ones",
       "published": "Tue, 19 Mar 2024 16:20:53 GMT"
@@ -131,11 +136,6 @@
       "published": "Mon, 11 Mar 2024 00:00:00 +0000"
     },
     {
-      "title": "10.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-10/",
-      "published": "Sun, 10 Mar 2024 00:00:00 +0000"
-    },
-    {
       "title": "Google's sad ideological capture was exactly what we were trying to avoid",
       "link": "https://world.hey.com/dhh/google-s-sad-ideological-capture-was-exactly-what-we-were-trying-to-avoid-67fad361",
       "published": "2024-03-08T23:23:31Z"
@@ -199,11 +199,6 @@
       "title": "Щоденник із підвалу",
       "link": "https://reporters.media/shhodennyk-iz-pidvalu/",
       "published": "Fri, 01 Mar 2024 18:34:32 +0000"
-    },
-    {
-      "title": "Fonts don't have to look awful on Windows",
-      "link": "https://world.hey.com/dhh/fonts-don-t-have-to-look-awful-on-windows-564c9d2f",
-      "published": "2024-02-29T21:14:46Z"
     }
   ]
 }
