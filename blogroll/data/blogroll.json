@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "The Grug Brained Writer",
+      "link": "https://www.autodidacts.io/grug/",
+      "published": "Sun, 24 Mar 2024 19:50:59 GMT"
+    },
+    {
+      "title": "24.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-24/",
+      "published": "Sun, 24 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "Шрифт Proba Nav2",
       "link": "https://blog.alexkolodko.com/all/proba-nav2/",
       "published": "Sat, 23 Mar 2024 19:01:44 +0300"
@@ -104,11 +114,6 @@
       "title": "Як зробити PDF з кількох зображень на macOS",
       "link": "https://zametkin.me/2024/03/14/yak-zrobyty-pdf-z-kilkoh-zobrazhen-na-macos/",
       "published": "Thu, 14 Mar 2024 14:39:32 +0000"
-    },
-    {
-      "title": "14.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-14/",
-      "published": "Thu, 14 Mar 2024 00:00:00 +0000"
     },
     {
       "title": "Developers are on edge",
