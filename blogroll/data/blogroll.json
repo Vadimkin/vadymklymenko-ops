@@ -11,6 +11,11 @@
       "published": "Mon, 25 Mar 2024 00:00:00 GMT"
     },
     {
+      "title": "25.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-25/",
+      "published": "Mon, 25 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "The Grug Brained Writer",
       "link": "https://www.autodidacts.io/grug/",
       "published": "Sun, 24 Mar 2024 19:50:59 GMT"
@@ -111,11 +116,6 @@
       "published": "2024-03-15T01:17:38Z"
     },
     {
-      "title": "15.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-15/",
-      "published": "Fri, 15 Mar 2024 00:00:00 +0000"
-    },
-    {
       "title": "Avoiding pile-ups",
       "link": "https://world.hey.com/jason/avoiding-pile-ups-88f71f6b",
       "published": "2024-03-14T16:31:06Z"
@@ -184,21 +184,6 @@
       "title": "Книга «Чому ми спимо…»",
       "link": "https://zametkin.me/2024/03/06/chomu-my-spymo/",
       "published": "Wed, 06 Mar 2024 15:59:52 +0000"
-    },
-    {
-      "title": "Did you know you can write your own typesafe React router in 500 lines?",
-      "link": "https://sinja.io/blog/build-typesafe-react-router-from-scratch",
-      "published": "Wed, 06 Mar 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Be Kind, But Keep Your Integrity",
-      "link": "https://moretothat.com/be-kind-but-keep-your-integrity/",
-      "published": "Tue, 05 Mar 2024 23:44:49 +0000"
-    },
-    {
-      "title": "Apple is in its Ballmer era",
-      "link": "https://world.hey.com/dhh/apple-is-in-its-ballmer-era-339b0713",
-      "published": "2024-03-05T23:09:54Z"
     }
   ]
 }
