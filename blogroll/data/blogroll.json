@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "28.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-28/",
+      "published": "Thu, 28 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "Попередній покажчик напрямків",
       "link": "https://zaytsev.io/blog/scheme-road-sign/",
       "published": "Thu, 28 Mar 2024 00:00:00 +0000"
@@ -121,11 +126,6 @@
       "published": "Mon, 18 Mar 2024 10:00:00 +0000"
     },
     {
-      "title": "18.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-18/",
-      "published": "Mon, 18 Mar 2024 00:00:00 +0000"
-    },
-    {
       "title": "Alex Albrecht pres.Melquíades — Allambie",
       "link": "https://zametkin.me/2024/03/17/alex-albrecht-pres-melquiades-allambie/",
       "published": "Sun, 17 Mar 2024 19:30:00 +0000"
@@ -194,11 +194,6 @@
       "title": "Underworld — Second Toughest In the Infants",
       "link": "https://zametkin.me/2024/03/11/underworld-second-toughest-in-the-infants/",
       "published": "Mon, 11 Mar 2024 10:49:03 +0000"
-    },
-    {
-      "title": "Google's sad ideological capture was exactly what we were trying to avoid",
-      "link": "https://world.hey.com/dhh/google-s-sad-ideological-capture-was-exactly-what-we-were-trying-to-avoid-67fad361",
-      "published": "2024-03-08T23:23:31Z"
     }
   ]
 }
