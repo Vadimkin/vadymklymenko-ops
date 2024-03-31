@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Радіо. Історія українського радіомовлення",
+      "author": "Ніна Даценко",
+      "cover_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+      "review_url": "https://www.goodreads.com/review/show/6387308726",
+      "rating": null,
+      "date_started": "2024-03-30",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": false
+    },
+    {
       "title": "Невеличка драма",
       "author": "Valerian Pidmohylny",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692901365l/197800860.jpg",
