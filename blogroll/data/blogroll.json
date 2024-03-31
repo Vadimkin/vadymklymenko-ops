@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Меморіальні таблички Києва",
+      "link": "https://blog.alexkolodko.com/all/kyiv-memorial-plates/",
+      "published": "Sun, 31 Mar 2024 18:10:05 +0300"
+    },
+    {
+      "title": "Повідомлення про ремонт колій",
+      "link": "https://blog.alexkolodko.com/all/povidomlennya-pro-remont-koliy/",
+      "published": "Sun, 31 Mar 2024 18:09:31 +0300"
+    },
+    {
       "title": "30.03.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-03-30/",
       "published": "Sat, 30 Mar 2024 00:00:00 +0000"
@@ -184,16 +194,6 @@
       "title": "Sleeve — стильний додаток для macOS, який доповнює Music і Spotify",
       "link": "https://zametkin.me/2024/03/12/sleeve-stylnyj-dodatok-dlya-macos-yakyj-dopovnyuye-music-i-spotify/",
       "published": "Tue, 12 Mar 2024 10:08:42 +0000"
-    },
-    {
-      "title": "МУР — Ти [Романтика]",
-      "link": "https://blog.alexkolodko.com/all/mur-ti-romantika/",
-      "published": "Mon, 11 Mar 2024 16:48:31 +0300"
-    },
-    {
-      "title": "Underworld — Second Toughest In the Infants",
-      "link": "https://zametkin.me/2024/03/11/underworld-second-toughest-in-the-infants/",
-      "published": "Mon, 11 Mar 2024 10:49:03 +0000"
     }
   ]
 }
