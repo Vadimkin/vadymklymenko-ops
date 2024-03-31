@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "30.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-30/",
+      "published": "Sat, 30 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "29.03.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-03-29/",
       "published": "Fri, 29 Mar 2024 00:00:00 +0000"
@@ -104,11 +109,6 @@
       "title": "21.03.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-03-21/",
       "published": "Thu, 21 Mar 2024 00:00:00 +0000"
-    },
-    {
-      "title": "20.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-20/",
-      "published": "Wed, 20 Mar 2024 00:00:00 +0000"
     },
     {
       "title": "Корпоративні зайчики та продуктові дизайнери",
