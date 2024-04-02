@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "01.04.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-04-01/",
+      "published": "Mon, 01 Apr 2024 00:00:00 +0000"
+    },
+    {
       "title": "Bad Therapy",
       "link": "https://world.hey.com/dhh/bad-therapy-08849dc9",
       "published": "2024-03-31T19:05:58Z"
@@ -16,6 +21,26 @@
       "published": "Sun, 31 Mar 2024 18:09:31 +0300"
     },
     {
+      "title": "31.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-31/",
+      "published": "Sun, 31 Mar 2024 00:00:00 +0000"
+    },
+    {
+      "title": "30.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-30/",
+      "published": "Sat, 30 Mar 2024 00:00:00 +0000"
+    },
+    {
+      "title": "29.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-29/",
+      "published": "Fri, 29 Mar 2024 00:00:00 +0000"
+    },
+    {
+      "title": "28.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-28/",
+      "published": "Thu, 28 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "Попередній покажчик напрямків",
       "link": "https://zaytsev.io/blog/scheme-road-sign/",
       "published": "Thu, 28 Mar 2024 00:00:00 +0000"
@@ -29,6 +54,11 @@
       "title": "Patterns: красивий мінімалістичний трекер звичок",
       "link": "https://zametkin.me/2024/03/27/patterns-krasyvyj-minimalistychnyj-treker-zvychok/",
       "published": "Wed, 27 Mar 2024 14:02:22 +0000"
+    },
+    {
+      "title": "27.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-27/",
+      "published": "Wed, 27 Mar 2024 00:00:00 +0000"
     },
     {
       "title": "The Riddle of Happiness",
@@ -51,6 +81,11 @@
       "published": "Tue, 26 Mar 2024 10:42:43 +0300"
     },
     {
+      "title": "26.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-26/",
+      "published": "Tue, 26 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "Designers, charge more $$$ to help yourself and your clients.",
       "link": "https://oykun.com/designers-charge-more-to-help-yourself-and-your-clients-2/",
       "published": "Mon, 25 Mar 2024 14:32:40 GMT"
@@ -61,14 +96,29 @@
       "published": "Mon, 25 Mar 2024 00:00:00 GMT"
     },
     {
+      "title": "25.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-25/",
+      "published": "Mon, 25 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "The Grug Brained Writer",
       "link": "https://www.autodidacts.io/grug/",
       "published": "Sun, 24 Mar 2024 19:50:59 GMT"
     },
     {
+      "title": "24.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-24/",
+      "published": "Sun, 24 Mar 2024 00:00:00 +0000"
+    },
+    {
       "title": "Шрифт Proba Nav2",
       "link": "https://blog.alexkolodko.com/all/proba-nav2/",
       "published": "Sat, 23 Mar 2024 19:01:44 +0300"
+    },
+    {
+      "title": "23.03.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-03-23/",
+      "published": "Sat, 23 Mar 2024 00:00:00 +0000"
     },
     {
       "title": "Knowledge & The Coastline Paradox",
@@ -134,16 +184,6 @@
       "title": "Мамо, дихай!",
       "link": "https://reporters.media/mamo-dyhaj/",
       "published": "Wed, 13 Mar 2024 14:11:28 +0000"
-    },
-    {
-      "title": "Be less precious",
-      "link": "https://world.hey.com/dhh/be-less-precious-b20bf8c3",
-      "published": "2024-03-12T23:39:27Z"
-    },
-    {
-      "title": "Машина простору і часу від КПІ",
-      "link": "https://blog.alexkolodko.com/all/kpi-map-timemachine/",
-      "published": "Tue, 12 Mar 2024 19:12:19 +0300"
     }
   ]
 }
