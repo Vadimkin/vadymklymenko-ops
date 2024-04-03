@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "02.04.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-04-02/",
+      "published": "Tue, 02 Apr 2024 00:00:00 +0000"
+    },
+    {
       "title": "01.04.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-04-01/",
       "published": "Mon, 01 Apr 2024 00:00:00 +0000"
@@ -116,11 +121,6 @@
       "published": "Sat, 23 Mar 2024 19:01:44 +0300"
     },
     {
-      "title": "23.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-23/",
-      "published": "Sat, 23 Mar 2024 00:00:00 +0000"
-    },
-    {
       "title": "Knowledge & The Coastline Paradox",
       "link": "https://www.autodidacts.io/mercator/",
       "published": "Fri, 22 Mar 2024 06:10:10 GMT"
@@ -174,11 +174,6 @@
       "title": "Як зробити PDF з кількох зображень на macOS",
       "link": "https://zametkin.me/2024/03/14/yak-zrobyty-pdf-z-kilkoh-zobrazhen-na-macos/",
       "published": "Thu, 14 Mar 2024 14:39:32 +0000"
-    },
-    {
-      "title": "Developers are on edge",
-      "link": "https://world.hey.com/dhh/developers-are-on-edge-4dfcf9c1",
-      "published": "2024-03-13T20:37:56Z"
     }
   ]
 }
