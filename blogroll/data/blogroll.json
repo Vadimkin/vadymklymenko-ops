@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Le Mans 2024",
+      "link": "https://world.hey.com/dhh/le-mans-2024-1f87d732",
+      "published": "2024-04-03T10:29:14Z"
+    },
+    {
+      "title": "The Crystal Method — Vegas",
+      "link": "https://zametkin.me/2024/04/03/the-crystal-method-vegas/",
+      "published": "Wed, 03 Apr 2024 09:29:25 +0000"
+    },
+    {
       "title": "02.04.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-04-02/",
       "published": "Tue, 02 Apr 2024 00:00:00 +0000"
@@ -169,11 +179,6 @@
       "title": "Avoiding pile-ups",
       "link": "https://world.hey.com/jason/avoiding-pile-ups-88f71f6b",
       "published": "2024-03-14T16:31:06Z"
-    },
-    {
-      "title": "Як зробити PDF з кількох зображень на macOS",
-      "link": "https://zametkin.me/2024/03/14/yak-zrobyty-pdf-z-kilkoh-zobrazhen-na-macos/",
-      "published": "Thu, 14 Mar 2024 14:39:32 +0000"
     }
   ]
 }
