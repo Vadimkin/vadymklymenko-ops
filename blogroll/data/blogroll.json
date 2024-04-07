@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "06.04.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-04-06/",
+      "published": "Sat, 06 Apr 2024 00:00:00 +0000"
+    },
+    {
       "title": "05.04.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-04-05/",
       "published": "Fri, 05 Apr 2024 00:00:00 +0000"
@@ -91,11 +96,6 @@
       "published": "Wed, 27 Mar 2024 14:02:22 +0000"
     },
     {
-      "title": "27.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-27/",
-      "published": "Wed, 27 Mar 2024 00:00:00 +0000"
-    },
-    {
       "title": "The Riddle of Happiness",
       "link": "https://moretothat.com/the-riddle-of-happiness/",
       "published": "Tue, 26 Mar 2024 22:30:58 +0000"
@@ -154,16 +154,6 @@
       "title": "Вмістожер: найкращий український подкаст про ігровий світ",
       "link": "https://zametkin.me/2024/03/18/vmistozher-najkrashhyj-ukrayinskyj-podkast-pro-igrovyj-svit/",
       "published": "Mon, 18 Mar 2024 10:00:00 +0000"
-    },
-    {
-      "title": "Alex Albrecht pres.Melquíades — Allambie",
-      "link": "https://zametkin.me/2024/03/17/alex-albrecht-pres-melquiades-allambie/",
-      "published": "Sun, 17 Mar 2024 19:30:00 +0000"
-    },
-    {
-      "title": "Портативний електронасос: класний подарунок для автомобіліста",
-      "link": "https://zametkin.me/2024/03/17/portatyvnyj-elektronasos-klasnyj-podarunok-dlya-avtomobilista/",
-      "published": "Sun, 17 Mar 2024 16:30:00 +0000"
     }
   ]
 }
