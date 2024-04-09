@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "08.04.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-04-08/",
+      "published": "Mon, 08 Apr 2024 00:00:00 +0000"
+    },
+    {
       "title": "07.04.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-04-07/",
       "published": "Sun, 07 Apr 2024 00:00:00 +0000"
@@ -76,11 +81,6 @@
       "published": "Sat, 30 Mar 2024 00:00:00 +0000"
     },
     {
-      "title": "29.03.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-03-29/",
-      "published": "Fri, 29 Mar 2024 00:00:00 +0000"
-    },
-    {
       "title": "Попередній покажчик напрямків",
       "link": "https://zaytsev.io/blog/scheme-road-sign/",
       "published": "Thu, 28 Mar 2024 00:00:00 +0000"
@@ -139,11 +139,6 @@
       "title": "Knowledge & The Coastline Paradox",
       "link": "https://www.autodidacts.io/mercator/",
       "published": "Fri, 22 Mar 2024 06:10:10 GMT"
-    },
-    {
-      "title": "Корпоративні зайчики та продуктові дизайнери",
-      "link": "https://www.govorukhin.com/blog/bunnies-and-real-ones",
-      "published": "Tue, 19 Mar 2024 16:20:53 GMT"
     }
   ]
 }
