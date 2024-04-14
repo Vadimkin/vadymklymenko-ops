@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Chip War: The Fight for the World's Most Critical Technology",
+      "author": "Chris Miller",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662566820l/60321447.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5147492390",
+      "rating": null,
+      "date_started": "2024-04-07",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": false
+    },
+    {
       "title": "Невеличка драма",
       "author": "Valerian Pidmohylny",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692901365l/197800860.jpg",

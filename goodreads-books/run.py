@@ -24,6 +24,15 @@ read_books_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" /
 top_rated_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "top_rated.json"
 bookcrossing_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "bookcrossing.json"
 
+headers = {
+    'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/",
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'Accept-Language': 'en,uk;q=0.9,en-US;q=0.8',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive',
+    'Pragma': 'no-cache',
+}
+
 
 @dataclass
 class BookReview:
@@ -124,7 +133,7 @@ def parse_books(url: str, skip_unread: bool = True) -> list[BookReview]:
     :return: List of books
     """
     logger.info("Processing url %s...", url)
-    request = requests.get(url)
+    request = requests.get(url, headers=headers)
 
     books = []
 
@@ -135,7 +144,7 @@ def parse_books(url: str, skip_unread: bool = True) -> list[BookReview]:
     total_books_int = int(re.search(r"\d+", total_books).group())
     total_pages = total_books_int // 30 + 1  # 30 books per page
 
-    reqs = (grequests.get(f"{url}&page={i}") for i in range(2, total_pages + 1))  # First page is already parsed
+    reqs = (grequests.get(f"{url}&page={i}", headers=headers) for i in range(2, total_pages + 1))  # First page is already parsed
     for resp in grequests.map(reqs):
         books_page_content = BeautifulSoup(resp.content, 'html.parser')
         books.extend(process_bookshelf_page(books_page_content, skip_unread))
