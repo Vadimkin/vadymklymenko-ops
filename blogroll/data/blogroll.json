@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Surface area vs. Depth in product design",
+      "link": "https://world.hey.com/jason/surface-area-vs-depth-in-product-design-eabd0cb4",
+      "published": "2024-04-13T20:56:42Z"
+    },
+    {
       "title": "Imperfections create connections",
       "link": "https://world.hey.com/dhh/imperfections-create-connections-bc87d630",
       "published": "2024-04-12T07:14:22Z"
@@ -134,16 +139,6 @@
       "title": "Designers, charge more $$$ to help yourself and your clients.",
       "link": "https://oykun.com/designers-charge-more-to-help-yourself-and-your-clients-2/",
       "published": "Mon, 25 Mar 2024 14:32:40 GMT"
-    },
-    {
-      "title": "Building a «hold to confirm» button with Framer Motion",
-      "link": "https://sinja.io/blog/hold-to-confirm-button-react-framer-motion",
-      "published": "Mon, 25 Mar 2024 00:00:00 GMT"
-    },
-    {
-      "title": "The Grug Brained Writer",
-      "link": "https://www.autodidacts.io/grug/",
-      "published": "Sun, 24 Mar 2024 19:50:59 GMT"
     }
   ]
 }
