@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "22.04.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-04-22/",
+      "published": "Mon, 22 Apr 2024 00:00:00 +0000"
+    },
+    {
       "title": "Pilgrims: кумедна пригода від Amanita Design",
       "link": "https://zametkin.me/2024/04/21/pilgrims-kumedna-prygoda-vid-amanita-design/",
       "published": "Sun, 21 Apr 2024 06:45:54 +0000"
@@ -19,6 +24,11 @@
       "title": "Півроку з iPhone після 15 років на Android",
       "link": "https://mrgall.com/blog/2024/04/19/iphone-to-android-six-months/",
       "published": "Fri, 19 Apr 2024 17:00:09 +0000"
+    },
+    {
+      "title": "We are a place of business",
+      "link": "https://world.hey.com/dhh/we-are-a-place-of-business-a451eddf",
+      "published": "2024-04-19T12:30:50Z"
     },
     {
       "title": "19.04.2024",
@@ -56,6 +66,11 @@
       "published": "Tue, 16 Apr 2024 00:00:00 +0000"
     },
     {
+      "title": "Forcing master to main was a good faith exploit",
+      "link": "https://world.hey.com/dhh/forcing-master-to-main-was-a-good-faith-exploit-b21ee30c",
+      "published": "2024-04-15T13:46:50Z"
+    },
+    {
       "title": "Я майже вдома, відчиняй",
       "link": "https://reporters.media/ya-vzhe-majzhe-vdoma-vidchynyaj/",
       "published": "Mon, 15 Apr 2024 02:49:37 +0000"
@@ -71,14 +86,39 @@
       "published": "Sun, 14 Apr 2024 00:00:00 +0000"
     },
     {
+      "title": "Surface area vs. Depth in product design",
+      "link": "https://world.hey.com/jason/surface-area-vs-depth-in-product-design-eabd0cb4",
+      "published": "2024-04-13T20:56:42Z"
+    },
+    {
       "title": "13.04.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-04-13/",
       "published": "Sat, 13 Apr 2024 00:00:00 +0000"
     },
     {
-      "title": "12.04.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-04-12/",
-      "published": "Fri, 12 Apr 2024 00:00:00 +0000"
+      "title": "Imperfections create connections",
+      "link": "https://world.hey.com/dhh/imperfections-create-connections-bc87d630",
+      "published": "2024-04-12T07:14:22Z"
+    },
+    {
+      "title": "Enough problems to go around",
+      "link": "https://world.hey.com/dhh/enough-problems-to-go-around-c10b887d",
+      "published": "2024-04-11T09:04:00Z"
+    },
+    {
+      "title": "You're not guaranteed a spot on the team",
+      "link": "https://world.hey.com/dhh/you-re-not-guaranteed-a-spot-on-the-team-95080248",
+      "published": "2024-04-10T08:41:25Z"
+    },
+    {
+      "title": "Motivation",
+      "link": "https://world.hey.com/jason/motivation-50ab8280",
+      "published": "2024-04-04T16:08:20Z"
+    },
+    {
+      "title": "Le Mans 2024",
+      "link": "https://world.hey.com/dhh/le-mans-2024-1f87d732",
+      "published": "2024-04-03T10:29:14Z"
     },
     {
       "title": "The Crystal Method — Vegas",
