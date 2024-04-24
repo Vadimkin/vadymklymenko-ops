@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to Deploy a Ghost Theme using the Admin API + Bash + cURL",
+      "link": "https://www.autodidacts.io/ghost-theme-upload-admin-api-bash-curl/",
+      "published": "Wed, 24 Apr 2024 00:56:16 GMT"
+    },
+    {
       "title": "As we forgive those who trespass against us",
       "link": "https://world.hey.com/dhh/as-we-forgive-those-who-trespass-against-us-c5979c81",
       "published": "2024-04-23T16:55:51Z"
