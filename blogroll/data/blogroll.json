@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "The gift of ambition",
+      "link": "https://world.hey.com/dhh/the-gift-of-ambition-e7b41ffc",
+      "published": "2024-04-25T22:15:23Z"
+    },
+    {
+      "title": "Villains may live long enough to become heroes",
+      "link": "https://world.hey.com/dhh/villains-may-live-long-enough-to-become-heroes-6405ae8c",
+      "published": "2024-04-25T17:20:52Z"
+    },
+    {
       "title": "How to Deploy a Ghost Theme using the Admin API + Bash + cURL",
       "link": "https://www.autodidacts.io/ghost-theme-upload-admin-api-bash-curl/",
       "published": "Wed, 24 Apr 2024 00:56:16 GMT"
