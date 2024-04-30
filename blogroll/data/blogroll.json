@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Моментальна користь від бюджету",
+      "link": "https://zaytsev.io/blog/budgeting-insight/",
+      "published": "Tue, 30 Apr 2024 00:00:00 +0000"
+    },
+    {
       "title": "We're moving continuous integration back to developer machines",
       "link": "https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611",
       "published": "2024-04-29T18:40:53Z"
