@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "06.05.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-05-06/",
+      "published": "Mon, 06 May 2024 00:00:00 +0000"
+    },
+    {
       "title": "05.05.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-05-05/",
       "published": "Sun, 05 May 2024 00:00:00 +0000"
@@ -99,11 +104,6 @@
       "title": "Уявити, що дані є",
       "link": "https://www.govorukhin.com/blog/imagine-the-data",
       "published": "Fri, 26 Apr 2024 10:02:01 GMT"
-    },
-    {
-      "title": "26.04.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-04-26/",
-      "published": "Fri, 26 Apr 2024 00:00:00 +0000"
     },
     {
       "title": "The gift of ambition",
