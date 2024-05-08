@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The last RailsConf",
+      "link": "https://world.hey.com/dhh/the-last-railsconf-c6188593",
+      "published": "2024-05-07T17:41:08Z"
+    },
+    {
       "title": "06.05.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-05-06/",
       "published": "Mon, 06 May 2024 00:00:00 +0000"
@@ -144,11 +149,6 @@
       "title": "The Riddle of Ambition",
       "link": "https://moretothat.com/the-riddle-of-ambition/",
       "published": "Thu, 18 Apr 2024 06:04:27 +0000"
-    },
-    {
-      "title": "Fotmob: найкраща футбольна апка",
-      "link": "https://zametkin.me/2024/04/17/fotmob-najkrashha-futbolna-apka/",
-      "published": "Wed, 17 Apr 2024 19:42:00 +0000"
     }
   ]
 }
