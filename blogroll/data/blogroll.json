@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Виробництво працює у дві зміни",
+      "link": "https://reporters.media/vyrobnytstvo-pratsyuye-u-dvi-zminy/",
+      "published": "Wed, 08 May 2024 09:48:05 +0000"
+    },
+    {
+      "title": "Одне просте запитання",
+      "link": "https://zaytsev.io/blog/one-simple-question/",
+      "published": "Wed, 08 May 2024 00:00:00 +0000"
+    },
+    {
       "title": "The last RailsConf",
       "link": "https://world.hey.com/dhh/the-last-railsconf-c6188593",
       "published": "2024-05-07T17:41:08Z"
