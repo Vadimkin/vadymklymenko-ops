@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Новий шрифт для інтерфейсів — Road UI",
+      "link": "https://blog.alexkolodko.com/all/road-ui-font/",
+      "published": "Thu, 16 May 2024 16:45:35 +0300"
+    },
+    {
       "title": "Забуваєш, що десь є інакше",
       "link": "https://reporters.media/zabuvayesh-shho-des-ye-inakshe-2/",
       "published": "Wed, 15 May 2024 02:46:11 +0000"
@@ -159,11 +164,6 @@
       "title": "Osmo Wiio: Communication usually fails, except by accident",
       "link": "https://world.hey.com/jason/osmo-wiio-communication-usually-fails-except-by-accident-73a8ff2b",
       "published": "2024-04-26T17:06:54Z"
-    },
-    {
-      "title": "Уявити, що дані є",
-      "link": "https://www.govorukhin.com/blog/imagine-the-data",
-      "published": "Fri, 26 Apr 2024 10:02:01 GMT"
     }
   ]
 }
