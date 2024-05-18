@@ -1,9 +1,19 @@
 {
   "feed": [
     {
+      "title": "System tests have failed",
+      "link": "https://world.hey.com/dhh/system-tests-have-failed-d90af718",
+      "published": "2024-05-17T19:29:36Z"
+    },
+    {
       "title": "Paranoia and desperation in the AI gold rush",
       "link": "https://world.hey.com/dhh/paranoia-and-desperation-in-the-ai-gold-rush-33042dbc",
       "published": "2024-05-17T15:25:28Z"
+    },
+    {
+      "title": "17.05.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-05-17/",
+      "published": "Fri, 17 May 2024 00:00:00 +0000"
     },
     {
       "title": "Open source is neither a community nor a democracy",
@@ -129,11 +139,6 @@
       "title": "The last RailsConf",
       "link": "https://world.hey.com/dhh/the-last-railsconf-c6188593",
       "published": "2024-05-07T17:41:08Z"
-    },
-    {
-      "title": "07.05.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-05-07/",
-      "published": "Tue, 07 May 2024 00:00:00 +0000"
     },
     {
       "title": "Why am I still doing this?",
