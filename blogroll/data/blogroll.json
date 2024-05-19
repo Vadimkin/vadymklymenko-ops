@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "18.05.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-05-18/",
+      "published": "Sat, 18 May 2024 00:00:00 +0000"
+    },
+    {
       "title": "System tests have failed",
       "link": "https://world.hey.com/dhh/system-tests-have-failed-d90af718",
       "published": "2024-05-17T19:29:36Z"
@@ -124,11 +129,6 @@
       "title": "Виробництво працює у дві зміни",
       "link": "https://reporters.media/vyrobnytstvo-pratsyuye-u-dvi-zminy/",
       "published": "Wed, 08 May 2024 09:48:05 +0000"
-    },
-    {
-      "title": "08.05.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-05-08/",
-      "published": "Wed, 08 May 2024 00:00:00 +0000"
     },
     {
       "title": "Одне просте запитання",
