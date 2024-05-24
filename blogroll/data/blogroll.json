@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "23.05.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-05-23/",
+      "published": "Thu, 23 May 2024 00:00:00 +0000"
+    },
+    {
       "title": "22.05.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-05-22/",
       "published": "Wed, 22 May 2024 00:00:00 +0000"
@@ -96,11 +101,6 @@
       "published": "Mon, 13 May 2024 10:52:25 +0000"
     },
     {
-      "title": "13.05.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-05-13/",
-      "published": "Mon, 13 May 2024 00:00:00 +0000"
-    },
-    {
       "title": "«Димить ліс. У селі догорає хата. У місті — дім»",
       "link": "https://reporters.media/dymyt-lis-u-seli-dogoraye-hata-u-misti-dim/",
       "published": "Sun, 12 May 2024 09:29:38 +0000"
@@ -149,11 +149,6 @@
       "title": "The last RailsConf",
       "link": "https://world.hey.com/dhh/the-last-railsconf-c6188593",
       "published": "2024-05-07T17:41:08Z"
-    },
-    {
-      "title": "Why am I still doing this?",
-      "link": "https://world.hey.com/jason/why-am-i-still-doing-this-b931cdf8",
-      "published": "2024-05-03T20:04:00Z"
     }
   ]
 }
