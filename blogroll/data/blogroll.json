@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "25.05.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-05-25/",
+      "published": "Sat, 25 May 2024 00:00:00 +0000"
+    },
+    {
       "title": "Linux as the new developer default at 37signals",
       "link": "https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7",
       "published": "2024-05-24T16:58:09Z"
@@ -84,11 +89,6 @@
       "title": "Забуваєш, що десь є інакше",
       "link": "https://reporters.media/zabuvayesh-shho-des-ye-inakshe-2/",
       "published": "Wed, 15 May 2024 02:46:11 +0000"
-    },
-    {
-      "title": "15.05.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-05-15/",
-      "published": "Wed, 15 May 2024 00:00:00 +0000"
     },
     {
       "title": "Meta is shutting down Workplace",
