@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "26.05.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-05-26/",
+      "published": "Sun, 26 May 2024 00:00:00 +0000"
+    },
+    {
       "title": "25.05.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-05-25/",
       "published": "Sat, 25 May 2024 00:00:00 +0000"
@@ -79,11 +84,6 @@
       "title": "Новий шрифт для інтерфейсів — Road UI",
       "link": "https://blog.alexkolodko.com/all/road-ui-font/",
       "published": "Thu, 16 May 2024 16:45:35 +0300"
-    },
-    {
-      "title": "16.05.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-05-16/",
-      "published": "Thu, 16 May 2024 00:00:00 +0000"
     },
     {
       "title": "Забуваєш, що десь є інакше",
