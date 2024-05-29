@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Наодинці з собою",
+      "author": "Marcus Aurelius",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443880651l/26857913.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6543909524",
+      "rating": null,
+      "date_started": "2024-05-29",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Chip War: The Fight for the World's Most Critical Technology",
       "author": "Chris Miller",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662566820l/60321447.jpg",
@@ -18,17 +29,6 @@
       "review_url": "https://www.goodreads.com/review/show/6307310417",
       "rating": null,
       "date_started": "2024-03-19",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
-      "title": "Colorless Tsukuru Tazaki And His Years Of Pilgrimage",
-      "author": "Haruki Murakami",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428965666l/23346487.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6178974567",
-      "rating": null,
-      "date_started": "2024-01-17",
       "date_read": null,
       "is_reading_now": true,
       "own": true
@@ -53,6 +53,17 @@
       "date_started": "2023-11-17",
       "date_read": null,
       "is_reading_now": true,
+      "own": true
+    },
+    {
+      "title": "Colorless Tsukuru Tazaki And His Years Of Pilgrimage",
+      "author": "Haruki Murakami",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428965666l/23346487.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6178974567",
+      "rating": 4,
+      "date_started": "2024-01-17",
+      "date_read": "2024-05-29",
+      "is_reading_now": false,
       "own": true
     },
     {
@@ -1055,17 +1066,6 @@
       "date_read": "2014-12-19",
       "is_reading_now": false,
       "own": true
-    },
-    {
-      "title": "Майдан. (Р)Еволюція духу",
-      "author": "Антін Мухарський",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406364221l/22819186.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269814057",
-      "rating": null,
-      "date_started": "2014-09-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
     },
     {
       "title": "Сделай себя сам. Советы для тех, кто хочет оставить свой след",
