@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Lighten your grip",
+      "link": "https://world.hey.com/jason/lighten-your-grip-724c37a3",
+      "published": "2024-05-28T23:05:19Z"
+    },
+    {
       "title": "28.05.2024",
       "link": "https://leonid.shevtsov.me/stendap/2024-05-28/",
       "published": "Tue, 28 May 2024 00:00:00 +0000"
@@ -139,11 +144,6 @@
       "title": "Hating Apple goes mainstream",
       "link": "https://world.hey.com/dhh/hating-apple-goes-mainstream-fe740007",
       "published": "2024-05-09T00:34:49Z"
-    },
-    {
-      "title": "Animating Radix Primitives with Framer Motion",
-      "link": "https://sinja.io/blog/animating-radix-primitives-with-framer-motion",
-      "published": "Thu, 09 May 2024 00:00:00 GMT"
     }
   ]
 }
