@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "SMARTЧАРИ",
+      "author": "Анна Ковальова",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711186602l/210273158.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6546657785",
+      "rating": null,
+      "date_started": "2024-05-30",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Наодинці з собою",
       "author": "Marcus Aurelius",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443880651l/26857913.jpg",
