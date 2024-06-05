@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "05.06.2024",
+      "link": "https://leonid.shevtsov.me/stendap/2024-06-05/",
+      "published": "Wed, 05 Jun 2024 00:00:00 +0000"
+    },
+    {
       "title": "Фотограф останньої миті",
       "link": "https://reporters.media/fotograf-ostannoyi-myti/",
       "published": "Tue, 04 Jun 2024 15:25:29 +0000"
@@ -76,11 +81,6 @@
       "published": "Mon, 27 May 2024 00:00:00 +0000"
     },
     {
-      "title": "26.05.2024",
-      "link": "https://leonid.shevtsov.me/stendap/2024-05-26/",
-      "published": "Sun, 26 May 2024 00:00:00 +0000"
-    },
-    {
       "title": "Linux as the new developer default at 37signals",
       "link": "https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7",
       "published": "2024-05-24T16:58:09Z"
@@ -109,11 +109,6 @@
       "title": "Open source is neither a community nor a democracy",
       "link": "https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab",
       "published": "2024-05-16T19:41:37Z"
-    },
-    {
-      "title": "Новий шрифт для інтерфейсів — Road UI",
-      "link": "https://blog.alexkolodko.com/all/road-ui-font/",
-      "published": "Thu, 16 May 2024 16:45:35 +0300"
     }
   ]
 }
