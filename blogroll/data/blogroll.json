@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Introducing Omakub",
+      "link": "https://world.hey.com/dhh/introducing-omakub-354db366",
+      "published": "2024-06-06T14:29:39Z"
+    },
+    {
+      "title": "Стихає бій — і чуєш, як співають пташки",
+      "link": "https://reporters.media/styhaye-bij-i-chuyesh-yak-spivayut-ptashky/",
+      "published": "Thu, 06 Jun 2024 07:17:00 +0000"
+    },
+    {
       "title": "Корпоративні зайчики та продуктові дизайнери",
       "link": "https://www.govorukhin.com/blog/bunnies-and-real-ones",
       "published": "Wed, 05 Jun 2024 17:23:08 GMT"
@@ -104,11 +114,6 @@
       "title": "System tests have failed",
       "link": "https://world.hey.com/dhh/system-tests-have-failed-d90af718",
       "published": "2024-05-17T19:29:36Z"
-    },
-    {
-      "title": "Paranoia and desperation in the AI gold rush",
-      "link": "https://world.hey.com/dhh/paranoia-and-desperation-in-the-ai-gold-rush-33042dbc",
-      "published": "2024-05-17T15:25:28Z"
     }
   ]
 }
