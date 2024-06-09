@@ -59,15 +59,15 @@ def main():
         if not hasattr(entry, "title"):
             return False
 
-        return struct_time_to_datetime(entry.published_parsed) < thirty_days_ago
+        return struct_time_to_datetime(entry.published_parsed) > thirty_days_ago
 
     for feed_url in feeds:
         print("Processing feed:", feed_url)
         feed = feedparser.parse(feed_url)
         feed_entries = list(filter(is_valid_entry, feed.entries))[:10]
         if not feed_entries:
-            # If there are no entries in the last 30 days, take the last 5 entries
-            feed_entries = feed.entries[:5]
+            # If there are no entries in the last 30 days, take the last 3 entries
+            feed_entries = feed.entries[:3]
         entries.extend(feed_entries)
 
     # Order by date
