@@ -19,19 +19,19 @@ def clean_entry(entry):
 
 
 def main():
-    twenty_days_ago = datetime.datetime.now() - datetime.timedelta(days=20)
+    thirty_days_ago = datetime.datetime.now() - datetime.timedelta(days=30)
 
     feeds = [
         "https://sinja.io/rss",
         "https://mrgall.com/feed/",
         "https://www.govorukhin.com/blog/rss.xml",
         "https://poohitan.com/rss",
-        # "https://rsshub.app/paulgraham/articles",
         "https://zemlan.in/rss.xml",
+        # "https://swizec.com/rss.xml",
         "https://ciechanow.ski/atom.xml",
-        "https://leonid.shevtsov.me/stendap/index.xml",
         "https://toytakeorg.substack.com/feed/",
         "https://7uapoems.substack.com/feed/",
+        "https://blnk.substack.com/feed/",
         "https://zametkin.me/feed/",
         "https://blog.alexkolodko.com/rss/",
         "https://world.hey.com/dhh/feed.atom",
@@ -48,13 +48,14 @@ def main():
         "https://www.julian.digital/feed",
         "https://chrisnicholas.dev/rss.xml",
         "https://oykun.com/rss/",
+        "https://vanschneider.com/blog/rss/"
     ]
 
     entries = []
     for feed_url in feeds:
         print("Processing feed:", feed_url)
         feed = feedparser.parse(feed_url)
-        feed_entries = filter(lambda entry: struct_time_to_datetime(entry.published_parsed) > twenty_days_ago, feed.entries)
+        feed_entries = filter(lambda entry: struct_time_to_datetime(entry.published_parsed) > thirty_days_ago, feed.entries)
         entries.extend(list(feed_entries)[:10])
 
     # Order by date
