@@ -139,6 +139,196 @@
       "title": "Separation",
       "link": "https://world.hey.com/jason/separation-162a4b53",
       "published": "2024-05-10T18:07:03Z"
+    },
+    {
+      "title": "Animating Radix Primitives with Framer Motion",
+      "link": "https://sinja.io/blog/animating-radix-primitives-with-framer-motion",
+      "published": "Thu, 09 May 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Одне просте запитання",
+      "link": "https://zaytsev.io/blog/one-simple-question/",
+      "published": "Wed, 08 May 2024 00:00:00 +0000"
+    },
+    {
+      "title": "The Fallacy of Passion",
+      "link": "https://moretothat.com/the-fallacy-of-passion/",
+      "published": "Tue, 30 Apr 2024 21:36:12 +0000"
+    },
+    {
+      "title": "Моментальна користь від бюджету",
+      "link": "https://zaytsev.io/blog/budgeting-insight/",
+      "published": "Tue, 30 Apr 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Pilgrims: кумедна пригода від Amanita Design",
+      "link": "https://zametkin.me/2024/04/21/pilgrims-kumedna-prygoda-vid-amanita-design/",
+      "published": "Sun, 21 Apr 2024 06:45:54 +0000"
+    },
+    {
+      "title": "The Riddle of Ambition",
+      "link": "https://moretothat.com/the-riddle-of-ambition/",
+      "published": "Thu, 18 Apr 2024 06:04:27 +0000"
+    },
+    {
+      "title": "Fotmob: найкраща футбольна апка",
+      "link": "https://zametkin.me/2024/04/17/fotmob-najkrashha-futbolna-apka/",
+      "published": "Wed, 17 Apr 2024 19:42:00 +0000"
+    },
+    {
+      "title": "The Crystal Method — Vegas",
+      "link": "https://zametkin.me/2024/04/03/the-crystal-method-vegas/",
+      "published": "Wed, 03 Apr 2024 09:29:25 +0000"
+    },
+    {
+      "title": "Попередній покажчик напрямків",
+      "link": "https://zaytsev.io/blog/scheme-road-sign/",
+      "published": "Thu, 28 Mar 2024 00:00:00 +0000"
+    },
+    {
+      "title": "The Riddle of Happiness",
+      "link": "https://moretothat.com/the-riddle-of-happiness/",
+      "published": "Tue, 26 Mar 2024 22:30:58 +0000"
+    },
+    {
+      "title": "Building a «hold to confirm» button with Framer Motion",
+      "link": "https://sinja.io/blog/hold-to-confirm-button-react-framer-motion",
+      "published": "Mon, 25 Mar 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Did you know you can write your own typesafe React router in 500 lines?",
+      "link": "https://sinja.io/blog/build-typesafe-react-router-from-scratch",
+      "published": "Wed, 06 Mar 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Airfoil",
+      "link": "https://ciechanow.ski/airfoil/",
+      "published": "Tue, 27 Feb 2024 04:00:00 -0800"
+    },
+    {
+      "title": "All My Thoughts After 40 Hours in the Vision Pro",
+      "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
+      "published": "Fri, 09 Feb 2024 18:24:38 +0000"
+    },
+    {
+      "title": "The Next #3 — Forging",
+      "link": "https://www.the-next.me/the-next-3-digging/",
+      "published": "Tue, 30 Jan 2024 05:00:41 GMT"
+    },
+    {
+      "title": "The Next #2 — Power",
+      "link": "https://www.the-next.me/the-next-2-power/",
+      "published": "Mon, 22 Jan 2024 05:00:25 GMT"
+    },
+    {
+      "title": "The Next #1 — Unfolding",
+      "link": "https://www.the-next.me/1-the-year-starts-strong/",
+      "published": "Thu, 18 Jan 2024 05:00:43 GMT"
+    },
+    {
+      "title": "A new blog for 2024",
+      "link": "https://chrisnicholas.dev/blog/a-new-blog-for-2024",
+      "published": "Tue, 02 Jan 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Stocketa",
+      "link": "https://paulstamatiou.com/stocketa/",
+      "published": "2023-10-16T16:00:00Z"
+    },
+    {
+      "title": "Seaport Village",
+      "link": "https://mrgall.com/gallery/2023_08_19/",
+      "published": "Sat, 19 Aug 2023 12:00:00 +0000"
+    },
+    {
+      "title": "Del Mar",
+      "link": "https://mrgall.com/gallery/2023_08_10/",
+      "published": "Thu, 10 Aug 2023 12:00:00 +0000"
+    },
+    {
+      "title": "Oceanside",
+      "link": "https://mrgall.com/gallery/2023_07_29/",
+      "published": "Sat, 29 Jul 2023 12:00:00 +0000"
+    },
+    {
+      "title": "Multi-layered calendars",
+      "link": "https://julian.digital/2023/07/06/multi-layered-calendars/",
+      "published": "Thu, 06 Jul 2023 14:10:12 +0000"
+    },
+    {
+      "title": "10 Thoughts From the Fourth Trimester",
+      "link": "https://waitbutwhy.com/2023/05/baby.html",
+      "published": "Tue, 23 May 2023 19:32:00 +0000"
+    },
+    {
+      "title": "Server-side Rendering: CDN and Caching",
+      "link": "https://zemlan.in/ssr-cdn.html",
+      "published": "Wed, 17 May 2023 17:40:00 GMT"
+    },
+    {
+      "title": "[Short form] Digital clutter",
+      "link": "https://paulstamatiou.com/digital-clutter/",
+      "published": "2023-04-15T16:00:00Z"
+    },
+    {
+      "title": "Bicycle",
+      "link": "https://ciechanow.ski/bicycle/",
+      "published": "Tue, 28 Mar 2023 04:00:00 -0800"
+    },
+    {
+      "title": "Hosting your own Mastodon server",
+      "link": "https://paulstamatiou.com/hosting-your-own-mastodon-server/",
+      "published": "2023-03-07T16:00:00Z"
+    },
+    {
+      "title": "A Short History of My Last Six Years",
+      "link": "https://waitbutwhy.com/2023/02/last-six-years.html",
+      "published": "Fri, 17 Feb 2023 16:46:41 +0000"
+    },
+    {
+      "title": "Server-side Rendering: The Server",
+      "link": "https://zemlan.in/ssr-the-server.html",
+      "published": "Sat, 03 Dec 2022 12:40:00 GMT"
+    },
+    {
+      "title": "Server-side Rendering: Backstory",
+      "link": "https://zemlan.in/ssr-backstory.html",
+      "published": "Wed, 02 Nov 2022 11:03:00 GMT"
+    },
+    {
+      "title": "How to animate multiplayer cursors",
+      "link": "https://liveblocks.io/blog/how-to-animate-multiplayer-cursors",
+      "published": "Tue, 05 Jul 2022 00:00:00 GMT"
+    },
+    {
+      "title": "Смішинки перших тижнів повномасштабної війни",
+      "link": "https://poohitan.com/p/not-so-funny-stories",
+      "published": "Thu, 02 Jun 2022 19:09:00 GMT"
+    },
+    {
+      "title": "The power of defaults",
+      "link": "https://julian.digital/2021/12/20/the-power-of-defaults/",
+      "published": "Mon, 20 Dec 2021 16:39:05 +0000"
+    },
+    {
+      "title": "How to use Sandpack for code demos",
+      "link": "https://www.ctnicholas.dev/articles/how-to-use-sandpack-for-code-demos",
+      "published": "Fri, 17 Dec 2021 00:00:00 GMT"
+    },
+    {
+      "title": "Media Consumption (Apr 2021)",
+      "link": "https://julian.digital/2021/05/03/media-consumption-apr-2021/",
+      "published": "Mon, 03 May 2021 19:38:12 +0000"
+    },
+    {
+      "title": "Прочитане-2020",
+      "link": "https://poohitan.com/p/read-2020",
+      "published": "Fri, 12 Mar 2021 12:43:00 GMT"
+    },
+    {
+      "title": "TransUkraine. Байкпекінг-перегони довжиною 1500 км",
+      "link": "https://poohitan.com/p/transukraine-bikepacking-race",
+      "published": "Wed, 09 Sep 2020 11:34:00 GMT"
     }
   ]
 }
