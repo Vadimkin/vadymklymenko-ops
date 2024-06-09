@@ -57,11 +57,11 @@ def main():
     for feed_url in feeds:
         print("Processing feed:", feed_url)
         feed = feedparser.parse(feed_url)
-        feed_entries = list(filter(lambda entry: struct_time_to_datetime(entry.published_parsed) > thirty_days_ago, feed.entries))
+        feed_entries = list(filter(lambda entry: struct_time_to_datetime(entry.published_parsed) > thirty_days_ago, feed.entries))[:10]
         if not feed_entries:
             # If there are no entries in the last 30 days, take the last 5 entries
             feed_entries = feed.entries[:5]
-        entries.extend(feed_entries)[:10]
+        entries.extend(feed_entries)
 
     # Order by date
     entries = sorted(entries, key=lambda entry: entry.published_parsed, reverse=True)
