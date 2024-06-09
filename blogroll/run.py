@@ -48,7 +48,9 @@ def main():
         "https://www.julian.digital/feed",
         "https://chrisnicholas.dev/rss.xml",
         "https://oykun.com/rss/",
-        "https://vanschneider.com/blog/rss/"
+        "https://vanschneider.com/blog/rss/",
+        "https://media3.substack.com/feed/",
+        "https://tlfrd.substack.com/feed/",
     ]
 
     entries = []
@@ -56,6 +58,10 @@ def main():
         print("Processing feed:", feed_url)
         feed = feedparser.parse(feed_url)
         feed_entries = filter(lambda entry: struct_time_to_datetime(entry.published_parsed) > thirty_days_ago, feed.entries)
+        if not feed_entries:
+            # If there are no entries in the last 30 days, take the last 5 entries
+            feed_entries = feed.entries[:5]
+
         entries.extend(list(feed_entries)[:10])
 
     # Order by date
