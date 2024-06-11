@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Скрипти Adobe Illustrator та InDesign",
+      "link": "https://blog.alexkolodko.com/all/adobe-illustrator-and-indesign-scripts/",
+      "published": "Mon, 10 Jun 2024 23:29:54 +0300"
+    },
+    {
       "title": "Біжімо, мамо",
       "link": "https://reporters.media/bizhimo-mamo/",
       "published": "Mon, 10 Jun 2024 14:59:16 +0000"
@@ -166,6 +171,11 @@
       "published": "Tue, 30 Apr 2024 00:00:00 +0000"
     },
     {
+      "title": "How to Deploy a Ghost Theme using the Admin API + Bash + cURL",
+      "link": "https://www.autodidacts.io/ghost-theme-upload-admin-api-bash-curl/",
+      "published": "Wed, 24 Apr 2024 00:56:16 GMT"
+    },
+    {
       "title": "Pilgrims: кумедна пригода від Amanita Design",
       "link": "https://zametkin.me/2024/04/21/pilgrims-kumedna-prygoda-vid-amanita-design/",
       "published": "Sun, 21 Apr 2024 06:45:54 +0000"
@@ -201,6 +211,11 @@
       "published": "Mon, 25 Mar 2024 00:00:00 GMT"
     },
     {
+      "title": "The Grug Brained Writer",
+      "link": "https://www.autodidacts.io/grug/",
+      "published": "Sun, 24 Mar 2024 19:50:59 GMT"
+    },
+    {
       "title": "Did you know you can write your own typesafe React router in 500 lines?",
       "link": "https://sinja.io/blog/build-typesafe-react-router-from-scratch",
       "published": "Wed, 06 Mar 2024 00:00:00 GMT"
@@ -216,9 +231,19 @@
       "published": "Fri, 09 Feb 2024 18:24:38 +0000"
     },
     {
+      "title": "ChatGPT have killed my passion project and I am fine",
+      "link": "https://zverok.space/blog/2024-02-09-gpt.html",
+      "published": "Fri, 09 Feb 2024 00:00:00 +0000"
+    },
+    {
       "title": "The Next #3 — Forging",
       "link": "https://www.the-next.me/the-next-3-digging/",
       "published": "Tue, 30 Jan 2024 05:00:41 GMT"
+    },
+    {
+      "title": "The end of “Useless Ruby sugar”: On intuitions and evolutions",
+      "link": "https://zverok.space/blog/2024-01-23-syntax-sugar-fin.html",
+      "published": "Tue, 23 Jan 2024 00:00:00 +0000"
     },
     {
       "title": "The Next #2 — Power",
