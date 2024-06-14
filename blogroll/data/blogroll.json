@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The design decisions and evolution of a method definition - Ruby case study",
+      "link": "https://zverok.space/blog/2024-06-14-method-evolution.html",
+      "published": "Fri, 14 Jun 2024 00:00:00 +0000"
+    },
+    {
       "title": "Корпоративні зайчики та продуктові дизайнери",
       "link": "https://www.govorukhin.com/blog/bunnies-and-real-ones",
       "published": "Wed, 12 Jun 2024 10:14:48 GMT"
@@ -116,16 +121,6 @@
       "published": "Thu, 16 May 2024 16:45:35 +0300"
     },
     {
-      "title": "Забуваєш, що десь є інакше",
-      "link": "https://reporters.media/zabuvayesh-shho-des-ye-inakshe-2/",
-      "published": "Wed, 15 May 2024 02:46:11 +0000"
-    },
-    {
-      "title": "The things I haven't wrote, and the things I want to write (back to Ruby)",
-      "link": "https://zverok.space/blog/2024-05-12-updates.html",
-      "published": "Sun, 12 May 2024 00:00:00 +0000"
-    },
-    {
       "title": "The One-Hour Principle",
       "link": "https://www.autodidacts.io/the-one-hour-principle/",
       "published": "Sat, 11 May 2024 17:52:11 GMT"
@@ -211,19 +206,9 @@
       "published": "Fri, 09 Feb 2024 18:24:38 +0000"
     },
     {
-      "title": "ChatGPT have killed my passion project and I am fine",
-      "link": "https://zverok.space/blog/2024-02-09-gpt.html",
-      "published": "Fri, 09 Feb 2024 00:00:00 +0000"
-    },
-    {
       "title": "The Next #3 — Forging",
       "link": "https://www.the-next.me/the-next-3-digging/",
       "published": "Tue, 30 Jan 2024 05:00:41 GMT"
-    },
-    {
-      "title": "The end of “Useless Ruby sugar”: On intuitions and evolutions",
-      "link": "https://zverok.space/blog/2024-01-23-syntax-sugar-fin.html",
-      "published": "Tue, 23 Jan 2024 00:00:00 +0000"
     },
     {
       "title": "The Next #2 — Power",
