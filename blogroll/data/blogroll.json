@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Автоматизація Excel та Word",
+      "link": "https://blog.alexkolodko.com/all/automation-excel-and-word/",
+      "published": "Sat, 15 Jun 2024 11:44:45 +0300"
+    },
+    {
       "title": "The design decisions and evolution of a method definition - Ruby case study",
       "link": "https://zverok.space/blog/2024-06-14-method-evolution.html",
       "published": "Fri, 14 Jun 2024 00:00:00 +0000"
@@ -114,11 +119,6 @@
       "title": "Open source is neither a community nor a democracy",
       "link": "https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab",
       "published": "2024-05-16T19:41:37Z"
-    },
-    {
-      "title": "Новий шрифт для інтерфейсів — Road UI",
-      "link": "https://blog.alexkolodko.com/all/road-ui-font/",
-      "published": "Thu, 16 May 2024 16:45:35 +0300"
     },
     {
       "title": "The One-Hour Principle",
