@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Perfectionism is optimizing at the wrong scale",
+      "link": "https://www.autodidacts.io/holistic-perfectionism/",
+      "published": "Sat, 15 Jun 2024 16:46:38 GMT"
+    },
+    {
       "title": "Автоматизація Excel та Word",
       "link": "https://blog.alexkolodko.com/all/automation-excel-and-word/",
       "published": "Sat, 15 Jun 2024 11:44:45 +0300"
@@ -116,16 +121,6 @@
       "published": "2024-05-17T15:25:28Z"
     },
     {
-      "title": "Open source is neither a community nor a democracy",
-      "link": "https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab",
-      "published": "2024-05-16T19:41:37Z"
-    },
-    {
-      "title": "The One-Hour Principle",
-      "link": "https://www.autodidacts.io/the-one-hour-principle/",
-      "published": "Sat, 11 May 2024 17:52:11 GMT"
-    },
-    {
       "title": "Animating Radix Primitives with Framer Motion",
       "link": "https://sinja.io/blog/animating-radix-primitives-with-framer-motion",
       "published": "Thu, 09 May 2024 00:00:00 GMT"
@@ -144,11 +139,6 @@
       "title": "Моментальна користь від бюджету",
       "link": "https://zaytsev.io/blog/budgeting-insight/",
       "published": "Tue, 30 Apr 2024 00:00:00 +0000"
-    },
-    {
-      "title": "How to Deploy a Ghost Theme using the Admin API + Bash + cURL",
-      "link": "https://www.autodidacts.io/ghost-theme-upload-admin-api-bash-curl/",
-      "published": "Wed, 24 Apr 2024 00:56:16 GMT"
     },
     {
       "title": "Pilgrims: кумедна пригода від Amanita Design",
@@ -184,11 +174,6 @@
       "title": "Building a «hold to confirm» button with Framer Motion",
       "link": "https://sinja.io/blog/hold-to-confirm-button-react-framer-motion",
       "published": "Mon, 25 Mar 2024 00:00:00 GMT"
-    },
-    {
-      "title": "The Grug Brained Writer",
-      "link": "https://www.autodidacts.io/grug/",
-      "published": "Sun, 24 Mar 2024 19:50:59 GMT"
     },
     {
       "title": "Did you know you can write your own typesafe React router in 500 lines?",
