@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "10 причин чому",
+      "link": "https://reporters.media/10-prychyn-chomu/",
+      "published": "Wed, 19 Jun 2024 10:39:57 +0000"
+    },
+    {
       "title": "Арт-проєкт «Скарбниця»",
       "link": "https://blog.alexkolodko.com/all/treasure-in-ua/",
       "published": "Mon, 17 Jun 2024 15:22:45 +0300"
@@ -109,11 +114,6 @@
       "title": "Beautiful motivations",
       "link": "https://world.hey.com/dhh/beautiful-motivations-6fef7c73",
       "published": "2024-05-20T19:46:14Z"
-    },
-    {
-      "title": "Улюблена іграшка",
-      "link": "https://reporters.media/ulyublena-igrashka/",
-      "published": "Mon, 20 May 2024 13:20:38 +0000"
     },
     {
       "title": "Animating Radix Primitives with Framer Motion",
