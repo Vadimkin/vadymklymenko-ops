@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to make draggable Framer Motion elements snap to breakpoints",
+      "link": "https://sinja.io/blog/framer-motion-drag-snap-points",
+      "published": "Mon, 24 Jun 2024 00:00:00 GMT"
+    },
+    {
       "title": "Thoughts on the search for life",
       "link": "https://world.hey.com/jason/thoughts-on-the-search-for-life-7bb9c6e6",
       "published": "2024-06-22T23:26:22Z"
@@ -111,11 +116,6 @@
       "published": "Mon, 27 May 2024 09:08:02 +0000"
     },
     {
-      "title": "Animating Radix Primitives with Framer Motion",
-      "link": "https://sinja.io/blog/animating-radix-primitives-with-framer-motion",
-      "published": "Thu, 09 May 2024 00:00:00 GMT"
-    },
-    {
       "title": "Одне просте запитання",
       "link": "https://zaytsev.io/blog/one-simple-question/",
       "published": "Wed, 08 May 2024 00:00:00 +0000"
@@ -159,16 +159,6 @@
       "title": "The Riddle of Happiness",
       "link": "https://moretothat.com/the-riddle-of-happiness/",
       "published": "Tue, 26 Mar 2024 22:30:58 +0000"
-    },
-    {
-      "title": "Building a «hold to confirm» button with Framer Motion",
-      "link": "https://sinja.io/blog/hold-to-confirm-button-react-framer-motion",
-      "published": "Mon, 25 Mar 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Did you know you can write your own typesafe React router in 500 lines?",
-      "link": "https://sinja.io/blog/build-typesafe-react-router-from-scratch",
-      "published": "Wed, 06 Mar 2024 00:00:00 GMT"
     },
     {
       "title": "Airfoil",
