@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Громадські вбиральні в Токіо та фільм «Perfect days»",
+      "link": "https://blog.alexkolodko.com/all/perfect-days-movie-and-tokyo-toilet/",
+      "published": "Mon, 24 Jun 2024 12:12:47 +0300"
+    },
+    {
       "title": "How to make draggable Framer Motion elements snap to breakpoints",
       "link": "https://sinja.io/blog/framer-motion-drag-snap-points",
       "published": "Mon, 24 Jun 2024 00:00:00 GMT"
