@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Інтерфейс лікомату АНЦ",
+      "link": "https://www.govorukhin.com/blog/likomat-ui",
+      "published": "Wed, 26 Jun 2024 08:04:56 GMT"
+    },
+    {
       "title": "Towards Universal Keybindings",
       "link": "https://www.autodidacts.io/universal-keybindings/",
       "published": "Tue, 25 Jun 2024 21:46:28 GMT"
