@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The 2024 Trump-Biden Debate",
+      "link": "https://waitbutwhy.com/2024/06/debate2024.html",
+      "published": "Fri, 28 Jun 2024 12:46:16 +0000"
+    },
+    {
       "title": "Вальс для життя",
       "link": "https://reporters.media/vals-dlya-zhyttya/",
       "published": "Thu, 27 Jun 2024 05:45:13 +0000"
@@ -141,11 +146,6 @@
       "published": "Sun, 02 Jun 2024 17:25:16 +0300"
     },
     {
-      "title": "It's live! Introducing the new HOVS website",
-      "link": "https://vanschneider.com/blog/introducing-the-new-hovs-website/",
-      "published": "Wed, 29 May 2024 15:33:20 GMT"
-    },
-    {
       "title": "Одне просте запитання",
       "link": "https://zaytsev.io/blog/one-simple-question/",
       "published": "Wed, 08 May 2024 00:00:00 +0000"
@@ -196,11 +196,6 @@
       "published": "Tue, 27 Feb 2024 04:00:00 -0800"
     },
     {
-      "title": "All My Thoughts After 40 Hours in the Vision Pro",
-      "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
-      "published": "Fri, 09 Feb 2024 18:24:38 +0000"
-    },
-    {
       "title": "The Next #3 — Forging",
       "link": "https://www.the-next.me/the-next-3-digging/",
       "published": "Tue, 30 Jan 2024 05:00:41 GMT"
@@ -246,11 +241,6 @@
       "published": "Thu, 06 Jul 2023 14:10:12 +0000"
     },
     {
-      "title": "10 Thoughts From the Fourth Trimester",
-      "link": "https://waitbutwhy.com/2023/05/baby.html",
-      "published": "Tue, 23 May 2023 19:32:00 +0000"
-    },
-    {
       "title": "Server-side Rendering: CDN and Caching",
       "link": "https://zemlan.in/ssr-cdn.html",
       "published": "Wed, 17 May 2023 17:40:00 GMT"
@@ -269,11 +259,6 @@
       "title": "Hosting your own Mastodon server",
       "link": "https://paulstamatiou.com/hosting-your-own-mastodon-server/",
       "published": "2023-03-07T16:00:00Z"
-    },
-    {
-      "title": "A Short History of My Last Six Years",
-      "link": "https://waitbutwhy.com/2023/02/last-six-years.html",
-      "published": "Fri, 17 Feb 2023 16:46:41 +0000"
     },
     {
       "title": "Server-side Rendering: The Server",
