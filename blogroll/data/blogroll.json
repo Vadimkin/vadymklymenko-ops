@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Vignettes on language evolution: discovering an old syntax feature history",
+      "link": "https://zverok.space/blog/2024-07-01-optional-args.html",
+      "published": "Mon, 01 Jul 2024 00:00:00 +0000"
+    },
+    {
       "title": "Sometimes it's better, sometimes it's worse",
       "link": "https://world.hey.com/jason/sometimes-it-s-better-sometimes-it-s-worse-c601264c",
       "published": "2024-06-28T18:18:17Z"
