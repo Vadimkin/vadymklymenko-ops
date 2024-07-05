@@ -1,9 +1,19 @@
 {
   "feed": [
     {
+      "title": "AuraSR — open-source збільшувач картинок від Adobe",
+      "link": "https://blog.alexkolodko.com/all/aurasr-upscaler/",
+      "published": "Fri, 05 Jul 2024 16:56:11 +0300"
+    },
+    {
+      "title": "Писати текст",
+      "link": "https://www.govorukhin.com/blog/on-writing",
+      "published": "Fri, 05 Jul 2024 11:17:42 GMT"
+    },
+    {
       "title": "Не перевикупати",
       "link": "https://www.govorukhin.com/blog/dont-overthink-shit",
-      "published": "Thu, 04 Jul 2024 18:06:53 GMT"
+      "published": "Fri, 05 Jul 2024 10:12:51 GMT"
     },
     {
       "title": "Introducing Writebook",
