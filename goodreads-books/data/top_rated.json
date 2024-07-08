@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Zen in the Art of Writing: Releasing the Creative Genius Within You",
+      "author": "Ray Bradbury",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436734917l/103761.jpg",
+      "review_url": "https://www.goodreads.com/review/show/4941938994",
+      "rating": 4,
+      "date_started": "2024-06-10",
+      "date_read": "2024-07-07",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "Colorless Tsukuru Tazaki And His Years Of Pilgrimage",
       "author": "Haruki Murakami",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428965666l/23346487.jpg",
