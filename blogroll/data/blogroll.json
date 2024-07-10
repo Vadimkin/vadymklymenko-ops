@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Генератор написів шрифтом Брайля",
+      "link": "https://blog.alexkolodko.com/all/braille-generator/",
+      "published": "Tue, 09 Jul 2024 19:32:18 +0300"
+    },
+    {
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
