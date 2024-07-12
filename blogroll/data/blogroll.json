@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Living with Linux and Android after two decades of Apple",
+      "link": "https://world.hey.com/dhh/living-with-linux-and-android-after-two-decades-of-apple-4f730084",
+      "published": "2024-07-12T09:48:52Z"
+    },
+    {
       "title": "Directional decisions",
       "link": "https://world.hey.com/jason/directional-decisions-22bcd41c",
       "published": "2024-07-11T18:03:52Z"
@@ -129,31 +134,6 @@
       "title": "The design decisions and evolution of a method definition - Ruby case study",
       "link": "https://zverok.space/blog/2024-06-14-method-evolution.html",
       "published": "Fri, 14 Jun 2024 00:00:00 +0000"
-    },
-    {
-      "title": "Корпоративні зайчики та продуктові дизайнери",
-      "link": "https://www.govorukhin.com/blog/bunnies-and-real-ones",
-      "published": "Wed, 12 Jun 2024 10:14:48 GMT"
-    },
-    {
-      "title": "Уявити, що дані є",
-      "link": "https://www.govorukhin.com/blog/imagine-the-data",
-      "published": "Wed, 12 Jun 2024 10:14:48 GMT"
-    },
-    {
-      "title": "Visions of the future",
-      "link": "https://world.hey.com/dhh/visions-of-the-future-2e23ff85",
-      "published": "2024-06-08T06:16:45Z"
-    },
-    {
-      "title": "Introducing Omakub",
-      "link": "https://world.hey.com/dhh/introducing-omakub-354db366",
-      "published": "2024-06-06T14:29:39Z"
-    },
-    {
-      "title": "Why I retired from the tech crusades",
-      "link": "https://world.hey.com/dhh/why-i-retired-from-the-tech-crusades-107a51ea",
-      "published": "2024-06-02T21:56:33Z"
     },
     {
       "title": "Одне просте запитання",
