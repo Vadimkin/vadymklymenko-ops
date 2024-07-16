@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Моя сім’я та інші звірі         (Corfu Trilogy #1)",
+      "author": "Gerald Durrell",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435227046l/25793151.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6672199733",
+      "rating": null,
+      "date_started": "2024-07-15",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "SMARTЧАРИ",
       "author": "Анна Ковальова",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711186602l/210273158.jpg",
