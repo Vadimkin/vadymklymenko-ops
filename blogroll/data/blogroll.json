@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Рідка латка: нове життя надувного басейну, човна та виробів з ПВХ",
+      "link": "https://zametkin.me/2024/07/24/ridka-latka-i-ne-potribna-zaplatka/",
+      "published": "Wed, 24 Jul 2024 12:32:11 +0000"
+    },
+    {
       "title": "Український дизайн — не музейний експонат",
       "link": "https://www.govorukhin.com/blog/ukrainian-design-is-about-the-future",
       "published": "Mon, 22 Jul 2024 15:16:15 GMT"
@@ -14,21 +19,6 @@
       "title": "Nils Frahm — Live at the Philharmonie de Paris — ARTE Concert",
       "link": "https://zametkin.me/2024/07/17/nils-frahm-live-at-the-philharmonie-de-paris-arte-concert/",
       "published": "Wed, 17 Jul 2024 12:03:39 +0000"
-    },
-    {
-      "title": "Achieving optionality",
-      "link": "https://world.hey.com/jason/achieving-optionality-56634dd3",
-      "published": "2024-07-12T21:55:00Z"
-    },
-    {
-      "title": "Living with Linux and Android after two decades of Apple",
-      "link": "https://world.hey.com/dhh/living-with-linux-and-android-after-two-decades-of-apple-4f730084",
-      "published": "2024-07-12T09:48:52Z"
-    },
-    {
-      "title": "Directional decisions",
-      "link": "https://world.hey.com/jason/directional-decisions-22bcd41c",
-      "published": "2024-07-11T18:03:52Z"
     },
     {
       "title": "Генератор написів шрифтом Брайля",
@@ -56,11 +46,6 @@
       "published": "Fri, 05 Jul 2024 10:12:51 GMT"
     },
     {
-      "title": "Introducing Writebook",
-      "link": "https://world.hey.com/jason/introducing-writebook-e217cae3",
-      "published": "2024-07-03T18:46:36Z"
-    },
-    {
       "title": "Дивись, як я можу",
       "link": "https://reporters.media/dyvys-yak-ya-mozhu/",
       "published": "Wed, 03 Jul 2024 13:15:30 +0000"
@@ -71,11 +56,6 @@
       "published": "Mon, 01 Jul 2024 00:00:00 +0000"
     },
     {
-      "title": "Sometimes it's better, sometimes it's worse",
-      "link": "https://world.hey.com/jason/sometimes-it-s-better-sometimes-it-s-worse-c601264c",
-      "published": "2024-06-28T18:18:17Z"
-    },
-    {
       "title": "The 2024 Trump-Biden Debate",
       "link": "https://waitbutwhy.com/2024/06/debate2024.html",
       "published": "Fri, 28 Jun 2024 12:46:16 +0000"
@@ -84,11 +64,6 @@
       "title": "Вальс для життя",
       "link": "https://reporters.media/vals-dlya-zhyttya/",
       "published": "Thu, 27 Jun 2024 05:45:13 +0000"
-    },
-    {
-      "title": "Software defaults",
-      "link": "https://world.hey.com/jason/software-defaults-15955a8e",
-      "published": "2024-06-26T19:03:30Z"
     },
     {
       "title": "Інтерфейс лікомату АНЦ",
@@ -109,11 +84,6 @@
       "title": "Крутий вчитель Онідзука",
       "link": "https://reporters.media/krutyj-vchytel-onidzuka/",
       "published": "Tue, 25 Jun 2024 07:14:00 +0000"
-    },
-    {
-      "title": "Громадські вбиральні в Токіо та фільм «Perfect days»",
-      "link": "https://blog.alexkolodko.com/all/perfect-days-movie-and-tokyo-toilet/",
-      "published": "Mon, 24 Jun 2024 12:12:47 +0300"
     },
     {
       "title": "How to make draggable Framer Motion elements snap to breakpoints",
