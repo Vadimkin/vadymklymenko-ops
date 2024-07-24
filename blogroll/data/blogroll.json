@@ -136,6 +136,11 @@
       "published": "Tue, 04 Jun 2024 14:48:50 GMT"
     },
     {
+      "title": "Animating Radix Primitives with Framer Motion",
+      "link": "https://sinja.io/blog/animating-radix-primitives-with-framer-motion",
+      "published": "Thu, 09 May 2024 00:00:00 GMT"
+    },
+    {
       "title": "Одне просте запитання",
       "link": "https://zaytsev.io/blog/one-simple-question/",
       "published": "Wed, 08 May 2024 00:00:00 +0000"
@@ -164,6 +169,11 @@
       "title": "The Riddle of Happiness",
       "link": "https://moretothat.com/the-riddle-of-happiness/",
       "published": "Tue, 26 Mar 2024 22:30:58 +0000"
+    },
+    {
+      "title": "Building a «hold to confirm» button with Framer Motion",
+      "link": "https://sinja.io/blog/hold-to-confirm-button-react-framer-motion",
+      "published": "Mon, 25 Mar 2024 00:00:00 GMT"
     },
     {
       "title": "Airfoil",
