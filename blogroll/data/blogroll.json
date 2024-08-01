@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The Tired Nature of Thought",
+      "link": "https://moretothat.com/the-tired-nature-of-thought/",
+      "published": "Thu, 01 Aug 2024 12:10:15 +0000"
+    },
+    {
       "title": "Finding acoustical delight in THE THOCK",
       "link": "https://world.hey.com/dhh/finding-acoustical-delight-in-the-thock-aa84f70b",
       "published": "2024-07-31T15:40:54Z"
@@ -131,9 +136,19 @@
       "published": "Mon, 24 Jun 2024 00:00:00 GMT"
     },
     {
+      "title": "Das Gesamtkunstwerk",
+      "link": "https://vanschneider.com/blog/das-gesamtkunstwerk/",
+      "published": "Fri, 21 Jun 2024 13:26:20 GMT"
+    },
+    {
       "title": "Perfectionism is optimizing at the wrong scale",
       "link": "https://www.autodidacts.io/holistic-perfectionism/",
       "published": "Sat, 15 Jun 2024 16:46:38 GMT"
+    },
+    {
+      "title": "Does it FEEL right?",
+      "link": "https://vanschneider.com/blog/young-designers/does-it-feel-right/",
+      "published": "Mon, 10 Jun 2024 16:01:13 GMT"
     },
     {
       "title": "Animating Radix Primitives with Framer Motion",
@@ -146,29 +161,14 @@
       "published": "Wed, 08 May 2024 00:00:00 +0000"
     },
     {
-      "title": "The Fallacy of Passion",
-      "link": "https://moretothat.com/the-fallacy-of-passion/",
-      "published": "Tue, 30 Apr 2024 21:36:12 +0000"
-    },
-    {
       "title": "Моментальна користь від бюджету",
       "link": "https://zaytsev.io/blog/budgeting-insight/",
       "published": "Tue, 30 Apr 2024 00:00:00 +0000"
     },
     {
-      "title": "The Riddle of Ambition",
-      "link": "https://moretothat.com/the-riddle-of-ambition/",
-      "published": "Thu, 18 Apr 2024 06:04:27 +0000"
-    },
-    {
       "title": "Попередній покажчик напрямків",
       "link": "https://zaytsev.io/blog/scheme-road-sign/",
       "published": "Thu, 28 Mar 2024 00:00:00 +0000"
-    },
-    {
-      "title": "The Riddle of Happiness",
-      "link": "https://moretothat.com/the-riddle-of-happiness/",
-      "published": "Tue, 26 Mar 2024 22:30:58 +0000"
     },
     {
       "title": "Building a «hold to confirm» button with Framer Motion",
