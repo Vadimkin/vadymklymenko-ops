@@ -1,9 +1,24 @@
 {
   "feed": [
     {
+      "title": "Software estimates have never worked and never will",
+      "link": "https://world.hey.com/dhh/software-estimates-have-never-worked-and-never-will-a41a9c71",
+      "published": "2024-08-19T18:57:21Z"
+    },
+    {
       "title": "Building Swipe Actions component with React and Framer Motion",
       "link": "https://sinja.io/blog/swipe-actions-react-framer-motion",
       "published": "Mon, 19 Aug 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Where at least I know I'm free",
+      "link": "https://world.hey.com/dhh/where-at-least-i-know-i-m-free-da04f873",
+      "published": "2024-08-18T17:43:28Z"
+    },
+    {
+      "title": "The Framework 13 has a new high-res screen!",
+      "link": "https://world.hey.com/dhh/the-framework-13-has-a-new-high-res-screen-e1a5ebb8",
+      "published": "2024-08-14T17:28:41Z"
     },
     {
       "title": "Treating Everything as Practice",
@@ -26,6 +41,11 @@
       "published": "Tue, 06 Aug 2024 07:51:00 +0000"
     },
     {
+      "title": "Cookie banners show everything that's wrong with the EU",
+      "link": "https://world.hey.com/dhh/cookie-banners-show-everything-that-s-wrong-with-the-eu-3bfcf03d",
+      "published": "2024-08-05T19:38:21Z"
+    },
+    {
       "title": "The Joy of Selective Attention",
       "link": "https://www.autodidacts.io/selective-attention/",
       "published": "Mon, 05 Aug 2024 16:56:38 GMT"
@@ -39,6 +59,11 @@
       "title": "The Tired Nature of Thought",
       "link": "https://moretothat.com/the-tired-nature-of-thought/",
       "published": "Thu, 01 Aug 2024 12:10:15 +0000"
+    },
+    {
+      "title": "Finding acoustical delight in THE THOCK",
+      "link": "https://world.hey.com/dhh/finding-acoustical-delight-in-the-thock-aa84f70b",
+      "published": "2024-07-31T15:40:54Z"
     },
     {
       "title": "New city Mriya та код міста",
@@ -86,9 +111,24 @@
       "published": "Mon, 22 Jul 2024 07:54:05 +0000"
     },
     {
+      "title": "Achieving optionality",
+      "link": "https://world.hey.com/jason/achieving-optionality-56634dd3",
+      "published": "2024-07-12T21:55:00Z"
+    },
+    {
+      "title": "Directional decisions",
+      "link": "https://world.hey.com/jason/directional-decisions-22bcd41c",
+      "published": "2024-07-11T18:03:52Z"
+    },
+    {
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing Writebook",
+      "link": "https://world.hey.com/jason/introducing-writebook-e217cae3",
+      "published": "2024-07-03T18:46:36Z"
     },
     {
       "title": "How to build your secret repertoire",
