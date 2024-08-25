@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Merchants of complexity",
+      "link": "https://world.hey.com/dhh/merchants-of-complexity-4851301b",
+      "published": "2024-08-24T19:54:58Z"
+    },
+    {
       "title": "Software estimates have never worked and never will",
       "link": "https://world.hey.com/dhh/software-estimates-have-never-worked-and-never-will-a41a9c71",
       "published": "2024-08-19T18:57:21Z"
@@ -84,11 +89,6 @@
       "title": "Як полагодити роботу сервісів Apple в Україні",
       "link": "https://zametkin.me/2024/07/26/yak-polagodyty-robotu-servisiv-apple-v-ukrayini/",
       "published": "Fri, 26 Jul 2024 10:37:38 +0000"
-    },
-    {
-      "title": "How it became like this? Ruby Range class",
-      "link": "https://zverok.space/blog/2024-07-26-range-evolution.html",
-      "published": "Fri, 26 Jul 2024 00:00:00 +0000"
     },
     {
       "title": "Український дизайн — не музейний експонат",
