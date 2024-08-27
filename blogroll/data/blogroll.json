@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "A company is a language",
+      "link": "https://world.hey.com/jason/a-company-is-a-language-66517a62",
+      "published": "2024-08-26T17:42:36Z"
+    },
+    {
       "title": "Merchants of complexity",
       "link": "https://world.hey.com/dhh/merchants-of-complexity-4851301b",
       "published": "2024-08-24T19:54:58Z"
@@ -106,16 +111,6 @@
       "published": "Mon, 22 Jul 2024 15:16:15 GMT"
     },
     {
-      "title": "Achieving optionality",
-      "link": "https://world.hey.com/jason/achieving-optionality-56634dd3",
-      "published": "2024-07-12T21:55:00Z"
-    },
-    {
-      "title": "Directional decisions",
-      "link": "https://world.hey.com/jason/directional-decisions-22bcd41c",
-      "published": "2024-07-11T18:03:52Z"
-    },
-    {
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
@@ -129,11 +124,6 @@
       "title": "Не перевикупати",
       "link": "https://www.govorukhin.com/blog/dont-overthink-shit",
       "published": "Fri, 05 Jul 2024 10:12:51 GMT"
-    },
-    {
-      "title": "Introducing Writebook",
-      "link": "https://world.hey.com/jason/introducing-writebook-e217cae3",
-      "published": "2024-07-03T18:46:36Z"
     },
     {
       "title": "How to build your secret repertoire",
