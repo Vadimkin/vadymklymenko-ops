@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The Startup Designer",
+      "link": "https://paulstamatiou.com/the-startup-designer",
+      "published": "Tue, 27 Aug 2024 00:00:00 GMT"
+    },
+    {
       "title": "A company is a language",
       "link": "https://world.hey.com/jason/a-company-is-a-language-66517a62",
       "published": "2024-08-26T17:42:36Z"
@@ -206,11 +211,6 @@
       "published": "Mon, 20 Nov 2023 12:00:00 +0000"
     },
     {
-      "title": "Stocketa",
-      "link": "https://paulstamatiou.com/stocketa/",
-      "published": "2023-10-16T16:00:00Z"
-    },
-    {
       "title": "Multi-layered calendars",
       "link": "https://julian.digital/2023/07/06/multi-layered-calendars/",
       "published": "Thu, 06 Jul 2023 14:10:12 +0000"
@@ -226,19 +226,9 @@
       "published": "Wed, 17 May 2023 17:40:00 GMT"
     },
     {
-      "title": "[Short form] Digital clutter",
-      "link": "https://paulstamatiou.com/digital-clutter/",
-      "published": "2023-04-15T16:00:00Z"
-    },
-    {
       "title": "Bicycle",
       "link": "https://ciechanow.ski/bicycle/",
       "published": "Tue, 28 Mar 2023 04:00:00 -0800"
-    },
-    {
-      "title": "Hosting your own Mastodon server",
-      "link": "https://paulstamatiou.com/hosting-your-own-mastodon-server/",
-      "published": "2023-03-07T16:00:00Z"
     },
     {
       "title": "Server-side Rendering: The Server",
