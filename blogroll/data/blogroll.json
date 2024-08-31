@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "We once more have no full-time managers at 37signals",
+      "link": "https://world.hey.com/dhh/we-once-more-have-no-full-time-managers-at-37signals-f8611085",
+      "published": "2024-08-30T17:03:52Z"
+    },
+    {
       "title": "Книга памʼяті 232 Окремого батальйону ТРО",
       "link": "https://blog.alexkolodko.com/all/book-of-memory/",
       "published": "Thu, 29 Aug 2024 20:48:32 +0300"
@@ -96,6 +101,11 @@
       "published": "Wed, 24 Jul 2024 18:46:42 +0000"
     },
     {
+      "title": "AIAIAI",
+      "link": "https://vanschneider.com/blog/aiaiai/",
+      "published": "Wed, 24 Jul 2024 14:28:16 GMT"
+    },
+    {
       "title": "Рідка латка: нове життя надувного басейну",
       "link": "https://zametkin.me/2024/07/24/ridka-latka-i-ne-potribna-zaplatka/",
       "published": "Wed, 24 Jul 2024 12:32:11 +0000"
@@ -131,14 +141,9 @@
       "published": "Fri, 28 Jun 2024 12:46:16 +0000"
     },
     {
-      "title": "Das Gesamtkunstwerk",
-      "link": "https://vanschneider.com/blog/das-gesamtkunstwerk/",
-      "published": "Fri, 21 Jun 2024 13:26:20 GMT"
-    },
-    {
-      "title": "Does it FEEL right?",
-      "link": "https://vanschneider.com/blog/young-designers/does-it-feel-right/",
-      "published": "Mon, 10 Jun 2024 16:01:13 GMT"
+      "title": "The secret behind inspiration",
+      "link": "https://vanschneider.com/blog/the-secret-behind-inspiration/",
+      "published": "Wed, 26 Jun 2024 17:02:23 GMT"
     },
     {
       "title": "Одне просте запитання",
