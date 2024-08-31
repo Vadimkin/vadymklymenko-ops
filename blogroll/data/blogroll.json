@@ -1,9 +1,24 @@
 {
   "feed": [
     {
+      "title": "For what it'll make of you",
+      "link": "https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c",
+      "published": "2024-08-31T16:02:30Z"
+    },
+    {
+      "title": "Розмір шрифтів у навігації",
+      "link": "https://blog.alexkolodko.com/all/wayfinding-fonts-size/",
+      "published": "Sat, 31 Aug 2024 10:48:36 +0300"
+    },
+    {
       "title": "We once more have no full-time managers at 37signals",
       "link": "https://world.hey.com/dhh/we-once-more-have-no-full-time-managers-at-37signals-f8611085",
       "published": "2024-08-30T17:03:52Z"
+    },
+    {
+      "title": "Книга памʼяті 232 Окремого батальйону ТРО",
+      "link": "https://blog.alexkolodko.com/all/book-of-memory/",
+      "published": "Thu, 29 Aug 2024 20:48:32 +0300"
     },
     {
       "title": "Children of You",
@@ -76,6 +91,11 @@
       "published": "Mon, 05 Aug 2024 16:56:38 GMT"
     },
     {
+      "title": "Попереду нові дорожні знаки",
+      "link": "https://blog.alexkolodko.com/all/poperedu-novi-dorozhni-znaki-2/",
+      "published": "Sat, 03 Aug 2024 14:24:27 +0300"
+    },
+    {
       "title": "The Tired Nature of Thought",
       "link": "https://moretothat.com/the-tired-nature-of-thought/",
       "published": "Thu, 01 Aug 2024 12:10:15 +0000"
@@ -141,9 +161,19 @@
       "published": "Wed, 08 May 2024 00:00:00 +0000"
     },
     {
+      "title": "The Fallacy of Passion",
+      "link": "https://moretothat.com/the-fallacy-of-passion/",
+      "published": "Tue, 30 Apr 2024 21:36:12 +0000"
+    },
+    {
       "title": "Моментальна користь від бюджету",
       "link": "https://zaytsev.io/blog/budgeting-insight/",
       "published": "Tue, 30 Apr 2024 00:00:00 +0000"
+    },
+    {
+      "title": "The Riddle of Ambition",
+      "link": "https://moretothat.com/the-riddle-of-ambition/",
+      "published": "Thu, 18 Apr 2024 06:04:27 +0000"
     },
     {
       "title": "Попередній покажчик напрямків",
