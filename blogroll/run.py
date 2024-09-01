@@ -51,6 +51,7 @@ def main():
         "https://vanschneider.com/blog/rss/",
         "https://media3.substack.com/feed/",
         "https://tlfrd.substack.com/feed/",
+        "https://www.rozhkov.me/rss/",
     ]
 
     entries = []
