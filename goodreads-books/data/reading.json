@@ -1,15 +1,3 @@
 {
-  "books": [
-    {
-      "title": "Самознищення Європи: імміграція, ідентичність, іслам",
-      "author": "Douglas Murray",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714976521l/212929083.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6773217763",
-      "rating": null,
-      "date_started": "2024-08-19",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    }
-  ]
+  "books": []
 }
