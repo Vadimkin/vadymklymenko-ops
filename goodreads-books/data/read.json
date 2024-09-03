@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Катананхе",
+      "author": "Sofia Andrukhovych",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717850337l/213934602.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6575981441",
+      "rating": null,
+      "date_started": "2024-09-02",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Самознищення Європи: імміграція, ідентичність, іслам",
       "author": "Douglas Murray",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714976521l/212929083.jpg",
