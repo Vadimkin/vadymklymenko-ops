@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Quick guide to web typography for developers",
+      "link": "https://sinja.io/blog/web-typography-quick-guide",
+      "published": "Tue, 03 Sep 2024 00:00:00 GMT"
+    },
+    {
       "title": "Why don't more people use Linux?",
       "link": "https://world.hey.com/dhh/why-don-t-more-people-use-linux-33b75f53",
       "published": "2024-09-02T16:20:44Z"
