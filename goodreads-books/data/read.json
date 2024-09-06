@@ -7,8 +7,8 @@
       "review_url": "https://www.goodreads.com/review/show/6575981441",
       "rating": null,
       "date_started": "2024-09-02",
-      "date_read": null,
-      "is_reading_now": true,
+      "date_read": "2024-09-05",
+      "is_reading_now": false,
       "own": true
     },
     {
@@ -1061,17 +1061,6 @@
       "author": "Robert T. Kiyosaki",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255803716l/6999536.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269816605",
-      "rating": null,
-      "date_started": "2014-07-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Бегущий человек",
-      "author": "Richard Bachman",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340046062l/15711665.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269816087",
       "rating": null,
       "date_started": "2014-07-01",
       "date_read": null,
