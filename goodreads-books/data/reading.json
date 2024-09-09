@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Novelist as a Vocation",
+      "author": "Haruki Murakami",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691998008l/143361343.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6829478769",
+      "rating": null,
+      "date_started": "2024-09-08",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "«Нова ґенерація» і мистецький модернізм в Україні",
       "author": "Myroslava M. Mudrak",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529527819l/40599577.jpg",
