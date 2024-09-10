@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Back in the market (Sonos Edition)",
+      "link": "https://world.hey.com/dhh/back-in-the-market-sonos-edition-b8b3c0b2",
+      "published": "2024-09-10T03:02:12Z"
+    },
+    {
       "title": "Passwords have problems, but passkeys have more",
       "link": "https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9",
       "published": "2024-09-09T16:35:44Z"
@@ -99,11 +104,6 @@
       "title": "Building Swipe Actions component with React and Framer Motion",
       "link": "https://sinja.io/blog/swipe-actions-react-framer-motion",
       "published": "Mon, 19 Aug 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Where at least I know I'm free",
-      "link": "https://world.hey.com/dhh/where-at-least-i-know-i-m-free-da04f873",
-      "published": "2024-08-18T17:43:28Z"
     },
     {
       "title": "Treating Everything as Practice",
