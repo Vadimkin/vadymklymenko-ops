@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Implementing Elegant Timing",
+      "link": "https://www.autodidacts.io/elegant-timing/",
+      "published": "Wed, 11 Sep 2024 20:20:48 GMT"
+    },
+    {
       "title": "SVG, тригонометрія та стрілки крутого повороту",
       "link": "https://zaytsev.io/blog/trigonometry/",
       "published": "Wed, 11 Sep 2024 00:00:00 +0000"
@@ -114,11 +119,6 @@
       "title": "Building Swipe Actions component with React and Framer Motion",
       "link": "https://sinja.io/blog/swipe-actions-react-framer-motion",
       "published": "Mon, 19 Aug 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Treating Everything as Practice",
-      "link": "https://www.autodidacts.io/treating-everything-as-practice/",
-      "published": "Mon, 12 Aug 2024 20:18:12 GMT"
     },
     {
       "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
