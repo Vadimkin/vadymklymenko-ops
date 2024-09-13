@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "IPv4 та IPv6 в домашній мережі",
+      "link": "https://mrgall.com/blog/2024/09/12/ipv4-ipv6-home-network/",
+      "published": "Fri, 13 Sep 2024 05:15:53 +0000"
+    },
+    {
       "title": "Questions and Answers vs. Features and Benefits",
       "link": "https://world.hey.com/jason/questions-and-answers-vs-features-and-benefits-96523a76",
       "published": "2024-09-12T19:13:24Z"
@@ -254,21 +259,6 @@
       "title": "A new blog for 2024",
       "link": "https://chrisnicholas.dev/blog/a-new-blog-for-2024",
       "published": "Tue, 02 Jan 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Monument Valley",
-      "link": "https://mrgall.com/gallery/2023_11_22/",
-      "published": "Wed, 22 Nov 2023 12:00:00 +0000"
-    },
-    {
-      "title": "Grand Canyon",
-      "link": "https://mrgall.com/gallery/2023_11_21/",
-      "published": "Tue, 21 Nov 2023 12:00:00 +0000"
-    },
-    {
-      "title": "Sedona",
-      "link": "https://mrgall.com/gallery/2023_11_20/",
-      "published": "Mon, 20 Nov 2023 12:00:00 +0000"
     },
     {
       "title": "Multi-layered calendars",
