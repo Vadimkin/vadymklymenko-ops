@@ -1,12 +1,12 @@
 {
   "books": [
     {
-      "title": "Novelist as a Vocation",
-      "author": "Haruki Murakami",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691998008l/143361343.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6829478769",
+      "title": "Як зрозуміти українців: кроскультурний погляд",
+      "author": "Марина Стародубська",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726231564l/218691603.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6845556118",
       "rating": null,
-      "date_started": "2024-09-08",
+      "date_started": "2024-09-15",
       "date_read": null,
       "is_reading_now": true,
       "own": true
@@ -20,6 +20,17 @@
       "date_started": "2024-09-07",
       "date_read": null,
       "is_reading_now": true,
+      "own": true
+    },
+    {
+      "title": "Novelist as a Vocation",
+      "author": "Haruki Murakami",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691998008l/143361343.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6829478769",
+      "rating": 3,
+      "date_started": "2024-09-08",
+      "date_read": "2024-09-15",
+      "is_reading_now": false,
       "own": true
     },
     {
@@ -1072,17 +1083,6 @@
       "author": "Дмитрий Соколов-Митрич",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402869534l/22428221.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269817067",
-      "rating": null,
-      "date_started": "2014-07-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Богатый папа, бедный папа",
-      "author": "Robert T. Kiyosaki",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255803716l/6999536.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269816605",
       "rating": null,
       "date_started": "2014-07-01",
       "date_read": null,
