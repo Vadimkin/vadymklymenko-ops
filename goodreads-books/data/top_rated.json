@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Як зрозуміти українців: кроскультурний погляд",
+      "author": "Марина Стародубська",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726231564l/218691603.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6845556118",
+      "rating": 4,
+      "date_started": "2024-09-15",
+      "date_read": "2024-09-26",
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Zen in the Art of Writing: Releasing the Creative Genius Within You",
       "author": "Ray Bradbury",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436734917l/103761.jpg",

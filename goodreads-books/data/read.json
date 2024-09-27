@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Як зрозуміти українців: кроскультурний погляд",
-      "author": "Марина Стародубська",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726231564l/218691603.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6845556118",
-      "rating": null,
-      "date_started": "2024-09-15",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "«Нова ґенерація» і мистецький модернізм в Україні",
       "author": "Myroslava M. Mudrak",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529527819l/40599577.jpg",
@@ -21,6 +10,17 @@
       "date_read": null,
       "is_reading_now": true,
       "own": true
+    },
+    {
+      "title": "Як зрозуміти українців: кроскультурний погляд",
+      "author": "Марина Стародубська",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726231564l/218691603.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6845556118",
+      "rating": 4,
+      "date_started": "2024-09-15",
+      "date_read": "2024-09-26",
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Novelist as a Vocation",
@@ -1079,17 +1079,6 @@
       "own": true
     },
     {
-      "title": "Яндекс.Книга",
-      "author": "Дмитрий Соколов-Митрич",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402869534l/22428221.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269817067",
-      "rating": null,
-      "date_started": "2014-07-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
       "title": "Искусство войны",
       "author": "Sun Tzu",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337179589l/13722891.jpg",
@@ -1626,7 +1615,7 @@
       "date_started": "2011-08-01",
       "date_read": null,
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Ководство",
