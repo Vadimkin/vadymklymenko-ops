@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Життя деінде",
+      "author": "Milan Kundera",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622374313l/56159700.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6882037142",
+      "rating": null,
+      "date_started": "2024-09-27",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "«Нова ґенерація» і мистецький модернізм в Україні",
       "author": "Myroslava M. Mudrak",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529527819l/40599577.jpg",
@@ -1615,7 +1626,7 @@
       "date_started": "2011-08-01",
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Ководство",
