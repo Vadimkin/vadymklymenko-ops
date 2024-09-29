@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "QA: Кодинг у дизайні",
+      "link": "https://blog.alexkolodko.com/all/qa-design-and-coding/",
+      "published": "Sun, 29 Sep 2024 16:13:08 +0300"
+    },
+    {
       "title": "No assistant",
       "link": "https://world.hey.com/jason/no-assistant-c81fb5e4",
       "published": "2024-09-27T20:21:14Z"
