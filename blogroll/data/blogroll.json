@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to Get the Most Out of a Conference",
+      "link": "https://www.autodidacts.io/conference-tips/",
+      "published": "Mon, 30 Sep 2024 02:36:45 GMT"
+    },
+    {
       "title": "QA: Кодинг у дизайні",
       "link": "https://blog.alexkolodko.com/all/qa-design-and-coding/",
       "published": "Sun, 29 Sep 2024 16:13:08 +0300"
@@ -124,11 +129,6 @@
       "title": "For what it'll make of you",
       "link": "https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c",
       "published": "2024-08-31T16:02:30Z"
-    },
-    {
-      "title": "Розмір шрифтів у навігації",
-      "link": "https://blog.alexkolodko.com/all/wayfinding-fonts-size/",
-      "published": "Sat, 31 Aug 2024 10:48:36 +0300"
     },
     {
       "title": "The Startup Designer",
