@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Арабески",
+      "author": "Serhiy Zhadan",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724869306l/218186682.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6895415912",
+      "rating": null,
+      "date_started": "2024-10-02",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Життя деінде",
       "author": "Milan Kundera",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622374313l/56159700.jpg",
@@ -845,7 +856,7 @@
       "date_started": "2021-03-01",
       "date_read": "2021-03-12",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "The Hype Machine: How Social Media Disrupts Our Elections, Our Economy, and Our Health--and How We Must Adapt",
