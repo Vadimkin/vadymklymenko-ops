@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "On programming and poetry (not Python’s tool)",
+      "link": "https://zverok.space/blog/2024-10-06-poetry.html",
+      "published": "Sun, 06 Oct 2024 00:00:00 +0000"
+    },
+    {
       "title": "Appetites instead of estimates",
       "link": "https://world.hey.com/jason/appetites-instead-of-estimates-192d39ba",
       "published": "2024-10-04T21:53:44Z"
@@ -114,11 +119,6 @@
       "title": "«Згорівший» фунікулер і бан від КиївПасТрансу",
       "link": "https://blog.alexkolodko.com/all/burned-funicular-and-ban-from-kpt/",
       "published": "Sun, 08 Sep 2024 14:44:02 +0300"
-    },
-    {
-      "title": "Optimize for bio cores first, silicon cores second",
-      "link": "https://world.hey.com/dhh/optimize-for-bio-cores-first-silicon-cores-second-112a6c3f",
-      "published": "2024-09-06T15:18:33Z"
     },
     {
       "title": "Відвідав DOU Day Picnic",
