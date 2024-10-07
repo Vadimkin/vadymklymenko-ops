@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Days Are Easily Made",
+      "link": "https://www.autodidacts.io/how-to-make-someones-day/",
+      "published": "Sun, 06 Oct 2024 19:53:15 GMT"
+    },
+    {
       "title": "On programming and poetry (not Python’s tool)",
       "link": "https://zverok.space/blog/2024-10-06-poetry.html",
       "published": "Sun, 06 Oct 2024 00:00:00 +0000"
@@ -271,11 +276,6 @@
       "published": "Tue, 05 Jul 2022 00:00:00 GMT"
     },
     {
-      "title": "Смішинки перших тижнів повномасштабної війни",
-      "link": "https://poohitan.com/p/not-so-funny-stories",
-      "published": "Thu, 02 Jun 2022 19:09:00 GMT"
-    },
-    {
       "title": "The power of defaults",
       "link": "https://julian.digital/2021/12/20/the-power-of-defaults/",
       "published": "Mon, 20 Dec 2021 16:39:05 +0000"
@@ -284,16 +284,6 @@
       "title": "Media Consumption (Apr 2021)",
       "link": "https://julian.digital/2021/05/03/media-consumption-apr-2021/",
       "published": "Mon, 03 May 2021 19:38:12 +0000"
-    },
-    {
-      "title": "Прочитане-2020",
-      "link": "https://poohitan.com/p/read-2020",
-      "published": "Fri, 12 Mar 2021 12:43:00 GMT"
-    },
-    {
-      "title": "TransUkraine. Байкпекінг-перегони довжиною 1500 км",
-      "link": "https://poohitan.com/p/transukraine-bikepacking-race",
-      "published": "Wed, 09 Sep 2020 11:34:00 GMT"
     }
   ]
 }
