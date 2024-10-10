@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Арабески",
-      "author": "Serhiy Zhadan",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724869306l/218186682.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6895415912",
-      "rating": null,
-      "date_started": "2024-10-02",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "Життя деінде",
       "author": "Milan Kundera",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622374313l/56159700.jpg",
@@ -31,6 +20,17 @@
       "date_started": "2024-09-07",
       "date_read": null,
       "is_reading_now": true,
+      "own": true
+    },
+    {
+      "title": "Арабески",
+      "author": "Serhiy Zhadan",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724869306l/218186682.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6895415912",
+      "rating": 4,
+      "date_started": "2024-10-02",
+      "date_read": "2024-10-09",
+      "is_reading_now": false,
       "own": true
     },
     {
@@ -1106,17 +1106,6 @@
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337179589l/13722891.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269821258",
       "rating": null,
-      "date_started": "2014-06-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Сомнение. Манифест для тех, кто готов выйти из толпы",
-      "author": "Слава Баранский",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409322170l/22568540.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269817532",
-      "rating": 3,
       "date_started": "2014-06-01",
       "date_read": null,
       "is_reading_now": false,

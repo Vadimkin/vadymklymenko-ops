@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Арабески",
+      "author": "Serhiy Zhadan",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724869306l/218186682.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6895415912",
+      "rating": 4,
+      "date_started": "2024-10-02",
+      "date_read": "2024-10-09",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "Як зрозуміти українців: кроскультурний погляд",
       "author": "Марина Стародубська",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726231564l/218691603.jpg",
