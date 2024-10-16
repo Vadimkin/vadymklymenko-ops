@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "R&D на війні",
+      "link": "https://www.rozhkov.me/rnd-at-the-war/",
+      "published": "Wed, 16 Oct 2024 06:24:00 GMT"
+    },
+    {
       "title": "In ave of progress, still",
       "link": "https://www.the-next.me/in-ave-of-progress-still/",
       "published": "Tue, 15 Oct 2024 20:45:05 GMT"
@@ -136,24 +141,9 @@
       "published": "Tue, 03 Sep 2024 00:00:00 GMT"
     },
     {
-      "title": "Відвідав DOU Day Picnic",
-      "link": "https://www.rozhkov.me/dou-day-picnic/",
-      "published": "Mon, 02 Sep 2024 06:24:00 GMT"
-    },
-    {
       "title": "The Startup Designer",
       "link": "https://paulstamatiou.com/the-startup-designer",
       "published": "Tue, 27 Aug 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Обісрався з Wi-Fi роутером",
-      "link": "https://www.rozhkov.me/wifi-shit-myself/",
-      "published": "Wed, 21 Aug 2024 06:24:00 GMT"
-    },
-    {
-      "title": "Куди рекрутуватись у 2024",
-      "link": "https://www.rozhkov.me/recruiting-in-2024/",
-      "published": "Mon, 19 Aug 2024 06:24:00 GMT"
     },
     {
       "title": "Building Swipe Actions component with React and Framer Motion",
