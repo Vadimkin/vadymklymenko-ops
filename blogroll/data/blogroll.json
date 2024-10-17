@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
+      "link": "https://waitbutwhy.com/2024/10/spacex-toddler.html",
+      "published": "Wed, 16 Oct 2024 18:48:55 +0000"
+    },
+    {
       "title": "R&D на війні",
       "link": "https://www.rozhkov.me/rnd-at-the-war/",
       "published": "Wed, 16 Oct 2024 06:24:00 GMT"
@@ -211,11 +216,6 @@
       "published": "Tue, 02 Jul 2024 16:00:52 GMT"
     },
     {
-      "title": "The 2024 Trump-Biden Debate",
-      "link": "https://waitbutwhy.com/2024/06/debate2024.html",
-      "published": "Fri, 28 Jun 2024 12:46:16 +0000"
-    },
-    {
       "title": "Одне просте запитання",
       "link": "https://zaytsev.io/blog/one-simple-question/",
       "published": "Wed, 08 May 2024 00:00:00 +0000"
@@ -229,11 +229,6 @@
       "title": "Airfoil",
       "link": "https://ciechanow.ski/airfoil/",
       "published": "Tue, 27 Feb 2024 04:00:00 -0800"
-    },
-    {
-      "title": "All My Thoughts After 40 Hours in the Vision Pro",
-      "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
-      "published": "Fri, 09 Feb 2024 18:24:38 +0000"
     },
     {
       "title": "A new blog for 2024",
@@ -264,11 +259,6 @@
       "title": "Multi-layered calendars",
       "link": "https://julian.digital/2023/07/06/multi-layered-calendars/",
       "published": "Thu, 06 Jul 2023 14:10:12 +0000"
-    },
-    {
-      "title": "10 Thoughts From the Fourth Trimester",
-      "link": "https://waitbutwhy.com/2023/05/baby.html",
-      "published": "Tue, 23 May 2023 19:32:00 +0000"
     },
     {
       "title": "Server-side Rendering: CDN and Caching",
