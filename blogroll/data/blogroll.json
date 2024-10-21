@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "There is no such thing as a global method (in Ruby)",
+      "link": "https://zverok.space/blog/2024-10-21-global_functions.html",
+      "published": "Mon, 21 Oct 2024 00:00:00 +0000"
+    },
+    {
       "title": "Армійські cost та revenue центри",
       "link": "https://www.rozhkov.me/cost-and-revenue-centers-in-army/",
       "published": "Fri, 18 Oct 2024 06:24:00 GMT"
