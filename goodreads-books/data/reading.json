@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "1937",
+      "author": "Максим Савчук",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653638187l/61174588.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6956044691",
+      "rating": null,
+      "date_started": "2024-10-26",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Ворошиловград",
       "author": "Serhiy Zhadan",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676708512l/122756000.jpg",
