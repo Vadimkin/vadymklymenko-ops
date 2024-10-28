@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "1937",
-      "author": "Максим Савчук",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653638187l/61174588.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6956044691",
-      "rating": null,
-      "date_started": "2024-10-26",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "Ворошиловград",
       "author": "Serhiy Zhadan",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676708512l/122756000.jpg",
@@ -42,6 +31,17 @@
       "date_started": "2024-09-07",
       "date_read": null,
       "is_reading_now": true,
+      "own": true
+    },
+    {
+      "title": "1937",
+      "author": "Максим Савчук",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653638187l/61174588.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6956044691",
+      "rating": 3,
+      "date_started": "2024-10-26",
+      "date_read": "2024-10-27",
+      "is_reading_now": false,
       "own": true
     },
     {
@@ -1121,17 +1121,6 @@
       "date_read": "2014-12-19",
       "is_reading_now": false,
       "own": true
-    },
-    {
-      "title": "Искусство войны",
-      "author": "Sun Tzu",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337179589l/13722891.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269821258",
-      "rating": null,
-      "date_started": "2014-06-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
     },
     {
       "title": "Цветы для Элджернона",
