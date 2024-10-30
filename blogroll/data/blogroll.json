@@ -151,6 +151,11 @@
       "published": "Tue, 03 Sep 2024 00:00:00 GMT"
     },
     {
+      "title": "The Startup Designer",
+      "link": "https://paulstamatiou.com/the-startup-designer",
+      "published": "Tue, 27 Aug 2024 00:00:00 GMT"
+    },
+    {
       "title": "Building Swipe Actions component with React and Framer Motion",
       "link": "https://sinja.io/blog/swipe-actions-react-framer-motion",
       "published": "Mon, 19 Aug 2024 00:00:00 GMT"
@@ -246,6 +251,11 @@
       "published": "Fri, 24 Nov 2023 12:00:00 +0000"
     },
     {
+      "title": "Stocketa",
+      "link": "https://paulstamatiou.com/stocketa",
+      "published": "Mon, 16 Oct 2023 00:00:00 GMT"
+    },
+    {
       "title": "Multi-layered calendars",
       "link": "https://julian.digital/2023/07/06/multi-layered-calendars/",
       "published": "Thu, 06 Jul 2023 14:10:12 +0000"
@@ -254,6 +264,11 @@
       "title": "Server-side Rendering: CDN and Caching",
       "link": "https://zemlan.in/ssr-cdn.html",
       "published": "Wed, 17 May 2023 17:40:00 GMT"
+    },
+    {
+      "title": "Digital clutter",
+      "link": "https://paulstamatiou.com/digital-clutter",
+      "published": "Sat, 15 Apr 2023 00:00:00 GMT"
     },
     {
       "title": "Bicycle",
