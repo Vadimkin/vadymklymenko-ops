@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "High and Low",
+      "link": "https://world.hey.com/jason/high-and-low-b7125d81",
+      "published": "2024-10-31T22:33:53Z"
+    },
+    {
       "title": "Best practices та центри компетенцій в армії",
       "link": "https://www.rozhkov.me/best-practices-in-army/",
       "published": "Fri, 25 Oct 2024 06:24:00 GMT"
@@ -121,6 +126,11 @@
       "published": "Wed, 25 Sep 2024 20:33:55 GMT"
     },
     {
+      "title": "Metric-Less Success",
+      "link": "https://moretothat.com/metric-less-success/",
+      "published": "Tue, 24 Sep 2024 23:04:19 +0000"
+    },
+    {
       "title": "SVG, тригонометрія та стрілки крутого повороту",
       "link": "https://zaytsev.io/blog/trigonometry/",
       "published": "Wed, 11 Sep 2024 00:00:00 +0000"
@@ -159,6 +169,11 @@
       "title": "Більше, ніж яблук, хат і людей",
       "link": "https://reporters.media/bilshe-nizh-yabluk-hat-i-lyudej/",
       "published": "Tue, 06 Aug 2024 07:51:00 +0000"
+    },
+    {
+      "title": "The Tired Nature of Thought",
+      "link": "https://moretothat.com/the-tired-nature-of-thought/",
+      "published": "Thu, 01 Aug 2024 12:10:15 +0000"
     },
     {
       "title": "Як полагодити роботу сервісів Apple в Україні (спойлер — допоможе VPN)",
