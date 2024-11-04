@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "100% coverage тести, які нічого не тестують",
+      "link": "https://www.rozhkov.me/useless-tests/",
+      "published": "Mon, 04 Nov 2024 07:24:00 GMT"
+    },
+    {
       "title": "High and Low",
       "link": "https://world.hey.com/jason/high-and-low-b7125d81",
       "published": "2024-10-31T22:33:53Z"
