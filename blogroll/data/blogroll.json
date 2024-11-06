@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "What you know that just ain't so",
+      "link": "https://world.hey.com/dhh/what-you-know-that-just-ain-t-so-ab6f4bb1",
+      "published": "2024-11-05T18:11:22Z"
+    },
+    {
       "title": "100% coverage тести, які нічого не тестують",
       "link": "https://www.rozhkov.me/useless-tests/",
       "published": "Mon, 04 Nov 2024 07:24:00 GMT"
@@ -96,6 +101,11 @@
       "published": "Tue, 01 Oct 2024 23:02:09 +0000"
     },
     {
+      "title": "How to Get the Most Out of a Conference",
+      "link": "https://www.autodidacts.io/conference-tips/",
+      "published": "Mon, 30 Sep 2024 02:36:45 GMT"
+    },
+    {
       "title": "QA: Кодинг у дизайні",
       "link": "https://blog.alexkolodko.com/all/qa-design-and-coding/",
       "published": "Sun, 29 Sep 2024 16:13:08 +0300"
@@ -119,6 +129,11 @@
       "title": "Metric-Less Success",
       "link": "https://moretothat.com/metric-less-success/",
       "published": "Tue, 24 Sep 2024 23:04:19 +0000"
+    },
+    {
+      "title": "Implementing Elegant Timing",
+      "link": "https://www.autodidacts.io/elegant-timing/",
+      "published": "Wed, 11 Sep 2024 20:20:48 GMT"
     },
     {
       "title": "SVG, тригонометрія та стрілки крутого повороту",
