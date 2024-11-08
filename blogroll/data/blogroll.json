@@ -1,14 +1,39 @@
 {
   "feed": [
     {
+      "title": "Local-first dev environments",
+      "link": "https://www.rozhkov.me/local-first-dev-environments/",
+      "published": "Fri, 08 Nov 2024 07:24:00 GMT"
+    },
+    {
+      "title": "The spells are spent",
+      "link": "https://world.hey.com/dhh/the-spells-are-spent-beaa675b",
+      "published": "2024-11-06T14:50:33Z"
+    },
+    {
+      "title": "What you know that just ain't so",
+      "link": "https://world.hey.com/dhh/what-you-know-that-just-ain-t-so-ab6f4bb1",
+      "published": "2024-11-05T18:11:22Z"
+    },
+    {
       "title": "100% coverage тести, які нічого не тестують",
       "link": "https://www.rozhkov.me/useless-tests/",
       "published": "Mon, 04 Nov 2024 07:24:00 GMT"
     },
     {
+      "title": "High and Low",
+      "link": "https://world.hey.com/jason/high-and-low-b7125d81",
+      "published": "2024-10-31T22:33:53Z"
+    },
+    {
       "title": "Best practices та центри компетенцій в армії",
       "link": "https://www.rozhkov.me/best-practices-in-army/",
       "published": "Fri, 25 Oct 2024 06:24:00 GMT"
+    },
+    {
+      "title": "Version 1 is for you",
+      "link": "https://world.hey.com/jason/version-1-is-for-you-658422f3",
+      "published": "2024-10-23T21:19:39Z"
     },
     {
       "title": "Про розформування ІТ-галер",
@@ -26,6 +51,11 @@
       "published": "Fri, 18 Oct 2024 06:24:00 GMT"
     },
     {
+      "title": "Our cloud-exit savings will now top ten million over five years",
+      "link": "https://world.hey.com/dhh/our-cloud-exit-savings-will-now-top-ten-million-over-five-years-c7d9b5bd",
+      "published": "2024-10-17T18:56:37Z"
+    },
+    {
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
       "link": "https://waitbutwhy.com/2024/10/spacex-toddler.html",
       "published": "Wed, 16 Oct 2024 18:48:55 +0000"
@@ -39,6 +69,31 @@
       "title": "In ave of progress, still",
       "link": "https://www.the-next.me/in-ave-of-progress-still/",
       "published": "Tue, 15 Oct 2024 20:45:05 GMT"
+    },
+    {
+      "title": "Capture less than you create",
+      "link": "https://world.hey.com/dhh/capture-less-than-you-create-c30e462e",
+      "published": "2024-10-14T20:19:11Z"
+    },
+    {
+      "title": "To the crazy ones",
+      "link": "https://world.hey.com/dhh/to-the-crazy-ones-e43822c7",
+      "published": "2024-10-13T18:33:13Z"
+    },
+    {
+      "title": "Open source royalty and mad kings",
+      "link": "https://world.hey.com/dhh/open-source-royalty-and-mad-kings-a8f79d16",
+      "published": "2024-10-13T02:19:26Z"
+    },
+    {
+      "title": "The Teenage Engineering TP-7",
+      "link": "https://world.hey.com/jason/the-teenage-engineering-tp-7-2acc5b6d",
+      "published": "2024-10-11T20:34:12Z"
+    },
+    {
+      "title": "Don't have a biggest customer",
+      "link": "https://world.hey.com/jason/don-t-have-a-biggest-customer-99d1cafe",
+      "published": "2024-10-09T15:33:31Z"
     },
     {
       "title": "Days Are Easily Made",
