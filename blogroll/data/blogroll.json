@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to Migrate a Discourse Forum from DigitalOcean to Linveo",
+      "link": "https://www.autodidacts.io/migrate-discourse-from-digitalocean-to-linveo/",
+      "published": "Wed, 13 Nov 2024 03:20:43 GMT"
+    },
+    {
       "title": "House rules in Fortnite",
       "link": "https://world.hey.com/dhh/house-rules-in-fortnite-16e0e5e8",
       "published": "2024-11-12T19:00:52Z"
@@ -86,19 +91,9 @@
       "published": "2024-10-14T20:19:11Z"
     },
     {
-      "title": "Days Are Easily Made",
-      "link": "https://www.autodidacts.io/how-to-make-someones-day/",
-      "published": "Sun, 06 Oct 2024 19:53:15 GMT"
-    },
-    {
       "title": "Tech Is No Substitute for Depth",
       "link": "https://moretothat.com/tech-is-no-substitute-for-depth/",
       "published": "Tue, 01 Oct 2024 23:02:09 +0000"
-    },
-    {
-      "title": "How to Get the Most Out of a Conference",
-      "link": "https://www.autodidacts.io/conference-tips/",
-      "published": "Mon, 30 Sep 2024 02:36:45 GMT"
     },
     {
       "title": "QA: Кодинг у дизайні",
@@ -124,11 +119,6 @@
       "title": "Metric-Less Success",
       "link": "https://moretothat.com/metric-less-success/",
       "published": "Tue, 24 Sep 2024 23:04:19 +0000"
-    },
-    {
-      "title": "Implementing Elegant Timing",
-      "link": "https://www.autodidacts.io/elegant-timing/",
-      "published": "Wed, 11 Sep 2024 20:20:48 GMT"
     },
     {
       "title": "SVG, тригонометрія та стрілки крутого повороту",
