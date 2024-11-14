@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Obsessive problem solving followed by aimless wandering",
+      "link": "https://world.hey.com/dhh/obsessive-problem-solving-followed-by-aimless-wandering-b8e94e0a",
+      "published": "2024-11-13T18:55:08Z"
+    },
+    {
       "title": "How to Migrate a Discourse Forum from DigitalOcean to Linveo",
       "link": "https://www.autodidacts.io/migrate-discourse-from-digitalocean-to-linveo/",
       "published": "Wed, 13 Nov 2024 03:20:43 GMT"
@@ -89,11 +94,6 @@
       "title": "In ave of progress, still",
       "link": "https://www.the-next.me/in-ave-of-progress-still/",
       "published": "Tue, 15 Oct 2024 20:45:05 GMT"
-    },
-    {
-      "title": "Capture less than you create",
-      "link": "https://world.hey.com/dhh/capture-less-than-you-create-c30e462e",
-      "published": "2024-10-14T20:19:11Z"
     },
     {
       "title": "Tech Is No Substitute for Depth",
