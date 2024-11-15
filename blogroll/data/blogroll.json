@@ -1,14 +1,9 @@
 {
   "feed": [
     {
-      "title": "Making it happen vs. Letting it happen",
-      "link": "https://world.hey.com/jason/making-it-happen-vs-letting-it-happen-28d4b4c0",
-      "published": "2024-11-14T17:52:38Z"
-    },
-    {
-      "title": "Obsessive problem solving followed by aimless wandering",
-      "link": "https://world.hey.com/dhh/obsessive-problem-solving-followed-by-aimless-wandering-b8e94e0a",
-      "published": "2024-11-13T18:55:08Z"
+      "title": "Agency",
+      "link": "https://www.rozhkov.me/agency/",
+      "published": "Fri, 15 Nov 2024 07:24:00 GMT"
     },
     {
       "title": "How to Migrate a Discourse Forum from DigitalOcean to Linveo",
@@ -21,29 +16,9 @@
       "published": "Wed, 13 Nov 2024 00:00:00 +0000"
     },
     {
-      "title": "House rules in Fortnite",
-      "link": "https://world.hey.com/dhh/house-rules-in-fortnite-16e0e5e8",
-      "published": "2024-11-12T19:00:52Z"
-    },
-    {
-      "title": "Too much therapy at work",
-      "link": "https://world.hey.com/dhh/too-much-therapy-at-work-f79ac95c",
-      "published": "2024-11-11T17:57:46Z"
-    },
-    {
       "title": "Local-first dev environments",
       "link": "https://www.rozhkov.me/local-first-dev-environments/",
       "published": "Fri, 08 Nov 2024 07:24:00 GMT"
-    },
-    {
-      "title": "The spells are spent",
-      "link": "https://world.hey.com/dhh/the-spells-are-spent-beaa675b",
-      "published": "2024-11-06T14:50:33Z"
-    },
-    {
-      "title": "What you know that just ain't so",
-      "link": "https://world.hey.com/dhh/what-you-know-that-just-ain-t-so-ab6f4bb1",
-      "published": "2024-11-05T18:11:22Z"
     },
     {
       "title": "100% coverage тести, які нічого не тестують",
@@ -51,19 +26,9 @@
       "published": "Mon, 04 Nov 2024 07:24:00 GMT"
     },
     {
-      "title": "High and Low",
-      "link": "https://world.hey.com/jason/high-and-low-b7125d81",
-      "published": "2024-10-31T22:33:53Z"
-    },
-    {
       "title": "Best practices та центри компетенцій в армії",
       "link": "https://www.rozhkov.me/best-practices-in-army/",
       "published": "Fri, 25 Oct 2024 06:24:00 GMT"
-    },
-    {
-      "title": "Version 1 is for you",
-      "link": "https://world.hey.com/jason/version-1-is-for-you-658422f3",
-      "published": "2024-10-23T21:19:39Z"
     },
     {
       "title": "Про розформування ІТ-галер",
@@ -81,19 +46,9 @@
       "published": "Fri, 18 Oct 2024 06:24:00 GMT"
     },
     {
-      "title": "Our cloud-exit savings will now top ten million over five years",
-      "link": "https://world.hey.com/dhh/our-cloud-exit-savings-will-now-top-ten-million-over-five-years-c7d9b5bd",
-      "published": "2024-10-17T18:56:37Z"
-    },
-    {
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
       "link": "https://waitbutwhy.com/2024/10/spacex-toddler.html",
       "published": "Wed, 16 Oct 2024 18:48:55 +0000"
-    },
-    {
-      "title": "R&D на війні",
-      "link": "https://www.rozhkov.me/rnd-at-the-war/",
-      "published": "Wed, 16 Oct 2024 06:24:00 GMT"
     },
     {
       "title": "In ave of progress, still",
