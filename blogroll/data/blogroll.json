@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Elixir-like pipes in Ruby (oh no not again)",
+      "link": "https://zverok.space/blog/2024-11-16-elixir-pipes.html",
+      "published": "Sat, 16 Nov 2024 00:00:00 +0000"
+    },
+    {
       "title": "Agency",
       "link": "https://www.rozhkov.me/agency/",
       "published": "Fri, 15 Nov 2024 07:24:00 GMT"
@@ -84,11 +89,6 @@
       "title": "Армійські cost та revenue центри",
       "link": "https://www.rozhkov.me/cost-and-revenue-centers-in-army/",
       "published": "Fri, 18 Oct 2024 06:24:00 GMT"
-    },
-    {
-      "title": "Our cloud-exit savings will now top ten million over five years",
-      "link": "https://world.hey.com/dhh/our-cloud-exit-savings-will-now-top-ten-million-over-five-years-c7d9b5bd",
-      "published": "2024-10-17T18:56:37Z"
     },
     {
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
