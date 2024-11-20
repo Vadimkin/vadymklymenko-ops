@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Joining the Shopify board of directors",
+      "link": "https://world.hey.com/dhh/joining-the-shopify-board-of-directors-3c351fbb",
+      "published": "2024-11-19T18:15:34Z"
+    },
+    {
       "title": "Elixir-like pipes in Ruby (oh no not again)",
       "link": "https://zverok.space/blog/2024-11-16-elixir-pipes.html",
       "published": "Sat, 16 Nov 2024 00:00:00 +0000"
@@ -79,11 +84,6 @@
       "title": "Про розформування ІТ-галер",
       "link": "https://www.rozhkov.me/disbanded-it-departments/",
       "published": "Wed, 23 Oct 2024 06:24:00 GMT"
-    },
-    {
-      "title": "There is no such thing as a global method (in Ruby)",
-      "link": "https://zverok.space/blog/2024-10-21-global_functions.html",
-      "published": "Mon, 21 Oct 2024 00:00:00 +0000"
     },
     {
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
