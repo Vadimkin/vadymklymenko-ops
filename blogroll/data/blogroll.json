@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Реклама в уклоні",
+      "link": "https://www.rozhkov.me/uklon-advertising/",
+      "published": "Fri, 22 Nov 2024 07:24:00 GMT"
+    },
+    {
       "title": "Jaguar is lost but Volvo knows the way",
       "link": "https://world.hey.com/dhh/jaguar-is-lost-but-volvo-knows-the-way-9601033c",
       "published": "2024-11-21T18:37:23Z"
@@ -104,11 +109,6 @@
       "title": "Version 1 is for you",
       "link": "https://world.hey.com/jason/version-1-is-for-you-658422f3",
       "published": "2024-10-23T21:19:39Z"
-    },
-    {
-      "title": "Про розформування ІТ-галер",
-      "link": "https://www.rozhkov.me/disbanded-it-departments/",
-      "published": "Wed, 23 Oct 2024 06:24:00 GMT"
     },
     {
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
