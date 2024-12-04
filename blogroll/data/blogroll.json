@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The End of Shame",
+      "link": "https://moretothat.com/the-end-of-shame/",
+      "published": "Tue, 03 Dec 2024 23:30:36 +0000"
+    },
+    {
       "title": "Супераппи",
       "link": "https://www.rozhkov.me/superapps/",
       "published": "Wed, 27 Nov 2024 07:24:00 GMT"
@@ -106,11 +111,6 @@
       "published": "Wed, 16 Oct 2024 18:48:55 +0000"
     },
     {
-      "title": "Tech Is No Substitute for Depth",
-      "link": "https://moretothat.com/tech-is-no-substitute-for-depth/",
-      "published": "Tue, 01 Oct 2024 23:02:09 +0000"
-    },
-    {
       "title": "QA: Кодинг у дизайні",
       "link": "https://blog.alexkolodko.com/all/qa-design-and-coding/",
       "published": "Sun, 29 Sep 2024 16:13:08 +0300"
@@ -124,11 +124,6 @@
       "title": "Лого НСЗУ",
       "link": "https://blog.alexkolodko.com/all/logo-nszu/",
       "published": "Fri, 27 Sep 2024 12:58:50 +0300"
-    },
-    {
-      "title": "Metric-Less Success",
-      "link": "https://moretothat.com/metric-less-success/",
-      "published": "Tue, 24 Sep 2024 23:04:19 +0000"
     },
     {
       "title": "Features of your font you had no idea about",
@@ -159,11 +154,6 @@
       "title": "Більше, ніж яблук, хат і людей",
       "link": "https://reporters.media/bilshe-nizh-yabluk-hat-i-lyudej/",
       "published": "Tue, 06 Aug 2024 07:51:00 +0000"
-    },
-    {
-      "title": "The Tired Nature of Thought",
-      "link": "https://moretothat.com/the-tired-nature-of-thought/",
-      "published": "Thu, 01 Aug 2024 12:10:15 +0000"
     },
     {
       "title": "Як полагодити роботу сервісів Apple в Україні (спойлер — допоможе VPN)",
