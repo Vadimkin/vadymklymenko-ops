@@ -1,6 +1,51 @@
 {
   "feed": [
     {
+      "title": "Візуальний дизайн, вайб та смак",
+      "link": "https://www.govorukhin.com/blog/visuals-vibes",
+      "published": "Sun, 08 Dec 2024 12:26:28 GMT"
+    },
+    {
+      "title": "Незамінний дизайн",
+      "link": "https://www.govorukhin.com/blog/irreplaceable-design",
+      "published": "Sun, 08 Dec 2024 12:26:28 GMT"
+    },
+    {
+      "title": "Ті, хто діють > ті, хто мріють",
+      "link": "https://www.govorukhin.com/blog/doing-dreaming",
+      "published": "Sun, 08 Dec 2024 12:26:28 GMT"
+    },
+    {
+      "title": "Корпоративні зайчики та продуктові дизайнери",
+      "link": "https://www.govorukhin.com/blog/bunnies-and-real-ones",
+      "published": "Sun, 08 Dec 2024 12:26:28 GMT"
+    },
+    {
+      "title": "Уявити, що дані є",
+      "link": "https://www.govorukhin.com/blog/imagine-the-data",
+      "published": "Sun, 08 Dec 2024 12:26:28 GMT"
+    },
+    {
+      "title": "Інтерфейс лікомату АНЦ",
+      "link": "https://www.govorukhin.com/blog/likomat-ui",
+      "published": "Sun, 08 Dec 2024 12:26:28 GMT"
+    },
+    {
+      "title": "Не перевикупати",
+      "link": "https://www.govorukhin.com/blog/dont-overthink-shit",
+      "published": "Sun, 08 Dec 2024 12:26:28 GMT"
+    },
+    {
+      "title": "Писати текст",
+      "link": "https://www.govorukhin.com/blog/on-writing",
+      "published": "Sun, 08 Dec 2024 12:26:28 GMT"
+    },
+    {
+      "title": "Український дизайн — не музейний експонат",
+      "link": "https://www.govorukhin.com/blog/ukrainian-design-is-about-the-future",
+      "published": "Sun, 08 Dec 2024 12:26:28 GMT"
+    },
+    {
       "title": "The End of Shame",
       "link": "https://moretothat.com/the-end-of-shame/",
       "published": "Tue, 03 Dec 2024 23:30:36 +0000"
@@ -151,24 +196,9 @@
       "published": "Wed, 24 Jul 2024 12:32:11 +0000"
     },
     {
-      "title": "Український дизайн — не музейний експонат",
-      "link": "https://www.govorukhin.com/blog/ukrainian-design-is-about-the-future",
-      "published": "Mon, 22 Jul 2024 15:16:15 GMT"
-    },
-    {
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Писати текст",
-      "link": "https://www.govorukhin.com/blog/on-writing",
-      "published": "Fri, 05 Jul 2024 11:17:42 GMT"
-    },
-    {
-      "title": "Не перевикупати",
-      "link": "https://www.govorukhin.com/blog/dont-overthink-shit",
-      "published": "Fri, 05 Jul 2024 10:12:51 GMT"
     },
     {
       "title": "Дивись, як я можу",
