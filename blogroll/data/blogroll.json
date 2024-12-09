@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "On Code Reviews",
+      "link": "https://zemlan.in/on-code-reviews.html",
+      "published": "Sun, 08 Dec 2024 17:00:00 GMT"
+    },
+    {
       "title": "Візуальний дизайн, вайб та смак",
       "link": "https://www.govorukhin.com/blog/visuals-vibes",
       "published": "Sun, 08 Dec 2024 12:26:28 GMT"
@@ -251,11 +256,6 @@
       "published": "Thu, 06 Jul 2023 14:10:12 +0000"
     },
     {
-      "title": "Server-side Rendering: CDN and Caching",
-      "link": "https://zemlan.in/ssr-cdn.html",
-      "published": "Wed, 17 May 2023 17:40:00 GMT"
-    },
-    {
       "title": "Digital clutter",
       "link": "https://paulstamatiou.com/digital-clutter",
       "published": "Sat, 15 Apr 2023 00:00:00 GMT"
@@ -264,16 +264,6 @@
       "title": "Bicycle",
       "link": "https://ciechanow.ski/bicycle/",
       "published": "Tue, 28 Mar 2023 04:00:00 -0800"
-    },
-    {
-      "title": "Server-side Rendering: The Server",
-      "link": "https://zemlan.in/ssr-the-server.html",
-      "published": "Sat, 03 Dec 2022 12:40:00 GMT"
-    },
-    {
-      "title": "Server-side Rendering: Backstory",
-      "link": "https://zemlan.in/ssr-backstory.html",
-      "published": "Wed, 02 Nov 2022 11:03:00 GMT"
     },
     {
       "title": "How to animate multiplayer cursors",
