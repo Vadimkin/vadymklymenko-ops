@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Захотів зробити апку для скрінкастів",
+      "link": "https://www.rozhkov.me/screencast-struggles/",
+      "published": "Fri, 13 Dec 2024 07:24:00 GMT"
+    },
+    {
       "title": "On Code Reviews",
       "link": "https://zemlan.in/on-code-reviews.html",
       "published": "Sun, 08 Dec 2024 17:00:00 GMT"
@@ -134,6 +139,16 @@
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
       "link": "https://waitbutwhy.com/2024/10/spacex-toddler.html",
       "published": "Wed, 16 Oct 2024 18:48:55 +0000"
+    },
+    {
+      "title": "Days Are Easily Made",
+      "link": "https://www.autodidacts.io/how-to-make-someones-day/",
+      "published": "Sun, 06 Oct 2024 19:53:15 GMT"
+    },
+    {
+      "title": "How to Get the Most Out of a Conference",
+      "link": "https://www.autodidacts.io/conference-tips/",
+      "published": "Mon, 30 Sep 2024 02:36:45 GMT"
     },
     {
       "title": "QA: Кодинг у дизайні",
