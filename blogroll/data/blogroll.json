@@ -136,6 +136,11 @@
       "published": "2024-10-23T21:19:39Z"
     },
     {
+      "title": "There is no such thing as a global method (in Ruby)",
+      "link": "https://zverok.space/blog/2024-10-21-global_functions.html",
+      "published": "Mon, 21 Oct 2024 00:00:00 +0000"
+    },
+    {
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
       "link": "https://waitbutwhy.com/2024/10/spacex-toddler.html",
       "published": "Wed, 16 Oct 2024 18:48:55 +0000"
@@ -144,6 +149,11 @@
       "title": "Days Are Easily Made",
       "link": "https://www.autodidacts.io/how-to-make-someones-day/",
       "published": "Sun, 06 Oct 2024 19:53:15 GMT"
+    },
+    {
+      "title": "On programming and poetry (not Python’s tool)",
+      "link": "https://zverok.space/blog/2024-10-06-poetry.html",
+      "published": "Sun, 06 Oct 2024 00:00:00 +0000"
     },
     {
       "title": "How to Get the Most Out of a Conference",
@@ -271,11 +281,6 @@
       "published": "Mon, 16 Oct 2023 00:00:00 GMT"
     },
     {
-      "title": "Multi-layered calendars",
-      "link": "https://julian.digital/2023/07/06/multi-layered-calendars/",
-      "published": "Thu, 06 Jul 2023 14:10:12 +0000"
-    },
-    {
       "title": "Digital clutter",
       "link": "https://paulstamatiou.com/digital-clutter",
       "published": "Sat, 15 Apr 2023 00:00:00 GMT"
@@ -294,16 +299,6 @@
       "title": "Смішинки перших тижнів повномасштабної війни",
       "link": "https://poohitan.com/p/not-so-funny-stories",
       "published": "Thu, 02 Jun 2022 19:09:00 GMT"
-    },
-    {
-      "title": "The power of defaults",
-      "link": "https://julian.digital/2021/12/20/the-power-of-defaults/",
-      "published": "Mon, 20 Dec 2021 16:39:05 +0000"
-    },
-    {
-      "title": "Media Consumption (Apr 2021)",
-      "link": "https://julian.digital/2021/05/03/media-consumption-apr-2021/",
-      "published": "Mon, 03 May 2021 19:38:12 +0000"
     },
     {
       "title": "Прочитане-2020",
