@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Bluesky",
+      "link": "https://www.rozhkov.me/bluesky/",
+      "published": "Mon, 16 Dec 2024 07:24:00 GMT"
+    },
+    {
       "title": "Захотів зробити апку для скрінкастів",
       "link": "https://www.rozhkov.me/screencast-struggles/",
       "published": "Fri, 13 Dec 2024 07:24:00 GMT"
@@ -281,6 +286,11 @@
       "published": "Mon, 16 Oct 2023 00:00:00 GMT"
     },
     {
+      "title": "Multi-layered calendars",
+      "link": "https://julian.digital/2023/07/06/multi-layered-calendars/",
+      "published": "Thu, 06 Jul 2023 14:10:12 +0000"
+    },
+    {
       "title": "Digital clutter",
       "link": "https://paulstamatiou.com/digital-clutter",
       "published": "Sat, 15 Apr 2023 00:00:00 GMT"
@@ -299,6 +309,16 @@
       "title": "Смішинки перших тижнів повномасштабної війни",
       "link": "https://poohitan.com/p/not-so-funny-stories",
       "published": "Thu, 02 Jun 2022 19:09:00 GMT"
+    },
+    {
+      "title": "The power of defaults",
+      "link": "https://julian.digital/2021/12/20/the-power-of-defaults/",
+      "published": "Mon, 20 Dec 2021 16:39:05 +0000"
+    },
+    {
+      "title": "Media Consumption (Apr 2021)",
+      "link": "https://julian.digital/2021/05/03/media-consumption-apr-2021/",
+      "published": "Mon, 03 May 2021 19:38:12 +0000"
     },
     {
       "title": "Прочитане-2020",
