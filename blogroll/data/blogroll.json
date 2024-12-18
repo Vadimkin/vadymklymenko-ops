@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Moon",
+      "link": "https://ciechanow.ski/moon/",
+      "published": "Tue, 17 Dec 2024 04:00:00 -0800"
+    },
+    {
       "title": "The premise trap",
       "link": "https://world.hey.com/dhh/the-premise-trap-924b8cd9",
       "published": "2024-12-16T23:25:39Z"
@@ -256,11 +261,6 @@
       "published": "Wed, 08 May 2024 00:00:00 +0000"
     },
     {
-      "title": "Airfoil",
-      "link": "https://ciechanow.ski/airfoil/",
-      "published": "Tue, 27 Feb 2024 04:00:00 -0800"
-    },
-    {
       "title": "All My Thoughts After 40 Hours in the Vision Pro",
       "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
       "published": "Fri, 09 Feb 2024 18:24:38 +0000"
@@ -299,11 +299,6 @@
       "title": "Digital clutter",
       "link": "https://paulstamatiou.com/digital-clutter",
       "published": "Sat, 15 Apr 2023 00:00:00 GMT"
-    },
-    {
-      "title": "Bicycle",
-      "link": "https://ciechanow.ski/bicycle/",
-      "published": "Tue, 28 Mar 2023 04:00:00 -0800"
     },
     {
       "title": "How to animate multiplayer cursors",
