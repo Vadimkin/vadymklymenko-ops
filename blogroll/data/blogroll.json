@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "wtf is corepack?",
+      "link": "https://www.rozhkov.me/js-ecosystem/",
+      "published": "Fri, 20 Dec 2024 07:24:44 GMT"
+    },
+    {
       "title": "Страхи збуваються",
       "link": "https://www.rozhkov.me/fear-became-true/",
       "published": "Wed, 18 Dec 2024 07:24:10 GMT"
@@ -114,11 +119,6 @@
       "title": "Cold reading an ADHD affliction",
       "link": "https://world.hey.com/dhh/cold-reading-an-adhd-affliction-44163793",
       "published": "2024-11-20T21:19:39Z"
-    },
-    {
-      "title": "Дауншифтери",
-      "link": "https://www.rozhkov.me/downshifters/",
-      "published": "Wed, 20 Nov 2024 07:24:00 GMT"
     },
     {
       "title": "Elixir-like pipes in Ruby (oh no not again)",
