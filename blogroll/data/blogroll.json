@@ -21,6 +21,11 @@
       "published": "Tue, 17 Dec 2024 04:00:00 -0800"
     },
     {
+      "title": "The premise trap",
+      "link": "https://world.hey.com/dhh/the-premise-trap-924b8cd9",
+      "published": "2024-12-16T23:25:39Z"
+    },
+    {
       "title": "Bluesky",
       "link": "https://www.rozhkov.me/bluesky/",
       "published": "Mon, 16 Dec 2024 07:24:00 GMT"
@@ -106,6 +111,11 @@
       "published": "Sat, 16 Nov 2024 00:00:00 +0000"
     },
     {
+      "title": "Making it happen vs. Letting it happen",
+      "link": "https://world.hey.com/jason/making-it-happen-vs-letting-it-happen-28d4b4c0",
+      "published": "2024-11-14T17:52:38Z"
+    },
+    {
       "title": "How to Migrate a Discourse Forum from DigitalOcean to Linveo",
       "link": "https://www.autodidacts.io/migrate-discourse-from-digitalocean-to-linveo/",
       "published": "Wed, 13 Nov 2024 03:20:43 GMT"
@@ -114,6 +124,16 @@
       "title": "Автори двох кращих книг року",
       "link": "https://zaytsev.io/blog/david-burns-and-rick-rubin/",
       "published": "Wed, 13 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "High and Low",
+      "link": "https://world.hey.com/jason/high-and-low-b7125d81",
+      "published": "2024-10-31T22:33:53Z"
+    },
+    {
+      "title": "Version 1 is for you",
+      "link": "https://world.hey.com/jason/version-1-is-for-you-658422f3",
+      "published": "2024-10-23T21:19:39Z"
     },
     {
       "title": "There is no such thing as a global method (in Ruby)",
