@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Як зробити, щоб http://localhost:8080 було видно в інтернет",
+      "link": "https://www.rozhkov.me/localhost-in-the-wild/",
+      "published": "Wed, 25 Dec 2024 07:24:42 GMT"
+    },
+    {
       "title": "Купив новий смартфон",
       "link": "https://www.rozhkov.me/new-smartphone/",
       "published": "Mon, 23 Dec 2024 07:24:51 GMT"
