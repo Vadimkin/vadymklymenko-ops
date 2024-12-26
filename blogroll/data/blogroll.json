@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Revisiting Travel",
+      "link": "https://moretothat.com/revisiting-travel/",
+      "published": "Wed, 25 Dec 2024 22:06:36 +0000"
+    },
+    {
       "title": "Як зробити, щоб http://localhost:8080 було видно в інтернет",
       "link": "https://www.rozhkov.me/localhost-in-the-wild/",
       "published": "Wed, 25 Dec 2024 07:24:42 GMT"
