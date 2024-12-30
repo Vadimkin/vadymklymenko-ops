@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Втомився боротися з лінтерами",
+      "link": "https://www.rozhkov.me/tired-of-linters/",
+      "published": "Mon, 30 Dec 2024 07:24:23 GMT"
+    },
+    {
       "title": "Телеграм-бот для скриншотів bluesky",
       "link": "https://www.rozhkov.me/bsky-screenshots-bot/",
       "published": "Fri, 27 Dec 2024 07:24:05 GMT"
