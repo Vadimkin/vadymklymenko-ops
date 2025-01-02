@@ -251,7 +251,7 @@
       "date_started": "2023-10-03",
       "date_read": "2023-10-03",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Каста. Витоки наших невдоволень",
@@ -273,7 +273,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Про що я говорю, коли говорю про біг",
@@ -284,7 +284,7 @@
       "date_started": "2022-08-03",
       "date_read": "2022-08-04",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Ласощі для Медора",
@@ -295,7 +295,7 @@
       "date_started": "2022-03-12",
       "date_read": "2022-03-13",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Don't Be Evil: How Big Tech Betrayed Its Founding Principles -- and All of Us",
@@ -306,7 +306,7 @@
       "date_started": "2021-12-19",
       "date_read": "2022-01-09",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Spotify навиворіт. Як шведський стартап здійснив музичну революцію",
@@ -317,7 +317,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Шлях до несвободи: Росія, Європа, Америка",
@@ -327,336 +327,6 @@
       "rating": 4,
       "date_started": "2021-07-25",
       "date_read": "2021-08-07",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Досить уже помилок. Як наші упередження впливають на наші рішення",
-      "author": "Olivier Sibony",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608022912l/56296550.jpg",
-      "review_url": "https://www.goodreads.com/review/show/4079384322",
-      "rating": 3,
-      "date_started": "2021-08-07",
-      "date_read": "2021-08-10",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "The Passion Economy: The New Rules for Thriving in the Twenty-First Century",
-      "author": "Adam Davidson",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555436538l/45152042.jpg",
-      "review_url": "https://www.goodreads.com/review/show/4032270690",
-      "rating": null,
-      "date_started": "2021-07-02",
-      "date_read": "2021-11-21",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Чистий Agile: назад до основ",
-      "author": "Robert C. Martin",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643723157l/57678079.jpg",
-      "review_url": "https://www.goodreads.com/review/show/4025395583",
-      "rating": 4,
-      "date_started": "2021-05-27",
-      "date_read": "2021-06-05",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Постправда",
-      "author": "Lee McIntyre",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616759406l/57532429.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3909793336",
-      "rating": 3,
-      "date_started": "2021-04-10",
-      "date_read": "2021-04-13",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Як ми вчимося. Чому мозок навчається краще, ніж машина… Поки що",
-      "author": "Станіслас Деан",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615648503l/57396951.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3887640312",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Чути українською",
-      "author": "Ольга Дубчак",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608687817l/55853863.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3848142537",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Міста для людей",
-      "author": "Jan Gehl",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525873635l/40087162.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3808744730",
-      "rating": 4,
-      "date_started": "2021-01-31",
-      "date_read": "2021-02-14",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Міста. Перші 6000 років",
-      "author": "Monica L. Smith",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595189615l/54595122.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3672452830",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Диванні експерти. Як необмежений доступ до інформації робить нас тупішими",
-      "author": "Thomas M. Nichols",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568987571l/51835837.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3656370200",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Все це триватиме далі",
-      "author": "Анна Санден",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600433673l/55368063.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3567483470",
-      "rating": 3,
-      "date_started": "2020-09-26",
-      "date_read": "2020-09-26",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Передбачувана ірраціональність",
-      "author": "Dan Ariely",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716375839l/40380910.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3552890075",
-      "rating": 4,
-      "date_started": "2020-10-05",
-      "date_read": "2020-10-19",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Як нагодувати диктатора",
-      "author": "Witold Szabłowski",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632502810l/53934457.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3522649872",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Економіка. Інструкція з використання",
-      "author": "Ha-Joon Chang",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475524797l/32391847.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3447993057",
-      "rating": 2,
-      "date_started": "2020-07-19",
-      "date_read": "2020-08-12",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Зруйнована гавань",
-      "author": "Tana French",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578781453l/43840243.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3425103859",
-      "rating": 3,
-      "date_started": "2020-08-26",
-      "date_read": "2020-09-09",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Амадока",
-      "author": "Sofia Andrukhovych",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589718109l/51476901.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3352394416",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Нормальні люди",
-      "author": "Sally Rooney",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609750889l/54869645.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3341787796",
-      "rating": 3,
-      "date_started": "2020-09-26",
-      "date_read": "2020-09-29",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Повсякденний сталінізм. Київ і кияни після Великої війни",
-      "author": "Serhy Yekelchyk",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564949432l/45033902.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252459489",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Нам усім пощастило",
-      "author": "Yuri Andrukhovych",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506288920l/36298009.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252458401",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Історія Airbnb. Як троє звичайних хлопців підірвали готельну індустрію",
-      "author": "Leigh Gallagher",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546449701l/43443878.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252456929",
-      "rating": 4,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Як придумати ідею, якщо ви не Оґілві",
-      "author": "Alexey Ivanov",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577109733l/49770554.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252454033",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Чистий код: створення і рефакторінг за допомогою Agile",
-      "author": "Robert C. Martin",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568988904l/51837709.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252450936",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Жизня",
-      "author": "Олег Сенцов",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557824104l/44891862.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252449715",
-      "rating": 4,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Найкоротша історія часу",
-      "author": "Stephen Hawking",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662114075l/30817508.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252446725",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Опанувати складність",
-      "author": "Donald A. Norman",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556701789l/45422594.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252446247",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Як ніколи не помилятися. Сила математичного мислення",
-      "author": "Jordan Ellenberg",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500196698l/35686329.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252443305",
-      "rating": 3,
-      "date_started": "2017-08-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Страх і відраза в Лас-Вегасі",
-      "author": "Hunter S. Thompson",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661769883l/28963959.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252441320",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Zag. Найкращий посібник з брендингу",
-      "author": "Marty Neumeier",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497710626l/35451836.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252439231",
-      "rating": 4,
-      "date_started": null,
-      "date_read": "2017-12-01",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "21 Lessons for the 21st Century",
-      "author": "Yuval Noah Harari",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252438824",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Мистецтво подорожі",
-      "author": "Alain de Botton",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531132357l/40766036.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252438055",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Данина Каталонії",
-      "author": "George Orwell",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490486608l/34682765.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252431467",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
       "is_reading_now": false,
       "own": false
     }

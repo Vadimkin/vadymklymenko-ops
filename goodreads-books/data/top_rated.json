@@ -31,7 +31,7 @@
       "date_started": "2024-06-10",
       "date_read": "2024-07-07",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Colorless Tsukuru Tazaki And His Years Of Pilgrimage",
@@ -262,7 +262,7 @@
       "date_started": "2022-11-20",
       "date_read": "2022-12-24",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Мистецтво зосереджуватися. Як у нас украли увагу",
@@ -273,7 +273,7 @@
       "date_started": "2022-11-19",
       "date_read": "2022-11-20",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Кобзар [фототипія примірника видання 1840 року]",
@@ -295,7 +295,7 @@
       "date_started": "2022-08-03",
       "date_read": "2022-08-04",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Трубадури імперії: Російська література і колоніалізм",
@@ -339,7 +339,7 @@
       "date_started": "2022-05-29",
       "date_read": "2022-06-05",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Хлібне перемир'я",
@@ -361,7 +361,7 @@
       "date_started": "2022-03-12",
       "date_read": "2022-03-13",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Чотири тисячі тижнів. Тайм-менеджмент для смертних",
@@ -371,39 +371,6 @@
       "rating": 5,
       "date_started": "2022-02-19",
       "date_read": "2022-02-19",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "The Culture Map: Breaking Through the Invisible Boundaries of Global Business",
-      "author": "Erin Meyer",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488319495l/22085568.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3433618791",
-      "rating": 4,
-      "date_started": "2020-08-12",
-      "date_read": "2021-12-16",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Anxious People",
-      "author": "Fredrik Backman",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597575031l/49127718.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3686221149",
-      "rating": 4,
-      "date_started": "2021-10-06",
-      "date_read": "2021-10-27",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Фактологія. 10 хибних уявлень про світ, і чому все набагато краще, ніж ми думаємо",
-      "author": "Hans Rosling",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554101429l/44678251.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3802482505",
-      "rating": 5,
-      "date_started": "2021-09-01",
-      "date_read": "2021-09-11",
       "is_reading_now": false,
       "own": false
     },
@@ -427,7 +394,7 @@
       "date_started": "2021-07-07",
       "date_read": "2021-07-24",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Чистий Agile: назад до основ",
@@ -441,28 +408,6 @@
       "own": false
     },
     {
-      "title": "Економіка всього. Як інститути визначають наше життя",
-      "author": "Александр Аузан",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633440160l/59221229.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3449596507",
-      "rating": 4,
-      "date_started": "2021-06-03",
-      "date_read": "2021-06-05",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Everything Is F*cked",
-      "author": "Mark Manson",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595813035l/51826697.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3725919932",
-      "rating": 4,
-      "date_started": "2021-04-14",
-      "date_read": "2021-05-23",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
       "title": "Готуємо в журбі",
       "author": "Eugenia Kuznetsova",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609109901l/56439716.jpg",
@@ -471,7 +416,7 @@
       "date_started": null,
       "date_read": "2021-05-01",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Моя бабуся просить їй вибачити",
@@ -482,7 +427,7 @@
       "date_started": "2021-03-23",
       "date_read": "2021-04-04",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Чоловік на ім'я Уве",
@@ -493,7 +438,7 @@
       "date_started": "2021-03-19",
       "date_read": "2021-03-21",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Гітлер і Сталін. Тирани та Друга світова війна",
@@ -503,160 +448,6 @@
       "rating": 5,
       "date_started": "2021-03-12",
       "date_read": "2021-03-18",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Черчилль і Орвелл. Битва за свободу",
-      "author": "Thomas E. Ricks",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598973180l/55204312.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3327396890",
-      "rating": 4,
-      "date_started": "2021-03-01",
-      "date_read": "2021-03-12",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "The Hype Machine: How Social Media Disrupts Our Elections, Our Economy, and Our Health--and How We Must Adapt",
-      "author": "Sinan Aral",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592879051l/50608104.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3802511099",
-      "rating": 4,
-      "date_started": "2021-02-19",
-      "date_read": "2021-03-01",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Міста для людей",
-      "author": "Jan Gehl",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525873635l/40087162.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3808744730",
-      "rating": 4,
-      "date_started": "2021-01-31",
-      "date_read": "2021-02-14",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Гении и аутсайдеры",
-      "author": "Malcolm Gladwell",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415976255l/23560263.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3771911641",
-      "rating": 4,
-      "date_started": "2021-01-23",
-      "date_read": "2021-01-30",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "No Filter: The Inside Story of Instagram",
-      "author": "Sarah Frier",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566404750l/50772888.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3543655814",
-      "rating": 4,
-      "date_started": "2020-12-27",
-      "date_read": "2021-01-03",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Передбачувана ірраціональність",
-      "author": "Dan Ariely",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716375839l/40380910.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3552890075",
-      "rating": 4,
-      "date_started": "2020-10-05",
-      "date_read": "2020-10-19",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Коротко і по суті. Мистецтво визначати пріоритети",
-      "author": "Greg McKeown",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513300444l/37538870.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3401917657",
-      "rating": 4,
-      "date_started": "2020-06-25",
-      "date_read": "2020-07-04",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Анатомия человеческой деструктивности",
-      "author": "Erich Fromm",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565459607l/40717479.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3341789471",
-      "rating": 5,
-      "date_started": "2020-05-17",
-      "date_read": "2020-06-25",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "\"Я змішаю твою кров із вугіллям\". Зрозуміти український Схід",
-      "author": "Олександр Михед",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586981052l/53184975.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3328365436",
-      "rating": 5,
-      "date_started": "2020-05-10",
-      "date_read": "2020-05-10",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Тонкое искусство пофигизма. Парадоксальный способ жить счастливо",
-      "author": "Mark Manson",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517432488l/36110536.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3520879364",
-      "rating": 4,
-      "date_started": "2019-07-01",
-      "date_read": "2019-08-01",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Планета PIXAR. Моя неймовірна подорож зі Стівом Джобсом у створення історії розваг",
-      "author": "Lawrence Levy",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515359723l/37850584.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3770842981",
-      "rating": 4,
-      "date_started": "2017-12-06",
-      "date_read": "2017-12-14",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Цветы для Элджернона",
-      "author": "Daniel Keyes",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322070690l/6139677.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269822600",
-      "rating": 5,
-      "date_started": "2014-05-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "1984, Скотный Двор",
-      "author": "George Orwell",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365185159l/17733382.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269824783",
-      "rating": 5,
-      "date_started": "2014-03-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Смерть - дело одинокое",
-      "author": "Ray Bradbury",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385713697l/19038956.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269828385",
-      "rating": 4,
-      "date_started": "2013-03-01",
-      "date_read": null,
       "is_reading_now": false,
       "own": false
     }
