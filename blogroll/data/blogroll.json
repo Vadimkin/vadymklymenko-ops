@@ -36,9 +36,44 @@
       "published": "Sun, 05 Jan 2025 20:23:34 GMT"
     },
     {
+      "title": "Підсумки 2024 😑",
+      "link": "https://www.rozhkov.me/2024/",
+      "published": "Tue, 31 Dec 2024 07:24:54 GMT"
+    },
+    {
+      "title": "Втомився боротися з лінтерами",
+      "link": "https://www.rozhkov.me/tired-of-linters/",
+      "published": "Mon, 30 Dec 2024 07:24:23 GMT"
+    },
+    {
+      "title": "Телеграм-бот для скриншотів bluesky",
+      "link": "https://www.rozhkov.me/bsky-screenshots-bot/",
+      "published": "Fri, 27 Dec 2024 07:24:05 GMT"
+    },
+    {
       "title": "Revisiting Travel",
       "link": "https://moretothat.com/revisiting-travel/",
       "published": "Wed, 25 Dec 2024 22:06:36 +0000"
+    },
+    {
+      "title": "Як зробити, щоб http://localhost:8080 було видно в інтернет",
+      "link": "https://www.rozhkov.me/localhost-in-the-wild/",
+      "published": "Wed, 25 Dec 2024 07:24:42 GMT"
+    },
+    {
+      "title": "Купив новий смартфон",
+      "link": "https://www.rozhkov.me/new-smartphone/",
+      "published": "Mon, 23 Dec 2024 07:24:51 GMT"
+    },
+    {
+      "title": "wtf is corepack?",
+      "link": "https://www.rozhkov.me/js-ecosystem/",
+      "published": "Fri, 20 Dec 2024 07:24:44 GMT"
+    },
+    {
+      "title": "Страхи збуваються",
+      "link": "https://www.rozhkov.me/fear-became-true/",
+      "published": "Wed, 18 Dec 2024 07:24:10 GMT"
     },
     {
       "title": "Moon",
@@ -49,6 +84,11 @@
       "title": "The premise trap",
       "link": "https://world.hey.com/dhh/the-premise-trap-924b8cd9",
       "published": "2024-12-16T23:25:39Z"
+    },
+    {
+      "title": "Bluesky",
+      "link": "https://www.rozhkov.me/bluesky/",
+      "published": "Mon, 16 Dec 2024 07:24:00 GMT"
     },
     {
       "title": "On Code Reviews",
