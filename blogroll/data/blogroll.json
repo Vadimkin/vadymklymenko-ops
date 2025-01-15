@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Мій 2024",
+      "link": "https://zaytsev.io/blog/2024-summary/",
+      "published": "Wed, 15 Jan 2025 00:00:00 +0000"
+    },
+    {
       "title": "On Fleeing the Inferno",
       "link": "https://moretothat.com/on-fleeing-the-inferno/",
       "published": "Tue, 14 Jan 2025 20:52:11 +0000"
@@ -16,19 +21,9 @@
       "published": "Wed, 08 Jan 2025 05:46:53 +0000"
     },
     {
-      "title": "The social media censorship era is over (for now)",
-      "link": "https://world.hey.com/dhh/the-social-media-censorship-era-is-over-for-now-c28c82f2",
-      "published": "2025-01-07T17:37:02Z"
-    },
-    {
       "title": "Scroll-to-text fragment bookmarklet",
       "link": "https://www.autodidacts.io/scroll-to-text-fragment-bookmarklet/",
       "published": "Mon, 06 Jan 2025 19:18:23 GMT"
-    },
-    {
-      "title": "Delusional dreams of excess freedom",
-      "link": "https://world.hey.com/dhh/delusional-dreams-of-excess-freedom-e7507662",
-      "published": "2025-01-06T16:07:54Z"
     },
     {
       "title": "The short outburst of activity during Ruby Changelog preparation—2025 edition",
@@ -86,11 +81,6 @@
       "published": "Tue, 17 Dec 2024 04:00:00 -0800"
     },
     {
-      "title": "The premise trap",
-      "link": "https://world.hey.com/dhh/the-premise-trap-924b8cd9",
-      "published": "2024-12-16T23:25:39Z"
-    },
-    {
       "title": "On Code Reviews",
       "link": "https://zemlan.in/on-code-reviews.html",
       "published": "Sun, 08 Dec 2024 17:00:00 GMT"
@@ -116,26 +106,6 @@
       "published": "Thu, 21 Nov 2024 14:26:10 GMT"
     },
     {
-      "title": "Making it happen vs. Letting it happen",
-      "link": "https://world.hey.com/jason/making-it-happen-vs-letting-it-happen-28d4b4c0",
-      "published": "2024-11-14T17:52:38Z"
-    },
-    {
-      "title": "Автори двох кращих книг року",
-      "link": "https://zaytsev.io/blog/david-burns-and-rick-rubin/",
-      "published": "Wed, 13 Nov 2024 00:00:00 +0000"
-    },
-    {
-      "title": "High and Low",
-      "link": "https://world.hey.com/jason/high-and-low-b7125d81",
-      "published": "2024-10-31T22:33:53Z"
-    },
-    {
-      "title": "Version 1 is for you",
-      "link": "https://world.hey.com/jason/version-1-is-for-you-658422f3",
-      "published": "2024-10-23T21:19:39Z"
-    },
-    {
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
       "link": "https://waitbutwhy.com/2024/10/spacex-toddler.html",
       "published": "Wed, 16 Oct 2024 18:48:55 +0000"
@@ -159,11 +129,6 @@
       "title": "Лого НСЗУ",
       "link": "https://blog.alexkolodko.com/all/logo-nszu/",
       "published": "Fri, 27 Sep 2024 12:58:50 +0300"
-    },
-    {
-      "title": "SVG, тригонометрія та стрілки крутого повороту",
-      "link": "https://zaytsev.io/blog/trigonometry/",
-      "published": "Wed, 11 Sep 2024 00:00:00 +0000"
     },
     {
       "title": "Features of your font you had no idea about",
@@ -224,11 +189,6 @@
       "title": "The 2024 Trump-Biden Debate",
       "link": "https://waitbutwhy.com/2024/06/debate2024.html",
       "published": "Fri, 28 Jun 2024 12:46:16 +0000"
-    },
-    {
-      "title": "Одне просте запитання",
-      "link": "https://zaytsev.io/blog/one-simple-question/",
-      "published": "Wed, 08 May 2024 00:00:00 +0000"
     },
     {
       "title": "All My Thoughts After 40 Hours in the Vision Pro",
