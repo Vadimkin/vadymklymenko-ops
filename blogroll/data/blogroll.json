@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Subjectivity in productivity",
+      "link": "https://world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee",
+      "published": "2025-01-23T22:49:41Z"
+    },
+    {
+      "title": "fn = emoji 🤖 🎸",
+      "link": "https://zametkin.me/2025/01/23/fn-emoji/",
+      "published": "Thu, 23 Jan 2025 18:11:29 +0000"
+    },
+    {
       "title": "Waiting on red",
       "link": "https://world.hey.com/dhh/waiting-on-red-6894032f",
       "published": "2025-01-21T21:24:55Z"
@@ -116,21 +126,6 @@
       "published": "Thu, 21 Nov 2024 14:26:10 GMT"
     },
     {
-      "title": "Making it happen vs. Letting it happen",
-      "link": "https://world.hey.com/jason/making-it-happen-vs-letting-it-happen-28d4b4c0",
-      "published": "2024-11-14T17:52:38Z"
-    },
-    {
-      "title": "High and Low",
-      "link": "https://world.hey.com/jason/high-and-low-b7125d81",
-      "published": "2024-10-31T22:33:53Z"
-    },
-    {
-      "title": "Version 1 is for you",
-      "link": "https://world.hey.com/jason/version-1-is-for-you-658422f3",
-      "published": "2024-10-23T21:19:39Z"
-    },
-    {
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
       "link": "https://waitbutwhy.com/2024/10/spacex-toddler.html",
       "published": "Wed, 16 Oct 2024 18:48:55 +0000"
@@ -184,21 +179,6 @@
       "title": "Більше, ніж яблук, хат і людей",
       "link": "https://reporters.media/bilshe-nizh-yabluk-hat-i-lyudej/",
       "published": "Tue, 06 Aug 2024 07:51:00 +0000"
-    },
-    {
-      "title": "Як полагодити роботу сервісів Apple в Україні (спойлер — допоможе VPN)",
-      "link": "https://zametkin.me/2024/07/26/yak-polagodyty-robotu-servisiv-apple-v-ukrayini/",
-      "published": "Fri, 26 Jul 2024 10:37:38 +0000"
-    },
-    {
-      "title": "Jasper Byrne & Sonic — Mirrors",
-      "link": "https://zametkin.me/2024/07/24/jasper-byrne-sonic-mirrors/",
-      "published": "Wed, 24 Jul 2024 18:46:42 +0000"
-    },
-    {
-      "title": "Рідка латка: нове життя надувного басейну",
-      "link": "https://zametkin.me/2024/07/24/ridka-latka-i-ne-potribna-zaplatka/",
-      "published": "Wed, 24 Jul 2024 12:32:11 +0000"
     },
     {
       "title": "Building an AI toolbar for text editors",
