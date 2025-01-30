@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Сердитий кандидат",
+      "link": "https://www.rozhkov.me/angry-candidate/",
+      "published": "Thu, 30 Jan 2025 07:24:11 GMT"
+    },
+    {
       "title": "The Skill That Will Never Die",
       "link": "https://moretothat.com/the-skill-that-will-never-die/",
       "published": "Wed, 29 Jan 2025 05:16:06 +0000"
@@ -89,11 +94,6 @@
       "title": "The place where it all started —  DESK Edition №253",
       "link": "https://vanschneider.com/blog/the-place-where-it-all-started-from-the-desk-of-van-schneider-edition-253/",
       "published": "Sun, 05 Jan 2025 20:23:34 GMT"
-    },
-    {
-      "title": "Підсумки 2024 😑",
-      "link": "https://www.rozhkov.me/2024/",
-      "published": "Tue, 31 Dec 2024 07:24:54 GMT"
     },
     {
       "title": "Moon",
