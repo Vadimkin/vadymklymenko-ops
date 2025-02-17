@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Сила запитань. Як ефективно комунікувати та переконувати інших",
+      "author": "Trey Gowdy",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674634198l/85174896.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5474093429",
+      "rating": null,
+      "date_started": "2025-02-16",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Ворошиловград",
       "author": "Serhiy Zhadan",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676708512l/122756000.jpg",
@@ -977,7 +988,7 @@
       "date_started": "2020-09-26",
       "date_read": "2020-09-29",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Все це триватиме далі",
