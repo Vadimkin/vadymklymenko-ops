@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to write exceptional documentation",
+      "link": "https://chrisnicholas.dev/blog/how-to-write-exceptional-documentation",
+      "published": "Tue, 04 Mar 2025 00:00:00 GMT"
+    },
+    {
       "title": "Human service is luxury",
       "link": "https://world.hey.com/dhh/human-service-is-luxury-bb5bba1a",
       "published": "2025-03-03T08:05:08Z"
@@ -286,11 +291,6 @@
       "published": "Sun, 21 Jul 2024 12:00:00 +0000"
     },
     {
-      "title": "Building an AI toolbar for text editors",
-      "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
-      "published": "Tue, 09 Jul 2024 00:00:00 GMT"
-    },
-    {
       "title": "San Marcos",
       "link": "https://mrgall.com/gallery/2024_07_07/",
       "published": "Sun, 07 Jul 2024 12:00:00 +0000"
@@ -321,11 +321,6 @@
       "published": "Wed, 03 Jan 2024 16:04:21 GMT"
     },
     {
-      "title": "A new blog for 2024",
-      "link": "https://chrisnicholas.dev/blog/a-new-blog-for-2024",
-      "published": "Tue, 02 Jan 2024 00:00:00 GMT"
-    },
-    {
       "title": "Stocketa",
       "link": "https://paulstamatiou.com/stocketa",
       "published": "Mon, 16 Oct 2023 00:00:00 GMT"
@@ -349,11 +344,6 @@
       "title": "Server-side Rendering: The Server",
       "link": "https://zemlan.in/ssr-the-server.html",
       "published": "Sat, 03 Dec 2022 12:40:00 GMT"
-    },
-    {
-      "title": "How to animate multiplayer cursors",
-      "link": "https://liveblocks.io/blog/how-to-animate-multiplayer-cursors",
-      "published": "Tue, 05 Jul 2022 00:00:00 GMT"
     },
     {
       "title": "Смішинки перших тижнів повномасштабної війни",
