@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Культура під тиском від ООО/ОООО",
+      "author": "Borys Filonenko",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728910787l/220408864.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7381345430",
+      "rating": null,
+      "date_started": "2025-03-06",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Сила запитань. Як ефективно комунікувати та переконувати інших",
       "author": "Trey Gowdy",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674634198l/85174896.jpg",
@@ -1065,7 +1076,7 @@
       "date_started": "2020-05-17",
       "date_read": "2020-06-25",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "\"Я змішаю твою кров із вугіллям\". Зрозуміти український Схід",
