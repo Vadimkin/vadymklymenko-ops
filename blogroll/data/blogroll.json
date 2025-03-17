@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Корчі",
+      "link": "https://www.rozhkov.me/lemons/",
+      "published": "Mon, 17 Mar 2025 07:24:00 GMT"
+    },
+    {
       "title": "The most interesting people",
       "link": "https://world.hey.com/dhh/the-most-interesting-people-4950913f",
       "published": "2025-03-16T15:06:24Z"
@@ -136,11 +141,6 @@
       "published": "Mon, 03 Feb 2025 02:08:06 GMT"
     },
     {
-      "title": "Сердитий кандидат та програмування на папірці",
-      "link": "https://www.rozhkov.me/angry-candidate/",
-      "published": "Thu, 30 Jan 2025 07:24:11 GMT"
-    },
-    {
       "title": "Seven things I know after 25 years of development",
       "link": "https://zverok.space/blog/2025-01-27-7things-euruko.html",
       "published": "Mon, 27 Jan 2025 00:00:00 +0000"
@@ -164,16 +164,6 @@
       "title": "The short outburst of activity during Ruby Changelog preparation—2025 edition",
       "link": "https://zverok.space/blog/2025-01-06-changelog-2025.html",
       "published": "Mon, 06 Jan 2025 00:00:00 +0000"
-    },
-    {
-      "title": "Підсумки 2024 😑",
-      "link": "https://www.rozhkov.me/2024/",
-      "published": "Tue, 31 Dec 2024 07:24:54 GMT"
-    },
-    {
-      "title": "Втомився боротися з лінтерами",
-      "link": "https://www.rozhkov.me/tired-of-linters/",
-      "published": "Mon, 30 Dec 2024 07:24:23 GMT"
     },
     {
       "title": "Moon",
