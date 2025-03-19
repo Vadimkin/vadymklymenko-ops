@@ -1,6 +1,21 @@
 {
   "feed": [
     {
+      "title": "Age is a problem at Apple",
+      "link": "https://world.hey.com/dhh/age-is-a-problem-at-apple-f7ae6eca",
+      "published": "2025-03-19T14:32:39Z"
+    },
+    {
+      "title": "The 80s are still alive in Denmark",
+      "link": "https://world.hey.com/dhh/the-80s-are-still-alive-in-denmark-54e7a404",
+      "published": "2025-03-19T12:03:35Z"
+    },
+    {
+      "title": "Apple needs a new asshole in charge",
+      "link": "https://world.hey.com/dhh/apple-needs-a-new-asshole-in-charge-0bf46b94",
+      "published": "2025-03-19T09:23:35Z"
+    },
+    {
       "title": "Корчі",
       "link": "https://www.rozhkov.me/lemons/",
       "published": "Mon, 17 Mar 2025 07:24:00 GMT"
@@ -61,11 +76,6 @@
       "published": "Tue, 04 Mar 2025 00:00:00 GMT"
     },
     {
-      "title": "Human service is luxury",
-      "link": "https://world.hey.com/dhh/human-service-is-luxury-bb5bba1a",
-      "published": "2025-03-03T08:05:08Z"
-    },
-    {
       "title": "Український дизайн — не музейний експонат",
       "link": "https://www.govorukhin.com/blog/ukrainian-design-is-about-the-future",
       "published": "Sat, 01 Mar 2025 14:14:38 GMT"
@@ -111,19 +121,9 @@
       "published": "Sat, 01 Mar 2025 14:14:38 GMT"
     },
     {
-      "title": "AMD in everything",
-      "link": "https://world.hey.com/dhh/amd-in-everything-0ec0cc6e",
-      "published": "2025-02-27T09:02:00Z"
-    },
-    {
       "title": "Leftfield Corner",
       "link": "https://zametkin.me/2025/02/26/leftfield-corner/",
       "published": "Wed, 26 Feb 2025 16:11:15 +0000"
-    },
-    {
-      "title": "The New York Times gives liberals The Danish Permission to pivot on mass immigration",
-      "link": "https://world.hey.com/dhh/the-new-york-times-gives-liberals-the-danish-permission-to-pivot-on-mass-immigration-e7484a14",
-      "published": "2025-02-26T11:35:03Z"
     },
     {
       "title": "On Troubleshooting",
@@ -134,6 +134,11 @@
       "title": "Hiring judgement",
       "link": "https://world.hey.com/jason/hiring-judgement-bcf7ff6f",
       "published": "2025-02-21T22:13:29Z"
+    },
+    {
+      "title": "Style is the answer to everything — From the Desk of van Schneider  —  Edition №258",
+      "link": "https://vanschneider.com/blog/edition-258/",
+      "published": "Mon, 10 Feb 2025 00:46:49 GMT"
     },
     {
       "title": "Objects of Affection — From the Desk of van Schneider  —  Edition №257",
@@ -149,11 +154,6 @@
       "title": "Designs of my dreams — From the Desk of van Schneider  —  Edition №256",
       "link": "https://vanschneider.com/blog/edition-256/",
       "published": "Sun, 26 Jan 2025 20:25:43 GMT"
-    },
-    {
-      "title": "One step forward, two steps backwards — From the Desk of van Schneider  —  Edition №255",
-      "link": "https://vanschneider.com/blog/edition-255/",
-      "published": "Mon, 20 Jan 2025 16:55:46 GMT"
     },
     {
       "title": "Мій 2024",
