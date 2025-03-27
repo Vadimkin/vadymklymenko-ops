@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The case against conversational interfaces",
+      "link": "https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/",
+      "published": "Thu, 27 Mar 2025 14:13:42 +0000"
+    },
+    {
       "title": "It's five grand a day to miss our S3 exit",
       "link": "https://world.hey.com/dhh/it-s-five-grand-a-day-to-miss-our-s3-exit-b8293563",
       "published": "2025-03-26T17:58:24Z"
@@ -296,11 +301,6 @@
       "published": "Wed, 03 Jan 2024 16:04:21 GMT"
     },
     {
-      "title": "Multi-layered calendars",
-      "link": "https://julian.digital/2023/07/06/multi-layered-calendars/",
-      "published": "Thu, 06 Jul 2023 14:10:12 +0000"
-    },
-    {
       "title": "Server-side Rendering: CDN and Caching",
       "link": "https://zemlan.in/ssr-cdn.html",
       "published": "Wed, 17 May 2023 17:40:00 GMT"
@@ -314,16 +314,6 @@
       "title": "Смішинки перших тижнів повномасштабної війни",
       "link": "https://poohitan.com/p/not-so-funny-stories",
       "published": "Thu, 02 Jun 2022 19:09:00 GMT"
-    },
-    {
-      "title": "The power of defaults",
-      "link": "https://julian.digital/2021/12/20/the-power-of-defaults/",
-      "published": "Mon, 20 Dec 2021 16:39:05 +0000"
-    },
-    {
-      "title": "Media Consumption (Apr 2021)",
-      "link": "https://julian.digital/2021/05/03/media-consumption-apr-2021/",
-      "published": "Mon, 03 May 2021 19:38:12 +0000"
     },
     {
       "title": "Прочитане-2020",
