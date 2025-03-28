@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Singularity & Serenity",
+      "link": "https://world.hey.com/dhh/singularity-serenity-0198b8b5",
+      "published": "2025-03-28T12:30:59Z"
+    },
+    {
       "title": "The case against conversational interfaces",
       "link": "https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/",
       "published": "Thu, 27 Mar 2025 14:13:42 +0000"
@@ -69,11 +74,6 @@
       "title": "Closing the borders alone won't fix the problems",
       "link": "https://world.hey.com/dhh/closing-the-borders-alone-won-t-fix-the-problems-aca49088",
       "published": "2025-03-11T09:01:37Z"
-    },
-    {
-      "title": "Apple does AI as Microsoft did mobile",
-      "link": "https://world.hey.com/dhh/apple-does-ai-as-microsoft-did-mobile-df2c98ca",
-      "published": "2025-03-10T07:57:33Z"
     },
     {
       "title": "Everything Will Be Okay",
