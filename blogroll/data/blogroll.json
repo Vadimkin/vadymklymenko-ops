@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The Year on Linux",
+      "link": "https://world.hey.com/dhh/the-year-on-linux-7f30279e",
+      "published": "2025-03-29T13:40:26Z"
+    },
+    {
       "title": "Singularity & Serenity",
       "link": "https://world.hey.com/dhh/singularity-serenity-0198b8b5",
       "published": "2025-03-28T12:30:59Z"
@@ -69,11 +74,6 @@
       "title": "Our switch to Kamal is complete",
       "link": "https://world.hey.com/dhh/our-switch-to-kamal-is-complete-8e0de22e",
       "published": "2025-03-12T08:54:06Z"
-    },
-    {
-      "title": "Closing the borders alone won't fix the problems",
-      "link": "https://world.hey.com/dhh/closing-the-borders-alone-won-t-fix-the-problems-aca49088",
-      "published": "2025-03-11T09:01:37Z"
     },
     {
       "title": "Everything Will Be Okay",
