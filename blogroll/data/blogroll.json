@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Підписка на YouTube канали без YouTube акаунту",
+      "link": "https://mrgall.com/blog/2025/03/30/youtube-channels-feed/",
+      "published": "Sun, 30 Mar 2025 19:46:04 +0000"
+    },
+    {
       "title": "The Year on Linux",
       "link": "https://world.hey.com/dhh/the-year-on-linux-7f30279e",
       "published": "2025-03-29T13:40:26Z"
@@ -259,21 +264,6 @@
       "title": "Building Swipe Actions component with React and Framer Motion",
       "link": "https://sinja.io/blog/swipe-actions-react-framer-motion",
       "published": "Mon, 19 Aug 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Mammoth Lakes",
-      "link": "https://mrgall.com/gallery/2024_08_11/",
-      "published": "Sun, 11 Aug 2024 12:00:00 +0000"
-    },
-    {
-      "title": "Lake Tahoe",
-      "link": "https://mrgall.com/gallery/2024_08_10/",
-      "published": "Sat, 10 Aug 2024 12:00:00 +0000"
-    },
-    {
-      "title": "Lake Tahoe",
-      "link": "https://mrgall.com/gallery/2024_08_09/",
-      "published": "Fri, 09 Aug 2024 12:00:00 +0000"
     },
     {
       "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
