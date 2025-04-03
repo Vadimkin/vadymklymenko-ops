@@ -246,6 +246,11 @@
       "published": "Tue, 06 Aug 2024 07:51:00 +0000"
     },
     {
+      "title": "Building an AI toolbar for text editors",
+      "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
+      "published": "Tue, 09 Jul 2024 00:00:00 GMT"
+    },
+    {
       "title": "Дивись, як я можу",
       "link": "https://reporters.media/dyvys-yak-ya-mozhu/",
       "published": "Wed, 03 Jul 2024 13:15:30 +0000"
@@ -269,6 +274,11 @@
       "title": "Notes on reading: 2023",
       "link": "https://www.the-next.me/notes-on-reading-2023/",
       "published": "Wed, 03 Jan 2024 16:04:21 GMT"
+    },
+    {
+      "title": "A new blog for 2024",
+      "link": "https://chrisnicholas.dev/blog/a-new-blog-for-2024",
+      "published": "Tue, 02 Jan 2024 00:00:00 GMT"
     },
     {
       "title": "Server-side Rendering: CDN and Caching",
