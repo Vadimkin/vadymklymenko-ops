@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Our Last 2 Moats",
+      "link": "https://moretothat.com/our-last-2-moats/",
+      "published": "Wed, 09 Apr 2025 22:36:24 +0000"
+    },
+    {
       "title": "Doing what you think, not what you thought",
       "link": "https://world.hey.com/jason/doing-what-you-think-not-what-you-thought-60bb5bef",
       "published": "2025-04-08T18:28:46Z"
@@ -91,11 +96,6 @@
       "published": "2025-03-12T20:04:10Z"
     },
     {
-      "title": "Everything Will Be Okay",
-      "link": "https://moretothat.com/everything-will-be-okay/",
-      "published": "Tue, 04 Mar 2025 21:04:24 +0000"
-    },
-    {
       "title": "How to write exceptional documentation",
       "link": "https://chrisnicholas.dev/blog/how-to-write-exceptional-documentation",
       "published": "Tue, 04 Mar 2025 00:00:00 GMT"
@@ -141,11 +141,6 @@
       "published": "Mon, 03 Feb 2025 02:08:06 GMT"
     },
     {
-      "title": "The Skill That Will Never Die",
-      "link": "https://moretothat.com/the-skill-that-will-never-die/",
-      "published": "Wed, 29 Jan 2025 05:16:06 +0000"
-    },
-    {
       "title": "Seven things I know after 25 years of development",
       "link": "https://zverok.space/blog/2025-01-27-7things-euruko.html",
       "published": "Mon, 27 Jan 2025 00:00:00 +0000"
@@ -164,11 +159,6 @@
       "title": "Мій 2024",
       "link": "https://zaytsev.io/blog/2024-summary/",
       "published": "Wed, 15 Jan 2025 00:00:00 +0000"
-    },
-    {
-      "title": "On Fleeing the Inferno",
-      "link": "https://moretothat.com/on-fleeing-the-inferno/",
-      "published": "Tue, 14 Jan 2025 20:52:11 +0000"
     },
     {
       "title": "Scroll-to-text fragment bookmarklet",
