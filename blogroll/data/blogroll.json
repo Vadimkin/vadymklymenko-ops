@@ -236,6 +236,11 @@
       "published": "Tue, 03 Sep 2024 00:00:00 GMT"
     },
     {
+      "title": "The Startup Designer",
+      "link": "https://paulstamatiou.com/the-startup-designer",
+      "published": "Tue, 27 Aug 2024 00:00:00 GMT"
+    },
+    {
       "title": "Building Swipe Actions component with React and Framer Motion",
       "link": "https://sinja.io/blog/swipe-actions-react-framer-motion",
       "published": "Mon, 19 Aug 2024 00:00:00 GMT"
@@ -284,6 +289,11 @@
       "title": "A new blog for 2024",
       "link": "https://chrisnicholas.dev/blog/a-new-blog-for-2024",
       "published": "Tue, 02 Jan 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Stocketa",
+      "link": "https://paulstamatiou.com/stocketa",
+      "published": "Mon, 16 Oct 2023 00:00:00 GMT"
     },
     {
       "title": "Server-side Rendering: CDN and Caching",
