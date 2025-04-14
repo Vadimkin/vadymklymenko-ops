@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Майже навайбкодив десктопний монітор CI пайплайнів",
+      "link": "https://www.rozhkov.me/gitlab-pipelines-monitor-vibecoding/",
+      "published": "Mon, 14 Apr 2025 06:24:47 GMT"
+    },
+    {
       "title": "Believe it's going to work even though it probably won't",
       "link": "https://world.hey.com/dhh/believe-it-s-going-to-work-even-though-it-probably-won-t-58fd9dc5",
       "published": "2025-04-11T06:48:21Z"
@@ -176,11 +181,6 @@
       "published": "Sun, 08 Dec 2024 17:00:00 GMT"
     },
     {
-      "title": "Reading Through America's Century: My 2025 Project",
-      "link": "https://www.the-next.me/reading-through-americas-century-my-2025-project/",
-      "published": "Thu, 21 Nov 2024 14:26:10 GMT"
-    },
-    {
       "title": "Elixir-like pipes in Ruby (oh no not again)",
       "link": "https://zverok.space/blog/2024-11-16-elixir-pipes.html",
       "published": "Sat, 16 Nov 2024 00:00:00 +0000"
@@ -199,11 +199,6 @@
       "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
       "link": "https://waitbutwhy.com/2024/10/spacex-toddler.html",
       "published": "Wed, 16 Oct 2024 18:48:55 +0000"
-    },
-    {
-      "title": "In ave of progress, still",
-      "link": "https://www.the-next.me/in-ave-of-progress-still/",
-      "published": "Tue, 15 Oct 2024 20:45:05 GMT"
     },
     {
       "title": "QA: Кодинг у дизайні",
@@ -279,11 +274,6 @@
       "title": "All My Thoughts After 40 Hours in the Vision Pro",
       "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
       "published": "Fri, 09 Feb 2024 18:24:38 +0000"
-    },
-    {
-      "title": "Notes on reading: 2023",
-      "link": "https://www.the-next.me/notes-on-reading-2023/",
-      "published": "Wed, 03 Jan 2024 16:04:21 GMT"
     },
     {
       "title": "A new blog for 2024",
