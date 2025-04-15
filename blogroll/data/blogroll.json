@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Normal boyhood is ADHD",
+      "link": "https://world.hey.com/dhh/normal-boyhood-is-adhd-a9593488",
+      "published": "2025-04-15T09:16:16Z"
+    },
+    {
       "title": "Майже навайбкодив десктопний монітор CI пайплайнів",
       "link": "https://www.rozhkov.me/gitlab-pipelines-monitor-vibecoding/",
       "published": "Mon, 14 Apr 2025 06:24:47 GMT"
@@ -79,11 +84,6 @@
       "title": "Age is a problem at Apple",
       "link": "https://world.hey.com/dhh/age-is-a-problem-at-apple-f7ae6eca",
       "published": "2025-03-19T14:32:39Z"
-    },
-    {
-      "title": "The 80s are still alive in Denmark",
-      "link": "https://world.hey.com/dhh/the-80s-are-still-alive-in-denmark-54e7a404",
-      "published": "2025-03-19T12:03:35Z"
     },
     {
       "title": "Корчі",
