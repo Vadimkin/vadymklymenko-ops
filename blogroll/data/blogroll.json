@@ -196,11 +196,6 @@
       "published": "Wed, 13 Nov 2024 00:00:00 +0000"
     },
     {
-      "title": "Why I Lugged My 27-Pound Toddler to a Rocket Launch",
-      "link": "https://waitbutwhy.com/2024/10/spacex-toddler.html",
-      "published": "Wed, 16 Oct 2024 18:48:55 +0000"
-    },
-    {
       "title": "QA: Кодинг у дизайні",
       "link": "https://blog.alexkolodko.com/all/qa-design-and-coding/",
       "published": "Sun, 29 Sep 2024 16:13:08 +0300"
@@ -284,6 +279,11 @@
       "title": "Stocketa",
       "link": "https://paulstamatiou.com/stocketa",
       "published": "Mon, 16 Oct 2023 00:00:00 GMT"
+    },
+    {
+      "title": "10 Thoughts From the Fourth Trimester",
+      "link": "https://waitbutwhy.com/2023/05/baby.html",
+      "published": "Tue, 23 May 2023 19:32:00 +0000"
     },
     {
       "title": "Server-side Rendering: CDN and Caching",
