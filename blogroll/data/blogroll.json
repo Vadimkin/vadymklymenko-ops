@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Fluxion — Haze",
+      "link": "https://zametkin.me/2025/04/27/fluxion-haze/",
+      "published": "Sun, 27 Apr 2025 09:39:05 +0000"
+    },
+    {
       "title": "Back to RSS: Reeder.",
       "link": "https://zametkin.me/2025/04/25/back-to-rss-reeder/",
       "published": "Fri, 25 Apr 2025 15:13:03 +0000"
@@ -84,11 +89,6 @@
       "title": "The Year on Linux",
       "link": "https://world.hey.com/dhh/the-year-on-linux-7f30279e",
       "published": "2025-03-29T13:40:26Z"
-    },
-    {
-      "title": "Singularity & Serenity",
-      "link": "https://world.hey.com/dhh/singularity-serenity-0198b8b5",
-      "published": "2025-03-28T12:30:59Z"
     },
     {
       "title": "The case against conversational interfaces",
