@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Про підписки і Forbes Digital за 5 грн",
+      "link": "https://zametkin.me/2025/04/28/pro-pidpysky-i-forbes-digital-za-5-grn/",
+      "published": "Mon, 28 Apr 2025 09:22:40 +0000"
+    },
+    {
       "title": "Don't make Google sell Chrome",
       "link": "https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6",
       "published": "2025-04-28T06:00:37Z"
@@ -89,11 +94,6 @@
       "title": "Підписка на YouTube канали без YouTube акаунту",
       "link": "https://mrgall.com/blog/2025/03/30/youtube-channels-feed/",
       "published": "Sun, 30 Mar 2025 19:46:04 +0000"
-    },
-    {
-      "title": "The Year on Linux",
-      "link": "https://world.hey.com/dhh/the-year-on-linux-7f30279e",
-      "published": "2025-03-29T13:40:26Z"
     },
     {
       "title": "The case against conversational interfaces",
