@@ -91,11 +91,6 @@
       "published": "2025-03-31T10:27:27Z"
     },
     {
-      "title": "Підписка на YouTube канали без YouTube акаунту",
-      "link": "https://mrgall.com/blog/2025/03/30/youtube-channels-feed/",
-      "published": "Sun, 30 Mar 2025 19:46:04 +0000"
-    },
-    {
       "title": "The case against conversational interfaces",
       "link": "https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/",
       "published": "Thu, 27 Mar 2025 14:13:42 +0000"
@@ -176,6 +171,11 @@
       "published": "Sun, 08 Dec 2024 17:00:00 GMT"
     },
     {
+      "title": "Universal Studios",
+      "link": "https://mrgall.com/gallery/2024_11_20/",
+      "published": "Wed, 20 Nov 2024 12:00:00 +0000"
+    },
+    {
       "title": "Elixir-like pipes in Ruby (oh no not again)",
       "link": "https://zverok.space/blog/2024-11-16-elixir-pipes.html",
       "published": "Sat, 16 Nov 2024 00:00:00 +0000"
@@ -189,6 +189,16 @@
       "title": "Автори двох кращих книг року",
       "link": "https://zaytsev.io/blog/david-burns-and-rick-rubin/",
       "published": "Wed, 13 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Anza-Borrego Desert",
+      "link": "https://mrgall.com/gallery/2024_11_11/",
+      "published": "Mon, 11 Nov 2024 12:00:00 +0000"
+    },
+    {
+      "title": "Anza-Borrego Desert",
+      "link": "https://mrgall.com/gallery/2024_11_10/",
+      "published": "Sun, 10 Nov 2024 12:00:00 +0000"
     },
     {
       "title": "QA: Кодинг у дизайні",
