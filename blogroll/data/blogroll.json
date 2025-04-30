@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Yagya — Vor",
+      "link": "https://zametkin.me/2025/04/30/yagya-vor/",
+      "published": "Wed, 30 Apr 2025 10:13:46 +0000"
+    },
+    {
       "title": "Про підписки і Forbes Digital за 5 грн",
       "link": "https://zametkin.me/2025/04/28/pro-pidpysky-i-forbes-digital-za-5-grn/",
       "published": "Mon, 28 Apr 2025 09:22:40 +0000"
@@ -84,11 +89,6 @@
       "title": "Фундаментальні розробки",
       "link": "https://www.rozhkov.me/foundation-research/",
       "published": "Thu, 03 Apr 2025 06:24:36 GMT"
-    },
-    {
-      "title": "Great AI Steals",
-      "link": "https://world.hey.com/dhh/great-ai-steals-280615be",
-      "published": "2025-03-31T10:27:27Z"
     },
     {
       "title": "The case against conversational interfaces",
