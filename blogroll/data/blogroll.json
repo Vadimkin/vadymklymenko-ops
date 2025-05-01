@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Tortoise Mode vs Hare Mode",
+      "link": "https://www.autodidacts.io/tortoise-mode/",
+      "published": "Wed, 30 Apr 2025 18:46:34 GMT"
+    },
+    {
       "title": "Yagya — Vor",
       "link": "https://zametkin.me/2025/04/30/yagya-vor/",
       "published": "Wed, 30 Apr 2025 10:13:46 +0000"
@@ -121,11 +126,6 @@
       "published": "Sat, 01 Mar 2025 14:14:38 GMT"
     },
     {
-      "title": "On Troubleshooting",
-      "link": "https://www.autodidacts.io/troubleshooting/",
-      "published": "Sat, 22 Feb 2025 03:22:00 GMT"
-    },
-    {
       "title": "Style is the answer to everything — From the Desk of van Schneider  —  Edition №258",
       "link": "https://vanschneider.com/blog/edition-258/",
       "published": "Mon, 10 Feb 2025 00:46:49 GMT"
@@ -151,11 +151,6 @@
       "published": "Wed, 15 Jan 2025 00:00:00 +0000"
     },
     {
-      "title": "Scroll-to-text fragment bookmarklet",
-      "link": "https://www.autodidacts.io/scroll-to-text-fragment-bookmarklet/",
-      "published": "Mon, 06 Jan 2025 19:18:23 GMT"
-    },
-    {
       "title": "The short outburst of activity during Ruby Changelog preparation—2025 edition",
       "link": "https://zverok.space/blog/2025-01-06-changelog-2025.html",
       "published": "Mon, 06 Jan 2025 00:00:00 +0000"
@@ -179,11 +174,6 @@
       "title": "Elixir-like pipes in Ruby (oh no not again)",
       "link": "https://zverok.space/blog/2024-11-16-elixir-pipes.html",
       "published": "Sat, 16 Nov 2024 00:00:00 +0000"
-    },
-    {
-      "title": "How to Migrate a Discourse Forum from DigitalOcean to Linveo",
-      "link": "https://www.autodidacts.io/migrate-discourse-from-digitalocean-to-linveo/",
-      "published": "Wed, 13 Nov 2024 03:20:43 GMT"
     },
     {
       "title": "Автори двох кращих книг року",
