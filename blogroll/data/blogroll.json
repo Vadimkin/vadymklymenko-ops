@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Півтора року у війську",
+      "link": "https://www.rozhkov.me/one-and-a-half-years-in-army/",
+      "published": "Mon, 05 May 2025 06:24:36 GMT"
+    },
+    {
       "title": "Tortoise Mode vs Hare Mode",
       "link": "https://www.autodidacts.io/tortoise-mode/",
       "published": "Wed, 30 Apr 2025 18:46:34 GMT"
@@ -151,6 +156,11 @@
       "published": "Mon, 06 Jan 2025 00:00:00 +0000"
     },
     {
+      "title": "Mile Square Regional Park",
+      "link": "https://mrgall.com/gallery/2024_12_25/",
+      "published": "Wed, 25 Dec 2024 12:00:00 +0000"
+    },
+    {
       "title": "Moon",
       "link": "https://ciechanow.ski/moon/",
       "published": "Tue, 17 Dec 2024 04:00:00 -0800"
@@ -179,11 +189,6 @@
       "title": "Anza-Borrego Desert",
       "link": "https://mrgall.com/gallery/2024_11_11/",
       "published": "Mon, 11 Nov 2024 12:00:00 +0000"
-    },
-    {
-      "title": "Anza-Borrego Desert",
-      "link": "https://mrgall.com/gallery/2024_11_10/",
-      "published": "Sun, 10 Nov 2024 12:00:00 +0000"
     },
     {
       "title": "QA: Кодинг у дизайні",
