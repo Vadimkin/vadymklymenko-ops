@@ -504,7 +504,7 @@
       "date_started": "2020-09-26",
       "date_read": "2020-09-29",
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Повсякденний сталінізм. Київ і кияни після Великої війни",
@@ -515,7 +515,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Нам усім пощастило",
@@ -526,7 +526,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Історія Airbnb. Як троє звичайних хлопців підірвали готельну індустрію",
@@ -537,7 +537,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Як придумати ідею, якщо ви не Оґілві",

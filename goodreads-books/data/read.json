@@ -900,7 +900,7 @@
       "date_started": "2021-03-01",
       "date_read": "2021-03-12",
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "The Hype Machine: How Social Media Disrupts Our Elections, Our Economy, and Our Health--and How We Must Adapt",
@@ -999,7 +999,7 @@
       "date_started": "2020-09-26",
       "date_read": "2020-09-29",
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Все це триватиме далі",
@@ -1076,7 +1076,7 @@
       "date_started": "2020-05-17",
       "date_read": "2020-06-25",
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "\"Я змішаю твою кров із вугіллям\". Зрозуміти український Схід",
@@ -1087,7 +1087,7 @@
       "date_started": "2020-05-10",
       "date_read": "2020-05-10",
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Emotional Intelligence Pocketbook: Little Exercises for an Intuitive Life",
@@ -1098,7 +1098,7 @@
       "date_started": "2020-04-12",
       "date_read": "2020-04-18",
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Тонкое искусство пофигизма. Парадоксальный способ жить счастливо",
@@ -1395,7 +1395,7 @@
       "date_started": "2012-12-01",
       "date_read": "2012-12-01",
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Тайм-драйв: Как успевать жить и работать",
@@ -1450,7 +1450,7 @@
       "date_started": "2012-03-01",
       "date_read": null,
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Стартап без бюджета",
@@ -1659,7 +1659,7 @@
       "date_started": "2011-08-01",
       "date_read": null,
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Ководство",
