@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Why new when?",
+      "link": "https://world.hey.com/jason/why-new-when-752d0c5a",
+      "published": "2025-05-08T23:19:14Z"
+    },
+    {
       "title": "Ending the Anger Economy",
       "link": "https://moretothat.com/ending-the-anger-economy/",
       "published": "Wed, 07 May 2025 23:16:33 +0000"
@@ -51,6 +56,11 @@
       "published": "Wed, 23 Apr 2025 06:24:47 GMT"
     },
     {
+      "title": "The story of the Orange",
+      "link": "https://vanschneider.com/blog/edition-264/",
+      "published": "Tue, 22 Apr 2025 20:25:53 GMT"
+    },
+    {
       "title": "Телеграм бот для обліку пального",
       "link": "https://www.rozhkov.me/fuel-accounting-telegram-bot/",
       "published": "Mon, 21 Apr 2025 06:24:44 GMT"
@@ -86,16 +96,6 @@
       "published": "Wed, 09 Apr 2025 22:36:24 +0000"
     },
     {
-      "title": "Doing what you think, not what you thought",
-      "link": "https://world.hey.com/jason/doing-what-you-think-not-what-you-thought-60bb5bef",
-      "published": "2025-04-08T18:28:46Z"
-    },
-    {
-      "title": "The future of the designer — From the Desk of van Schneider  —  Edition №263",
-      "link": "https://vanschneider.com/blog/editon-263/",
-      "published": "Mon, 07 Apr 2025 17:23:01 GMT"
-    },
-    {
       "title": "The case against conversational interfaces",
       "link": "https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/",
       "published": "Thu, 27 Mar 2025 14:13:42 +0000"
@@ -124,16 +124,6 @@
       "title": "Не перевикупати",
       "link": "https://www.govorukhin.com/blog/dont-overthink-shit",
       "published": "Sat, 01 Mar 2025 14:14:38 GMT"
-    },
-    {
-      "title": "Style is the answer to everything — From the Desk of van Schneider  —  Edition №258",
-      "link": "https://vanschneider.com/blog/edition-258/",
-      "published": "Mon, 10 Feb 2025 00:46:49 GMT"
-    },
-    {
-      "title": "Objects of Affection — From the Desk of van Schneider  —  Edition №257",
-      "link": "https://vanschneider.com/blog/edition-257/",
-      "published": "Mon, 03 Feb 2025 02:08:06 GMT"
     },
     {
       "title": "Seven things I know after 25 years of development",
