@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "That thing that you loved (before you googled it) — from the Desk of van Schneider —  Edition №266",
+      "link": "https://vanschneider.com/blog/the-k-from-the-desk-of-van-schneider-edition-266/",
+      "published": "Mon, 12 May 2025 17:12:24 GMT"
+    },
+    {
       "title": "Why new when?",
       "link": "https://world.hey.com/jason/why-new-when-752d0c5a",
       "published": "2025-05-08T23:19:14Z"
@@ -99,21 +104,6 @@
       "title": "How to write exceptional documentation",
       "link": "https://chrisnicholas.dev/blog/how-to-write-exceptional-documentation",
       "published": "Tue, 04 Mar 2025 00:00:00 GMT"
-    },
-    {
-      "title": "Український дизайн — не музейний експонат",
-      "link": "https://www.govorukhin.com/blog/ukrainian-design-is-about-the-future",
-      "published": "Sat, 01 Mar 2025 14:14:38 GMT"
-    },
-    {
-      "title": "Писати текст",
-      "link": "https://www.govorukhin.com/blog/on-writing",
-      "published": "Sat, 01 Mar 2025 14:14:38 GMT"
-    },
-    {
-      "title": "Не перевикупати",
-      "link": "https://www.govorukhin.com/blog/dont-overthink-shit",
-      "published": "Sat, 01 Mar 2025 14:14:38 GMT"
     },
     {
       "title": "Seven things I know after 25 years of development",
