@@ -23,17 +23,6 @@
       "own": true
     },
     {
-      "title": "Сила запитань. Як ефективно комунікувати та переконувати інших",
-      "author": "Trey Gowdy",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674634198l/85174896.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5474093429",
-      "rating": null,
-      "date_started": "2025-02-16",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "Ворошиловград",
       "author": "Serhiy Zhadan",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676708512l/122756000.jpg",
@@ -64,6 +53,17 @@
       "date_started": "2024-09-07",
       "date_read": null,
       "is_reading_now": true,
+      "own": true
+    },
+    {
+      "title": "Сила запитань. Як ефективно комунікувати та переконувати інших",
+      "author": "Trey Gowdy",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674634198l/85174896.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5474093429",
+      "rating": null,
+      "date_started": "2025-02-16",
+      "date_read": "2025-05-13",
+      "is_reading_now": false,
       "own": true
     },
     {
@@ -1171,17 +1171,6 @@
       "author": "Richard Bach",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347872475l/16030860.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269822296",
-      "rating": null,
-      "date_started": "2014-05-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "iПрезентация. Уроки убеждения от лидера Apple Стива Джобса",
-      "author": "Carmine Gallo",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315474106l/12553809.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269821753",
       "rating": null,
       "date_started": "2014-05-01",
       "date_read": null,
