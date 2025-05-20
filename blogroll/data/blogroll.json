@@ -106,9 +106,19 @@
       "published": "Tue, 04 Mar 2025 00:00:00 GMT"
     },
     {
+      "title": "Palm Springs Aerial Tramway",
+      "link": "https://mrgall.com/gallery/2025_02_17/",
+      "published": "Mon, 17 Feb 2025 12:00:00 +0000"
+    },
+    {
       "title": "Seven things I know after 25 years of development",
       "link": "https://zverok.space/blog/2025-01-27-7things-euruko.html",
       "published": "Mon, 27 Jan 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Moonlight Beach",
+      "link": "https://mrgall.com/gallery/2025_01_20/",
+      "published": "Mon, 20 Jan 2025 12:00:00 +0000"
     },
     {
       "title": "Мій 2024",
@@ -126,11 +136,6 @@
       "published": "Wed, 01 Jan 2025 12:00:00 +0000"
     },
     {
-      "title": "Mile Square Regional Park",
-      "link": "https://mrgall.com/gallery/2024_12_25/",
-      "published": "Wed, 25 Dec 2024 12:00:00 +0000"
-    },
-    {
       "title": "Moon",
       "link": "https://ciechanow.ski/moon/",
       "published": "Tue, 17 Dec 2024 04:00:00 -0800"
@@ -139,11 +144,6 @@
       "title": "On Code Reviews",
       "link": "https://zemlan.in/on-code-reviews.html",
       "published": "Sun, 08 Dec 2024 17:00:00 GMT"
-    },
-    {
-      "title": "Universal Studios",
-      "link": "https://mrgall.com/gallery/2024_11_20/",
-      "published": "Wed, 20 Nov 2024 12:00:00 +0000"
     },
     {
       "title": "Elixir-like pipes in Ruby (oh no not again)",
