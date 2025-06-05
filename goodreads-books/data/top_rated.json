@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "The Practice: Shipping Creative Work",
+      "author": "Seth Godin",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598245238l/53479927.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7541499411",
+      "rating": 4,
+      "date_started": "2025-05-06",
+      "date_read": "2025-06-05",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "Арабески",
       "author": "Serhiy Zhadan",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724869306l/218186682.jpg",

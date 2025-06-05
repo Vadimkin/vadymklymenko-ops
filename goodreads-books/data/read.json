@@ -12,17 +12,6 @@
       "own": false
     },
     {
-      "title": "The Practice: Shipping Creative Work",
-      "author": "Seth Godin",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598245238l/53479927.jpg",
-      "review_url": "https://www.goodreads.com/review/show/7541499411",
-      "rating": null,
-      "date_started": "2025-05-06",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "Культура під тиском від ООО/ОООО",
       "author": "Borys Filonenko",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728910787l/220408864.jpg",
@@ -64,6 +53,17 @@
       "date_started": "2024-09-07",
       "date_read": null,
       "is_reading_now": true,
+      "own": true
+    },
+    {
+      "title": "The Practice: Shipping Creative Work",
+      "author": "Seth Godin",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598245238l/53479927.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7541499411",
+      "rating": 4,
+      "date_started": "2025-05-06",
+      "date_read": "2025-06-05",
+      "is_reading_now": false,
       "own": true
     },
     {
@@ -1172,17 +1172,6 @@
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322070690l/6139677.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269822600",
       "rating": 5,
-      "date_started": "2014-05-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Чайка по имени Джонатан Ливингстон",
-      "author": "Richard Bach",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347872475l/16030860.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269822296",
-      "rating": null,
       "date_started": "2014-05-01",
       "date_read": null,
       "is_reading_now": false,
