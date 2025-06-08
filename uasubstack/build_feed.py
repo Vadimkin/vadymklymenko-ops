@@ -89,9 +89,9 @@ def process_feeds():
     for i, blog in enumerate(blogs):
         print(f"Processing feed {i}/{len(blogs)}: {blog}")
         feed_parsed = feedparser.parse(blog["feed_url"])
+        print(f"Found {len(feed_parsed.entries)} entries")
 
-        # feed_entries = list(filter(should_process, feed_parsed.entries))[:10]
-        feed_entries = list(feed_parsed.entries)[:10]
+        feed_entries = list(filter(should_process, feed_parsed.entries))[:10]
 
         feed_entries = [FeedEntry(
             channel_title=feed_parsed.feed.title,
