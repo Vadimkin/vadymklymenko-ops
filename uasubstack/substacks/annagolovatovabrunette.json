@@ -1,0 +1,890 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 175892155,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Anna Golovatova-Brunette",
+    "cover_photo_url": null,
+    "created_at": "2025-04-02T10:45:33.360Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": "1c01c340",
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Ласкаво прошу у мій куточок світу, де творчий хаос поєднує біофільний дизайн, догляд за рослинами, стиль і бізнес. Вже понад 10 років створюю затишні простори та надихаю дітей відкривати світ флори. У 2025 році ініціювала відновлення теплиці на ВДНГ ",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "profile",
+    "id": 4583335,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e8cb5f4-fea1-4ecc-b302-fbdb6e3f78e0_1287x1288.jpeg",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Anna Golovatova-Brunette",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 175892155,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "annagolovatovabrunette",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly90eur",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 9000,
+            "amount_decimal": "9000",
+            "billing_scheme": "per_unit",
+            "created": 1743595919,
+            "currency": "eur",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "€90 a year",
+            "product": "prod_S3XD1nFOL5ZDq1",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 15500,
+                    "unit_amount_decimal": "15500"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 55500,
+                    "unit_amount_decimal": "55500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14000,
+                    "unit_amount_decimal": "14000"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 67500,
+                    "unit_amount_decimal": "67500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 198000,
+                    "unit_amount_decimal": "198000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 102000,
+                    "unit_amount_decimal": "102000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 17500,
+                    "unit_amount_decimal": "17500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 38000,
+                    "unit_amount_decimal": "38000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 97500,
+                    "unit_amount_decimal": "97500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                }
+            }
+        },
+        {
+            "id": "monthly8eur",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 800,
+            "amount_decimal": "800",
+            "billing_scheme": "per_unit",
+            "created": 1743595872,
+            "currency": "eur",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "€8 a month",
+            "product": "prod_S3XCSaymzz7HVY",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1400,
+                    "unit_amount_decimal": "1400"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1300,
+                    "unit_amount_decimal": "1300"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 18000,
+                    "unit_amount_decimal": "18000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1600,
+                    "unit_amount_decimal": "1600"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3400,
+                    "unit_amount_decimal": "3400"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1BunJhHCQmBiPlBf",
+    "stripe_country": "GB",
+    "stripe_publishable_key": "pk_live_51BunJhHCQmBiPlBfAu4V5eAg2l2AzhsattjI8epyd4rGfViUnUmiT94rfYJs3i0nUIps8s6MkGbyBlv8bmwpg8FN00XO1Sil4U",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Plant Me, please!",
+    "author_handle": "annagolovatovabrunette",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e8cb5f4-fea1-4ecc-b302-fbdb6e3f78e0_1287x1288.jpeg",
+    "author_bio": "Зелено Прошу у мій блог про квіти, рослини, усвідомленість і м’який активізм. Ділюсь спостереженнями з життя природи й міст З @greendezeen вже 10 років створюю еко простори. У 2025 ініціювала відновлення теплиці на ВДНГ.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": true,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": "20.00",
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2025-04-02T11:56:32.134Z",
+    "has_podcast": true,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 2 months ago",
+    "rankingDetailFreeIncluded": "Launched 2 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 2 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 2 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 2 meses",
+            "rankingDetailFreeIncluded": "Launched hace 2 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 2 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 2 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "pt": {
+            "rankingDetail": "Launched 2 meses",
+            "rankingDetailFreeIncluded": "Launched 2 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 2 meses",
+            "rankingDetailFreeIncluded": "Launched 2 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "it": {
+            "rankingDetail": "Launched 2 mesi",
+            "rankingDetailFreeIncluded": "Launched 2 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "en": {
+            "rankingDetail": "Launched 2 months ago",
+            "rankingDetailFreeIncluded": "Launched 2 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "5",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Plant Me, please!",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e8cb5f4-fea1-4ecc-b302-fbdb6e3f78e0_1287x1288.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "Plant Me, please!",
+            "handle": "annagolovatovabrunette",
+            "role": "admin",
+            "owner": true,
+            "user_id": 175892155,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/9e8cb5f4-fea1-4ecc-b302-fbdb6e3f78e0_1287x1288.jpeg",
+            "bio": "Зелено Прошу у мій блог про квіти, рослини, усвідомленість і м’який активізм. Ділюсь спостереженнями з життя природи й міст З @greendezeen вже 10 років створюю еко простори. У 2025 ініціювала відновлення теплиці на ВДНГ."
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": {
+        "id": "541b3f6c-d155-4c0e-a925-7e059e10b505",
+        "publication_id": 4583335,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "Ласкаво прошу у мій куточок світу, де творчий хаос поєднує біофільний дизайн, догляд за рослинами, стиль і бізнес. Вже понад 10 років створюю затишні простори та надихаю дітей відкривати світ флори. У 2025 році ініціювала відновлення теплиці на ВДНГ ",
+        "created_at": "2025-04-02T10:54:20.572001+00:00",
+        "updated_at": "2025-04-02T10:54:20.572001+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "draft_iap_advanced_plans": [
+        {
+            "sku": "EApGVRvjGJIinEfvgW",
+            "publication_id": "4583335",
+            "is_active": true,
+            "price_base_units": 1200,
+            "currency_alpha3": "usd",
+            "period": "month",
+            "created_at": "2025-04-02T12:13:50.723Z",
+            "updated_at": "2025-04-02T12:13:50.723Z",
+            "id": "1432",
+            "payout_amount_base_units": 80,
+            "alternate_currencies": {
+                "aud": 2000,
+                "brl": 7000,
+                "cad": 1800,
+                "chf": 1100,
+                "dkk": 8500,
+                "eur": 1200,
+                "gbp": 1000,
+                "mxn": 24500,
+                "nok": 13000,
+                "nzd": 2200,
+                "pln": 4700,
+                "sek": 12500
+            },
+            "display_name": "Anna Golovatova-Brunette (Monthly)",
+            "display_price": "$12"
+        },
+        {
+            "sku": "9KUIGfTtxu8jn3vxPg",
+            "publication_id": "4583335",
+            "is_active": true,
+            "price_base_units": 13000,
+            "currency_alpha3": "usd",
+            "period": "year",
+            "created_at": "2025-04-02T12:13:50.740Z",
+            "updated_at": "2025-04-02T12:13:50.740Z",
+            "id": "1433",
+            "payout_amount_base_units": 900,
+            "alternate_currencies": {
+                "aud": 21000,
+                "brl": 74000,
+                "cad": 19000,
+                "chf": 11500,
+                "dkk": 90000,
+                "eur": 12500,
+                "gbp": 10500,
+                "mxn": 264500,
+                "nok": 136500,
+                "nzd": 23000,
+                "pln": 50500,
+                "sek": 130500
+            },
+            "display_name": "Anna Golovatova-Brunette (Yearly)",
+            "display_price": "$130"
+        }
+    ],
+    "iap_advanced_plans": [
+        {
+            "sku": "EApGVRvjGJIinEfvgW",
+            "publication_id": "4583335",
+            "is_active": true,
+            "price_base_units": 1200,
+            "currency_alpha3": "usd",
+            "period": "month",
+            "created_at": "2025-04-02T12:13:50.723Z",
+            "updated_at": "2025-04-02T12:13:50.723Z",
+            "id": "1432",
+            "payout_amount_base_units": 80,
+            "alternate_currencies": {
+                "aud": 2000,
+                "brl": 7000,
+                "cad": 1800,
+                "chf": 1100,
+                "dkk": 8500,
+                "eur": 1200,
+                "gbp": 1000,
+                "mxn": 24500,
+                "nok": 13000,
+                "nzd": 2200,
+                "pln": 4700,
+                "sek": 12500
+            },
+            "display_name": "Anna Golovatova-Brunette (Monthly)",
+            "display_price": "$12"
+        },
+        {
+            "sku": "9KUIGfTtxu8jn3vxPg",
+            "publication_id": "4583335",
+            "is_active": true,
+            "price_base_units": 13000,
+            "currency_alpha3": "usd",
+            "period": "year",
+            "created_at": "2025-04-02T12:13:50.740Z",
+            "updated_at": "2025-04-02T12:13:50.740Z",
+            "id": "1433",
+            "payout_amount_base_units": 900,
+            "alternate_currencies": {
+                "aud": 21000,
+                "brl": 74000,
+                "cad": 19000,
+                "chf": 11500,
+                "dkk": 90000,
+                "eur": 12500,
+                "gbp": 10500,
+                "mxn": 264500,
+                "nok": 136500,
+                "nzd": 23000,
+                "pln": 50500,
+                "sek": 130500
+            },
+            "display_name": "Anna Golovatova-Brunette (Yearly)",
+            "display_price": "$130"
+        }
+    ],
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly90eur",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 9000,
+            "amount_decimal": "9000",
+            "billing_scheme": "per_unit",
+            "created": 1743595919,
+            "currency": "eur",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "€90 a year",
+            "product": "prod_S3XD1nFOL5ZDq1",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 15500,
+                    "unit_amount_decimal": "15500"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 55500,
+                    "unit_amount_decimal": "55500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14000,
+                    "unit_amount_decimal": "14000"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 67500,
+                    "unit_amount_decimal": "67500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 198000,
+                    "unit_amount_decimal": "198000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 102000,
+                    "unit_amount_decimal": "102000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 17500,
+                    "unit_amount_decimal": "17500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 38000,
+                    "unit_amount_decimal": "38000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 97500,
+                    "unit_amount_decimal": "97500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                }
+            }
+        },
+        {
+            "id": "monthly8eur",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 800,
+            "amount_decimal": "800",
+            "billing_scheme": "per_unit",
+            "created": 1743595872,
+            "currency": "eur",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "€8 a month",
+            "product": "prod_S3XCSaymzz7HVY",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1400,
+                    "unit_amount_decimal": "1400"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1300,
+                    "unit_amount_decimal": "1300"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 18000,
+                    "unit_amount_decimal": "18000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1600,
+                    "unit_amount_decimal": "1600"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3400,
+                    "unit_amount_decimal": "3400"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                }
+            }
+        }
+    ],
+    "paid_subscription_benefits_english": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "free_subscription_benefits_english": [
+        "Occasional public posts"
+    ],
+    "base_url": "https://annagolovatovabrunette.substack.com",
+    "hostname": "annagolovatovabrunette.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                145,
+                106,
+                46
+            ],
+            "population": 8
+        },
+        "DarkVibrant": {
+            "rgb": [
+                61,
+                74,
+                12
+            ],
+            "population": 319
+        },
+        "LightVibrant": {
+            "rgb": [
+                173,
+                216,
+                252
+            ],
+            "population": 18
+        },
+        "Muted": {
+            "rgb": [
+                154,
+                136,
+                112
+            ],
+            "population": 452
+        },
+        "DarkMuted": {
+            "rgb": [
+                87,
+                84,
+                44
+            ],
+            "population": 83
+        },
+        "LightMuted": {
+            "rgb": [
+                174,
+                198,
+                212
+            ],
+            "population": 89
+        }
+    }
+}

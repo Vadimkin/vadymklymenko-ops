@@ -1,0 +1,335 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 316358394,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "SkillBoost",
+    "cover_photo_url": null,
+    "created_at": "2025-02-06T16:46:57.491Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "SkillBoost",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "@NextEduBot – ТГ-бот для всіх, хто захоплюється штучним інтелектом. Публікуємо семінари, лекції та практичні поради, щоб ви могли прокачати свої навички та освоїти ШІ для власних проєктів.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 4041453,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6d767c-6de8-42c3-a9db-61e7a70a9746_433x433.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "SkillBoost",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 316358394,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "nextmosaic",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Alex Matsuka",
+    "author_handle": "alexmatsuka",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe016e82-55d3-413c-b7e4-94e4157ec3a8_1386x1386.jpeg",
+    "author_bio": "PM | PR | Political Science Expert | Media https://next-mosaic.com/",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#a16207",
+        "web_bg_color": "#fffbeb",
+        "cover_bg_color": "#fffbeb",
+        "publication_id": 4041453,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magazine-5",
+        "home_posts": "grid-groups",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null,
+        "body_post_groups": []
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2025-02-13T11:32:20.251Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 4 months ago",
+    "rankingDetailFreeIncluded": "Launched 4 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 4 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 4 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "66"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 4 meses",
+            "rankingDetailFreeIncluded": "Launched hace 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "66"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 4 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 4 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "66"
+        },
+        "pt": {
+            "rankingDetail": "Launched 4 meses",
+            "rankingDetailFreeIncluded": "Launched 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "66"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 4 meses",
+            "rankingDetailFreeIncluded": "Launched 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "66"
+        },
+        "it": {
+            "rankingDetail": "Launched 4 mesi",
+            "rankingDetailFreeIncluded": "Launched 4 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "66"
+        },
+        "en": {
+            "rankingDetail": "Launched 4 months ago",
+            "rankingDetailFreeIncluded": "Launched 4 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "66"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "66",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Alex Matsuka",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe016e82-55d3-413c-b7e4-94e4157ec3a8_1386x1386.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "Alex Matsuka",
+            "handle": "alexmatsuka",
+            "role": "admin",
+            "owner": true,
+            "user_id": 316358394,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/fe016e82-55d3-413c-b7e4-94e4157ec3a8_1386x1386.jpeg",
+            "bio": "PM | PR | Political Science Expert | Media https://next-mosaic.com/"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://nextmosaic.substack.com",
+    "hostname": "nextmosaic.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                4,
+                132,
+                236
+            ],
+            "population": 576
+        },
+        "DarkVibrant": {
+            "rgb": [
+                4,
+                116,
+                220
+            ],
+            "population": 607
+        },
+        "LightVibrant": {
+            "rgb": [
+                108,
+                188,
+                236
+            ],
+            "population": 1
+        },
+        "Muted": {
+            "rgb": [
+                2.5500000000000025,
+                84.1499999999999,
+                150.45
+            ],
+            "population": 0
+        },
+        "DarkMuted": {
+            "rgb": [
+                2.7321428571428474,
+                79.2321428571428,
+                150.26785714285714
+            ],
+            "population": 0
+        },
+        "LightMuted": {
+            "rgb": [
+                204,
+                220,
+                228
+            ],
+            "population": 2
+        }
+    }
+}

@@ -1,0 +1,315 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 36360468,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "John Iosifov",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/9b4b5304-817d-4b7f-9b00-7512c03d608a_1024x1024.png",
+    "created_at": "2025-05-13T18:13:44.672Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "Ievgen Iosifov, від \"Як AI? (для керівників)\"",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Як AI? Канал для керівників, які хочуть впроваджувати штучний інтелект. Жодного маркетингового хайпу - лише практичні кейси, поради та впровадження, що справді варті уваги.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 5008938,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda11d0b7-c69b-4465-a9f6-4fc78b2b3a2f_1024x1024.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Як AI? (для керівників)",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": null,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "howaiua",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "John Iosifov",
+    "author_handle": "ievgeniosifov",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc09495a5-cd60-4608-a4bd-0d993bfd8563_1543x1543.png",
+    "author_bio": "Founder, CPO, PhD, MBA",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2025-05-13T18:15:33.077Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 25 days ago",
+    "rankingDetailFreeIncluded": "Launched 25 days ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 25 Tagen",
+            "rankingDetailFreeIncluded": "Launched vor 25 Tagen",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "15"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 25 días",
+            "rankingDetailFreeIncluded": "Launched hace 25 días",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "15"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 25 jours",
+            "rankingDetailFreeIncluded": "Launched il y a 25 jours",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "15"
+        },
+        "pt": {
+            "rankingDetail": "Launched 25 dias",
+            "rankingDetailFreeIncluded": "Launched 25 dias",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "15"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 25 dias",
+            "rankingDetailFreeIncluded": "Launched 25 dias",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "15"
+        },
+        "it": {
+            "rankingDetail": "Launched 25 giorni",
+            "rankingDetailFreeIncluded": "Launched 25 giorni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "15"
+        },
+        "en": {
+            "rankingDetail": "Launched 25 days ago",
+            "rankingDetailFreeIncluded": "Launched 25 days ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "15"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "15",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "John Iosifov",
+            "handle": "ievgeniosifov",
+            "role": "admin",
+            "owner": true,
+            "user_id": 36360468,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c09495a5-cd60-4608-a4bd-0d993bfd8563_1543x1543.png",
+            "bio": "Founder, CPO, PhD, MBA"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://howaiua.substack.com",
+    "hostname": "howaiua.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                236,
+                148,
+                68
+            ],
+            "population": 674
+        },
+        "DarkVibrant": {
+            "rgb": [
+                92,
+                65,
+                44
+            ],
+            "population": 61
+        },
+        "LightVibrant": {
+            "rgb": [
+                236,
+                140,
+                68
+            ],
+            "population": 187
+        },
+        "Muted": {
+            "rgb": [
+                110,
+                71,
+                52
+            ],
+            "population": 45
+        },
+        "DarkMuted": {
+            "rgb": [
+                85,
+                52,
+                44
+            ],
+            "population": 9
+        },
+        "LightMuted": {
+            "rgb": [
+                138.88834951456312,
+                67.5873786407767,
+                14.111650485436881
+            ],
+            "population": 0
+        }
+    }
+}

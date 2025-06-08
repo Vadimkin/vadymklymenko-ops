@@ -1,0 +1,317 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 300222743,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "yevhen_muzyka",
+    "cover_photo_url": null,
+    "created_at": "2024-12-15T22:20:47.733Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "My personal Substack",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 3530856,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F617b105c-b65b-428e-9406-be44f5d24900_144x144.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "yevhen_muzyka’s Substack",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 300222743,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "yevhenmuzyka",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "yevhen_muzyka",
+    "author_handle": "yevhenmuzyka",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F617b105c-b65b-428e-9406-be44f5d24900_144x144.png",
+    "author_bio": "just some travel notes",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2024-12-15T22:25:30.792Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 6 months ago",
+    "rankingDetailFreeIncluded": "Launched 6 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 6 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 6 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 6 meses",
+            "rankingDetailFreeIncluded": "Launched hace 6 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 6 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 6 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "pt": {
+            "rankingDetail": "Launched 6 meses",
+            "rankingDetailFreeIncluded": "Launched 6 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 6 meses",
+            "rankingDetailFreeIncluded": "Launched 6 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "it": {
+            "rankingDetail": "Launched 6 mesi",
+            "rankingDetailFreeIncluded": "Launched 6 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "en": {
+            "rankingDetail": "Launched 6 months ago",
+            "rankingDetailFreeIncluded": "Launched 6 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "1",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "yevhen_muzyka",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F617b105c-b65b-428e-9406-be44f5d24900_144x144.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "yevhen_muzyka",
+            "handle": "yevhenmuzyka",
+            "role": "admin",
+            "owner": true,
+            "user_id": 300222743,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/617b105c-b65b-428e-9406-be44f5d24900_144x144.png",
+            "bio": "just some travel notes"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://yevhenmuzyka.substack.com",
+    "hostname": "yevhenmuzyka.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                250,
+                170,
+                36
+            ],
+            "population": 562
+        },
+        "DarkVibrant": {
+            "rgb": [
+                4,
+                108,
+                92
+            ],
+            "population": 4099
+        },
+        "LightVibrant": {
+            "rgb": [
+                249,
+                109,
+                66
+            ],
+            "population": 727
+        },
+        "Muted": {
+            "rgb": [
+                79,
+                147,
+                150
+            ],
+            "population": 42
+        },
+        "DarkMuted": {
+            "rgb": [
+                98,
+                104,
+                54
+            ],
+            "population": 22
+        },
+        "LightMuted": {
+            "rgb": [
+                187,
+                205,
+                222
+            ],
+            "population": 163
+        }
+    }
+}

@@ -1,0 +1,1526 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 210635739,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "DTPNews",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a1c627fb-2735-4de5-83a5-6e689e88ee57_1280x720.png",
+    "created_at": "2024-02-27T04:13:27.241Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "most_recent_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "DTPNews",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "International press agency based in Madrid, Paris, London, London, New York, Bogotá, Lima, Quito, DF, Bamako, Ouagadougou, Cairo, Lagos and Buenos Aires. We are working on the development of the Deep True platform against Fake News.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": false,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 2382663,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "es",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8b7c0f3-5983-40cd-84eb-4ec3094d7581_1920x1080.jpeg",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe0182e8-8f2d-4ac8-8cc3-8be1a7e5ac69_400x400.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "DTPMedia",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Subscriber-only episodes in your podcast app",
+        "Post comments and join the community"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/44eb9844-5690-4410-b731-c9393f5f24c7_1400x1400.png",
+    "paid_podcast_episode_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/b2494ff7-dc67-49a9-b3a6-ab228b205a41_1400x1400.png",
+    "podcast_byline": "DTPNews",
+    "podcast_description": "Uncensored News Podcast",
+    "podcast_enabled": true,
+    "podcast_feed_url": null,
+    "podcast_title": "DTPNews Pod",
+    "post_preview_limit": null,
+    "primary_user_id": 210635739,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": true,
+    "show_recs_on_homepage": true,
+    "subdomain": "dtpmedia",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF9900",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly100usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 10000,
+            "amount_decimal": "10000",
+            "billing_scheme": "per_unit",
+            "created": 1741751412,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$100 a year",
+            "product": "prod_RvXNUhBuBJpYh6",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16000,
+                    "unit_amount_decimal": "16000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 57000,
+                    "unit_amount_decimal": "57000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14500,
+                    "unit_amount_decimal": "14500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 69000,
+                    "unit_amount_decimal": "69000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 202500,
+                    "unit_amount_decimal": "202500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 104500,
+                    "unit_amount_decimal": "104500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 17500,
+                    "unit_amount_decimal": "17500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 39000,
+                    "unit_amount_decimal": "39000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 99500,
+                    "unit_amount_decimal": "99500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                }
+            }
+        },
+        {
+            "id": "monthly5usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1712613459,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$5 a month",
+            "product": "prod_PtCbsd2B2qlvgj",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2900,
+                    "unit_amount_decimal": "2900"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3500,
+                    "unit_amount_decimal": "3500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 400,
+                    "unit_amount_decimal": "400"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2000,
+                    "unit_amount_decimal": "2000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                }
+            }
+        },
+        {
+            "id": "founding60000usd",
+            "name": "founding60000usd",
+            "nickname": "founding60000usd",
+            "active": true,
+            "amount": 60000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Miembro fundador",
+                "short_description_english": "Miembro fundador",
+                "minimum": "10000",
+                "minimum_local": {
+                    "aud": 15500,
+                    "brl": 56000,
+                    "cad": 14000,
+                    "chf": 8500,
+                    "dkk": 65500,
+                    "eur": 9000,
+                    "gbp": 7500,
+                    "mxn": 191500,
+                    "nok": 101500,
+                    "nzd": 17000,
+                    "pln": 38000,
+                    "sek": 96500,
+                    "usd": 10000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 92500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 334000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 82500,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 49500,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 393000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 53000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 44500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 1147000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 607000,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 100000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 226000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 579000,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 60000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1P3Q27Iy22i1dnsX",
+    "stripe_country": "ES",
+    "stripe_publishable_key": "pk_live_51P3Q27Iy22i1dnsXnz8JaZhXICD5iLC6Ch9GzuF4bGYw2jn0r7iIK8gGf1Azkig21Erey7y7UUXBZ9c37NC4sP8Z00AgkNFQWc",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "OK! News",
+    "author_handle": "oknewsm",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67a0f90f-91f3-49b3-9a18-3284e06da3ec_400x400.png",
+    "author_bio": "OK! News es la plataforma de la verdadera libertad de expresion, donde puedes publicar tus articulos, fotos, videos y audios que en otras plataformas o redes sociales son silenciadas o directamente bloqueadas",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 2382663,
+        "color_links": null,
+        "font_preset_heading": "mono",
+        "font_preset_body": "sans",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "feature",
+        "home_posts": "custom",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "free_subscriber",
+        "activated_at": "2025-01-08T00:19:44.224+00:00",
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": true,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2020-03-12T15:47:00.000Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": true,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched a year ago",
+    "rankingDetailFreeIncluded": "Launched a year ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor einem Jahr",
+            "rankingDetailFreeIncluded": "Launched vor einem Jahr",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "es": {
+            "rankingDetail": "Launched hace un año",
+            "rankingDetailFreeIncluded": "Launched hace un año",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a une année",
+            "rankingDetailFreeIncluded": "Launched il y a une année",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "pt": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Launched 1 ano",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Launched 1 ano",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "it": {
+            "rankingDetail": "Launched 1 anno",
+            "rankingDetailFreeIncluded": "Launched 1 anno",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "en": {
+            "rankingDetail": "Launched a year ago",
+            "rankingDetailFreeIncluded": "Launched a year ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "4",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": "2025-01-08T00:19:43.809Z",
+    "primary_profile_name": "OK! News",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67a0f90f-91f3-49b3-9a18-3284e06da3ec_400x400.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 130734,
+            "created_at": "2024-06-10T13:59:57.522Z",
+            "updated_at": "2025-04-19T19:56:44.800Z",
+            "publication_id": 2382663,
+            "name": "Podcast",
+            "description": "Moda, Televisión, Eventos, Historia, Cultura, Radio, Desfile y todo lo vinculado a la sociedad",
+            "slug": "sociedad",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 0,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a86f7f94-1512-41dc-91b3-88fdba170d4d_400x400.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": {
+                "id": 5809,
+                "publication_id": 2382663,
+                "section_id": 130734,
+                "page": null,
+                "page_hero": "feature-media",
+                "page_posts": "grid",
+                "show_podcast_links": true,
+                "hero_alignment": "left"
+            },
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 130786,
+            "created_at": "2024-06-10T18:46:47.581Z",
+            "updated_at": "2025-04-19T20:04:13.140Z",
+            "publication_id": 2382663,
+            "name": "Multimedia",
+            "description": "Audios, Fotos, Galerias y Videos de todo tipo, todo relacionado con noticias, sociedad y mundo en general",
+            "slug": "multimedia",
+            "is_podcast": true,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/4ec970ca-4e6b-4336-ad24-7d8ccc9c404e_1280x1280.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": {
+                "section_id": 130786,
+                "itunes_podcast_primary_category": "Arts",
+                "itunes_podcast_primary_subcategory": "Visual Arts",
+                "itunes_podcast_secondary_category": "Arts",
+                "itunes_podcast_secondary_subcategory": "Performing Arts",
+                "itunes_email": null,
+                "language": null,
+                "itunes_explicit": false,
+                "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/2cede330-d8bb-490c-83af-adb92cb92fb6_1400x1400.png",
+                "podcast_subtitle": null,
+                "podcast_keywords": null,
+                "hide_podcast_feed_link": false,
+                "podcast_feed_url": "https://api.substack.com/feed/podcast/2382663.rss",
+                "podcast_title": "Media",
+                "podcast_description": "Audios, Fotos, Galerias y Videos de todo tipo, todo relacionado con noticias, sociedad y mundo en general",
+                "podcast_byline": "OK! News",
+                "paid_podcast_episode_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/684f5f54-29e6-407e-83e6-f05c2b1b41d6_1400x1400.png",
+                "migrated_to_attached_podcast": false
+            },
+            "spotifyPodcastSettings": {
+                "id": 19784,
+                "publication_id": null,
+                "section_id": 130786,
+                "spotify_access_token": "2e4d1b6e-6e84-4954-b309-e4c5c5914286",
+                "spotify_uri": null,
+                "spotify_podcast_title": null,
+                "created_at": "2024-08-28T03:45:36.891Z",
+                "updated_at": "2024-08-28T03:45:36.891Z",
+                "currently_published_on_spotify": false
+            },
+            "showLinks": [],
+            "pageTheme": {
+                "id": 5811,
+                "publication_id": 2382663,
+                "section_id": 130786,
+                "page": null,
+                "page_hero": "feature-media",
+                "page_posts": "grid",
+                "show_podcast_links": true,
+                "hero_alignment": "left"
+            },
+            "podcastPalette": {
+                "Vibrant": {
+                    "rgb": [
+                        127.5,
+                        127.5,
+                        127.5
+                    ],
+                    "population": 0
+                },
+                "DarkVibrant": {
+                    "rgb": [
+                        66.3,
+                        66.3,
+                        66.3
+                    ],
+                    "population": 0
+                },
+                "LightVibrant": {
+                    "rgb": [
+                        188.7,
+                        188.7,
+                        188.7
+                    ],
+                    "population": 0
+                },
+                "Muted": {
+                    "rgb": [
+                        126,
+                        126,
+                        126
+                    ],
+                    "population": 124
+                },
+                "DarkMuted": {
+                    "rgb": [
+                        62,
+                        62,
+                        62
+                    ],
+                    "population": 68
+                },
+                "LightMuted": {
+                    "rgb": [
+                        188,
+                        188,
+                        188
+                    ],
+                    "population": 44
+                }
+            },
+            "spotify_podcast_settings": {
+                "id": 19784,
+                "publication_id": null,
+                "section_id": 130786,
+                "spotify_access_token": "2e4d1b6e-6e84-4954-b309-e4c5c5914286",
+                "spotify_uri": null,
+                "spotify_podcast_title": null,
+                "created_at": "2024-08-28T03:45:36.891Z",
+                "updated_at": "2024-08-28T03:45:36.891Z",
+                "currently_published_on_spotify": false,
+                "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/2e4d1b6e-6e84-4954-b309-e4c5c5914286/2382663/s/130786.rss",
+                "spotify_show_url": ""
+            }
+        },
+        {
+            "id": 131006,
+            "created_at": "2024-06-11T21:49:19.026Z",
+            "updated_at": "2025-04-19T20:04:47.021Z",
+            "publication_id": 2382663,
+            "name": "Historia",
+            "description": "Todo sobre historia universal",
+            "slug": "historia",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/eaf5da51-f7a0-480c-b546-1c7d479ea9d8_1280x1280.png",
+            "hide_from_navbar": true,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": {
+                "id": 5991,
+                "publication_id": 2382663,
+                "section_id": 131006,
+                "page": null,
+                "page_hero": "feature-media",
+                "page_posts": "grid",
+                "show_podcast_links": true,
+                "hero_alignment": "left"
+            },
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "f521a7af-2baa-4092-ae04-63adcda1c09b",
+            "publication_id": 2382663,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "leaderboard",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "e59623c7-5c5c-4dbd-945c-f85de7affa55",
+            "publication_id": 2382663,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "notes",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "864d9bf1-92a6-4714-ba2a-db06e941fc4d",
+            "publication_id": 2382663,
+            "sibling_rank": 1,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "chat",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "59884df3-a3fc-465f-a7ac-a18485ab3282",
+            "publication_id": 2382663,
+            "sibling_rank": 2,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "e8dcccc4-f62a-415d-88c4-dc59e016e118",
+            "publication_id": 2382663,
+            "sibling_rank": 3,
+            "link_title": "Deep True",
+            "link_url": "https://deeptrueproject.wordpress.com/",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "f8afd51c-f6db-4d49-afee-1a8092f99d89",
+            "publication_id": 2382663,
+            "sibling_rank": 4,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 130734,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 130734,
+                "created_at": "2024-06-10T13:59:57.522Z",
+                "updated_at": "2025-04-19T19:56:44.800Z",
+                "publication_id": 2382663,
+                "name": "Podcast",
+                "description": "Moda, Televisión, Eventos, Historia, Cultura, Radio, Desfile y todo lo vinculado a la sociedad",
+                "slug": "sociedad",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 0,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a86f7f94-1512-41dc-91b3-88fdba170d4d_400x400.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "5ceb5f6d-e420-4cbc-8bb7-665e3897f4c8",
+            "publication_id": 2382663,
+            "sibling_rank": 5,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 130786,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 130786,
+                "created_at": "2024-06-10T18:46:47.581Z",
+                "updated_at": "2025-04-19T20:04:13.140Z",
+                "publication_id": 2382663,
+                "name": "Multimedia",
+                "description": "Audios, Fotos, Galerias y Videos de todo tipo, todo relacionado con noticias, sociedad y mundo en general",
+                "slug": "multimedia",
+                "is_podcast": true,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/4ec970ca-4e6b-4336-ad24-7d8ccc9c404e_1280x1280.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "f3543365-5c90-491b-b058-2ae4abe6c0cf",
+            "publication_id": 2382663,
+            "sibling_rank": 6,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 131006,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 131006,
+                "created_at": "2024-06-11T21:49:19.026Z",
+                "updated_at": "2025-04-19T20:04:47.021Z",
+                "publication_id": 2382663,
+                "name": "Historia",
+                "description": "Todo sobre historia universal",
+                "slug": "historia",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/eaf5da51-f7a0-480c-b546-1c7d479ea9d8_1280x1280.png",
+                "hide_from_navbar": true,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "OK! News",
+            "handle": "oknewsm",
+            "role": "admin",
+            "owner": true,
+            "user_id": 210635739,
+            "photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67a0f90f-91f3-49b3-9a18-3284e06da3ec_400x400.png",
+            "bio": "OK! News es la plataforma de la verdadera libertad de expresion, donde puedes publicar tus articulos, fotos, videos y audios que en otras plataformas o redes sociales son silenciadas o directamente bloqueadas"
+        },
+        {
+            "name": "DTPNews",
+            "handle": "dtpnews",
+            "role": "admin",
+            "owner": false,
+            "user_id": 324246889,
+            "photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00c5cf5-6330-4010-932c-7625edd4387f_512x512.jpeg",
+            "bio": "Publishing verified and validated information in real time"
+        },
+        {
+            "name": "Gus Reimon",
+            "handle": "gusreimon",
+            "role": "contributor",
+            "owner": false,
+            "user_id": 231351945,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b7548f75-2d51-4096-baed-ad422264bfcf_768x768.jpeg",
+            "bio": "Periodista . Director del portal de noticias Info News Ok"
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": {
+        "id": "22b8b15f-dda6-40d2-b4b5-8c9731ef2ceb",
+        "publication_id": 2382663,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "Uncensored news",
+        "created_at": "2024-04-08T21:56:58.534701+00:00",
+        "updated_at": "2024-04-08T21:56:58.534701+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Estimado lector de OK! News\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Gracias por ser un miembro de la comunidad de OK! News. Como suscriptor que paga, ha ayudado a hacer que OK! News sea lo que es hoy\"}]},{\"type\":\"captionedImage\",\"content\":[{\"type\":\"image2\",\"attrs\":{\"src\":\"https://substack-post-media.s3.amazonaws.com/public/images/bf5ea914-4508-40b7-8182-81d78d4ac4b2_1920x685.png\",\"srcNoWatermark\":null,\"fullscreen\":null,\"imageSize\":null,\"height\":519,\"width\":1456,\"resizeWidth\":null,\"bytes\":118292,\"alt\":null,\"title\":null,\"type\":\"image/png\",\"href\":null,\"belowTheFold\":false,\"topImage\":false,\"internalRedirect\":null}}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Como agradecimiento, ahora tiene three suscripciones de regalo GRATUITAS de 1 meses para dar a familiares y amigos (valor habitual = $15). ¿Conoce a alguien que pueda amar OK! News? Clic en el enlace a continuación para compartir una de sus suscripciones de regalo con ellos.\"}]},{\"type\":\"button\",\"attrs\":{\"url\":\"%%grant_gift_url%%\",\"text\":\"Regalar una suscripción\",\"action\":null,\"class\":\"left\"}},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"¡Gracias de nuevo por leer y compartir OK! News!\"}]}]}",
+        "grant_email_subject": "Suscripciones de OK! News para que usted regale"
+    },
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Miembro fundador",
+    "draft_plans": [
+        {
+            "id": "yearly100usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 10000,
+            "amount_decimal": "10000",
+            "billing_scheme": "per_unit",
+            "created": 1741751412,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$100 a year",
+            "product": "prod_RvXNUhBuBJpYh6",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16000,
+                    "unit_amount_decimal": "16000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 57000,
+                    "unit_amount_decimal": "57000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14500,
+                    "unit_amount_decimal": "14500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 69000,
+                    "unit_amount_decimal": "69000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 202500,
+                    "unit_amount_decimal": "202500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 104500,
+                    "unit_amount_decimal": "104500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 17500,
+                    "unit_amount_decimal": "17500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 39000,
+                    "unit_amount_decimal": "39000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 99500,
+                    "unit_amount_decimal": "99500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                }
+            }
+        },
+        {
+            "id": "monthly5usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1712613459,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$5 a month",
+            "product": "prod_PtCbsd2B2qlvgj",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2900,
+                    "unit_amount_decimal": "2900"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3500,
+                    "unit_amount_decimal": "3500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 400,
+                    "unit_amount_decimal": "400"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2000,
+                    "unit_amount_decimal": "2000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                }
+            }
+        },
+        {
+            "id": "founding60000usd",
+            "name": "founding60000usd",
+            "nickname": "founding60000usd",
+            "active": true,
+            "amount": 60000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Miembro fundador",
+                "short_description_english": "Miembro fundador",
+                "minimum": "10000",
+                "minimum_local": {
+                    "aud": 15500,
+                    "brl": 56000,
+                    "cad": 14000,
+                    "chf": 8500,
+                    "dkk": 65500,
+                    "eur": 9000,
+                    "gbp": 7500,
+                    "mxn": 191500,
+                    "nok": 101500,
+                    "nzd": 17000,
+                    "pln": 38000,
+                    "sek": 96500,
+                    "usd": 10000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 92500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 334000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 82500,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 49500,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 393000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 53000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 44500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 1147000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 607000,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 100000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 226000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 579000,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 60000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "paid_subscription_benefits_english": [
+        "Subscriber-only posts and full archive",
+        "Subscriber-only episodes in your podcast app",
+        "Post comments and join the community"
+    ],
+    "free_subscription_benefits_english": [
+        "Occasional public posts"
+    ],
+    "base_url": "https://dtpmedia.substack.com",
+    "hostname": "dtpmedia.substack.com",
+    "is_on_substack": false,
+    "show_links": [
+        {
+            "id": 19938,
+            "publication_id": 2382663,
+            "section_id": null,
+            "url": "https://podcasts.apple.com/us/podcast/ok-news-podcast/id1758537966",
+            "platform": "apple_podcasts"
+        },
+        {
+            "id": 19937,
+            "publication_id": 2382663,
+            "section_id": null,
+            "url": "https://pca.st/aklsryby",
+            "platform": "pocket_casts"
+        },
+        {
+            "id": 22361,
+            "publication_id": 2382663,
+            "section_id": null,
+            "url": "https://www.youtube.com/playlist?list=PLpx6IDHxgwlpc4JlwZsCpN8spgJApSWIi",
+            "platform": "youtube"
+        },
+        {
+            "id": 19941,
+            "publication_id": 2382663,
+            "section_id": null,
+            "url": "https://music.youtube.com/channel/UC1GMzSlTlBX-Cyq-FdvZ76A",
+            "platform": "youtube_music"
+        }
+    ],
+    "spotify_podcast_settings": {
+        "id": 8764,
+        "publication_id": 2382663,
+        "section_id": null,
+        "spotify_access_token": "865a0e35-7db7-4a87-81fc-f6405507bea8",
+        "spotify_uri": "spotify:show:79vtDaDZCiD14Y1AJZKqNW",
+        "spotify_podcast_title": null,
+        "created_at": "2024-04-27T04:31:48.653Z",
+        "updated_at": "2024-07-20T18:08:52.542Z",
+        "currently_published_on_spotify": true,
+        "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/865a0e35-7db7-4a87-81fc-f6405507bea8/2382663.rss",
+        "spotify_show_url": "https://open.spotify.com/show/79vtDaDZCiD14Y1AJZKqNW"
+    },
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                126,
+                126,
+                126
+            ],
+            "population": 124
+        },
+        "DarkMuted": {
+            "rgb": [
+                62,
+                62,
+                62
+            ],
+            "population": 68
+        },
+        "LightMuted": {
+            "rgb": [
+                188,
+                188,
+                188
+            ],
+            "population": 44
+        }
+    },
+    "pageThemes": {
+        "podcast": {
+            "id": 2795,
+            "publication_id": 2382663,
+            "section_id": null,
+            "page": "podcast",
+            "page_hero": "podcast",
+            "page_posts": "grid",
+            "show_podcast_links": true,
+            "hero_alignment": "center"
+        }
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                118,
+                118,
+                118
+            ],
+            "population": 142
+        },
+        "DarkMuted": {
+            "rgb": [
+                59,
+                59,
+                59
+            ],
+            "population": 89
+        },
+        "LightMuted": {
+            "rgb": [
+                188,
+                188,
+                188
+            ],
+            "population": 41
+        }
+    }
+}

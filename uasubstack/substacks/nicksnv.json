@@ -1,0 +1,859 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 338492791,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Nick",
+    "cover_photo_url": null,
+    "created_at": "2025-05-01T16:12:14.609Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "In the heart of Europe! • В Серці Європи!\n",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 4889753,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff827d919-43ef-4f67-8023-a2c8a634d07d_731x731.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Life and War in Ukraine 🌻",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 338492791,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "nicksnv",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Nick Vysotsky",
+    "author_handle": "nicksnv",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F389e011d-b3bb-4016-b021-a0e936dcb03c_400x400.png",
+    "author_bio": "None of us are born for war. But when the enemy comes to your home, there are no other options left but to face them with weapons in hand. • I write in two languages, my native one and English, out of respect for my audience.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": "#212222",
+        "cover_bg_color": "#212222",
+        "publication_id": 4889753,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": "sans",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "custom",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2025-05-02T10:57:04.232Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched a month ago",
+    "rankingDetailFreeIncluded": "Launched a month ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor einem Monat",
+            "rankingDetailFreeIncluded": "Launched vor einem Monat",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "es": {
+            "rankingDetail": "Launched hace un mes",
+            "rankingDetailFreeIncluded": "Launched hace un mes",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a un mois",
+            "rankingDetailFreeIncluded": "Launched il y a un mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt": {
+            "rankingDetail": "Launched 1 mês",
+            "rankingDetailFreeIncluded": "Launched 1 mês",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 1 mês",
+            "rankingDetailFreeIncluded": "Launched 1 mês",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "it": {
+            "rankingDetail": "Launched 1 mese",
+            "rankingDetailFreeIncluded": "Launched 1 mese",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "en": {
+            "rankingDetail": "Launched a month ago",
+            "rankingDetailFreeIncluded": "Launched a month ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "2",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Nick Vysotsky",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F389e011d-b3bb-4016-b021-a0e936dcb03c_400x400.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 220413,
+            "created_at": "2025-05-06T12:44:57.596Z",
+            "updated_at": "2025-05-08T07:16:48.178Z",
+            "publication_id": 4889753,
+            "name": "Posts in Ukrainian",
+            "description": "Публікації Українською мовою",
+            "slug": "posts-in-ukrainian",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": false,
+            "sibling_rank": 0,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": true,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "233ff456-bd7a-4b13-bfcb-cd99174a2e77",
+            "publication_id": 4889753,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "581432dc-2e7f-4b83-8a60-ae98b5eef6f8",
+            "publication_id": 4889753,
+            "sibling_rank": 1,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "4441a617-7b6d-4f25-a087-032a0aa5d5eb",
+            "publication_id": 4889753,
+            "sibling_rank": 2,
+            "link_title": "Strike",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "952af57f-5e7d-4bd0-bfb3-0d34a767760b",
+            "postTag": {
+                "id": "952af57f-5e7d-4bd0-bfb3-0d34a767760b",
+                "publication_id": 4889753,
+                "name": "EN • Strike",
+                "slug": "logstrike-en",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "e6637357-03c4-4acc-a3a5-5204298dd3af",
+            "publication_id": 4889753,
+            "sibling_rank": 3,
+            "link_title": "Terror",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "e233f8b8-16cd-4f65-ae46-0bfe1908dc45",
+            "postTag": {
+                "id": "e233f8b8-16cd-4f65-ae46-0bfe1908dc45",
+                "publication_id": 4889753,
+                "name": "EN • Terror",
+                "slug": "logterror-en",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "4d017fd3-1a79-47bc-924d-59873a7eba9d",
+            "publication_id": 4889753,
+            "sibling_rank": 4,
+            "link_title": "Military",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "c2213024-f151-4882-a056-b3dbf7439699",
+            "postTag": {
+                "id": "c2213024-f151-4882-a056-b3dbf7439699",
+                "publication_id": 4889753,
+                "name": "EN • Military",
+                "slug": "logmilitary-en",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "4c9204fb-c91e-4f97-a900-acdcc0964ec0",
+            "publication_id": 4889753,
+            "sibling_rank": 5,
+            "link_title": "Chronicle",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "2a9da3bd-8167-43a0-9352-192cc418e936",
+            "postTag": {
+                "id": "2a9da3bd-8167-43a0-9352-192cc418e936",
+                "publication_id": 4889753,
+                "name": "EN • Chronicle",
+                "slug": "logchronicle-en",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "a3645d73-1cd0-4bc8-8f6c-c36e491d2715",
+            "publication_id": 4889753,
+            "sibling_rank": 6,
+            "link_title": "Review",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "c092999c-29f6-4cec-82b6-55c5b9b2fedd",
+            "postTag": {
+                "id": "c092999c-29f6-4cec-82b6-55c5b9b2fedd",
+                "publication_id": 4889753,
+                "name": "EN • Review",
+                "slug": "logreview-en",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "c79820e5-99dc-4d29-b6ef-9984ccb89327",
+            "publication_id": 4889753,
+            "sibling_rank": 7,
+            "link_title": "Tech",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "c7b1ce48-8736-47b7-95b9-13e93a174799",
+            "postTag": {
+                "id": "c7b1ce48-8736-47b7-95b9-13e93a174799",
+                "publication_id": 4889753,
+                "name": "EN • Tech",
+                "slug": "logtech-en",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "b3bbe08a-47f3-4e8c-a7e3-810c9733f1d0",
+            "publication_id": 4889753,
+            "sibling_rank": 8,
+            "link_title": "Thoughts",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "7968697d-fd1b-4d90-a5e3-582f6d8d15b2",
+            "postTag": {
+                "id": "7968697d-fd1b-4d90-a5e3-582f6d8d15b2",
+                "publication_id": 4889753,
+                "name": "EN • Thoughts",
+                "slug": "logthoughts-en",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "eef88a2f-e5f9-46ba-bce9-420e7eb69e73",
+            "publication_id": 4889753,
+            "sibling_rank": 10,
+            "link_title": "❤️Donate",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 163114169,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": {
+                "id": 163114169,
+                "publication_id": 4889753,
+                "is_published": true,
+                "title": "❤️Donate",
+                "body": "s3://substack-content/post/163114169/2025-05-08T07-15-54-852Z/338492791/21f37a3220ba95002e73aec54e0616577da36087",
+                "slug": "donate",
+                "post_date": "2025-05-08T07:16:06.269Z",
+                "draft_title": "❤️Donate",
+                "draft_body": "s3://substack-content/post/163114169/2025-05-08T07-15-54-852Z/338492791/21f37a3220ba95002e73aec54e0616577da36087",
+                "draft_updated_at": "2025-05-08T07:18:21.223Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "bf48b091-3b20-4cce-bff2-c29113eec220",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2025-05-08T07:18:32.312Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": true,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 41,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2025-05-08T07:10:48.687Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            },
+            "section": null
+        },
+        {
+            "id": "2dac2305-a202-4deb-8276-9c612d233dc3",
+            "publication_id": 4889753,
+            "sibling_rank": 11,
+            "link_title": "Удари",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "71402f46-dc64-49fc-b983-a42844ae037b",
+            "postTag": {
+                "id": "71402f46-dc64-49fc-b983-a42844ae037b",
+                "publication_id": 4889753,
+                "name": "UA • Удари",
+                "slug": "logstrike-ua",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "cf3023e2-086b-4d19-8866-4915a065b884",
+            "publication_id": 4889753,
+            "sibling_rank": 12,
+            "link_title": "Терор",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "d922a87f-38bc-4fd8-8b90-2ccee983bcf0",
+            "postTag": {
+                "id": "d922a87f-38bc-4fd8-8b90-2ccee983bcf0",
+                "publication_id": 4889753,
+                "name": "UA • Терор",
+                "slug": "logterror-ua",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "a97f5d55-283e-40cf-963a-905bdd96133c",
+            "publication_id": 4889753,
+            "sibling_rank": 13,
+            "link_title": "Військове",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "e8043a6c-6456-489f-bdce-b84a03d69b3f",
+            "postTag": {
+                "id": "e8043a6c-6456-489f-bdce-b84a03d69b3f",
+                "publication_id": 4889753,
+                "name": "UA • Військове",
+                "slug": "logmilitary-ua",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "22541d07-1e0a-45dd-bae2-f32796a07025",
+            "publication_id": 4889753,
+            "sibling_rank": 14,
+            "link_title": "Хроніка",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "3f699873-eaed-40b7-bfe9-6ed54d0a8477",
+            "postTag": {
+                "id": "3f699873-eaed-40b7-bfe9-6ed54d0a8477",
+                "publication_id": 4889753,
+                "name": "UA • Хроніка",
+                "slug": "logchronicle-ua",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "99afa776-c14a-4482-8ad5-32f36c9f8269",
+            "publication_id": 4889753,
+            "sibling_rank": 15,
+            "link_title": "Огляди",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "822d6afa-0651-4265-9bfd-f5c1229ee8d3",
+            "postTag": {
+                "id": "822d6afa-0651-4265-9bfd-f5c1229ee8d3",
+                "publication_id": 4889753,
+                "name": "UA • Огляди",
+                "slug": "logreview-ua",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "14d1eeec-38b2-49f8-8502-2f9362627031",
+            "publication_id": 4889753,
+            "sibling_rank": 16,
+            "link_title": "Техніка",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "e3e68b16-81bd-41b8-b198-6a25c066bb38",
+            "postTag": {
+                "id": "e3e68b16-81bd-41b8-b198-6a25c066bb38",
+                "publication_id": 4889753,
+                "name": "UA • Техніка",
+                "slug": "logtech-ua",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "644e5c8c-9d62-4a06-8e71-7700e541d383",
+            "publication_id": 4889753,
+            "sibling_rank": 17,
+            "link_title": "Думки",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "d59b8a27-9912-4b40-a615-97e0f2dd9531",
+            "postTag": {
+                "id": "d59b8a27-9912-4b40-a615-97e0f2dd9531",
+                "publication_id": 4889753,
+                "name": "UA • Думки",
+                "slug": "logthoughts-ua",
+                "hidden": false
+            },
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "6b8d0ef9-4157-4db7-ae88-a87c7283adc2",
+            "publication_id": 4889753,
+            "sibling_rank": 18,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 220413,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 220413,
+                "created_at": "2025-05-06T12:44:57.596Z",
+                "updated_at": "2025-05-08T07:16:48.178Z",
+                "publication_id": 4889753,
+                "name": "Posts in Ukrainian",
+                "description": "Публікації Українською мовою",
+                "slug": "posts-in-ukrainian",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": false,
+                "sibling_rank": 0,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": true,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Nick Vysotsky",
+            "handle": "nicksnv",
+            "role": "admin",
+            "owner": true,
+            "user_id": 338492791,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/389e011d-b3bb-4016-b021-a0e936dcb03c_400x400.png",
+            "bio": "None of us are born for war. But when the enemy comes to your home, there are no other options left but to face them with weapons in hand. • I write in two languages, my native one and English, out of respect for my audience."
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://nicksnv.substack.com",
+    "hostname": "nicksnv.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                234,
+                191,
+                4
+            ],
+            "population": 409
+        },
+        "DarkVibrant": {
+            "rgb": [
+                160,
+                121,
+                4
+            ],
+            "population": 792
+        },
+        "LightVibrant": {
+            "rgb": [
+                252.77142857142857,
+                228.81428571428575,
+                124.62857142857143
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                142,
+                160,
+                100
+            ],
+            "population": 12
+        },
+        "DarkMuted": {
+            "rgb": [
+                76,
+                80,
+                42
+            ],
+            "population": 7
+        },
+        "LightMuted": {
+            "rgb": [
+                199,
+                200,
+                195
+            ],
+            "population": 253
+        }
+    }
+}

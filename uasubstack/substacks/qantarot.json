@@ -1,0 +1,1056 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": "kantarot.mk",
+    "author_id": 8628695,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "KANTAROT",
+    "cover_photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/be7ea144-dbe8-4d86-aad2-d809e3a54397_1280x853.png",
+    "created_at": "2021-06-28T20:42:10.337Z",
+    "custom_domain_optional": true,
+    "custom_domain": "kantarot.mk",
+    "default_comment_sort": "best_first",
+    "default_coupon": "fff5ec93",
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3b2bfa19-27eb-48ab-bdb6-0ca63314c621_1100x220.png",
+    "email_from_name": "KANTAROT",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": "667919830562229",
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [
+        "Acknowledgement on website"
+    ],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Science, culture and mental fitness / Наука, култура и ментална фискултура",
+    "hide_intro_subtitle": false,
+    "hide_intro_title": false,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 396213,
+    "image_thumbnails_always_enabled": true,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3fe34091-40e3-4aea-b94b-1e14a3c19c12_1250x1250.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "KANTAROT / КАНТАРОТ",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 8628695,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "qantarot",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#2096FF",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly100usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 10000,
+            "amount_decimal": "10000",
+            "billing_scheme": "per_unit",
+            "created": 1629831532,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$100 a year",
+            "product": "prod_K6HOQwWrlCJwFV",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16500,
+                    "unit_amount_decimal": "16500"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 57500,
+                    "unit_amount_decimal": "57500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14500,
+                    "unit_amount_decimal": "14500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 69000,
+                    "unit_amount_decimal": "69000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 205000,
+                    "unit_amount_decimal": "205000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 105500,
+                    "unit_amount_decimal": "105500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 18000,
+                    "unit_amount_decimal": "18000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 39000,
+                    "unit_amount_decimal": "39000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 100500,
+                    "unit_amount_decimal": "100500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                }
+            }
+        },
+        {
+            "id": "monthly10usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 1000,
+            "amount_decimal": "1000",
+            "billing_scheme": "per_unit",
+            "created": 1629831531,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$10 a month",
+            "product": "prod_K6HOZkEGZWnv8L",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1700,
+                    "unit_amount_decimal": "1700"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1500,
+                    "unit_amount_decimal": "1500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7000,
+                    "unit_amount_decimal": "7000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 20500,
+                    "unit_amount_decimal": "20500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11000,
+                    "unit_amount_decimal": "11000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1800,
+                    "unit_amount_decimal": "1800"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                }
+            }
+        },
+        {
+            "id": "founding30000usd",
+            "name": "founding30000usd",
+            "nickname": "founding30000usd",
+            "active": true,
+            "amount": 30000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "10000",
+                "minimum_local": {
+                    "aud": 15500,
+                    "brl": 56000,
+                    "cad": 14000,
+                    "chf": 8500,
+                    "dkk": 65500,
+                    "eur": 9000,
+                    "gbp": 7500,
+                    "mxn": 191500,
+                    "nok": 101500,
+                    "nzd": 17000,
+                    "pln": 38000,
+                    "sek": 96500,
+                    "usd": 10000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 46500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 167000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 41500,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 25000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 196500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 26500,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 22500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 573500,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 303500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 50000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 113000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 289500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 30000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1JS4g2JlmyWXDL70",
+    "stripe_country": "CA",
+    "stripe_publishable_key": "pk_live_51JS4g2JlmyWXDL70EN7tByZ49XdG1cQGM2nIt4CgzBeaQCKvJhLc5pXlGNnxvORh0uggS6ULosl3TohdCGAlWOJI00hIsb3K24",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Foundation KANTAROT",
+    "author_handle": "qantarot",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F62f83d10-1739-4633-ab68-51a1dc4ebc5a_1667x1250.jpeg",
+    "author_bio": "Science, culture and mental fitness / Наука, култура и ментална фискултура",
+    "twitter_screen_name": "qantarot",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2019-07-06T12:22:00.000Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "write",
+    "rankingDetail": "Launched 4 years ago",
+    "rankingDetailFreeIncluded": "Hundreds of subscribers",
+    "rankingDetailOrderOfMagnitude": 10,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 4 Jahren",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "695"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 4 años",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "695"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 4 années",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "695"
+        },
+        "pt": {
+            "rankingDetail": "Launched 4 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "695"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 4 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "695"
+        },
+        "it": {
+            "rankingDetail": "Launched 4 anni",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "695"
+        },
+        "en": {
+            "rankingDetail": "Launched 4 years ago",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "695"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "695",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Foundation KANTAROT",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F62f83d10-1739-4633-ab68-51a1dc4ebc5a_1667x1250.jpeg",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 10055,
+            "created_at": "2021-12-27T15:24:08.972Z",
+            "updated_at": "2021-12-27T15:24:08.972Z",
+            "publication_id": 396213,
+            "name": "SHARE-ish",
+            "description": "Publish or... \n\nPersonal musings of Nikola Stikov",
+            "slug": "share-ish",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d2bd3fba-bf88-46c8-8330-fcb0aab59024_822x822.png",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "pageTheme": null,
+            "showLinks": [],
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "f9fc9c61-b28e-4f78-8d56-ab87c43a8ac7",
+            "publication_id": 396213,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 10055,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 10055,
+                "created_at": "2021-12-27T15:24:08.972Z",
+                "updated_at": "2021-12-27T15:24:08.972Z",
+                "publication_id": 396213,
+                "name": "SHARE-ish",
+                "description": "Publish or... \n\nPersonal musings of Nikola Stikov",
+                "slug": "share-ish",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d2bd3fba-bf88-46c8-8330-fcb0aab59024_822x822.png",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Foundation KANTAROT",
+            "handle": "qantarot",
+            "role": "admin",
+            "owner": true,
+            "user_id": 8628695,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/62f83d10-1739-4633-ab68-51a1dc4ebc5a_1667x1250.jpeg",
+            "bio": "Science, culture and mental fitness / Наука, култура и ментална фискултура"
+        },
+        {
+            "name": "Наташа Атанасова",
+            "handle": "1234548060",
+            "role": "admin",
+            "owner": false,
+            "user_id": 40761137,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/795c437f-2b4b-4b50-b831-f48f8e016018_1264x1265.jpeg",
+            "bio": "Пишувачка."
+        },
+        {
+            "name": "Nikola Stikov",
+            "handle": "stikov",
+            "role": "contributor",
+            "owner": false,
+            "user_id": 30875155,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/eb9bd507-bc7b-410b-9f9b-af9c2dab065e_459x570.jpeg",
+            "bio": "Professor at École Polytechnique / University of Montreal"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly100usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 10000,
+            "amount_decimal": "10000",
+            "billing_scheme": "per_unit",
+            "created": 1629831532,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$100 a year",
+            "product": "prod_K6HOQwWrlCJwFV",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16500,
+                    "unit_amount_decimal": "16500"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 57500,
+                    "unit_amount_decimal": "57500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14500,
+                    "unit_amount_decimal": "14500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 69000,
+                    "unit_amount_decimal": "69000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 205000,
+                    "unit_amount_decimal": "205000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 105500,
+                    "unit_amount_decimal": "105500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 18000,
+                    "unit_amount_decimal": "18000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 39000,
+                    "unit_amount_decimal": "39000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 100500,
+                    "unit_amount_decimal": "100500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                }
+            }
+        },
+        {
+            "id": "monthly10usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 1000,
+            "amount_decimal": "1000",
+            "billing_scheme": "per_unit",
+            "created": 1629831531,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$10 a month",
+            "product": "prod_K6HOZkEGZWnv8L",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1700,
+                    "unit_amount_decimal": "1700"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1500,
+                    "unit_amount_decimal": "1500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7000,
+                    "unit_amount_decimal": "7000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 20500,
+                    "unit_amount_decimal": "20500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11000,
+                    "unit_amount_decimal": "11000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1800,
+                    "unit_amount_decimal": "1800"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                }
+            }
+        },
+        {
+            "id": "founding30000usd",
+            "name": "founding30000usd",
+            "nickname": "founding30000usd",
+            "active": true,
+            "amount": 30000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "10000",
+                "minimum_local": {
+                    "aud": 15500,
+                    "brl": 56000,
+                    "cad": 14000,
+                    "chf": 8500,
+                    "dkk": 65500,
+                    "eur": 9000,
+                    "gbp": 7500,
+                    "mxn": 191500,
+                    "nok": 101500,
+                    "nzd": 17000,
+                    "pln": 38000,
+                    "sek": 96500,
+                    "usd": 10000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 46500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 167000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 41500,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 25000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 196500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 26500,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 22500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 573500,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 303500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 50000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 113000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 289500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 30000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "base_url": "https://qantarot.substack.com",
+    "hostname": "qantarot.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                124,
+                124,
+                124
+            ],
+            "population": 6
+        },
+        "DarkMuted": {
+            "rgb": [
+                68,
+                68,
+                68
+            ],
+            "population": 6
+        },
+        "LightMuted": {
+            "rgb": [
+                172,
+                172,
+                172
+            ],
+            "population": 8
+        }
+    }
+}

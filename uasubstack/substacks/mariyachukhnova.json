@@ -1,0 +1,1311 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 134614514,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Mariya Chukhnova",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e832d9b5-40b4-4528-91c8-967dcdc52711_1200x700.png",
+    "created_at": "2024-03-23T23:34:25.060Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "I write about the war in Ukraine to seek support, justice, and the end of this aggression with lasting peace. Subscription fees go to supporting my friends Max and Art, Ukrainian defenders.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 2451479,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9439f8f7-3120-4692-87b0-169ba030011f_881x881.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Mariya’s Substack",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 134614514,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": false,
+    "subdomain": "mariyachukhnova",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#786CFF",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly50usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1711315860,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$50 a year",
+            "product": "prod_PnZmBSTnio4PrG",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 28500,
+                    "unit_amount_decimal": "28500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4500,
+                    "unit_amount_decimal": "4500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 34500,
+                    "unit_amount_decimal": "34500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4700,
+                    "unit_amount_decimal": "4700"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 101500,
+                    "unit_amount_decimal": "101500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 52500,
+                    "unit_amount_decimal": "52500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 19500,
+                    "unit_amount_decimal": "19500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 50000,
+                    "unit_amount_decimal": "50000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                }
+            }
+        },
+        {
+            "id": "monthly5usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1711315859,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$5 a month",
+            "product": "prod_PnZm3PmkWaGYti",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2900,
+                    "unit_amount_decimal": "2900"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3500,
+                    "unit_amount_decimal": "3500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 400,
+                    "unit_amount_decimal": "400"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2000,
+                    "unit_amount_decimal": "2000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                }
+            }
+        },
+        {
+            "id": "founding10000usd",
+            "name": "founding10000usd",
+            "nickname": "founding10000usd",
+            "active": true,
+            "amount": 10000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "5000",
+                "minimum_local": {
+                    "aud": 8000,
+                    "brl": 28000,
+                    "cad": 7000,
+                    "chf": 4200,
+                    "dkk": 33000,
+                    "eur": 4400,
+                    "gbp": 3700,
+                    "mxn": 96000,
+                    "nok": 51000,
+                    "nzd": 8500,
+                    "pln": 19000,
+                    "sek": 48500,
+                    "usd": 5000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 15500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 56000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 14000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 8500,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 65500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 9000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 7500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 191500,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 101500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 17000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 38000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 96500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 10000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1OxyMCCoByfTn7QQ",
+    "stripe_country": "US",
+    "stripe_publishable_key": "pk_live_51OxyMCCoByfTn7QQtubjoXJoxQ6qw2whctMrgIYukUkQAhS659jckF6VhcabYeMzwtwN5w5UKg5rkc84HqcNX6vQ00p2js5MYW",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Mariya Chukhnova",
+    "author_handle": "mariyachukhnova",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a777081-05be-4ab0-a33a-5c52d07800a9_1080x1080.jpeg",
+    "author_bio": "Mariya is a trilingual expert proficient in Ukrainian, russian, and English, specializing in international security and regional knowledge, with a focus on Eastern Europe, particularly Ukraine and russia. ",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#538cfa",
+        "web_bg_color": "#f2f2e3",
+        "cover_bg_color": "#f2f2e3",
+        "publication_id": 2451479,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": false,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "free_subscriber",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": true,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2023-05-17T18:07:54.000Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched a year ago",
+    "rankingDetailFreeIncluded": "Hundreds of subscribers",
+    "rankingDetailOrderOfMagnitude": 1,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor einem Jahr",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "123"
+        },
+        "es": {
+            "rankingDetail": "Launched hace un año",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "123"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a une année",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "123"
+        },
+        "pt": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "123"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "123"
+        },
+        "it": {
+            "rankingDetail": "Launched 1 anno",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "123"
+        },
+        "en": {
+            "rankingDetail": "Launched a year ago",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "123"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "123",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Mariya Chukhnova",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a777081-05be-4ab0-a33a-5c52d07800a9_1080x1080.jpeg",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 115575,
+            "created_at": "2024-03-24T20:12:35.878Z",
+            "updated_at": "2025-02-27T16:39:39.325Z",
+            "publication_id": 2451479,
+            "name": "Fundraisers to Support Ukraine",
+            "description": "These fundraisers are dedicated to supporting various initiatives, including my close friends on the frontline. ",
+            "slug": "fundraiser-to-support-ukraine",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8b2b3276-90a7-4723-9644-f1032cddf530_512x512.png",
+            "hide_from_navbar": false,
+            "email_from_name": "Mariya Chukhnova",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "pageTheme": null,
+            "podcastSettings": null,
+            "showLinks": [],
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 115599,
+            "created_at": "2024-03-24T22:23:29.020Z",
+            "updated_at": "2025-03-07T15:17:57.617Z",
+            "publication_id": 2451479,
+            "name": "Advocating for Ukraine",
+            "description": "Advocating for Ukraine is critical in supporting its people's pursuit of peace and sovereignty. In this section, I discuss how advocacy for Ukraine can help us bring peace and security to Eastern Europe and how you can help.",
+            "slug": "advocating-for-ukraine",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/eda61592-241e-4a50-8cb4-4176fb1b2807_512x512.png",
+            "hide_from_navbar": false,
+            "email_from_name": "Mariya Chukhnova",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "pageTheme": null,
+            "podcastSettings": null,
+            "showLinks": [],
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 223228,
+            "created_at": "2025-05-13T19:56:51.977Z",
+            "updated_at": "2025-05-13T19:56:52.260Z",
+            "publication_id": 2451479,
+            "name": "Mariya's Bookshelf",
+            "description": "Reviews of the books I read, ranging from classics to contemporary works, across genres and cultures, including American, Ukrainian, and more. ",
+            "slug": "mariyas-bookshelf",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 3,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/9d1345eb-a341-4ca6-bea3-6d758fd3d291_1209x1209.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "pageTheme": null,
+            "podcastSettings": null,
+            "showLinks": [],
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "1a8c0b75-0353-4e1b-95fa-ca37559589ba",
+            "publication_id": 2451479,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 115599,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 115599,
+                "created_at": "2024-03-24T22:23:29.020Z",
+                "updated_at": "2025-03-07T15:17:57.617Z",
+                "publication_id": 2451479,
+                "name": "Advocating for Ukraine",
+                "description": "Advocating for Ukraine is critical in supporting its people's pursuit of peace and sovereignty. In this section, I discuss how advocacy for Ukraine can help us bring peace and security to Eastern Europe and how you can help.",
+                "slug": "advocating-for-ukraine",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/eda61592-241e-4a50-8cb4-4176fb1b2807_512x512.png",
+                "hide_from_navbar": false,
+                "email_from_name": "Mariya Chukhnova",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "8cc267a3-ca36-425e-93da-38ee007bd34e",
+            "publication_id": 2451479,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 115575,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 115575,
+                "created_at": "2024-03-24T20:12:35.878Z",
+                "updated_at": "2025-02-27T16:39:39.325Z",
+                "publication_id": 2451479,
+                "name": "Fundraisers to Support Ukraine",
+                "description": "These fundraisers are dedicated to supporting various initiatives, including my close friends on the frontline. ",
+                "slug": "fundraiser-to-support-ukraine",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8b2b3276-90a7-4723-9644-f1032cddf530_512x512.png",
+                "hide_from_navbar": false,
+                "email_from_name": "Mariya Chukhnova",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "72ee223f-7ae3-4dd1-afc9-01befad52ae6",
+            "publication_id": 2451479,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 223228,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 223228,
+                "created_at": "2025-05-13T19:56:51.977Z",
+                "updated_at": "2025-05-13T19:56:52.260Z",
+                "publication_id": 2451479,
+                "name": "Mariya's Bookshelf",
+                "description": "Reviews of the books I read, ranging from classics to contemporary works, across genres and cultures, including American, Ukrainian, and more. ",
+                "slug": "mariyas-bookshelf",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 3,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/9d1345eb-a341-4ca6-bea3-6d758fd3d291_1209x1209.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Mariya Chukhnova",
+            "handle": "mariyachukhnova",
+            "role": "admin",
+            "owner": true,
+            "user_id": 134614514,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/1a777081-05be-4ab0-a33a-5c52d07800a9_1080x1080.jpeg",
+            "bio": "Mariya is a trilingual expert proficient in Ukrainian, russian, and English, specializing in international security and regional knowledge, with a focus on Eastern Europe, particularly Ukraine and russia. "
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": {
+        "id": "b16e3667-6531-4c48-92d7-e5f0851c2100",
+        "publication_id": 2451479,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "A collection of my publications as well as blog discussions on the war in Ukraine. ",
+        "created_at": "2024-03-24T21:31:06.433356+00:00",
+        "updated_at": "2024-03-24T21:31:06.433356+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly50usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1711315860,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$50 a year",
+            "product": "prod_PnZmBSTnio4PrG",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 28500,
+                    "unit_amount_decimal": "28500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4500,
+                    "unit_amount_decimal": "4500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 34500,
+                    "unit_amount_decimal": "34500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4700,
+                    "unit_amount_decimal": "4700"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 101500,
+                    "unit_amount_decimal": "101500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 52500,
+                    "unit_amount_decimal": "52500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 19500,
+                    "unit_amount_decimal": "19500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 50000,
+                    "unit_amount_decimal": "50000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                }
+            }
+        },
+        {
+            "id": "monthly5usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1711315859,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$5 a month",
+            "product": "prod_PnZm3PmkWaGYti",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2900,
+                    "unit_amount_decimal": "2900"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3500,
+                    "unit_amount_decimal": "3500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 400,
+                    "unit_amount_decimal": "400"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2000,
+                    "unit_amount_decimal": "2000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                }
+            }
+        },
+        {
+            "id": "founding10000usd",
+            "name": "founding10000usd",
+            "nickname": "founding10000usd",
+            "active": true,
+            "amount": 10000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "5000",
+                "minimum_local": {
+                    "aud": 8000,
+                    "brl": 28000,
+                    "cad": 7000,
+                    "chf": 4200,
+                    "dkk": 33000,
+                    "eur": 4400,
+                    "gbp": 3700,
+                    "mxn": 96000,
+                    "nok": 51000,
+                    "nzd": 8500,
+                    "pln": 19000,
+                    "sek": 48500,
+                    "usd": 5000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 15500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 56000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 14000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 8500,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 65500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 9000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 7500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 191500,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 101500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 17000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 38000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 96500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 10000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "paid_subscription_benefits_english": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "free_subscription_benefits_english": [
+        "Occasional public posts"
+    ],
+    "base_url": "https://mariyachukhnova.substack.com",
+    "hostname": "mariyachukhnova.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                172,
+                198,
+                116
+            ],
+            "population": 3
+        },
+        "DarkVibrant": {
+            "rgb": [
+                72,
+                49,
+                24
+            ],
+            "population": 42
+        },
+        "LightVibrant": {
+            "rgb": [
+                212,
+                222,
+                183
+            ],
+            "population": 130
+        },
+        "Muted": {
+            "rgb": [
+                164,
+                116,
+                92
+            ],
+            "population": 2
+        },
+        "DarkMuted": {
+            "rgb": [
+                73,
+                72,
+                65
+            ],
+            "population": 463
+        },
+        "LightMuted": {
+            "rgb": [
+                196,
+                211,
+                164
+            ],
+            "population": 333
+        }
+    }
+}

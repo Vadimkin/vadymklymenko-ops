@@ -1,0 +1,981 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 172453577,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Stefan",
+    "cover_photo_url": null,
+    "created_at": "2023-10-01T15:01:35.117Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": "aa628be9",
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/9977e639-a7ee-45f4-88d6-5965b5aaf737_1100x220.png",
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": "  335529965666001",
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Numismatic Chronicles of the Roman Empire",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 1994657,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136699bf-b7c1-423d-9bc8-6db5a492488e_1344x256.jpeg",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61e48918-4837-4f27-88e7-5c270896f16b_256x256.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Unlocking Ancient Treasures ",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 172453577,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "tpmscars",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#9D6FFF",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly80usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 8000,
+            "amount_decimal": "8000",
+            "billing_scheme": "per_unit",
+            "created": 1696605714,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$80 a year",
+            "product": "prod_OlnRAnTSxMKGwG",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 13000,
+                    "unit_amount_decimal": "13000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 45500,
+                    "unit_amount_decimal": "45500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11500,
+                    "unit_amount_decimal": "11500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 55500,
+                    "unit_amount_decimal": "55500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 163000,
+                    "unit_amount_decimal": "163000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 84000,
+                    "unit_amount_decimal": "84000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14500,
+                    "unit_amount_decimal": "14500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 31000,
+                    "unit_amount_decimal": "31000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 80500,
+                    "unit_amount_decimal": "80500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                }
+            }
+        },
+        {
+            "id": "monthly8usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 800,
+            "amount_decimal": "800",
+            "billing_scheme": "per_unit",
+            "created": 1696605714,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$8 a month",
+            "product": "prod_OlnRJyVIRvagZ7",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1300,
+                    "unit_amount_decimal": "1300"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4600,
+                    "unit_amount_decimal": "4600"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1200,
+                    "unit_amount_decimal": "1200"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16500,
+                    "unit_amount_decimal": "16500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8500,
+                    "unit_amount_decimal": "8500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1500,
+                    "unit_amount_decimal": "1500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3100,
+                    "unit_amount_decimal": "3100"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8500,
+                    "unit_amount_decimal": "8500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                }
+            }
+        },
+        {
+            "id": "founding24000usd",
+            "name": "founding24000usd",
+            "nickname": "founding24000usd",
+            "active": true,
+            "amount": 24000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "8000",
+                "minimum_local": {
+                    "aud": 12500,
+                    "brl": 44500,
+                    "cad": 11000,
+                    "chf": 7000,
+                    "dkk": 52500,
+                    "eur": 7500,
+                    "gbp": 6000,
+                    "mxn": 153000,
+                    "nok": 81000,
+                    "nzd": 13500,
+                    "pln": 30500,
+                    "sek": 77500,
+                    "usd": 8000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 37000,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 133500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 33000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 20000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 157500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 21500,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 459000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 243000,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 40000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 90500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 231500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 24000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1NyFlRC4o8k7EddW",
+    "stripe_country": "BG",
+    "stripe_publishable_key": "pk_live_51NyFlRC4o8k7EddWjwTX1pOF9O5YRjHv1B7c2MBUiygXi0nicbGN1E9G3XeTr5BDqwVCPwT4JJ1BQnmh1tF10qu800Ih3Q85eJ",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Stefan",
+    "author_handle": "treasuresfromthepast",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dff9510-07af-403f-a703-0e62b279d6c0_256x256.png",
+    "author_bio": "I am an author who write amazing numismatic books 📚",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#538cfa",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 1994657,
+        "color_links": null,
+        "font_preset_heading": "fancy_serif",
+        "font_preset_body": "classic_serif",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magazine-5",
+        "home_posts": "list",
+        "home_show_top_posts": true,
+        "hide_images_from_list": true,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": false,
+        "boost_free_subscriber_chat_preview_enabled": true,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": "20.00",
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2023-03-02T18:59:00.041Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 2 years ago",
+    "rankingDetailFreeIncluded": "Launched 2 years ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 2 Jahren",
+            "rankingDetailFreeIncluded": "Launched vor 2 Jahren",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "6"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 2 años",
+            "rankingDetailFreeIncluded": "Launched hace 2 años",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "6"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 2 années",
+            "rankingDetailFreeIncluded": "Launched il y a 2 années",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "6"
+        },
+        "pt": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "6"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "6"
+        },
+        "it": {
+            "rankingDetail": "Launched 2 anni",
+            "rankingDetailFreeIncluded": "Launched 2 anni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "6"
+        },
+        "en": {
+            "rankingDetail": "Launched 2 years ago",
+            "rankingDetailFreeIncluded": "Launched 2 years ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "6"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "6",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Stefan",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dff9510-07af-403f-a703-0e62b279d6c0_256x256.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "1e9080a9-326d-47b4-a629-e540ad3af97e",
+            "publication_id": 1994657,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Stefan",
+            "handle": "treasuresfromthepast",
+            "role": "admin",
+            "owner": true,
+            "user_id": 172453577,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3dff9510-07af-403f-a703-0e62b279d6c0_256x256.png",
+            "bio": "I am an author who write amazing numismatic books 📚"
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": {
+        "id": "a57efe13-71a3-4588-b087-b175dee220ec",
+        "publication_id": 1994657,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "Numismatic Chronicles of the Roman Empire",
+        "created_at": "2023-10-06T15:23:34.402608+00:00",
+        "updated_at": "2023-10-06T15:23:34.402608+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Dear reader,\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Thank you for being a member of the Unlocking Ancient Treasures  community. As a paying subscriber, you’ve helped make Unlocking Ancient Treasures  what it is today.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"As a thank you, you now have three FREE 1-month gift subscriptions to give to family and friends (usual value = $24). Know someone who might love Unlocking Ancient Treasures ? Click on the link below to share one of your gift subscriptions with them.\"}]},{\"type\":\"button\",\"attrs\":{\"url\":\"%%grant_gift_url%%\",\"text\":\"Give a subscription\",\"action\":null,\"class\":\"left\"}},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Thanks again for reading and sharing Unlocking Ancient Treasures !\"}]}]}",
+        "grant_email_subject": "Unlocking Ancient Treasures  subscriptions for you to give away"
+    },
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly80usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 8000,
+            "amount_decimal": "8000",
+            "billing_scheme": "per_unit",
+            "created": 1696605714,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$80 a year",
+            "product": "prod_OlnRAnTSxMKGwG",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 13000,
+                    "unit_amount_decimal": "13000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 45500,
+                    "unit_amount_decimal": "45500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11500,
+                    "unit_amount_decimal": "11500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 55500,
+                    "unit_amount_decimal": "55500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 163000,
+                    "unit_amount_decimal": "163000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 84000,
+                    "unit_amount_decimal": "84000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14500,
+                    "unit_amount_decimal": "14500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 31000,
+                    "unit_amount_decimal": "31000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 80500,
+                    "unit_amount_decimal": "80500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                }
+            }
+        },
+        {
+            "id": "monthly8usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 800,
+            "amount_decimal": "800",
+            "billing_scheme": "per_unit",
+            "created": 1696605714,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$8 a month",
+            "product": "prod_OlnRJyVIRvagZ7",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1300,
+                    "unit_amount_decimal": "1300"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4600,
+                    "unit_amount_decimal": "4600"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1200,
+                    "unit_amount_decimal": "1200"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16500,
+                    "unit_amount_decimal": "16500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8500,
+                    "unit_amount_decimal": "8500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1500,
+                    "unit_amount_decimal": "1500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3100,
+                    "unit_amount_decimal": "3100"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8500,
+                    "unit_amount_decimal": "8500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                }
+            }
+        },
+        {
+            "id": "founding24000usd",
+            "name": "founding24000usd",
+            "nickname": "founding24000usd",
+            "active": true,
+            "amount": 24000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "8000",
+                "minimum_local": {
+                    "aud": 12500,
+                    "brl": 44500,
+                    "cad": 11000,
+                    "chf": 7000,
+                    "dkk": 52500,
+                    "eur": 7500,
+                    "gbp": 6000,
+                    "mxn": 153000,
+                    "nok": 81000,
+                    "nzd": 13500,
+                    "pln": 30500,
+                    "sek": 77500,
+                    "usd": 8000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 37000,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 133500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 33000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 20000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 157500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 21500,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 459000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 243000,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 40000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 90500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 231500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 24000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "paid_subscription_benefits_english": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "free_subscription_benefits_english": [
+        "Occasional public posts"
+    ],
+    "base_url": "https://tpmscars.substack.com",
+    "hostname": "tpmscars.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                182,
+                143,
+                71
+            ],
+            "population": 140
+        },
+        "DarkVibrant": {
+            "rgb": [
+                95,
+                57,
+                11
+            ],
+            "population": 340
+        },
+        "LightVibrant": {
+            "rgb": [
+                217,
+                195,
+                155
+            ],
+            "population": 410
+        },
+        "Muted": {
+            "rgb": [
+                176,
+                147,
+                102
+            ],
+            "population": 424
+        },
+        "DarkMuted": {
+            "rgb": [
+                122,
+                92,
+                56
+            ],
+            "population": 127
+        },
+        "LightMuted": {
+            "rgb": [
+                193,
+                173,
+                144
+            ],
+            "population": 205
+        }
+    }
+}

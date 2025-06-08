@@ -1,0 +1,2386 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 45912382,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Michael Rogers",
+    "cover_photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c4a68fb6-8640-40d4-a7dd-31a1d46a0ba2_1228x1280.png",
+    "created_at": "2021-08-30T21:11:13.503Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Ideas and Commentary for Developing a Grand Strategy for a Better World.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "classic_post_list",
+    "id": 465598,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2a1575b7-7fbe-4f03-90fd-01ef2e9ed5c9_1251x1251.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Relentless Liberty",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 45912382,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "relentlessliberty",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#009B50",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": "acct_1JUUiaDtNsUM02bT",
+    "stripe_country": "US",
+    "stripe_publishable_key": "pk_live_51JUUiaDtNsUM02bTBM0NWMj86pczy5xwrgPsCWwM9SPbcdHaJZ5Ohzl63Zt0W3gjOVMV0YPesFsK4w0wib3X7RiD00DeeLSBOq",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Michael Rogers",
+    "author_handle": "relentlessliberty",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F517aa3cb-b69a-46b9-b91c-da6c9bfc6bc2_563x613.jpeg",
+    "author_bio": "Strategy and policy consultant.\nTen-year veteran of the US Army and National Guard.\nSix years advising and training Ukrainian military.\nBBA from University of Wisconsin\nMA in Strategic Studies from Norwich University.",
+    "twitter_screen_name": "Relentless1776",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#7e2310",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 465598,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": "sans",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2021-12-16T07:23:58.649Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "read",
+    "rankingDetail": "Launched 3 years ago",
+    "rankingDetailFreeIncluded": "Launched 3 years ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 3 Jahren",
+            "rankingDetailFreeIncluded": "Launched vor 3 Jahren",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "34"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 3 años",
+            "rankingDetailFreeIncluded": "Launched hace 3 años",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "34"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 3 années",
+            "rankingDetailFreeIncluded": "Launched il y a 3 années",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "34"
+        },
+        "pt": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Launched 3 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "34"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Launched 3 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "34"
+        },
+        "it": {
+            "rankingDetail": "Launched 3 anni",
+            "rankingDetailFreeIncluded": "Launched 3 anni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "34"
+        },
+        "en": {
+            "rankingDetail": "Launched 3 years ago",
+            "rankingDetailFreeIncluded": "Launched 3 years ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "34"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "34",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Michael Rogers",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F517aa3cb-b69a-46b9-b91c-da6c9bfc6bc2_563x613.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 4773,
+            "created_at": "2021-08-31T11:23:17.618Z",
+            "updated_at": "2021-08-31T11:23:17.618Z",
+            "publication_id": 465598,
+            "name": "Philosophy for a Better World",
+            "description": "Philosophic Basis for Building a Better World.",
+            "slug": "philosophy-for-a-better-world",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 0,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4774,
+            "created_at": "2021-08-31T11:24:29.803Z",
+            "updated_at": "2021-08-31T11:24:29.803Z",
+            "publication_id": 465598,
+            "name": "Quick Notes",
+            "description": "Commentary on Current Events.",
+            "slug": "quick-notes",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4768,
+            "created_at": "2021-08-31T10:44:23.084Z",
+            "updated_at": "2021-08-31T10:44:23.084Z",
+            "publication_id": 465598,
+            "name": "Free World Alliance",
+            "description": "Commentaries and Strategies for the Formation of a Free World Alliance of Democracies.",
+            "slug": "alliance-of-democracies",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4769,
+            "created_at": "2021-08-31T10:47:30.838Z",
+            "updated_at": "2021-08-31T10:47:30.838Z",
+            "publication_id": 465598,
+            "name": "Ukraine:  Preparing for War with Russia",
+            "description": "Commentaries and Strategies for Preparing Ukraine to Defeat Russian Aggression.",
+            "slug": "ukraine-preparing-for-war-with-russia",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 3,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 16026,
+            "created_at": "2022-03-30T18:55:49.678Z",
+            "updated_at": "2022-03-30T18:55:49.678Z",
+            "publication_id": 465598,
+            "name": "Ukraine: Creating Victory",
+            "description": "Commentary on the wartime needs for leadership, training, techniques, tactics, weapons, equipment, and other material to advance Ukraine's victory over Russia. ",
+            "slug": "ukraine-supplying-victory",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 4,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4770,
+            "created_at": "2021-08-31T10:49:09.661Z",
+            "updated_at": "2021-08-31T10:49:09.661Z",
+            "publication_id": 465598,
+            "name": "Ukraine: Civil Reforms",
+            "description": "Commentaries and Strategies for Civil Reforms in Ukraine.",
+            "slug": "ukraine-civil-reforms",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 5,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4756,
+            "created_at": "2021-08-30T23:15:32.245Z",
+            "updated_at": "2021-08-30T23:15:32.245Z",
+            "publication_id": 465598,
+            "name": "Taxing",
+            "description": "Commentary and Recommendations About Taxes",
+            "slug": "taxing",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 6,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4771,
+            "created_at": "2021-08-31T10:51:06.969Z",
+            "updated_at": "2021-08-31T10:51:06.969Z",
+            "publication_id": 465598,
+            "name": "Social Safety Net Restructuring",
+            "description": "Commentaries and Strategies for Restructuring Social Safety Nets.",
+            "slug": "social-safety-net-restructuring",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 7,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4772,
+            "created_at": "2021-08-31T11:20:26.441Z",
+            "updated_at": "2021-08-31T11:20:26.441Z",
+            "publication_id": 465598,
+            "name": "Healthcare Financing",
+            "description": "Commentaries and Strategies for Improving Healthcare Financing.",
+            "slug": "healthcare-financing",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 8,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4776,
+            "created_at": "2021-08-31T11:36:51.420Z",
+            "updated_at": "2021-08-31T11:36:51.420Z",
+            "publication_id": 465598,
+            "name": "Immigration",
+            "description": "Commentaries and Strategies for Improving Immigration Policies.",
+            "slug": "immigration",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 9,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4778,
+            "created_at": "2021-08-31T13:03:49.544Z",
+            "updated_at": "2021-08-31T13:03:49.544Z",
+            "publication_id": 465598,
+            "name": "Individual Rights",
+            "description": "Commentaries on Individual Rights and Strategies for Protecting Rights.",
+            "slug": "individual-rights",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 10,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4779,
+            "created_at": "2021-08-31T13:07:29.523Z",
+            "updated_at": "2021-08-31T13:07:29.523Z",
+            "publication_id": 465598,
+            "name": "Pandemics",
+            "description": "Commentaries and Strategies for Fighting Pandemics.",
+            "slug": "pandemics",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 11,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4780,
+            "created_at": "2021-08-31T13:10:48.772Z",
+            "updated_at": "2021-08-31T13:10:48.772Z",
+            "publication_id": 465598,
+            "name": "Elections and Campaign Finance",
+            "description": "Commentaries on the Conduct of Elections and Campaign Finance.",
+            "slug": "elections-and-campaign-finance",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 12,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 4787,
+            "created_at": "2021-08-31T13:43:14.743Z",
+            "updated_at": "2021-08-31T13:43:14.743Z",
+            "publication_id": 465598,
+            "name": "US Military",
+            "description": "Commentaries about the US Military.",
+            "slug": "us-military",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 13,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 9559,
+            "created_at": "2021-12-13T05:52:56.537Z",
+            "updated_at": "2021-12-13T05:52:56.537Z",
+            "publication_id": 465598,
+            "name": "Justice",
+            "description": "Commentary and recommendations for improving the criminal justice system and civil law.",
+            "slug": "justice",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 14,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "040700b9-5f74-4340-8e6d-261a4163349d",
+            "publication_id": 465598,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4773,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4773,
+                "created_at": "2021-08-31T11:23:17.618Z",
+                "updated_at": "2021-08-31T11:23:17.618Z",
+                "publication_id": 465598,
+                "name": "Philosophy for a Better World",
+                "description": "Philosophic Basis for Building a Better World.",
+                "slug": "philosophy-for-a-better-world",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 0,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "9199bc6d-b77b-4afa-b383-bb6a6a5db5fd",
+            "publication_id": 465598,
+            "sibling_rank": 1,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4774,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4774,
+                "created_at": "2021-08-31T11:24:29.803Z",
+                "updated_at": "2021-08-31T11:24:29.803Z",
+                "publication_id": 465598,
+                "name": "Quick Notes",
+                "description": "Commentary on Current Events.",
+                "slug": "quick-notes",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "5fa38514-6132-45a9-8242-64fa225c7d0f",
+            "publication_id": 465598,
+            "sibling_rank": 2,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4768,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4768,
+                "created_at": "2021-08-31T10:44:23.084Z",
+                "updated_at": "2021-08-31T10:44:23.084Z",
+                "publication_id": 465598,
+                "name": "Free World Alliance",
+                "description": "Commentaries and Strategies for the Formation of a Free World Alliance of Democracies.",
+                "slug": "alliance-of-democracies",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "49164998-7714-4a91-b4eb-a27a8b7fa17b",
+            "publication_id": 465598,
+            "sibling_rank": 3,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4769,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4769,
+                "created_at": "2021-08-31T10:47:30.838Z",
+                "updated_at": "2021-08-31T10:47:30.838Z",
+                "publication_id": 465598,
+                "name": "Ukraine:  Preparing for War with Russia",
+                "description": "Commentaries and Strategies for Preparing Ukraine to Defeat Russian Aggression.",
+                "slug": "ukraine-preparing-for-war-with-russia",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 3,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "e1692032-be0f-4d2a-83dd-26ee03d89acc",
+            "publication_id": 465598,
+            "sibling_rank": 4,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 16026,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 16026,
+                "created_at": "2022-03-30T18:55:49.678Z",
+                "updated_at": "2022-03-30T18:55:49.678Z",
+                "publication_id": 465598,
+                "name": "Ukraine: Creating Victory",
+                "description": "Commentary on the wartime needs for leadership, training, techniques, tactics, weapons, equipment, and other material to advance Ukraine's victory over Russia. ",
+                "slug": "ukraine-supplying-victory",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 4,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "04c380ce-091f-4a2a-92e9-bd5989a95074",
+            "publication_id": 465598,
+            "sibling_rank": 5,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4770,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4770,
+                "created_at": "2021-08-31T10:49:09.661Z",
+                "updated_at": "2021-08-31T10:49:09.661Z",
+                "publication_id": 465598,
+                "name": "Ukraine: Civil Reforms",
+                "description": "Commentaries and Strategies for Civil Reforms in Ukraine.",
+                "slug": "ukraine-civil-reforms",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 5,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "31ec31be-a4b0-4d51-8075-f1c0a8a1a105",
+            "publication_id": 465598,
+            "sibling_rank": 6,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4756,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4756,
+                "created_at": "2021-08-30T23:15:32.245Z",
+                "updated_at": "2021-08-30T23:15:32.245Z",
+                "publication_id": 465598,
+                "name": "Taxing",
+                "description": "Commentary and Recommendations About Taxes",
+                "slug": "taxing",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 6,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "0dd9c5f9-178f-45da-bdd8-6c463bfbb0e1",
+            "publication_id": 465598,
+            "sibling_rank": 7,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4771,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4771,
+                "created_at": "2021-08-31T10:51:06.969Z",
+                "updated_at": "2021-08-31T10:51:06.969Z",
+                "publication_id": 465598,
+                "name": "Social Safety Net Restructuring",
+                "description": "Commentaries and Strategies for Restructuring Social Safety Nets.",
+                "slug": "social-safety-net-restructuring",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 7,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "a9b34aa6-046a-4df4-a22c-62435b98598d",
+            "publication_id": 465598,
+            "sibling_rank": 8,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4772,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4772,
+                "created_at": "2021-08-31T11:20:26.441Z",
+                "updated_at": "2021-08-31T11:20:26.441Z",
+                "publication_id": 465598,
+                "name": "Healthcare Financing",
+                "description": "Commentaries and Strategies for Improving Healthcare Financing.",
+                "slug": "healthcare-financing",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 8,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "1608ab7d-d204-4fe2-8ebc-36005c289559",
+            "publication_id": 465598,
+            "sibling_rank": 9,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4776,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4776,
+                "created_at": "2021-08-31T11:36:51.420Z",
+                "updated_at": "2021-08-31T11:36:51.420Z",
+                "publication_id": 465598,
+                "name": "Immigration",
+                "description": "Commentaries and Strategies for Improving Immigration Policies.",
+                "slug": "immigration",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 9,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "5cd1e7f3-a3ab-407e-b62c-29c5c94f3983",
+            "publication_id": 465598,
+            "sibling_rank": 10,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4778,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4778,
+                "created_at": "2021-08-31T13:03:49.544Z",
+                "updated_at": "2021-08-31T13:03:49.544Z",
+                "publication_id": 465598,
+                "name": "Individual Rights",
+                "description": "Commentaries on Individual Rights and Strategies for Protecting Rights.",
+                "slug": "individual-rights",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 10,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "86e304b3-2ca1-4057-902a-93c9fa23c281",
+            "publication_id": 465598,
+            "sibling_rank": 11,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4779,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4779,
+                "created_at": "2021-08-31T13:07:29.523Z",
+                "updated_at": "2021-08-31T13:07:29.523Z",
+                "publication_id": 465598,
+                "name": "Pandemics",
+                "description": "Commentaries and Strategies for Fighting Pandemics.",
+                "slug": "pandemics",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 11,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "bb64d1ca-cfdb-4a73-8138-b235f0f55cb4",
+            "publication_id": 465598,
+            "sibling_rank": 12,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4780,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4780,
+                "created_at": "2021-08-31T13:10:48.772Z",
+                "updated_at": "2021-08-31T13:10:48.772Z",
+                "publication_id": 465598,
+                "name": "Elections and Campaign Finance",
+                "description": "Commentaries on the Conduct of Elections and Campaign Finance.",
+                "slug": "elections-and-campaign-finance",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 12,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "fb328bdb-d7ba-4cd5-bda3-e4169439d499",
+            "publication_id": 465598,
+            "sibling_rank": 13,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 4787,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 4787,
+                "created_at": "2021-08-31T13:43:14.743Z",
+                "updated_at": "2021-08-31T13:43:14.743Z",
+                "publication_id": 465598,
+                "name": "US Military",
+                "description": "Commentaries about the US Military.",
+                "slug": "us-military",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 13,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "836152c4-80b1-4f99-8ac9-cc318975871c",
+            "publication_id": 465598,
+            "sibling_rank": 14,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 9559,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 9559,
+                "created_at": "2021-12-13T05:52:56.537Z",
+                "updated_at": "2021-12-13T05:52:56.537Z",
+                "publication_id": 465598,
+                "name": "Justice",
+                "description": "Commentary and recommendations for improving the criminal justice system and civil law.",
+                "slug": "justice",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 14,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Michael Rogers",
+            "handle": "relentlessliberty",
+            "role": "admin",
+            "owner": true,
+            "user_id": 45912382,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/517aa3cb-b69a-46b9-b91c-da6c9bfc6bc2_563x613.jpeg",
+            "bio": "Strategy and policy consultant.\nTen-year veteran of the US Army and National Guard.\nSix years advising and training Ukrainian military.\nBBA from University of Wisconsin\nMA in Strategic Studies from Norwich University."
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": {
+        "id": "49bed590-394f-422c-a3b2-d4550eaba9aa",
+        "publication_id": 465598,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "Ideas and Commentary for Developing a Grand Strategy for a Better World.",
+        "created_at": "2023-05-11T15:40:18.412351+00:00",
+        "updated_at": "2023-05-11T15:40:18.412351+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly50usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1683819498,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$50 a year",
+            "product": "prod_NsMH7cZXZDAhQt",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8500,
+                    "unit_amount_decimal": "8500"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 29000,
+                    "unit_amount_decimal": "29000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4500,
+                    "unit_amount_decimal": "4500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 34500,
+                    "unit_amount_decimal": "34500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4700,
+                    "unit_amount_decimal": "4700"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 102500,
+                    "unit_amount_decimal": "102500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 53000,
+                    "unit_amount_decimal": "53000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 19500,
+                    "unit_amount_decimal": "19500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 50500,
+                    "unit_amount_decimal": "50500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                }
+            }
+        },
+        {
+            "id": "monthly5usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1683819497,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$5 a month",
+            "product": "prod_NsMHJNKnTgNCjV",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2900,
+                    "unit_amount_decimal": "2900"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3500,
+                    "unit_amount_decimal": "3500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 400,
+                    "unit_amount_decimal": "400"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2000,
+                    "unit_amount_decimal": "2000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                }
+            }
+        },
+        {
+            "id": "founding25000usd",
+            "name": "founding25000usd",
+            "nickname": "founding25000usd",
+            "active": true,
+            "amount": 25000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "25000",
+                "minimum_local": {
+                    "aud": 38500,
+                    "brl": 139500,
+                    "cad": 34500,
+                    "chf": 21000,
+                    "dkk": 164000,
+                    "eur": 22000,
+                    "gbp": 18500,
+                    "mxn": 478000,
+                    "nok": 253000,
+                    "nzd": 42000,
+                    "pln": 94500,
+                    "sek": 241500,
+                    "usd": 25000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 38500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 139500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 34500,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 21000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 164000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 22000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 18500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 478000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 253000,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 42000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 94500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 241500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 25000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "paid_subscription_benefits_english": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "free_subscription_benefits_english": [
+        "Occasional public posts"
+    ],
+    "base_url": "https://relentlessliberty.substack.com",
+    "hostname": "relentlessliberty.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                21.249999999999982,
+                191.24999999999997,
+                233.75000000000003
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                4,
+                36,
+                44
+            ],
+            "population": 2
+        },
+        "LightVibrant": {
+            "rgb": [
+                133.45,
+                221.84999999999997,
+                243.95
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                113,
+                122,
+                133
+            ],
+            "population": 99
+        },
+        "DarkMuted": {
+            "rgb": [
+                38,
+                62,
+                73
+            ],
+            "population": 64
+        },
+        "LightMuted": {
+            "rgb": [
+                176,
+                182,
+                186
+            ],
+            "population": 89
+        }
+    }
+}

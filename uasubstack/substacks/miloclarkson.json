@@ -1,0 +1,580 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 103870709,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Milo Clarkson",
+    "cover_photo_url": null,
+    "created_at": "2024-10-18T22:59:39.519Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Sharing journal entries, adapted essays, and general pieces of my academic and personal writing. ",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 3193244,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe19a1c30-5e21-4f06-8a7e-59f4f22e3ccd_1010x1010.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "The Anthropopithecus Speaks",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 103870709,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "miloclarkson",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Milo Clarkson",
+    "author_handle": "miloclarkson",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb451010a-b6e6-4b33-b380-577846569612_750x471.jpeg",
+    "author_bio": "Writing to share opinions on politic, culture, and to fight my personal atelophobia. ",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#0891b2",
+        "web_bg_color": "#fafafa",
+        "cover_bg_color": "#fafafa",
+        "publication_id": 3193244,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "custom",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2024-10-21T00:01:05.168Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 8 months ago",
+    "rankingDetailFreeIncluded": "Launched 8 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 8 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 8 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "27"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 8 meses",
+            "rankingDetailFreeIncluded": "Launched hace 8 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "27"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 8 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 8 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "27"
+        },
+        "pt": {
+            "rankingDetail": "Launched 8 meses",
+            "rankingDetailFreeIncluded": "Launched 8 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "27"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 8 meses",
+            "rankingDetailFreeIncluded": "Launched 8 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "27"
+        },
+        "it": {
+            "rankingDetail": "Launched 8 mesi",
+            "rankingDetailFreeIncluded": "Launched 8 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "27"
+        },
+        "en": {
+            "rankingDetail": "Launched 8 months ago",
+            "rankingDetailFreeIncluded": "Launched 8 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "27"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "27",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Milo Clarkson",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb451010a-b6e6-4b33-b380-577846569612_750x471.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 165911,
+            "created_at": "2024-11-26T11:45:07.476Z",
+            "updated_at": "2025-03-06T11:59:13.655Z",
+            "publication_id": 3193244,
+            "name": "Journal Entries/Personal Works",
+            "description": "My personal writings",
+            "slug": "personal-works",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 165912,
+            "created_at": "2024-11-26T11:46:16.545Z",
+            "updated_at": "2024-11-26T11:46:16.653Z",
+            "publication_id": 3193244,
+            "name": "Academic Writings",
+            "description": "Repurposed essays or works written for class",
+            "slug": "academic-writings",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "0a0642b7-ec53-42f2-9e65-1f6f4fbb53ce",
+            "publication_id": 3193244,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "4678d406-dbf2-4146-9458-2bb031deaa6a",
+            "publication_id": 3193244,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 165911,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 165911,
+                "created_at": "2024-11-26T11:45:07.476Z",
+                "updated_at": "2025-03-06T11:59:13.655Z",
+                "publication_id": 3193244,
+                "name": "Journal Entries/Personal Works",
+                "description": "My personal writings",
+                "slug": "personal-works",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "8ae47d45-3196-4da0-8bf3-e1ef3ecb4aff",
+            "publication_id": 3193244,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 165912,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 165912,
+                "created_at": "2024-11-26T11:46:16.545Z",
+                "updated_at": "2024-11-26T11:46:16.653Z",
+                "publication_id": 3193244,
+                "name": "Academic Writings",
+                "description": "Repurposed essays or works written for class",
+                "slug": "academic-writings",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Milo Clarkson",
+            "handle": "miloclarkson",
+            "role": "admin",
+            "owner": true,
+            "user_id": 103870709,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b451010a-b6e6-4b33-b380-577846569612_750x471.jpeg",
+            "bio": "Writing to share opinions on politic, culture, and to fight my personal atelophobia. "
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://miloclarkson.substack.com",
+    "hostname": "miloclarkson.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                150.98684210526318,
+                191.25,
+                63.75
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                45,
+                57,
+                19
+            ],
+            "population": 27
+        },
+        "LightVibrant": {
+            "rgb": [
+                212,
+                212,
+                244
+            ],
+            "population": 1091
+        },
+        "Muted": {
+            "rgb": [
+                125,
+                121,
+                115
+            ],
+            "population": 679
+        },
+        "DarkMuted": {
+            "rgb": [
+                67,
+                73,
+                53
+            ],
+            "population": 1017
+        },
+        "LightMuted": {
+            "rgb": [
+                196,
+                188,
+                212
+            ],
+            "population": 13
+        }
+    }
+}

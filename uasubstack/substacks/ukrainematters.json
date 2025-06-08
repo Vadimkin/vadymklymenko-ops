@@ -1,0 +1,270 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 105256351,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Malathi Raghavan",
+    "cover_photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/04c63758-852e-4fa3-8ba6-117d50f04de1_312x315.png",
+    "created_at": "2022-09-24T12:49:53.968Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "Ukraine Matters",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Linking life, love, language, food, music, art, craft, culture in Ukraine",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 1102132,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb3dccf5-114c-4d32-ade3-005e831c23bb_312x312.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Ukraine Matters",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 105256351,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "ukrainematters",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF81CD",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Unquiet yet reverent",
+    "author_handle": "unquiet8reverent",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc828fb80-8549-4167-9f00-67b7d8679f0d_828x1792.png",
+    "author_bio": "I am a faculty member in a midwestern university. I have always been drawn to words and their magical ability to create beauty even when there is nothing else.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#5365d0",
+        "web_bg_color": "#fff2d1",
+        "cover_bg_color": "#fff2d1",
+        "publication_id": 1102132,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": "sans",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magaziney",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2022-10-13T00:07:56.974Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": null,
+    "rankingDetailFreeIncluded": null,
+    "rankingDetailOrderOfMagnitude": null,
+    "rankingDetailFreeIncludedOrderOfMagnitude": null,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {},
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": null,
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Unquiet yet reverent",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc828fb80-8549-4167-9f00-67b7d8679f0d_828x1792.png",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "Unquiet yet reverent",
+            "handle": "unquiet8reverent",
+            "role": "admin",
+            "owner": true,
+            "user_id": 105256351,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c828fb80-8549-4167-9f00-67b7d8679f0d_828x1792.png",
+            "bio": "I am a faculty member in a midwestern university. I have always been drawn to words and their magical ability to create beauty even when there is nothing else."
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://ukrainematters.substack.com",
+    "hostname": "ukrainematters.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                37,
+                84,
+                218
+            ],
+            "population": 407
+        },
+        "DarkVibrant": {
+            "rgb": [
+                117,
+                89,
+                31
+            ],
+            "population": 47
+        },
+        "LightVibrant": {
+            "rgb": [
+                109,
+                172,
+                191
+            ],
+            "population": 5
+        },
+        "Muted": {
+            "rgb": [
+                113,
+                125,
+                170
+            ],
+            "population": 31
+        },
+        "DarkMuted": {
+            "rgb": [
+                74,
+                54,
+                34
+            ],
+            "population": 440
+        },
+        "LightMuted": {
+            "rgb": [
+                184,
+                183,
+                158
+            ],
+            "population": 78
+        }
+    }
+}

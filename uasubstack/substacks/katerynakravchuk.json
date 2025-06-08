@@ -1,0 +1,333 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 136491953,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Kateryna Kravchuk",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c4a6f7bb-8ce7-4136-8bd5-628208bec9ee_1280x960.png",
+    "created_at": "2023-08-28T13:36:50.684Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/42b99ba2-e8f8-4fc6-8a5b-4daa5f2a2ef4_1500x500.png",
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Contemplations on dialogue, facilitation and social arts / \nРоздуми про діалог, фасилітацію та соціальні мистецтва",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 1908203,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0b960b3-9867-4329-8566-3fea0825da93_434x434.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Clarifying Space",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 136491953,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "katerynakravchuk",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#00C2FF",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Kateryna Kravchuk",
+    "author_handle": "clarifyingspace",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46036c1d-51b8-49ea-b283-c9874f88b2cd_808x934.jpeg",
+    "author_bio": "Facilitator with a passion to unlock creativity of open mind, open heart and open will in the groupwork. Ukrainian fighting for the free world. Nature lover with background in economics and culture.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#226216",
+        "web_bg_color": "#eaf1e8",
+        "cover_bg_color": "#eaf1e8",
+        "publication_id": 1908203,
+        "color_links": null,
+        "font_preset_heading": "heavy_sans",
+        "font_preset_body": "mono",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "grid",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2023-08-28T19:43:02.387Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 2 years ago",
+    "rankingDetailFreeIncluded": "Launched 2 years ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 2 Jahren",
+            "rankingDetailFreeIncluded": "Launched vor 2 Jahren",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 2 años",
+            "rankingDetailFreeIncluded": "Launched hace 2 años",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 2 années",
+            "rankingDetailFreeIncluded": "Launched il y a 2 années",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "pt": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "it": {
+            "rankingDetail": "Launched 2 anni",
+            "rankingDetailFreeIncluded": "Launched 2 anni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "en": {
+            "rankingDetail": "Launched 2 years ago",
+            "rankingDetailFreeIncluded": "Launched 2 years ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "9",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Kateryna Kravchuk",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46036c1d-51b8-49ea-b283-c9874f88b2cd_808x934.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "Kateryna Kravchuk",
+            "handle": "clarifyingspace",
+            "role": "admin",
+            "owner": true,
+            "user_id": 136491953,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/46036c1d-51b8-49ea-b283-c9874f88b2cd_808x934.jpeg",
+            "bio": "Facilitator with a passion to unlock creativity of open mind, open heart and open will in the groupwork. Ukrainian fighting for the free world. Nature lover with background in economics and culture."
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://katerynakravchuk.substack.com",
+    "hostname": "katerynakravchuk.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                22,
+                157,
+                219
+            ],
+            "population": 30
+        },
+        "DarkVibrant": {
+            "rgb": [
+                20,
+                76,
+                119
+            ],
+            "population": 118
+        },
+        "LightVibrant": {
+            "rgb": [
+                164,
+                216,
+                229
+            ],
+            "population": 6
+        },
+        "Muted": {
+            "rgb": [
+                118,
+                158,
+                168
+            ],
+            "population": 139
+        },
+        "DarkMuted": {
+            "rgb": [
+                115,
+                113,
+                108
+            ],
+            "population": 9
+        },
+        "LightMuted": {
+            "rgb": [
+                206,
+                186,
+                173
+            ],
+            "population": 43
+        }
+    }
+}

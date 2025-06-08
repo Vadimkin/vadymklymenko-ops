@@ -1,0 +1,416 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 129726331,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Texty.org.ua",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/459f6b0c-1f17-48f8-91d2-55f4a92719fa_1100x220.png",
+    "created_at": "2024-04-10T12:57:18.147Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/b4b08573-3877-4176-ab43-3b944e2fcf07_1100x220.png",
+    "email_from_name": "Texty.org.ua",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Texty.org.ua — агенція журналістики даних. Ми завжди відкриті для дружньої дискусії про світ навколо!",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 2506001,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc32de1a3-5515-4bcc-a915-54fbb2fab704_1344x256.png",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff4da8ca-04ab-42bb-9bd4-f4bbcc8d776a_900x900.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Найкращі авторські матеріали Texty.org.ua",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": null,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "uatextyorgua",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#00C2FF",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Texty.org.ua",
+    "author_handle": "textyorgua",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F320580b3-3440-4731-8ac2-ec25c1ff0acd_900x900.png",
+    "author_bio": "Texty.org.ua is an independent media founded by Anatoliy Bondarenko and Roman Kulchynsky in 2010.\nWe create data journalism projects and work in traditional journalistic genres ranging from lengthy reportage to short messages.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#fd6752",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 2506001,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": "sans",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "feature",
+        "home_posts": "custom",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": false,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2024-04-18T08:06:17.116Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched a year ago",
+    "rankingDetailFreeIncluded": "Thousands of subscribers",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+    "rankingDetailFreeSubscriberCount": "Over 6,000 subscribers",
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor einem Jahr",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 6,000 subscribers",
+            "freeSubscriberCount": "6,000",
+            "freeSubscriberCountOrderOfMagnitude": "6.7K+"
+        },
+        "es": {
+            "rankingDetail": "Launched hace un año",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 6,000 subscribers",
+            "freeSubscriberCount": "6,000",
+            "freeSubscriberCountOrderOfMagnitude": "6.7K+"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a une année",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 6,000 subscribers",
+            "freeSubscriberCount": "6,000",
+            "freeSubscriberCountOrderOfMagnitude": "6.7K+"
+        },
+        "pt": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 6,000 subscribers",
+            "freeSubscriberCount": "6,000",
+            "freeSubscriberCountOrderOfMagnitude": "6.7K+"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 6,000 subscribers",
+            "freeSubscriberCount": "6,000",
+            "freeSubscriberCountOrderOfMagnitude": "6.7K+"
+        },
+        "it": {
+            "rankingDetail": "Launched 1 anno",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 6,000 subscribers",
+            "freeSubscriberCount": "6,000",
+            "freeSubscriberCountOrderOfMagnitude": "6.7K+"
+        },
+        "en": {
+            "rankingDetail": "Launched a year ago",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 6,000 subscribers",
+            "freeSubscriberCount": "6,000",
+            "freeSubscriberCountOrderOfMagnitude": "6.7K+"
+        }
+    },
+    "freeSubscriberCount": "6,000",
+    "freeSubscriberCountOrderOfMagnitude": "6.7K+",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "e02cc448-a980-41b1-8c0e-b4df5ef672c1",
+            "publication_id": 2506001,
+            "sibling_rank": 0,
+            "link_title": "Сайт",
+            "link_url": "https://texty.org.ua/",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "d118dfee-062a-4053-a605-b1116a1f4681",
+            "publication_id": 2506001,
+            "sibling_rank": 1,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "3e94b242-61d7-4674-b07f-c21317a71e5d",
+            "publication_id": 2506001,
+            "sibling_rank": 2,
+            "link_title": "Журналістика даних",
+            "link_url": "https://texty.org.ua/projects/",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "abdd8270-f60c-418d-9797-0143809810f9",
+            "publication_id": 2506001,
+            "sibling_rank": 3,
+            "link_title": "Instagram",
+            "link_url": "https://www.instagram.com/texty.org.ua/",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "86af2a1c-2d59-43b0-a0e7-e3da82950544",
+            "publication_id": 2506001,
+            "sibling_rank": 4,
+            "link_title": "Facebook",
+            "link_url": "https://www.facebook.com/TEXTY.org.ua",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Texty.org.ua",
+            "handle": "textyorgua",
+            "role": "admin",
+            "owner": true,
+            "user_id": 129726331,
+            "photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F320580b3-3440-4731-8ac2-ec25c1ff0acd_900x900.png",
+            "bio": "Texty.org.ua is an independent media founded by Anatoliy Bondarenko and Roman Kulchynsky in 2010.\nWe create data journalism projects and work in traditional journalistic genres ranging from lengthy reportage to short messages."
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://uatextyorgua.substack.com",
+    "hostname": "uatextyorgua.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                252,
+                100,
+                60
+            ],
+            "population": 3902
+        },
+        "DarkVibrant": {
+            "rgb": [
+                130.59090909090912,
+                28.79696969696969,
+                2.0090909090908937
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                252,
+                156,
+                131
+            ],
+            "population": 71
+        },
+        "Muted": {
+            "rgb": [
+                150.6818181818182,
+                33.22727272727271,
+                2.318181818181805
+            ],
+            "population": 0
+        },
+        "DarkMuted": {
+            "rgb": [
+                150.6818181818182,
+                33.22727272727271,
+                2.318181818181805
+            ],
+            "population": 0
+        },
+        "LightMuted": {
+            "rgb": [
+                149.38582677165357,
+                33.73228346456694,
+                3.6141732283464387
+            ],
+            "population": 0
+        }
+    }
+}

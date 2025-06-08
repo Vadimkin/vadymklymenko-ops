@@ -1,0 +1,389 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 15169098,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Maryna Titova",
+    "cover_photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b4665997-d966-4725-b929-ca4ea359e8f2_500x500.png",
+    "created_at": "2022-10-27T18:54:08.313Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "Марина Тітова - Журнал дескулінгу",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "У цьому журналі ділюся своїми рефлексіями й запозиченими немейнстрімовими знаннями з різних сфер життя: \n-\tвільна освіта дітей (поза межами шкільної парадигми)\n-\tсвідоме батьківство й виховання дітей\n-\tфізичне та психічне здоров’я\n-       йога та ін.\n",
+    "hide_intro_subtitle": false,
+    "hide_intro_title": true,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 1161585,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b1ef318-8057-4d98-8c97-b51b76b1f0d5_1748x1240.png",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3e221d7-767b-4d90-938c-9a15e3279fd4_1240x1240.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Журнал дескулінгу | Марина Тітова",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 15169098,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "deschooljournal",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#45D800",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Maryna Titova (Марина Тітова)",
+    "author_handle": "deschooljournal",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c8f27d0-f03e-488d-ba6d-ced3e7b34b82_1748x1240.png",
+    "author_bio": null,
+    "twitter_screen_name": "MarinaTitova4",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#b29af4",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 1161585,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magaziney",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": false,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2022-12-25T15:03:33.371Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "write",
+    "rankingDetail": "Launched 2 years ago",
+    "rankingDetailFreeIncluded": "Launched 2 years ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 2 Jahren",
+            "rankingDetailFreeIncluded": "Launched vor 2 Jahren",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 2 años",
+            "rankingDetailFreeIncluded": "Launched hace 2 años",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 2 années",
+            "rankingDetailFreeIncluded": "Launched il y a 2 années",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "pt": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "it": {
+            "rankingDetail": "Launched 2 anni",
+            "rankingDetailFreeIncluded": "Launched 2 anni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "en": {
+            "rankingDetail": "Launched 2 years ago",
+            "rankingDetailFreeIncluded": "Launched 2 years ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "5",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Maryna Titova (Марина Тітова)",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c8f27d0-f03e-488d-ba6d-ced3e7b34b82_1748x1240.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "31e8e8e1-342b-4d05-9a7a-9993018008fe",
+            "publication_id": 1161585,
+            "sibling_rank": 0,
+            "link_title": "Батьківство",
+            "link_url": "/parenting",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "8225b6c1-32ae-43a6-a3c3-44559179dc73",
+            "publication_id": 1161585,
+            "sibling_rank": 1,
+            "link_title": "Здоров'я",
+            "link_url": "/health",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "ec5d2b66-2c75-4161-a0e5-d703f1e6e130",
+            "publication_id": 1161585,
+            "sibling_rank": 2,
+            "link_title": "Йога",
+            "link_url": "/yoga",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Maryna Titova (Марина Тітова)",
+            "handle": "deschooljournal",
+            "role": "admin",
+            "owner": true,
+            "user_id": 15169098,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5c8f27d0-f03e-488d-ba6d-ced3e7b34b82_1748x1240.png",
+            "bio": null
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://deschooljournal.substack.com",
+    "hostname": "deschooljournal.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                185,
+                122,
+                68
+            ],
+            "population": 32
+        },
+        "DarkVibrant": {
+            "rgb": [
+                136,
+                84,
+                51
+            ],
+            "population": 12
+        },
+        "LightVibrant": {
+            "rgb": [
+                228,
+                188,
+                124
+            ],
+            "population": 1
+        },
+        "Muted": {
+            "rgb": [
+                164,
+                116,
+                84
+            ],
+            "population": 1
+        },
+        "DarkMuted": {
+            "rgb": [
+                114,
+                109,
+                102
+            ],
+            "population": 19
+        },
+        "LightMuted": {
+            "rgb": [
+                199,
+                196,
+                178
+            ],
+            "population": 5
+        }
+    }
+}

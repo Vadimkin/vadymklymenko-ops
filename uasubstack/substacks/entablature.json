@@ -1,0 +1,336 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 27122584,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Christopher Athey",
+    "cover_photo_url": null,
+    "created_at": "2021-08-29T23:40:46.218Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "musings on important things \n\nΠάνθειον",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 464165,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1a8d143-a09e-4b5b-b7c6-f7b1835f87c3_273x273.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Πάνθειον Entablature",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 27122584,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "entablature",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#25BD65",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Christopher Athey",
+    "author_handle": "entablature",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefac931f-fcf0-41d4-aa78-a92e45697eb7_273x457.jpeg",
+    "author_bio": "'there is no gate, no lock, no bolt that you can set upon the freedom of my mind.' (V.W.) \"The Strongest Poison ever known Came from Caesar's Laurel Crown\" B",
+    "twitter_screen_name": "chrsathey",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": "#f0fdfa",
+        "cover_bg_color": "#fdf4ff",
+        "publication_id": 464165,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magaziney",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2021-08-29T23:45:51.922Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "write",
+    "rankingDetail": "Launched 4 years ago",
+    "rankingDetailFreeIncluded": "Launched 4 years ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 4 Jahren",
+            "rankingDetailFreeIncluded": "Launched vor 4 Jahren",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 4 años",
+            "rankingDetailFreeIncluded": "Launched hace 4 años",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 4 années",
+            "rankingDetailFreeIncluded": "Launched il y a 4 années",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "pt": {
+            "rankingDetail": "Launched 4 anos",
+            "rankingDetailFreeIncluded": "Launched 4 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 4 anos",
+            "rankingDetailFreeIncluded": "Launched 4 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "it": {
+            "rankingDetail": "Launched 4 anni",
+            "rankingDetailFreeIncluded": "Launched 4 anni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        },
+        "en": {
+            "rankingDetail": "Launched 4 years ago",
+            "rankingDetailFreeIncluded": "Launched 4 years ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "4"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "4",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Christopher Athey",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefac931f-fcf0-41d4-aa78-a92e45697eb7_273x457.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "didIdentity": "did:plc:ujh6h4z4px6tgpjznhjnohl5",
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "Christopher Athey",
+            "handle": "entablature",
+            "role": "admin",
+            "owner": true,
+            "user_id": 27122584,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/efac931f-fcf0-41d4-aa78-a92e45697eb7_273x457.jpeg",
+            "bio": "'there is no gate, no lock, no bolt that you can set upon the freedom of my mind.' (V.W.) \"The Strongest Poison ever known Came from Caesar's Laurel Crown\" B"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://entablature.substack.com",
+    "hostname": "entablature.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                124,
+                124,
+                124
+            ],
+            "population": 359
+        },
+        "DarkMuted": {
+            "rgb": [
+                66,
+                66,
+                66
+            ],
+            "population": 51
+        },
+        "LightMuted": {
+            "rgb": [
+                196,
+                196,
+                196
+            ],
+            "population": 389
+        }
+    }
+}

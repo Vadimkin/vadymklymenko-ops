@@ -1,0 +1,795 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 331274889,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Svitlana Shmuratova",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/4a472ce0-f2af-401f-a3f0-203ffe00da78_1024x1024.png",
+    "created_at": "2025-04-07T18:38:49.881Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/51744a85-1517-40d6-9655-4814dc988efa_1100x220.png",
+    "email_from_name": "Svitlana from Inside Talent / Beyond Tech",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "My personal Substack",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "profile",
+    "id": 4642869,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72b98242-88b6-42a3-ba64-edf46807f85d_1536x1024.png",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb07b0846-31e1-448e-9483-f4df222680d2_2307x4096.jpeg",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Svitlana’s Substack",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 331274889,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "svitlanashmuratova",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Svitlana Shmuratova",
+    "author_handle": "svitlanashmuratova",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a09c030-a323-4f39-84e5-4c9f54021b76_1024x1024.png",
+    "author_bio": "HR & tech through the lens of a strategic communicator and former editor. IT Talent Connector | Journalist by nature, strategist by choice.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 4642869,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2025-04-08T22:20:00.792Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 2 months ago",
+    "rankingDetailFreeIncluded": "Launched 2 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 2 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 2 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 2 meses",
+            "rankingDetailFreeIncluded": "Launched hace 2 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 2 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 2 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt": {
+            "rankingDetail": "Launched 2 meses",
+            "rankingDetailFreeIncluded": "Launched 2 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 2 meses",
+            "rankingDetailFreeIncluded": "Launched 2 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "it": {
+            "rankingDetail": "Launched 2 mesi",
+            "rankingDetailFreeIncluded": "Launched 2 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "en": {
+            "rankingDetail": "Launched 2 months ago",
+            "rankingDetailFreeIncluded": "Launched 2 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "2",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Svitlana Shmuratova",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a09c030-a323-4f39-84e5-4c9f54021b76_1024x1024.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 215581,
+            "created_at": "2025-04-24T13:00:13.849Z",
+            "updated_at": "2025-04-24T13:26:10.478Z",
+            "publication_id": 4642869,
+            "name": "Conference Lens",
+            "description": "Explore events that shape how we think, hire, and lead.\nReflections, takeaways, and practical insights from HR & tech conferences — with a focus on leadership, communication, and building meaningful teams.",
+            "slug": "conference-lens",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/ad4bce7e-5ca4-472d-83a7-95fd777f4dd7_1024x1024.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 215589,
+            "created_at": "2025-04-24T13:19:18.873Z",
+            "updated_at": "2025-04-24T13:25:48.555Z",
+            "publication_id": 4642869,
+            "name": " Inside Talent",
+            "description": "Human-Side Notes. A close-up look at what it means to work with people, not just profiles.\nFrom candidate conversations to quiet reflections on value, culture, and connection — this is where talent meets meaning.",
+            "slug": "inside-talent",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/40953895-3afd-431f-893e-10b1ad25166c_1024x1024.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 215593,
+            "created_at": "2025-04-24T13:22:11.373Z",
+            "updated_at": "2025-04-24T13:29:47.391Z",
+            "publication_id": 4642869,
+            "name": "Strategic Elegance",
+            "description": "Notes on presence, communication, and subtle influence.\nStrategic Elegance explores what it means to lead without shouting — through language, tone, posture, and the power of calm precision.",
+            "slug": "strategic-elegance",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 3,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c6b7f189-78b2-45a0-8438-e4dd337161e8_1024x1024.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 215595,
+            "created_at": "2025-04-24T13:38:48.289Z",
+            "updated_at": "2025-04-24T13:38:48.543Z",
+            "publication_id": 4642869,
+            "name": "Practical Frameworks",
+            "description": "Smart tools and working logic for HR, recruitment, and strategic communication. No fluff — just what works.",
+            "slug": "practical-frameworks",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 4,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/fd6053e3-cc27-4ba9-accb-fbba1de17305_1024x1024.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "59097efe-7fcc-4cb2-b3e6-b03e7bc1ad96",
+            "publication_id": 4642869,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 215595,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 215595,
+                "created_at": "2025-04-24T13:38:48.289Z",
+                "updated_at": "2025-04-24T13:38:48.543Z",
+                "publication_id": 4642869,
+                "name": "Practical Frameworks",
+                "description": "Smart tools and working logic for HR, recruitment, and strategic communication. No fluff — just what works.",
+                "slug": "practical-frameworks",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 4,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/fd6053e3-cc27-4ba9-accb-fbba1de17305_1024x1024.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "3d23d953-5ca2-455b-87de-fdb6ef6c6035",
+            "publication_id": 4642869,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 215593,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 215593,
+                "created_at": "2025-04-24T13:22:11.373Z",
+                "updated_at": "2025-04-24T13:29:47.391Z",
+                "publication_id": 4642869,
+                "name": "Strategic Elegance",
+                "description": "Notes on presence, communication, and subtle influence.\nStrategic Elegance explores what it means to lead without shouting — through language, tone, posture, and the power of calm precision.",
+                "slug": "strategic-elegance",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 3,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c6b7f189-78b2-45a0-8438-e4dd337161e8_1024x1024.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "a00c0b95-065c-4fcf-83bb-52607a64fae9",
+            "publication_id": 4642869,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 215581,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 215581,
+                "created_at": "2025-04-24T13:00:13.849Z",
+                "updated_at": "2025-04-24T13:26:10.478Z",
+                "publication_id": 4642869,
+                "name": "Conference Lens",
+                "description": "Explore events that shape how we think, hire, and lead.\nReflections, takeaways, and practical insights from HR & tech conferences — with a focus on leadership, communication, and building meaningful teams.",
+                "slug": "conference-lens",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/ad4bce7e-5ca4-472d-83a7-95fd777f4dd7_1024x1024.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "22f9dc74-fa59-4bd7-a218-c8dc35851a2d",
+            "publication_id": 4642869,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 215589,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 215589,
+                "created_at": "2025-04-24T13:19:18.873Z",
+                "updated_at": "2025-04-24T13:25:48.555Z",
+                "publication_id": 4642869,
+                "name": " Inside Talent",
+                "description": "Human-Side Notes. A close-up look at what it means to work with people, not just profiles.\nFrom candidate conversations to quiet reflections on value, culture, and connection — this is where talent meets meaning.",
+                "slug": "inside-talent",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/40953895-3afd-431f-893e-10b1ad25166c_1024x1024.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Svitlana Shmuratova",
+            "handle": "svitlanashmuratova",
+            "role": "admin",
+            "owner": true,
+            "user_id": 331274889,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a09c030-a323-4f39-84e5-4c9f54021b76_1024x1024.png",
+            "bio": "HR & tech through the lens of a strategic communicator and former editor. IT Talent Connector | Journalist by nature, strategist by choice."
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://svitlanashmuratova.substack.com",
+    "hostname": "svitlanashmuratova.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                132,
+                132,
+                132
+            ],
+            "population": 232
+        },
+        "DarkMuted": {
+            "rgb": [
+                68,
+                68,
+                68
+            ],
+            "population": 197
+        },
+        "LightMuted": {
+            "rgb": [
+                188,
+                188,
+                188
+            ],
+            "population": 329
+        }
+    }
+}

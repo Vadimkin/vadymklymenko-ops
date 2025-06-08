@@ -1,0 +1,500 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 109046032,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Eric Engle",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/5d5e7c9e-6beb-45d3-85aa-38e84d13e44b_720x900.png",
+    "created_at": "2022-10-30T01:04:17.648Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "most_recent_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Sign up now & you immediately get: new, free, and exclusive content, Unparalleled access to expert analysis, & bonus materials, updates, and surprises. Join the conversation and stay informed about China's future. Sign up now!",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 1164982,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38c73ed8-ae5a-4d71-a55a-57d16e5a3f2f_1920x384.jpeg",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff475045b-73af-4432-89f4-865840ca89cc_200x200.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "OSINTBRIEF",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 109046032,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "osintbrief",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#00C2FF",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Eric Engle",
+    "author_handle": "osintbrief",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde1e0d36-059e-4687-93d3-13ee5e2dcce6_200x200.jpeg",
+    "author_bio": "Polyglot Itinerant Scholar",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": "#14101b",
+        "cover_bg_color": "#14101b",
+        "publication_id": 1164982,
+        "color_links": null,
+        "font_preset_heading": "fancy_serif",
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magaziney",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": "2023-12-06T14:47:14.273+00:00",
+        "create_thread_minimum_role": "free_subscriber",
+        "activated_at": "2023-12-06T14:46:44.344+00:00",
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2019-08-15T16:17:00.002Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": null,
+    "rankingDetailFreeIncluded": null,
+    "rankingDetailOrderOfMagnitude": null,
+    "rankingDetailFreeIncludedOrderOfMagnitude": null,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {},
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": null,
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": "2023-12-16T16:46:12.805Z",
+    "primary_profile_name": "Eric Engle",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde1e0d36-059e-4687-93d3-13ee5e2dcce6_200x200.jpeg",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 206553,
+            "created_at": "2025-04-02T22:44:49.607Z",
+            "updated_at": "2025-04-02T22:45:48.029Z",
+            "publication_id": 1164982,
+            "name": "Strategy & Diplomacy: velvet gloves for iron fists.",
+            "description": "Audio Content",
+            "slug": "strategy-and-diplomacy-velvet-gloves",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/2f43e0bf-78e1-429f-8b71-83cf95f55d24_900x900.png",
+            "hide_from_navbar": false,
+            "email_from_name": "https://osintbrief.substack.com",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "0cad1801-0039-4e2c-9457-8d7fdfe1aff2",
+            "publication_id": 1164982,
+            "sibling_rank": 0,
+            "link_title": "Free Law Search",
+            "link_url": "https://mindworks.altervista.org/",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "58c70231-794e-4b24-804e-3a2e903267ae",
+            "publication_id": 1164982,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "leaderboard",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "5bdfea2d-8f51-4ad9-a87e-96554247fca6",
+            "publication_id": 1164982,
+            "sibling_rank": 1,
+            "link_title": "Learn Chinese",
+            "link_url": "https://www.amazon.com/dp/B08L87R87J?searchxofy=true",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "69e814a7-ae37-4df5-8d88-e8afe52e81c9",
+            "publication_id": 1164982,
+            "sibling_rank": 2,
+            "link_title": "Common Law for EU Jurists",
+            "link_url": "https://www.amazon.com/dp/B08PL4PCWT?binding=paperback&ref=dbs_dp_rwt_sb_pc_tpbk",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "dc82652f-c4bc-4d6b-ac21-8c9e96f92b05",
+            "publication_id": 1164982,
+            "sibling_rank": 3,
+            "link_title": "Bar Review",
+            "link_url": "https://www.amazon.com/Quizmaster-Point-of-Law-Uniform-Bar-Examination-Multistate-Bar-Review-Exam-6-book-series/dp/B08PFY3HZJ",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "b8f9df04-5600-409a-bee3-8838f5cc688c",
+            "publication_id": 1164982,
+            "sibling_rank": 4,
+            "link_title": "Law Flashcards",
+            "link_url": "https://www.amazon.com/dp/B08R6ZJCGH?binding=paperback&ref=dbs_dp_rwt_sb_pc_tpbk",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "6b2bedaf-eb31-4e9e-b7ff-ecf66f79ee96",
+            "publication_id": 1164982,
+            "sibling_rank": 5,
+            "link_title": "Books",
+            "link_url": "https://amazon.com/author/quizmaster",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "89651a65-2b88-4126-8f3d-f0c25beae019",
+            "publication_id": 1164982,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 206553,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 206553,
+                "created_at": "2025-04-02T22:44:49.607Z",
+                "updated_at": "2025-04-02T22:45:48.029Z",
+                "publication_id": 1164982,
+                "name": "Strategy & Diplomacy: velvet gloves for iron fists.",
+                "description": "Audio Content",
+                "slug": "strategy-and-diplomacy-velvet-gloves",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/2f43e0bf-78e1-429f-8b71-83cf95f55d24_900x900.png",
+                "hide_from_navbar": false,
+                "email_from_name": "https://osintbrief.substack.com",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Eric Engle",
+            "handle": "osintbrief",
+            "role": "admin",
+            "owner": true,
+            "user_id": 109046032,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/de1e0d36-059e-4687-93d3-13ee5e2dcce6_200x200.jpeg",
+            "bio": "Polyglot Itinerant Scholar"
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://osintbrief.substack.com",
+    "hostname": "osintbrief.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                132,
+                132,
+                132
+            ],
+            "population": 75
+        },
+        "DarkMuted": {
+            "rgb": [
+                68,
+                68,
+                68
+            ],
+            "population": 24
+        },
+        "LightMuted": {
+            "rgb": [
+                188,
+                188,
+                188
+            ],
+            "population": 58
+        }
+    }
+}

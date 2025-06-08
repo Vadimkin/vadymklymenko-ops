@@ -1,0 +1,674 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 170511073,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Mykyta Budnyk",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/064b1947-3551-40fb-b8aa-39a1245bbe7d_400x400.png",
+    "created_at": "2023-09-21T09:50:22.331Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/243fb4a7-f9d0-4b58-83e5-c0d9b6286735_1100x220.png",
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "My personal Substack",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": false,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 1968505,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb600a3dc-106e-458d-a56e-e41514f9e627_400x400.jpeg",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Mykyta’s Substack",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 170511073,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "mykytabudnyk",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#25BD65",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": "acct_1Nsk2tEY76fM9Ddd",
+    "stripe_country": "GB",
+    "stripe_publishable_key": "pk_live_51Nsk2tEY76fM9DddQDD37T9ipaYdSGbybgul4h5LzNxq2Kcm3TANWTOC23XFSSKu7beyzW03jwKlPT5xhPMU6C6G00JoeGPFaf",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Mykyta Budnyk",
+    "author_handle": "mykytabudnyk2",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb600a3dc-106e-458d-a56e-e41514f9e627_400x400.jpeg",
+    "author_bio": "A freelance reporter and photojournalist from the Ukrainian city of Donetsk currently resides in Edinburgh, Scotland. Passionate about human rights and telling people's stories. ",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#66cd7a",
+        "web_bg_color": "#f5f5f5",
+        "cover_bg_color": "#f5f5f5",
+        "publication_id": 1968505,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "grid",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2022-06-19T01:11:26.449Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 2 years ago",
+    "rankingDetailFreeIncluded": "Launched 2 years ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 2 Jahren",
+            "rankingDetailFreeIncluded": "Launched vor 2 Jahren",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 2 años",
+            "rankingDetailFreeIncluded": "Launched hace 2 años",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 2 années",
+            "rankingDetailFreeIncluded": "Launched il y a 2 années",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "pt": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "it": {
+            "rankingDetail": "Launched 2 anni",
+            "rankingDetailFreeIncluded": "Launched 2 anni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "en": {
+            "rankingDetail": "Launched 2 years ago",
+            "rankingDetailFreeIncluded": "Launched 2 years ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "1",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Mykyta Budnyk",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb600a3dc-106e-458d-a56e-e41514f9e627_400x400.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "d8e8788d-f19b-4a5e-8e62-08a25cfe3a63",
+            "publication_id": 1968505,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Mykyta Budnyk",
+            "handle": "mykytabudnyk2",
+            "role": "admin",
+            "owner": true,
+            "user_id": 170511073,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b600a3dc-106e-458d-a56e-e41514f9e627_400x400.jpeg",
+            "bio": "A freelance reporter and photojournalist from the Ukrainian city of Donetsk currently resides in Edinburgh, Scotland. Passionate about human rights and telling people's stories. "
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": {
+        "id": "348d1718-aa77-4aae-9368-b7b610677e4d",
+        "publication_id": 1968505,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "My personal Substack",
+        "created_at": "2023-09-21T10:28:39.330462+00:00",
+        "updated_at": "2023-09-21T10:28:39.330462+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly80usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 8000,
+            "amount_decimal": "8000",
+            "billing_scheme": "per_unit",
+            "created": 1695292100,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$80 a year",
+            "product": "prod_Og6KYV0x2H369x",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 13000,
+                    "unit_amount_decimal": "13000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 45500,
+                    "unit_amount_decimal": "45500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11500,
+                    "unit_amount_decimal": "11500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 55500,
+                    "unit_amount_decimal": "55500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 163000,
+                    "unit_amount_decimal": "163000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 84000,
+                    "unit_amount_decimal": "84000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14500,
+                    "unit_amount_decimal": "14500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 31000,
+                    "unit_amount_decimal": "31000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 80500,
+                    "unit_amount_decimal": "80500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                }
+            }
+        },
+        {
+            "id": "monthly8usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 800,
+            "amount_decimal": "800",
+            "billing_scheme": "per_unit",
+            "created": 1695292099,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$8 a month",
+            "product": "prod_Og6JIOtMTmrz4C",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1300,
+                    "unit_amount_decimal": "1300"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4600,
+                    "unit_amount_decimal": "4600"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1200,
+                    "unit_amount_decimal": "1200"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16500,
+                    "unit_amount_decimal": "16500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8500,
+                    "unit_amount_decimal": "8500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1500,
+                    "unit_amount_decimal": "1500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3100,
+                    "unit_amount_decimal": "3100"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8500,
+                    "unit_amount_decimal": "8500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                }
+            }
+        },
+        {
+            "id": "founding24000usd",
+            "name": "founding24000usd",
+            "nickname": "founding24000usd",
+            "active": true,
+            "amount": 24000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "8000",
+                "minimum_local": {
+                    "aud": 12500,
+                    "brl": 44500,
+                    "cad": 11000,
+                    "chf": 7000,
+                    "dkk": 52500,
+                    "eur": 7500,
+                    "gbp": 6000,
+                    "mxn": 153000,
+                    "nok": 81000,
+                    "nzd": 13500,
+                    "pln": 30500,
+                    "sek": 77500,
+                    "usd": 8000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 37000,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 133500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 33000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 20000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 157500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 21500,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 459000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 243000,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 40000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 90500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 231500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 24000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "paid_subscription_benefits_english": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "free_subscription_benefits_english": [
+        "Occasional public posts"
+    ],
+    "base_url": "https://mykytabudnyk.substack.com",
+    "hostname": "mykytabudnyk.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                180,
+                92,
+                84
+            ],
+            "population": 1
+        },
+        "DarkVibrant": {
+            "rgb": [
+                108,
+                50,
+                40
+            ],
+            "population": 4
+        },
+        "LightVibrant": {
+            "rgb": [
+                222,
+                181,
+                163
+            ],
+            "population": 475
+        },
+        "Muted": {
+            "rgb": [
+                163,
+                119,
+                105
+            ],
+            "population": 56
+        },
+        "DarkMuted": {
+            "rgb": [
+                81,
+                67,
+                62
+            ],
+            "population": 240
+        },
+        "LightMuted": {
+            "rgb": [
+                183,
+                195,
+                216
+            ],
+            "population": 68
+        }
+    }
+}

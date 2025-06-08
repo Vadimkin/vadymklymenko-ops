@@ -1,0 +1,471 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 313027157,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Vika | Pups, Poses & Prose",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/1c2b4886-bc13-4882-82af-c80b04356693_1024x1280.png",
+    "created_at": "2025-01-30T21:50:39.878Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "Vika from Pups, Poses & Prose",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "The mind is both a vast ocean and a tiny puddle, full of uncharted territories & fleeting thoughts. Here, you'll find reflections on health, yoga, books, and more - insights in both English and Ukrainian to nourish the body, mind, and heart.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 3964398,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda00fafe-6ddd-47cd-b155-a91fea15df83_1080x1080.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Pups, Poses & Prose",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 313027157,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "pupsposesprose",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Vika",
+    "author_handle": "pupsposesprose",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e9784dc-9076-41fa-91d7-2a674e203b6e_988x988.png",
+    "author_bio": "🐶 Mira’s Bestie | Подруга Міри 🧘‍♀️ Yoga & Philosophy | Йога & філософія 🍀 Mindful Living | Усвідомлене життя 📚 Books & Reflections | Книги & роздуми",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#af4b43",
+        "web_bg_color": "#cadbd0",
+        "cover_bg_color": "#cadbd0",
+        "publication_id": 3964398,
+        "color_links": null,
+        "font_preset_heading": "heavy_sans",
+        "font_preset_body": "sans",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "feature-media",
+        "home_posts": "grid",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2025-02-11T18:31:33.119Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 4 months ago",
+    "rankingDetailFreeIncluded": "Launched 4 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 4 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 4 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 4 meses",
+            "rankingDetailFreeIncluded": "Launched hace 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 4 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 4 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "pt": {
+            "rankingDetail": "Launched 4 meses",
+            "rankingDetailFreeIncluded": "Launched 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 4 meses",
+            "rankingDetailFreeIncluded": "Launched 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "it": {
+            "rankingDetail": "Launched 4 mesi",
+            "rankingDetailFreeIncluded": "Launched 4 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "en": {
+            "rankingDetail": "Launched 4 months ago",
+            "rankingDetailFreeIncluded": "Launched 4 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "5",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Vika",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e9784dc-9076-41fa-91d7-2a674e203b6e_988x988.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "1354f88d-dd4b-4340-bb51-27a54d1b75f0",
+            "publication_id": 3964398,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "chat",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "ca7dc2ec-4ff6-4d33-a218-a0ee279b4615",
+            "publication_id": 3964398,
+            "sibling_rank": 1,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "9bd8917e-b615-4ffa-b134-6cfadbdc49ee",
+            "publication_id": 3964398,
+            "sibling_rank": 2,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "f7e13d17-7d97-4429-b2e0-479f20e90603",
+            "publication_id": 3964398,
+            "sibling_rank": 3,
+            "link_title": "With Love For Dogs 🐶",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "3b20c8c5-2089-4d00-b278-195961f436ce",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "3b20c8c5-2089-4d00-b278-195961f436ce",
+                "publication_id": 3964398,
+                "name": "Dogs",
+                "slug": "dogs",
+                "hidden": false
+            }
+        },
+        {
+            "id": "90ee573d-7fe5-4338-9b9e-f7c8ca6148bb",
+            "publication_id": 3964398,
+            "sibling_rank": 4,
+            "link_title": "Yoga & Philosophy🧘‍♀️",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "5c370dc3-5de5-44f5-93c7-bdf5d4cb3e79",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "5c370dc3-5de5-44f5-93c7-bdf5d4cb3e79",
+                "publication_id": 3964398,
+                "name": "Yoga",
+                "slug": "yoga",
+                "hidden": false
+            }
+        },
+        {
+            "id": "315db154-8842-483a-a476-156cf831e2ec",
+            "publication_id": 3964398,
+            "sibling_rank": 5,
+            "link_title": "Book Club 📚",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "8bd12c88-48fb-40b5-ace5-b0dfdbf135a7",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "8bd12c88-48fb-40b5-ace5-b0dfdbf135a7",
+                "publication_id": 3964398,
+                "name": "Books",
+                "slug": "books",
+                "hidden": false
+            }
+        },
+        {
+            "id": "c8202eea-0e94-4a94-ac5d-3ef0a6c4d4dd",
+            "publication_id": 3964398,
+            "sibling_rank": 6,
+            "link_title": "Everything Else... ☀️☁️🌿",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "98c1913e-f819-421e-a59c-b8628bee837c",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "98c1913e-f819-421e-a59c-b8628bee837c",
+                "publication_id": 3964398,
+                "name": "EverythingElse",
+                "slug": "balance",
+                "hidden": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Vika",
+            "handle": "pupsposesprose",
+            "role": "admin",
+            "owner": true,
+            "user_id": 313027157,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3e9784dc-9076-41fa-91d7-2a674e203b6e_988x988.png",
+            "bio": "🐶 Mira’s Bestie | Подруга Міри 🧘‍♀️ Yoga & Philosophy | Йога & філософія 🍀 Mindful Living | Усвідомлене життя 📚 Books & Reflections | Книги & роздуми"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://pupsposesprose.substack.com",
+    "hostname": "pupsposesprose.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                181.75531914893617,
+                73.24468085106383,
+                73.24468085106383
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                94.5127659574468,
+                38.0872340425532,
+                38.0872340425532
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                228,
+                188,
+                188
+            ],
+            "population": 3
+        },
+        "Muted": {
+            "rgb": [
+                132,
+                108,
+                108
+            ],
+            "population": 1
+        },
+        "DarkMuted": {
+            "rgb": [
+                73,
+                74,
+                74
+            ],
+            "population": 812
+        },
+        "LightMuted": {
+            "rgb": [
+                204,
+                220,
+                212
+            ],
+            "population": 2702
+        }
+    }
+}

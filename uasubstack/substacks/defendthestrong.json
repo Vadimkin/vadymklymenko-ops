@@ -1,0 +1,1095 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 259096931,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Little Miss Truth Bomb",
+    "cover_photo_url": null,
+    "created_at": "2024-10-24T16:07:01.354Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/047b71d4-53cc-4824-85de-ba31d41bc038_2475x495.png",
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Defend the Strong: Roots and Resilience is a publication dedicated to championing traditional values, exploring the strength of masculinity and femininity, and celebrating the cultural legacies that build resilient families and communities.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 3223639,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23f248cb-ba03-4f15-86af-e9497aed0ee1_1024x1024.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Defend the Strong: Roots and Resilience",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": null,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "defendthestrong",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly80usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 8000,
+            "amount_decimal": "8000",
+            "billing_scheme": "per_unit",
+            "created": 1730142306,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$80 a year",
+            "product": "prod_R7Ce3VNLxNC7km",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 13000,
+                    "unit_amount_decimal": "13000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 45500,
+                    "unit_amount_decimal": "45500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11500,
+                    "unit_amount_decimal": "11500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 55500,
+                    "unit_amount_decimal": "55500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 162000,
+                    "unit_amount_decimal": "162000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 83500,
+                    "unit_amount_decimal": "83500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14000,
+                    "unit_amount_decimal": "14000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 31000,
+                    "unit_amount_decimal": "31000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 79500,
+                    "unit_amount_decimal": "79500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                }
+            }
+        },
+        {
+            "id": "monthly8usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 800,
+            "amount_decimal": "800",
+            "billing_scheme": "per_unit",
+            "created": 1730142305,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$8 a month",
+            "product": "prod_R7CeQTwq7gj3Uz",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1300,
+                    "unit_amount_decimal": "1300"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4600,
+                    "unit_amount_decimal": "4600"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1200,
+                    "unit_amount_decimal": "1200"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16500,
+                    "unit_amount_decimal": "16500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8500,
+                    "unit_amount_decimal": "8500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1400,
+                    "unit_amount_decimal": "1400"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3100,
+                    "unit_amount_decimal": "3100"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                }
+            }
+        },
+        {
+            "id": "founding24000usd",
+            "name": "founding24000usd",
+            "nickname": "founding24000usd",
+            "active": true,
+            "amount": 24000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "8000",
+                "minimum_local": {
+                    "aud": 12500,
+                    "brl": 44500,
+                    "cad": 11000,
+                    "chf": 7000,
+                    "dkk": 52500,
+                    "eur": 7500,
+                    "gbp": 6000,
+                    "mxn": 153000,
+                    "nok": 81000,
+                    "nzd": 13500,
+                    "pln": 30500,
+                    "sek": 77500,
+                    "usd": 8000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 37000,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 133500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 33000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 20000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 157500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 21500,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 459000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 243000,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 40000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 90500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 231500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 24000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1QEyBkEIOyElG2R3",
+    "stripe_country": "US",
+    "stripe_publishable_key": "pk_live_51QEyBkEIOyElG2R3kmvu4ty1UwfADJEUL1elgydzVkIhlxvNXY89KI1oJ1A5SXOMIyR1kxh24tIraSn6X67Pqr5r00Rm879IIP",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "The Most Humble",
+    "author_handle": "themosthumble",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa78ccf23-4071-403a-b275-f1f705026edc_1024x1024.png",
+    "author_bio": "Blacksite Literature Creator. Scrolltrap Inventor—or just a humble substack blog tracking literary power and cultural recoil. if you knew which, it wouldn’t be fun. ",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#2563eb",
+        "web_bg_color": "#eff6ff",
+        "cover_bg_color": "#eff6ff",
+        "publication_id": 3223639,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magaziney",
+        "home_posts": "custom",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "free_subscriber",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": true,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2024-09-06T17:43:39.000Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 7 months ago",
+    "rankingDetailFreeIncluded": "Launched 7 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 7 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 7 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "16"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 7 meses",
+            "rankingDetailFreeIncluded": "Launched hace 7 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "16"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 7 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 7 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "16"
+        },
+        "pt": {
+            "rankingDetail": "Launched 7 meses",
+            "rankingDetailFreeIncluded": "Launched 7 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "16"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 7 meses",
+            "rankingDetailFreeIncluded": "Launched 7 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "16"
+        },
+        "it": {
+            "rankingDetail": "Launched 7 mesi",
+            "rankingDetailFreeIncluded": "Launched 7 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "16"
+        },
+        "en": {
+            "rankingDetail": "Launched 7 months ago",
+            "rankingDetailFreeIncluded": "Launched 7 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "16"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "16",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 161647,
+            "created_at": "2024-11-07T17:31:49.048Z",
+            "updated_at": "2024-12-14T20:08:39.021Z",
+            "publication_id": 3223639,
+            "name": "Legacy and Leadership",
+            "description": "Exploring the timeless lessons from history’s greatest leaders and the principles that build enduring legacies.",
+            "slug": "legacy-and-leadership",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 0,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e85138d8-097d-42da-be5e-901868024623_1024x1024.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "05dff6f6-e43a-4634-b255-d271cb83d4dd",
+            "publication_id": 3223639,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 161647,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 161647,
+                "created_at": "2024-11-07T17:31:49.048Z",
+                "updated_at": "2024-12-14T20:08:39.021Z",
+                "publication_id": 3223639,
+                "name": "Legacy and Leadership",
+                "description": "Exploring the timeless lessons from history’s greatest leaders and the principles that build enduring legacies.",
+                "slug": "legacy-and-leadership",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 0,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e85138d8-097d-42da-be5e-901868024623_1024x1024.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "b604c747-80ba-44ff-bce6-7c7a394f5c1e",
+            "publication_id": 3223639,
+            "sibling_rank": 1,
+            "link_title": "Kushibada Shopping",
+            "link_url": "https://kushibada.com/",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        }
+    ],
+    "contributors": [
+        {
+            "name": "The Most Humble",
+            "handle": "themosthumble",
+            "role": "admin",
+            "owner": true,
+            "user_id": 259096931,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a78ccf23-4071-403a-b275-f1f705026edc_1024x1024.png",
+            "bio": "Blacksite Literature Creator. Scrolltrap Inventor—or just a humble substack blog tracking literary power and cultural recoil. if you knew which, it wouldn’t be fun. "
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": {
+        "id": "2b4aa60e-86b9-4cee-9733-5ee97302bc17",
+        "publication_id": 3223639,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "Defend the Strong is a publication dedicated to exploring the vilification of traditional masculinity in modern society. From media and politics to education, we’re unpacking the war on masculinity and standing up for strong, unapologetic men.",
+        "created_at": "2024-10-28T19:05:15.405076+00:00",
+        "updated_at": "2024-10-28T19:05:15.405076+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly80usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 8000,
+            "amount_decimal": "8000",
+            "billing_scheme": "per_unit",
+            "created": 1730142306,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$80 a year",
+            "product": "prod_R7Ce3VNLxNC7km",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 13000,
+                    "unit_amount_decimal": "13000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 45500,
+                    "unit_amount_decimal": "45500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11500,
+                    "unit_amount_decimal": "11500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 55500,
+                    "unit_amount_decimal": "55500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 162000,
+                    "unit_amount_decimal": "162000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 83500,
+                    "unit_amount_decimal": "83500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14000,
+                    "unit_amount_decimal": "14000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 31000,
+                    "unit_amount_decimal": "31000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 79500,
+                    "unit_amount_decimal": "79500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                }
+            }
+        },
+        {
+            "id": "monthly8usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 800,
+            "amount_decimal": "800",
+            "billing_scheme": "per_unit",
+            "created": 1730142305,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$8 a month",
+            "product": "prod_R7CeQTwq7gj3Uz",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1300,
+                    "unit_amount_decimal": "1300"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4600,
+                    "unit_amount_decimal": "4600"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1200,
+                    "unit_amount_decimal": "1200"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16500,
+                    "unit_amount_decimal": "16500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8500,
+                    "unit_amount_decimal": "8500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1400,
+                    "unit_amount_decimal": "1400"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3100,
+                    "unit_amount_decimal": "3100"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                }
+            }
+        },
+        {
+            "id": "founding24000usd",
+            "name": "founding24000usd",
+            "nickname": "founding24000usd",
+            "active": true,
+            "amount": 24000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "8000",
+                "minimum_local": {
+                    "aud": 12500,
+                    "brl": 44500,
+                    "cad": 11000,
+                    "chf": 7000,
+                    "dkk": 52500,
+                    "eur": 7500,
+                    "gbp": 6000,
+                    "mxn": 153000,
+                    "nok": 81000,
+                    "nzd": 13500,
+                    "pln": 30500,
+                    "sek": 77500,
+                    "usd": 8000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 37000,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 133500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 33000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 20000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 157500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 21500,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 459000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 243000,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 40000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 90500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 231500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 24000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "paid_subscription_benefits_english": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "free_subscription_benefits_english": [
+        "Occasional public posts"
+    ],
+    "base_url": "https://defendthestrong.substack.com",
+    "hostname": "defendthestrong.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                172,
+                132,
+                76
+            ],
+            "population": 1
+        },
+        "DarkVibrant": {
+            "rgb": [
+                96,
+                67,
+                44
+            ],
+            "population": 61
+        },
+        "LightVibrant": {
+            "rgb": [
+                212,
+                188,
+                146
+            ],
+            "population": 5
+        },
+        "Muted": {
+            "rgb": [
+                172,
+                124,
+                82
+            ],
+            "population": 4
+        },
+        "DarkMuted": {
+            "rgb": [
+                80,
+                61,
+                47
+            ],
+            "population": 355
+        },
+        "LightMuted": {
+            "rgb": [
+                206,
+                190,
+                166
+            ],
+            "population": 11
+        }
+    }
+}

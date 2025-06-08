@@ -1,0 +1,329 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 106649644,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Steven Sirski",
+    "cover_photo_url": null,
+    "created_at": "2022-10-09T10:18:20.438Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/5abc1d7e-c09e-4bc3-ad9f-0528bcae930b_1640x608.png",
+    "email_from_name": "Sirski's Word",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "The life and times of a working traveller.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 1134684,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d685363-17ad-4a33-be8a-2c4bd9b0923a_1640x608.png",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e31e22e-3c89-4850-89c9-babdbb173e43_500x500.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Sirski's Word",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a8244edd-1213-44f1-a20d-222230acfdcb_1400x1400.png",
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": "A weekly podcast from Steven Sirski's newsletter",
+    "podcast_description": "The newsletter podcast of Steven Sirski.",
+    "podcast_enabled": true,
+    "podcast_feed_url": null,
+    "podcast_title": "Sirski's Word Podcast",
+    "post_preview_limit": null,
+    "primary_user_id": 106649644,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": true,
+    "show_recs_on_homepage": true,
+    "subdomain": "stevensirski",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF9900",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Steven Sirski",
+    "author_handle": "stevensirski",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F70f9396b-9b63-49cd-a9b2-27301b841f53_3880x5184.jpeg",
+    "author_bio": "Canadian expat living in Beijing. Here be the newsletter of things published by me.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2022-10-09T10:43:02.843Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 3 years ago",
+    "rankingDetailFreeIncluded": "Launched 3 years ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 3 Jahren",
+            "rankingDetailFreeIncluded": "Launched vor 3 Jahren",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "13"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 3 años",
+            "rankingDetailFreeIncluded": "Launched hace 3 años",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "13"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 3 années",
+            "rankingDetailFreeIncluded": "Launched il y a 3 années",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "13"
+        },
+        "pt": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Launched 3 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "13"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Launched 3 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "13"
+        },
+        "it": {
+            "rankingDetail": "Launched 3 anni",
+            "rankingDetailFreeIncluded": "Launched 3 anni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "13"
+        },
+        "en": {
+            "rankingDetail": "Launched 3 years ago",
+            "rankingDetailFreeIncluded": "Launched 3 years ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "13"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "13",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Steven Sirski",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F70f9396b-9b63-49cd-a9b2-27301b841f53_3880x5184.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "Steven Sirski",
+            "handle": "stevensirski",
+            "role": "admin",
+            "owner": true,
+            "user_id": 106649644,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/70f9396b-9b63-49cd-a9b2-27301b841f53_3880x5184.jpeg",
+            "bio": "Canadian expat living in Beijing. Here be the newsletter of things published by me."
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://stevensirski.substack.com",
+    "hostname": "stevensirski.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": {
+        "id": 6041,
+        "publication_id": 1134684,
+        "section_id": null,
+        "spotify_access_token": "85482041-9e18-4ade-acf0-10a2e4a1ce51",
+        "spotify_uri": null,
+        "spotify_podcast_title": null,
+        "created_at": "2024-04-14T10:54:12.896Z",
+        "updated_at": "2024-04-14T10:54:12.896Z",
+        "currently_published_on_spotify": false,
+        "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/85482041-9e18-4ade-acf0-10a2e4a1ce51/1134684.rss",
+        "spotify_show_url": ""
+    },
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                173,
+                100,
+                60
+            ],
+            "population": 5
+        },
+        "DarkVibrant": {
+            "rgb": [
+                116,
+                68,
+                52
+            ],
+            "population": 1
+        },
+        "LightVibrant": {
+            "rgb": [
+                251,
+                242,
+                227
+            ],
+            "population": 956
+        },
+        "Muted": {
+            "rgb": [
+                171,
+                142,
+                112
+            ],
+            "population": 8
+        },
+        "DarkMuted": {
+            "rgb": [
+                68,
+                52,
+                44
+            ],
+            "population": 3524
+        },
+        "LightMuted": {
+            "rgb": [
+                204,
+                184,
+                161
+            ],
+            "population": 14
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                50.16393442622951,
+                62.70491803278686,
+                204.8360655737705
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                12,
+                15,
+                49
+            ],
+            "population": 76
+        },
+        "LightVibrant": {
+            "rgb": [
+                148.48524590163933,
+                155.0065573770491,
+                228.91475409836067
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                116,
+                116,
+                136
+            ],
+            "population": 127
+        },
+        "DarkMuted": {
+            "rgb": [
+                36,
+                37,
+                68
+            ],
+            "population": 600
+        },
+        "LightMuted": {
+            "rgb": [
+                192,
+                192,
+                200
+            ],
+            "population": 316
+        }
+    }
+}

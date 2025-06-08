@@ -1,0 +1,317 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 319353955,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Arina Shapran",
+    "cover_photo_url": null,
+    "created_at": "2025-03-14T10:30:06.823Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "My personal Substack",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 4379336,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1b60ace-6ab9-48e1-a781-db7ddba6d3da_144x144.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Хронічно онлайн",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/aa41aa57-9254-4150-9905-ef93b0a73a7f_3000x3000.jpeg",
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": "З вами Ніна (PR Specialist) та Аріна (SMM Team Lead) і зізнаємося одразу, ми — хронічно онлайн. Щодня кожна з нас проводить багато годин за екраном. Ми щось шукаємо, аналізуємо, дивуємося, а потім ділимося цим одна з одною, а в цьому подкасті — з вами.\n\nЯкі сьогодні тренди в TikTok? Що відбувається на Reddit? Чи досі зберігають свій вплив традиційні медіа? Обговорюємо популярне в соцмережах, захоплюємося винахідливістю юзерів, розбираємося, скільки потрібно часу, щоб знаходити справжні перли в мережі та де їх шукати 🔍\n\nХочемо бути вам корисними й трішки повеселитися. Якщо під час прослуховування ви дізнаєтеся щось нове чи просто посміхнетеся, вважатимемо, що наша місія виконана!\n\nЯкщо ви теж хронічно онлайн, що ж: вітаємо в клубі! 🙋‍♀️\n\n🪄 Ведучі подкасту:\n\nАріна Шапран: https://www.instagram.com/shapraan\nНіна Богуш: https://www.instagram.com/nina_bohush\n\nПодкаст та озвучені в ньому меседжі – особисті думки авторок ✌️",
+    "podcast_enabled": true,
+    "podcast_feed_url": null,
+    "podcast_title": "Хронічно онлайн",
+    "post_preview_limit": null,
+    "primary_user_id": 319353955,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "arinashapran",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "A. Shapran | Хронічно онлайн",
+    "author_handle": "shapran",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1b60ace-6ab9-48e1-a781-db7ddba6d3da_144x144.png",
+    "author_bio": null,
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2023-09-04T08:00:00.000Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 3 months ago",
+    "rankingDetailFreeIncluded": "Launched 3 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 3 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 3 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 3 meses",
+            "rankingDetailFreeIncluded": "Launched hace 3 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 3 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 3 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "pt": {
+            "rankingDetail": "Launched 3 meses",
+            "rankingDetailFreeIncluded": "Launched 3 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 3 meses",
+            "rankingDetailFreeIncluded": "Launched 3 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "it": {
+            "rankingDetail": "Launched 3 mesi",
+            "rankingDetailFreeIncluded": "Launched 3 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "en": {
+            "rankingDetail": "Launched 3 months ago",
+            "rankingDetailFreeIncluded": "Launched 3 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "1",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "A. Shapran | Хронічно онлайн",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1b60ace-6ab9-48e1-a781-db7ddba6d3da_144x144.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "A. Shapran | Хронічно онлайн",
+            "handle": "shapran",
+            "role": "admin",
+            "owner": true,
+            "user_id": 319353955,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b1b60ace-6ab9-48e1-a781-db7ddba6d3da_144x144.png",
+            "bio": null
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 0,
+    "no_index": true,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://arinashapran.substack.com",
+    "hostname": "arinashapran.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                204,
+                251,
+                4
+            ],
+            "population": 582
+        },
+        "DarkVibrant": {
+            "rgb": [
+                129,
+                157,
+                12
+            ],
+            "population": 64
+        },
+        "LightVibrant": {
+            "rgb": [
+                86,
+                153,
+                228
+            ],
+            "population": 3
+        },
+        "Muted": {
+            "rgb": [
+                143,
+                111,
+                108
+            ],
+            "population": 8
+        },
+        "DarkMuted": {
+            "rgb": [
+                64,
+                72,
+                31
+            ],
+            "population": 185
+        },
+        "LightMuted": {
+            "rgb": [
+                211,
+                204,
+                201
+            ],
+            "population": 40
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                249,
+                172,
+                40
+            ],
+            "population": 277
+        },
+        "DarkVibrant": {
+            "rgb": [
+                5,
+                107,
+                91
+            ],
+            "population": 559
+        },
+        "LightVibrant": {
+            "rgb": [
+                252,
+                194,
+                85
+            ],
+            "population": 20
+        },
+        "Muted": {
+            "rgb": [
+                90,
+                141,
+                170
+            ],
+            "population": 5
+        },
+        "DarkMuted": {
+            "rgb": [
+                56,
+                95,
+                78
+            ],
+            "population": 18
+        },
+        "LightMuted": {
+            "rgb": [
+                183,
+                186,
+                219
+            ],
+            "population": 19
+        }
+    }
+}

@@ -1,0 +1,443 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 41206623,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Alona / cryptodrftng",
+    "cover_photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/706cf0e6-2523-43ed-afe1-b2375091c44b_1280x1280.png",
+    "created_at": "2022-03-21T02:00:12.912Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/03bb12a6-52c6-45f2-a938-16c75b775b7c_1100x220.png",
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Exploration of [Ukrainian] space.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 808876,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06f32be7-f7d5-4bbe-ba51-1e584e84f342_256x256.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Drftng with Ukraine",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/a678d825-43e4-4753-8c96-53de418ab4f6_3000x3000",
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": "Ukraine-centric podcast hosted by Ukrainians, covering the russian invasion, Ukrainian culture, Web3 and cybersecurity. \n\nUkraine DAO is an online collective fighting for Ukraine's victory by fundraising crypto for Ukraine, amplifying Ukrainian voices and fighting russian disinformation. Supported by the Ministry of Digital Transformation of Ukraine.",
+    "podcast_enabled": true,
+    "podcast_feed_url": null,
+    "podcast_title": "Ukraine DAO Talks",
+    "post_preview_limit": null,
+    "primary_user_id": 41206623,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "cryptodrftng",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#00C2FF",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Alona / cryptodrftng",
+    "author_handle": "cryptodrftng",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5dbdfd6-dd7a-4161-92ac-bcfdd39498bf_320x320.png",
+    "author_bio": "Co-Founder & Operational Lead of Ukraine DAO.\n#StandWithUkraine #ArmUkraineNow\n\nTo support my work: https://www.buymeacoffee.com/cryptodrftng",
+    "twitter_screen_name": "Ukraine_DAO",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": false,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2022-03-25T11:28:37.738Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "write",
+    "rankingDetail": "Launched 3 years ago",
+    "rankingDetailFreeIncluded": "Hundreds of subscribers",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 3 Jahren",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "295"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 3 años",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "295"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 3 années",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "295"
+        },
+        "pt": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "295"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "295"
+        },
+        "it": {
+            "rankingDetail": "Launched 3 anni",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "295"
+        },
+        "en": {
+            "rankingDetail": "Launched 3 years ago",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "295"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "295",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Alona / cryptodrftng",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5dbdfd6-dd7a-4161-92ac-bcfdd39498bf_320x320.png",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 51548,
+            "created_at": "2023-02-20T01:05:26.171Z",
+            "updated_at": "2023-02-20T01:05:26.171Z",
+            "publication_id": 808876,
+            "name": "Ukraine DAO News",
+            "description": "Never a dull day.",
+            "slug": "ukraine-dao-news",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/6927dfcf-dd80-4de6-a3e7-d28401d3c2c2_1280x1280.png",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "10588bf4-4ac8-4c35-95bc-fb02acfef047",
+            "publication_id": 808876,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 51548,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 51548,
+                "created_at": "2023-02-20T01:05:26.171Z",
+                "updated_at": "2023-02-20T01:05:26.171Z",
+                "publication_id": 808876,
+                "name": "Ukraine DAO News",
+                "description": "Never a dull day.",
+                "slug": "ukraine-dao-news",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/6927dfcf-dd80-4de6-a3e7-d28401d3c2c2_1280x1280.png",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Alona / cryptodrftng",
+            "handle": "cryptodrftng",
+            "role": "admin",
+            "owner": true,
+            "user_id": 41206623,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a5dbdfd6-dd7a-4161-92ac-bcfdd39498bf_320x320.png",
+            "bio": "Co-Founder & Operational Lead of Ukraine DAO.\n#StandWithUkraine #ArmUkraineNow\n\nTo support my work: https://www.buymeacoffee.com/cryptodrftng"
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://cryptodrftng.substack.com",
+    "hostname": "cryptodrftng.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                134.68309859154925,
+                134.68309859154925,
+                120.31690140845075
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                70.03521126760563,
+                70.03521126760563,
+                62.564788732394376
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                192.4352112676056,
+                192.4352112676056,
+                184.96478873239437
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                132,
+                132,
+                132
+            ],
+            "population": 13
+        },
+        "DarkMuted": {
+            "rgb": [
+                68,
+                68,
+                68
+            ],
+            "population": 52
+        },
+        "LightMuted": {
+            "rgb": [
+                188,
+                188,
+                180
+            ],
+            "population": 3
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.49999999999997,
+                125.37500000000001,
+                129.625
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.29999999999998,
+                65.195,
+                67.405
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.69999999999996,
+                187.595,
+                189.80499999999998
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                120,
+                119,
+                121
+            ],
+            "population": 75
+        },
+        "DarkMuted": {
+            "rgb": [
+                65,
+                63,
+                66
+            ],
+            "population": 25
+        },
+        "LightMuted": {
+            "rgb": [
+                195,
+                194,
+                196
+            ],
+            "population": 50
+        }
+    }
+}

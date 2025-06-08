@@ -1,0 +1,434 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 313068588,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "She’s A Vitch",
+    "cover_photo_url": null,
+    "created_at": "2025-01-26T21:23:36.926Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "She’s A Vitch from Vitch’s Substack",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "on society, identity, why I need therapy and more",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 3904403,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76f8f90b-d9db-4851-b2b0-6ec04353d217_608x608.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Vitch’s Substack",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 313068588,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "shesavitch",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "She’s A Vitch",
+    "author_handle": "shesavitch",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc075389d-8c6e-4209-83d6-5a8e667df664_1167x1121.jpeg",
+    "author_bio": "there was once a vampire and a witch who understood each other. ",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "free_subscriber",
+        "activated_at": "2025-01-26T22:18:39.321+00:00",
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2025-01-26T22:10:15.273Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 4 months ago",
+    "rankingDetailFreeIncluded": "Launched 4 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 4 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 4 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 4 meses",
+            "rankingDetailFreeIncluded": "Launched hace 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 4 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 4 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt": {
+            "rankingDetail": "Launched 4 meses",
+            "rankingDetailFreeIncluded": "Launched 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 4 meses",
+            "rankingDetailFreeIncluded": "Launched 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "it": {
+            "rankingDetail": "Launched 4 mesi",
+            "rankingDetailFreeIncluded": "Launched 4 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "en": {
+            "rankingDetail": "Launched 4 months ago",
+            "rankingDetailFreeIncluded": "Launched 4 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "2",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": "2025-01-30T20:57:14.356Z",
+    "primary_profile_name": "She’s A Vitch",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc075389d-8c6e-4209-83d6-5a8e667df664_1167x1121.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 183272,
+            "created_at": "2025-01-28T20:41:45.559Z",
+            "updated_at": "2025-02-02T10:17:43.018Z",
+            "publication_id": 3904403,
+            "name": "Highschool Podcast",
+            "description": "how to survive and not get damaged",
+            "slug": "highschool-podcast",
+            "is_podcast": true,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": true,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": true,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "spotifyPodcastSettings": {
+                "id": 34997,
+                "publication_id": null,
+                "section_id": 183272,
+                "spotify_access_token": "1e067e61-3798-444a-8d25-7d3cac85f7a6",
+                "spotify_uri": null,
+                "spotify_podcast_title": null,
+                "created_at": "2025-01-31T16:04:44.070Z",
+                "updated_at": "2025-01-31T16:04:44.070Z",
+                "currently_published_on_spotify": false
+            },
+            "podcastSettings": {
+                "section_id": 183272,
+                "itunes_podcast_primary_category": "Society & Culture",
+                "itunes_podcast_primary_subcategory": "",
+                "itunes_podcast_secondary_category": "Education",
+                "itunes_podcast_secondary_subcategory": "How To",
+                "itunes_email": null,
+                "language": null,
+                "itunes_explicit": false,
+                "podcast_art_url": "https://substackcdn.com/image/fetch/w_1400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fpodcast%2Fgeneric.png",
+                "podcast_subtitle": null,
+                "podcast_keywords": null,
+                "hide_podcast_feed_link": false,
+                "podcast_feed_url": null,
+                "podcast_title": "Highschool Podcast",
+                "podcast_description": "how to survive and not get damaged",
+                "podcast_byline": "She’s A Vitch",
+                "paid_podcast_episode_art_url": null,
+                "migrated_to_attached_podcast": false
+            },
+            "pageTheme": null,
+            "podcastPalette": null,
+            "spotify_podcast_settings": {
+                "id": 34997,
+                "publication_id": null,
+                "section_id": 183272,
+                "spotify_access_token": "1e067e61-3798-444a-8d25-7d3cac85f7a6",
+                "spotify_uri": null,
+                "spotify_podcast_title": null,
+                "created_at": "2025-01-31T16:04:44.070Z",
+                "updated_at": "2025-01-31T16:04:44.070Z",
+                "currently_published_on_spotify": false,
+                "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/1e067e61-3798-444a-8d25-7d3cac85f7a6/3904403/s/183272.rss",
+                "spotify_show_url": ""
+            }
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "1dd35c2c-a256-42d3-97fe-72d9b997ea7e",
+            "publication_id": 3904403,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 183272,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 183272,
+                "created_at": "2025-01-28T20:41:45.559Z",
+                "updated_at": "2025-02-02T10:17:43.018Z",
+                "publication_id": 3904403,
+                "name": "Highschool Podcast",
+                "description": "how to survive and not get damaged",
+                "slug": "highschool-podcast",
+                "is_podcast": true,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": true,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": true,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "She’s A Vitch",
+            "handle": "shesavitch",
+            "role": "admin",
+            "owner": true,
+            "user_id": 313068588,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c075389d-8c6e-4209-83d6-5a8e667df664_1167x1121.jpeg",
+            "bio": "there was once a vampire and a witch who understood each other. "
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://shesavitch.substack.com",
+    "hostname": "shesavitch.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                34.62962962962964,
+                176.29629629629613,
+                220.37037037037035
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                11,
+                56,
+                70
+            ],
+            "population": 705
+        },
+        "LightVibrant": {
+            "rgb": [
+                140.4074074074074,
+                214.07407407407402,
+                236.9925925925926
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                103,
+                85,
+                50
+            ],
+            "population": 7
+        },
+        "DarkMuted": {
+            "rgb": [
+                52,
+                44,
+                33
+            ],
+            "population": 3
+        },
+        "LightMuted": {
+            "rgb": [
+                20.77777777777778,
+                105.77777777777769,
+                132.22222222222223
+            ],
+            "population": 0
+        }
+    }
+}

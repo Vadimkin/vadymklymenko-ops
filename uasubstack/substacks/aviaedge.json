@@ -1,0 +1,725 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": "aviaedge.com",
+    "author_id": 303069630,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Aviaedge",
+    "cover_photo_url": null,
+    "created_at": "2024-12-23T23:58:32.620Z",
+    "custom_domain_optional": false,
+    "custom_domain": "www.aviaedge.com",
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "Aviaedge",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "At AVIA EDGE, we explore the people and innovations behind aviation, uncovering its hidden gems.\n\nAnd like any journey, we’re excited to see what’s next.\n\n",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 3575645,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a02c60-87ac-41f4-9163-ed3a259f2bc6_477x477.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Aviaedge",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 303069630,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "aviaedge",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Aviaedge",
+    "author_handle": "aviaedge",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F761c97f1-2c68-4db3-b64f-72620dd86608_500x500.png",
+    "author_bio": null,
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#020617",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 3575645,
+        "color_links": null,
+        "font_preset_heading": "fancy_serif",
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "custom",
+        "home_show_top_posts": true,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2025-01-25T17:33:41.525Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 4 months ago",
+    "rankingDetailFreeIncluded": "Launched 4 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 4 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 4 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "19"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 4 meses",
+            "rankingDetailFreeIncluded": "Launched hace 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "19"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 4 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 4 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "19"
+        },
+        "pt": {
+            "rankingDetail": "Launched 4 meses",
+            "rankingDetailFreeIncluded": "Launched 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "19"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 4 meses",
+            "rankingDetailFreeIncluded": "Launched 4 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "19"
+        },
+        "it": {
+            "rankingDetail": "Launched 4 mesi",
+            "rankingDetailFreeIncluded": "Launched 4 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "19"
+        },
+        "en": {
+            "rankingDetail": "Launched 4 months ago",
+            "rankingDetailFreeIncluded": "Launched 4 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "19"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "19",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Aviaedge",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F761c97f1-2c68-4db3-b64f-72620dd86608_500x500.png",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 181981,
+            "created_at": "2025-01-25T17:39:03.490Z",
+            "updated_at": "2025-01-25T17:41:30.325Z",
+            "publication_id": 3575645,
+            "name": "English 🇬🇧",
+            "description": "At AVIA EDGE, we explore the people and innovations behind aviation, uncovering its hidden gems.\n\nAviation gave us so much more than connectivity—something that can’t be counted nor priced. It’s our precious time. What once took 1 week to travel from London to New York, today takes just 8 hours. And whom are we thanking for this? The countless people and innovations within the aviation industry that make it all possible.\n\nTogether, we’ll uncover the people, stories, and innovations that keep the skies moving. From the teams ensuring every flight runs smoothly to the visionaries shaping the future of flight, we’re here to discover the hidden gems of aviation, learning and growing with you every step of the way.\n\nAnd like any journey, we’re excited to see what’s next.",
+            "slug": "english",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": true,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "pageTheme": null,
+            "showLinks": [],
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 181983,
+            "created_at": "2025-01-25T17:42:32.904Z",
+            "updated_at": "2025-01-25T17:42:33.121Z",
+            "publication_id": 3575645,
+            "name": "Deutsch 🇩🇪",
+            "description": "Bei AVIA EDGE erkunden wir die Menschen und Innovationen hinter der Luftfahrt und entdecken ihre verborgenen Schätze.\n\nDie Luftfahrt hat uns weit mehr als nur Konnektivität geschenkt – etwas, das weder zählbar noch mit einem Preis zu versehen ist: unsere kostbare Zeit. Was einst eine Woche dauerte, um von London nach New York zu reisen, benötigt heute nur noch acht Stunden. Wem verdanken wir das? Den unzähligen Menschen und Innovationen innerhalb der Luftfahrtindustrie, die all dies möglich machen.\n\nGemeinsam werden wir die Menschen, Geschichten und Innovationen aufdecken, die den Himmel in Bewegung halten. Von den Teams, die dafür sorgen, dass jeder Flug reibungslos verläuft, bis hin zu den Visionären, die die Zukunft des Fliegens gestalten – wir sind hier, um die verborgenen Schätze der Luftfahrt zu entdecken und dabei mit Ihnen Schritt für Schritt zu lernen und zu wachsen.\n\nUnd wie bei jeder Reise sind wir gespannt darauf, was als Nächstes kommt.",
+            "slug": "deutsch",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "pageTheme": null,
+            "showLinks": [],
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 181986,
+            "created_at": "2025-01-25T17:49:50.809Z",
+            "updated_at": "2025-01-25T17:56:53.868Z",
+            "publication_id": 3575645,
+            "name": "Українська 🇺🇦",
+            "description": "У AVIA EDGE ми досліджуємо людей та інновації, що стоять за авіацією, відкриваючи її приховані перлини.\n\nАвіація дала нам набагато більше, ніж просто сполучення — те, що не можна виміряти чи оцінити. Це наш найцінніший ресурс — час. Що раніше займало цілий тиждень, щоб подорожувати з Лондона до Нью-Йорка, тепер займає лише 8 годин. І кому ми за це завдячуємо? Незліченній кількості людей та інновацій у авіаційній галузі, які роблять усе це можливим.\n\nРазом ми відкриємо людей, історії та інновації, які тримають небо в русі. Від команд, які забезпечують плавність кожного польоту, до візіонерів, які формують майбутнє польотів — ми тут, щоб досліджувати приховані перлини авіації, навчаючись і зростаючи разом із вами на кожному кроці.\n\nІ, як під час будь-якої подорожі, ми з нетерпінням чекаємо на те, що буде далі.",
+            "slug": "ukrainian",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 3,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "pageTheme": null,
+            "showLinks": [],
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "2e18885d-ae86-45f8-8fbc-c98b0d0e724e",
+            "publication_id": 3575645,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "e0a614fa-ae01-4439-b24b-7c0da6708e62",
+            "publication_id": 3575645,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "notes",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "cc14d45e-2227-48f5-9177-afbaacaa8933",
+            "publication_id": 3575645,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "b33e7f24-0415-4c79-805c-f8b21d85edf2",
+            "publication_id": 3575645,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 181981,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 181981,
+                "created_at": "2025-01-25T17:39:03.490Z",
+                "updated_at": "2025-01-25T17:41:30.325Z",
+                "publication_id": 3575645,
+                "name": "English 🇬🇧",
+                "description": "At AVIA EDGE, we explore the people and innovations behind aviation, uncovering its hidden gems.\n\nAviation gave us so much more than connectivity—something that can’t be counted nor priced. It’s our precious time. What once took 1 week to travel from London to New York, today takes just 8 hours. And whom are we thanking for this? The countless people and innovations within the aviation industry that make it all possible.\n\nTogether, we’ll uncover the people, stories, and innovations that keep the skies moving. From the teams ensuring every flight runs smoothly to the visionaries shaping the future of flight, we’re here to discover the hidden gems of aviation, learning and growing with you every step of the way.\n\nAnd like any journey, we’re excited to see what’s next.",
+                "slug": "english",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": true,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "0775f317-70e5-4822-abb1-8d3a9b750bee",
+            "publication_id": 3575645,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 181983,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 181983,
+                "created_at": "2025-01-25T17:42:32.904Z",
+                "updated_at": "2025-01-25T17:42:33.121Z",
+                "publication_id": 3575645,
+                "name": "Deutsch 🇩🇪",
+                "description": "Bei AVIA EDGE erkunden wir die Menschen und Innovationen hinter der Luftfahrt und entdecken ihre verborgenen Schätze.\n\nDie Luftfahrt hat uns weit mehr als nur Konnektivität geschenkt – etwas, das weder zählbar noch mit einem Preis zu versehen ist: unsere kostbare Zeit. Was einst eine Woche dauerte, um von London nach New York zu reisen, benötigt heute nur noch acht Stunden. Wem verdanken wir das? Den unzähligen Menschen und Innovationen innerhalb der Luftfahrtindustrie, die all dies möglich machen.\n\nGemeinsam werden wir die Menschen, Geschichten und Innovationen aufdecken, die den Himmel in Bewegung halten. Von den Teams, die dafür sorgen, dass jeder Flug reibungslos verläuft, bis hin zu den Visionären, die die Zukunft des Fliegens gestalten – wir sind hier, um die verborgenen Schätze der Luftfahrt zu entdecken und dabei mit Ihnen Schritt für Schritt zu lernen und zu wachsen.\n\nUnd wie bei jeder Reise sind wir gespannt darauf, was als Nächstes kommt.",
+                "slug": "deutsch",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "48e7be7e-361b-466e-a3c4-ce0d366e9616",
+            "publication_id": 3575645,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 181986,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 181986,
+                "created_at": "2025-01-25T17:49:50.809Z",
+                "updated_at": "2025-01-25T17:56:53.868Z",
+                "publication_id": 3575645,
+                "name": "Українська 🇺🇦",
+                "description": "У AVIA EDGE ми досліджуємо людей та інновації, що стоять за авіацією, відкриваючи її приховані перлини.\n\nАвіація дала нам набагато більше, ніж просто сполучення — те, що не можна виміряти чи оцінити. Це наш найцінніший ресурс — час. Що раніше займало цілий тиждень, щоб подорожувати з Лондона до Нью-Йорка, тепер займає лише 8 годин. І кому ми за це завдячуємо? Незліченній кількості людей та інновацій у авіаційній галузі, які роблять усе це можливим.\n\nРазом ми відкриємо людей, історії та інновації, які тримають небо в русі. Від команд, які забезпечують плавність кожного польоту, до візіонерів, які формують майбутнє польотів — ми тут, щоб досліджувати приховані перлини авіації, навчаючись і зростаючи разом із вами на кожному кроці.\n\nІ, як під час будь-якої подорожі, ми з нетерпінням чекаємо на те, що буде далі.",
+                "slug": "ukrainian",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 3,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Aviaedge",
+            "handle": "aviaedge",
+            "role": "admin",
+            "owner": true,
+            "user_id": 303069630,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/761c97f1-2c68-4db3-b64f-72620dd86608_500x500.png",
+            "bio": null
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://www.aviaedge.com",
+    "hostname": "www.aviaedge.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                252,
+                74,
+                43
+            ],
+            "population": 440
+        },
+        "DarkVibrant": {
+            "rgb": [
+                4,
+                36,
+                116
+            ],
+            "population": 337
+        },
+        "LightVibrant": {
+            "rgb": [
+                252,
+                152,
+                133
+            ],
+            "population": 63
+        },
+        "Muted": {
+            "rgb": [
+                105,
+                123,
+                172
+            ],
+            "population": 9
+        },
+        "DarkMuted": {
+            "rgb": [
+                5.100000000000005,
+                45.89999999999995,
+                147.89999999999998
+            ],
+            "population": 0
+        },
+        "LightMuted": {
+            "rgb": [
+                193,
+                173,
+                186
+            ],
+            "population": 188
+        }
+    }
+}

@@ -1,4 +1,4 @@
-### macOS ###
+=### macOS ###
 # General
 .DS_Store
 .AppleDouble
@@ -260,3 +260,5 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,pycharm+all,python,venv
+
+*.gitignore.*

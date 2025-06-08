@@ -1,0 +1,752 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 347650902,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "SINUM CAPITAL",
+    "cover_photo_url": null,
+    "created_at": "2025-05-22T21:09:40.566Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Adepts of objective market analysis",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 5099508,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29212e75-b83d-4fa2-9dc1-df6a3281e070_1024x1024.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "SINUM CAPITAL",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 347650902,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "sinumcapital",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "SINUM CAPITAL",
+    "author_handle": "sinumcapital",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5f26688-00fc-451e-a571-caa1a3939e68_1024x1024.png",
+    "author_bio": "Adepts of objective market analysis",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#c8b08b",
+        "web_bg_color": "#000000",
+        "cover_bg_color": "#000000",
+        "publication_id": 5099508,
+        "color_links": null,
+        "font_preset_heading": "heavy_sans",
+        "font_preset_body": "slab",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "custom",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": false,
+    "has_recommendations": false,
+    "first_post_date": "2025-05-22T21:14:49.243Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 16 days ago",
+    "rankingDetailFreeIncluded": "Launched 16 days ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 16 Tagen",
+            "rankingDetailFreeIncluded": "Launched vor 16 Tagen",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 16 días",
+            "rankingDetailFreeIncluded": "Launched hace 16 días",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 16 jours",
+            "rankingDetailFreeIncluded": "Launched il y a 16 jours",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "pt": {
+            "rankingDetail": "Launched 16 dias",
+            "rankingDetailFreeIncluded": "Launched 16 dias",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 16 dias",
+            "rankingDetailFreeIncluded": "Launched 16 dias",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "it": {
+            "rankingDetail": "Launched 16 giorni",
+            "rankingDetailFreeIncluded": "Launched 16 giorni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        },
+        "en": {
+            "rankingDetail": "Launched 16 days ago",
+            "rankingDetailFreeIncluded": "Launched 16 days ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "1"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "1",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "SINUM CAPITAL",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5f26688-00fc-451e-a571-caa1a3939e68_1024x1024.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 227028,
+            "created_at": "2025-05-22T21:43:49.503Z",
+            "updated_at": "2025-05-22T23:10:20.287Z",
+            "publication_id": 5099508,
+            "name": "Articles",
+            "description": "              ",
+            "slug": "articles",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "showLinks": [],
+            "pageTheme": {
+                "id": 42216,
+                "publication_id": 5099508,
+                "section_id": 227028,
+                "page": null,
+                "page_hero": "default",
+                "page_posts": "grid",
+                "show_podcast_links": true,
+                "hero_alignment": "center"
+            },
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 227065,
+            "created_at": "2025-05-22T23:27:17.756Z",
+            "updated_at": "2025-05-22T23:27:18.127Z",
+            "publication_id": 5099508,
+            "name": "Fundamental",
+            "description": "       ",
+            "slug": "fundamental",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "showLinks": [],
+            "pageTheme": {
+                "id": 42226,
+                "publication_id": 5099508,
+                "section_id": 227065,
+                "page": null,
+                "page_hero": "default",
+                "page_posts": "grid",
+                "show_podcast_links": true,
+                "hero_alignment": "center"
+            },
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 227066,
+            "created_at": "2025-05-22T23:28:46.500Z",
+            "updated_at": "2025-05-22T23:31:50.058Z",
+            "publication_id": 5099508,
+            "name": "Technical",
+            "description": "       ",
+            "slug": "materials",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 3,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "podcastSettings": null,
+            "showLinks": [],
+            "pageTheme": {
+                "id": 42227,
+                "publication_id": 5099508,
+                "section_id": 227066,
+                "page": null,
+                "page_hero": "default",
+                "page_posts": "grid",
+                "show_podcast_links": true,
+                "hero_alignment": "center"
+            },
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "2689d1a1-c642-4208-8f51-59155338700c",
+            "publication_id": 5099508,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "36dfe0a6-326f-4380-b137-071273b2fda6",
+            "publication_id": 5099508,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "notes",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "ff2b8ac9-9c64-4a28-a9e4-889752129872",
+            "publication_id": 5099508,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "6a515370-acff-4f1f-b93f-4f54494eca4e",
+            "publication_id": 5099508,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 227028,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 227028,
+                "created_at": "2025-05-22T21:43:49.503Z",
+                "updated_at": "2025-05-22T23:10:20.287Z",
+                "publication_id": 5099508,
+                "name": "Articles",
+                "description": "              ",
+                "slug": "articles",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "9f905956-38cc-4bbe-b835-9b21086ec6ae",
+            "publication_id": 5099508,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 227065,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 227065,
+                "created_at": "2025-05-22T23:27:17.756Z",
+                "updated_at": "2025-05-22T23:27:18.127Z",
+                "publication_id": 5099508,
+                "name": "Fundamental",
+                "description": "       ",
+                "slug": "fundamental",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "48e3e672-bd3b-41c8-a7e0-5b922b86d1ea",
+            "publication_id": 5099508,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 227066,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 227066,
+                "created_at": "2025-05-22T23:28:46.500Z",
+                "updated_at": "2025-05-22T23:31:50.058Z",
+                "publication_id": 5099508,
+                "name": "Technical",
+                "description": "       ",
+                "slug": "materials",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 3,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "SINUM CAPITAL",
+            "handle": "sinumcapital",
+            "role": "admin",
+            "owner": true,
+            "user_id": 347650902,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5f26688-00fc-451e-a571-caa1a3939e68_1024x1024.png",
+            "bio": "Adepts of objective market analysis"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 0,
+    "no_index": true,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://sinumcapital.substack.com",
+    "hostname": "sinumcapital.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                165,
+                76,
+                20
+            ],
+            "population": 7
+        },
+        "DarkVibrant": {
+            "rgb": [
+                119,
+                52,
+                12
+            ],
+            "population": 124
+        },
+        "LightVibrant": {
+            "rgb": [
+                240.66486486486485,
+                176.87351351351353,
+                136.73513513513515
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                136.45945945945945,
+                62.854054054054046,
+                16.54054054054054
+            ],
+            "population": 0
+        },
+        "DarkMuted": {
+            "rgb": [
+                4,
+                4,
+                4
+            ],
+            "population": 5032
+        },
+        "LightMuted": {
+            "rgb": [
+                136.45945945945942,
+                62.85405405405407,
+                16.54054054054057
+            ],
+            "population": 0
+        }
+    }
+}

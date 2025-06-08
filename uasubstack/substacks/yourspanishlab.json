@@ -1,0 +1,1038 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 146133188,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Ivan Cheresharski",
+    "cover_photo_url": null,
+    "created_at": "2024-05-24T05:10:00.349Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Три безплатни урока за въведение"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Научете испански бързо и лесно - с вашето темпо и ритъм! 📖🧪 Ако искате да разгледате сайта и безплатните уроци, кликнете на 'No thanks', а в случай, че искате да се абонирате директно, въведете си имейл адреса, натиснете 'Subscribe' и изберете план. ",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 2649379,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10c344bb-18a0-4df8-898c-2d63e79dab60_500x500.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Your Spanish Lab",
+    "paid_subscription_benefits": [
+        "Нов урок по испански всяка седмица + упражнения",
+        "Ежемесечна онлайн среща с мен, където ще можете да ми зададете всичките си въпроси.",
+        "Достъп до фейсбук общността, където можете да се свързвате с мен и с другите курсисти."
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": null,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "yourspanishlab",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#0068EF",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly100usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 10000,
+            "amount_decimal": "10000",
+            "billing_scheme": "per_unit",
+            "created": 1716530230,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$100 a year",
+            "product": "prod_QABUHRx7pvUPSG",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16000,
+                    "unit_amount_decimal": "16000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 57000,
+                    "unit_amount_decimal": "57000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14500,
+                    "unit_amount_decimal": "14500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 69000,
+                    "unit_amount_decimal": "69000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 202500,
+                    "unit_amount_decimal": "202500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 104500,
+                    "unit_amount_decimal": "104500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 17500,
+                    "unit_amount_decimal": "17500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 39000,
+                    "unit_amount_decimal": "39000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 99500,
+                    "unit_amount_decimal": "99500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                }
+            }
+        },
+        {
+            "id": "monthly10usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 1000,
+            "amount_decimal": "1000",
+            "billing_scheme": "per_unit",
+            "created": 1716530229,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$10 a month",
+            "product": "prod_QABU5bSWWrZzOu",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1600,
+                    "unit_amount_decimal": "1600"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1500,
+                    "unit_amount_decimal": "1500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7000,
+                    "unit_amount_decimal": "7000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 20500,
+                    "unit_amount_decimal": "20500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1800,
+                    "unit_amount_decimal": "1800"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1PJr5QKOmf6wHxuJ",
+    "stripe_country": "BG",
+    "stripe_publishable_key": "pk_live_51PJr5QKOmf6wHxuJEWurIySyZ6rNYWy5tNcgubkszdxgQuSWfXUg6YME0u7wRuT0erc6x2c2KBWFrIyQzU8e3NHA00OYzTUBl2",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Ivan Cheresharski",
+    "author_handle": "languageguru",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35798aa1-7767-495c-b58d-c940040e657a_3024x4032.jpeg",
+    "author_bio": "Your English guru is here to help you!",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#db3b20",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 2649379,
+        "color_links": null,
+        "font_preset_heading": "heavy_sans",
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "custom",
+        "home_show_top_posts": true,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2024-05-30T16:57:25.259Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched a year ago",
+    "rankingDetailFreeIncluded": "Launched a year ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor einem Jahr",
+            "rankingDetailFreeIncluded": "Launched vor einem Jahr",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "es": {
+            "rankingDetail": "Launched hace un año",
+            "rankingDetailFreeIncluded": "Launched hace un año",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a une année",
+            "rankingDetailFreeIncluded": "Launched il y a une année",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "pt": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Launched 1 ano",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Launched 1 ano",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "it": {
+            "rankingDetail": "Launched 1 anno",
+            "rankingDetailFreeIncluded": "Launched 1 anno",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        },
+        "en": {
+            "rankingDetail": "Launched a year ago",
+            "rankingDetailFreeIncluded": "Launched a year ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "9"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "9",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "33f59571-1a2a-46ea-b933-56eb20bb8cb7",
+            "publication_id": 2649379,
+            "sibling_rank": 0,
+            "link_title": "За курса и за мен",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 145134996,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": {
+                "id": 145134996,
+                "publication_id": 2649379,
+                "is_published": true,
+                "title": "За курса и за мен",
+                "body": "s3://substack-content/post/145134996/2024-07-07T11-02-23-512Z/146133188/f02076a18422158806e29a6791a4a60069e463e3",
+                "slug": "b20",
+                "post_date": "2024-05-30T16:57:25.259Z",
+                "draft_title": "За курса и за мен",
+                "draft_body": "s3://substack-content/post/145134996/2024-07-07T11-02-23-512Z/146133188/f02076a18422158806e29a6791a4a60069e463e3",
+                "draft_updated_at": "2024-07-07T11:02:23.565Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "d731aa56-b878-432f-ba85-264ab7bb83f2",
+                "write_comment_permissions": "only_paid",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-07-07T11:02:34.567Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 30,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2024-05-30T16:48:33.143Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            }
+        },
+        {
+            "id": "5d4dd89f-4a19-4464-9735-2d2acad30bdc",
+            "publication_id": 2649379,
+            "sibling_rank": 1,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": null
+        },
+        {
+            "id": "a1cc7455-4129-4f05-bbd5-dfe45244d51a",
+            "publication_id": 2649379,
+            "sibling_rank": 2,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": null
+        },
+        {
+            "id": "fab45eda-5b37-4777-9a50-0dcecab4f303",
+            "publication_id": 2649379,
+            "sibling_rank": 3,
+            "link_title": "Началото",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "9c0c2efd-773d-48c8-a82d-6a3945c6178a",
+            "section": null,
+            "postTag": {
+                "id": "9c0c2efd-773d-48c8-a82d-6a3945c6178a",
+                "publication_id": 2649379,
+                "name": "Началото",
+                "slug": "cf6",
+                "hidden": false
+            },
+            "post": null
+        },
+        {
+            "id": "5e1381fd-d45d-4cb9-a778-ab7a96bb0ad3",
+            "publication_id": 2649379,
+            "sibling_rank": 4,
+            "link_title": "Думи и текстове",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "80ed7424-9902-4371-890a-a08f6249e437",
+            "section": null,
+            "postTag": {
+                "id": "80ed7424-9902-4371-890a-a08f6249e437",
+                "publication_id": 2649379,
+                "name": "Думи и текстове",
+                "slug": "67a",
+                "hidden": false
+            },
+            "post": null
+        },
+        {
+            "id": "a1e57ef4-442d-4cb0-8cdd-429120107e0d",
+            "publication_id": 2649379,
+            "sibling_rank": 5,
+            "link_title": "Упражнения",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "43d4d976-90e9-409f-9567-d736bee74adc",
+            "section": null,
+            "postTag": {
+                "id": "43d4d976-90e9-409f-9567-d736bee74adc",
+                "publication_id": 2649379,
+                "name": "Упражнения",
+                "slug": "32b",
+                "hidden": false
+            },
+            "post": null
+        },
+        {
+            "id": "d2478d45-2a52-4ad6-976a-eb90dc74125e",
+            "publication_id": 2649379,
+            "sibling_rank": 6,
+            "link_title": "План: Юли",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 145161183,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": {
+                "id": 145161183,
+                "publication_id": 2649379,
+                "is_published": true,
+                "title": "План: Юли",
+                "body": "s3://substack-content/post/145161183/2024-07-26T19-27-27-120Z/146133188/3afec1ffc7ca7cbb1f651817c30f3f94a32ab793",
+                "slug": "a3b",
+                "post_date": "2024-05-31T12:10:13.113Z",
+                "draft_title": "План: Юли",
+                "draft_body": "s3://substack-content/post/145161183/2024-07-26T19-27-27-120Z/146133188/3afec1ffc7ca7cbb1f651817c30f3f94a32ab793",
+                "draft_updated_at": "2024-07-26T19:27:27.219Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "761b320c-02f8-4964-92b4-631724d69a89",
+                "write_comment_permissions": "only_paid",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-07-26T19:27:45.534Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 5,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2024-05-31T11:58:49.591Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Ivan Cheresharski",
+            "handle": "languageguru",
+            "role": "admin",
+            "owner": true,
+            "user_id": 146133188,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/35798aa1-7767-495c-b58d-c940040e657a_3024x4032.jpeg",
+            "bio": "Your English guru is here to help you!"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": {
+        "id": "6b20d730-e7fe-4e37-9b54-49fd7bf1de9b",
+        "publication_id": 2649379,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "Мястото, където ще научите испански бързо и лесно - с вашето собствено темпо и ритъм!",
+        "created_at": "2024-05-24T05:44:35.882438+00:00",
+        "updated_at": "2024-05-24T05:44:35.882438+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly100usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 10000,
+            "amount_decimal": "10000",
+            "billing_scheme": "per_unit",
+            "created": 1716530230,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$100 a year",
+            "product": "prod_QABUHRx7pvUPSG",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 16000,
+                    "unit_amount_decimal": "16000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 57000,
+                    "unit_amount_decimal": "57000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 14500,
+                    "unit_amount_decimal": "14500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 69000,
+                    "unit_amount_decimal": "69000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 202500,
+                    "unit_amount_decimal": "202500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 104500,
+                    "unit_amount_decimal": "104500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 17500,
+                    "unit_amount_decimal": "17500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 39000,
+                    "unit_amount_decimal": "39000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 99500,
+                    "unit_amount_decimal": "99500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                }
+            }
+        },
+        {
+            "id": "monthly10usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 1000,
+            "amount_decimal": "1000",
+            "billing_scheme": "per_unit",
+            "created": 1716530229,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$10 a month",
+            "product": "prod_QABU5bSWWrZzOu",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1600,
+                    "unit_amount_decimal": "1600"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1500,
+                    "unit_amount_decimal": "1500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7000,
+                    "unit_amount_decimal": "7000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 20500,
+                    "unit_amount_decimal": "20500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1800,
+                    "unit_amount_decimal": "1800"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                }
+            }
+        }
+    ],
+    "base_url": "https://yourspanishlab.substack.com",
+    "hostname": "yourspanishlab.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                220,
+                60,
+                36
+            ],
+            "population": 2938
+        },
+        "DarkVibrant": {
+            "rgb": [
+                212,
+                5,
+                38
+            ],
+            "population": 217
+        },
+        "LightVibrant": {
+            "rgb": [
+                242,
+                182,
+                155
+            ],
+            "population": 99
+        },
+        "Muted": {
+            "rgb": [
+                100,
+                100,
+                148
+            ],
+            "population": 304
+        },
+        "DarkMuted": {
+            "rgb": [
+                93,
+                68,
+                45
+            ],
+            "population": 446
+        },
+        "LightMuted": {
+            "rgb": [
+                200,
+                169,
+                128
+            ],
+            "population": 309
+        }
+    }
+}

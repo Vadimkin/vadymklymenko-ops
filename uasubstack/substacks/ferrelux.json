@@ -1,0 +1,2258 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 106306946,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Ferrelux",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/897167da-a4ad-494f-b09b-21fb125931b1_1279x161.png",
+    "created_at": "2022-10-05T21:38:36.688Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "most_recent_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/d794055e-5483-4d9c-aeb2-fdc1e9b357c8_1378x242.png",
+    "email_from_name": "Lhisa Mrklon from FERRELUX™",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "This Network Features Conservative Opinion Editorials & Entertaining Media. Join The 7K+ Readers Receiving This Digest. Like, Comment & Chat. Check Out The Group / VIP Members. We're Decades Old & Just Relocated Our Social Site Here. (Lhisa Mrklon)",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 1119965,
+    "image_thumbnails_always_enabled": true,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06c40c54-f48d-4881-ace6-dbd84e05e392_840x840.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "FERRELUX™ ✝️ COMMUNITI",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/4509cb3e-351f-45e2-8cb1-b260d7dfe5fb_1400x1400.png",
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": "LHISA MRKLON, SPECIAL AGENT 666: EMISSARY OF FATE",
+    "podcast_description": "I Am The Devil's Advocate And Will Be Covering A Range Of Global Topics With My Unique Perspectives, Showcased In A Talented Way In These Broadcasts. Our Online Community Features Conservative Liberal Op-Ed Articles & Entertaining Media. Join The 5K+ Readers Receiving This Digest. Like, Comment & Chat. Check Out The Group / VIP Members. We're Decades Old & Just Relocated Our Social Site Here. (Lhisa Mrklon)",
+    "podcast_enabled": true,
+    "podcast_feed_url": null,
+    "podcast_title": "FERRELUX™️",
+    "post_preview_limit": null,
+    "primary_user_id": 106306946,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": true,
+    "show_recs_on_homepage": true,
+    "subdomain": "ferrelux",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF5CD7",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Ferrelux™️",
+    "author_handle": "ferrelux",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4253e05b-23f9-4f4f-aaf9-a2f52764de7d_900x840.jpeg",
+    "author_bio": "Visit Ferrelux.org ",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#d97706",
+        "web_bg_color": "#eff6ff",
+        "cover_bg_color": "#fdf2f8",
+        "publication_id": 1119965,
+        "color_links": null,
+        "font_preset_heading": "fancy_serif",
+        "font_preset_body": "classic_serif",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magazine-5",
+        "home_posts": "custom",
+        "home_show_top_posts": true,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": "2023-12-11T02:42:20.402+00:00",
+        "create_thread_minimum_role": "free_subscriber",
+        "activated_at": "2023-12-11T02:41:50.463+00:00",
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2013-02-27T14:28:04.000Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 3 years ago",
+    "rankingDetailFreeIncluded": "Hundreds of subscribers",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 3 Jahren",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "218"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 3 años",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "218"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 3 années",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "218"
+        },
+        "pt": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "218"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "218"
+        },
+        "it": {
+            "rankingDetail": "Launched 3 anni",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "218"
+        },
+        "en": {
+            "rankingDetail": "Launched 3 years ago",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "218"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "218",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": "2023-12-11T02:41:50.374Z",
+    "primary_profile_name": "Ferrelux™️",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4253e05b-23f9-4f4f-aaf9-a2f52764de7d_900x840.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 150690,
+            "created_at": "2024-09-15T19:10:39.086Z",
+            "updated_at": "2024-09-15T19:14:07.080Z",
+            "publication_id": 1119965,
+            "name": "⚡ Take Action",
+            "description": "Take Action 📣 Sign These Petitions",
+            "slug": "campaign",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 0,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/84ad1140-b84a-4b8f-bf0a-4baa9b57de1b_320x320.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 97438,
+            "created_at": "2023-12-12T18:49:49.821Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "🤗 Exclusive",
+            "description": "Mainly Featuring Other Stuff About Me, Lhisa Mrklon (Lhisa666) And My Other FERRELUX Material, As Well As Certain Things I'm Promoting.",
+            "slug": "exclusive",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8f6da70a-464d-42f0-ac79-62a1b8f982ec_333x333.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 150532,
+            "created_at": "2024-09-14T22:00:59.967Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "🛍️ Marketplace",
+            "description": "Shop Here For Recommended Items & Services From Sponsoring Merchants. Your Patronage Clicking On These Affiliate Links Helps Support Ferrelux's Ongoing Efforts With These Articles, Social Justice Reform Campaigns, and so on, through Earned Commissions. ",
+            "slug": "marketplace",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a8e561fe-e6a5-45a4-93ea-2427f2b2bcd0_473x473.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 97283,
+            "created_at": "2023-12-11T20:16:28.028Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "🎵 Music",
+            "description": "Listen To Some Hot Tracks Rate And Comment",
+            "slug": "music",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 3,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/1051a620-04e3-459c-be50-12e68ae0c9a8_1200x1200.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 97286,
+            "created_at": "2023-12-11T20:20:20.170Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "🎥 Video",
+            "description": "Watch Some Movies, Rate And Comment",
+            "slug": "videos",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 4,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/4845b9df-b304-4913-a72e-1dffcfbf4d3a_1280x1280.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 97289,
+            "created_at": "2023-12-11T20:24:32.829Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "🎨 Art",
+            "description": "View Some Pics, Like And Comment",
+            "slug": "art",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 5,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c2bdf1d2-d1fe-487b-8443-e4ca97cf56e4_316x316.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 117349,
+            "created_at": "2024-04-03T18:35:43.210Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "🐩 Nature",
+            "description": "Featuring Wild Life Content.",
+            "slug": "nature",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 6,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/fe45bc81-c6c7-46fa-8c54-c252228eef5d_1200x1200.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 98864,
+            "created_at": "2023-12-22T18:53:08.622Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "🎭 Culture",
+            "description": "The Learning Zone Filled With Politics, News, Current Events, Social Justice Concerns, Philosophy, Historic, Legal & Other Educated Stuff. ",
+            "slug": "culture",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 7,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d75e2e64-698b-4425-a9dc-a53f832538df_1280x1280.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 98866,
+            "created_at": "2023-12-22T18:59:24.534Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "💃 Lifestyle",
+            "description": "Things Concerning Civic Duty, Career, Relationships, Spirituality, Cooking, Health, Fitness, Sports, Beauty & Fashion, Travel & Leisure, Arts & Craft, Nature, Fun & Games, Etc.",
+            "slug": "lifestyle",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 8,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/dca6b0a0-86eb-424b-ab77-1c7676ff2757_339x339.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 98976,
+            "created_at": "2023-12-23T20:52:24.169Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "💾 Tech",
+            "description": "Science & Technology",
+            "slug": "tech",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 9,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d39e25e7-890e-4978-976e-d4b80b9ac2aa_512x512.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 99315,
+            "created_at": "2023-12-27T01:49:53.077Z",
+            "updated_at": "2024-09-15T19:12:50.703Z",
+            "publication_id": 1119965,
+            "name": "🎤 Events",
+            "description": "Party, Concerts, Meetings, Job Fair, Call To Action & Other Social Gatherings.",
+            "slug": "events",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 10,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c68250d5-a2a1-4399-b4d8-e1a0e5f4b0f2_1280x1280.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "79b3e19f-a8bd-48ed-aed2-69a7232ada44",
+            "publication_id": 1119965,
+            "sibling_rank": 0,
+            "link_title": "🏘️ Group",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 140207698,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": {
+                "id": 140207698,
+                "publication_id": 1119965,
+                "is_published": true,
+                "title": "FERRELUX 🤝 GROUP",
+                "body": "s3://substack-content/post/140207698/2024-03-30T23-33-05-812Z/106306946/4d6bb41780d04be57fa16186a51e40f05f18d0be",
+                "slug": "group",
+                "post_date": "2023-12-30T21:19:12.226Z",
+                "draft_title": "FERRELUX™️ 🤝 GROUP",
+                "draft_body": "s3://substack-content/post/140207698/2024-05-31T22-59-40-410Z/106306946/9e76dcc8c48d8f364963036c2363d9c2d109a4dc",
+                "draft_updated_at": "2024-08-14T19:04:49.676Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "aeed2608-5687-48f4-821c-5d8583d00ee0",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-08-14T19:04:49.676Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": true,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 19,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2023-12-30T21:04:30.092Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            },
+            "section": null
+        },
+        {
+            "id": "a10ee6df-de42-4c4e-a648-1b4f655d649f",
+            "publication_id": 1119965,
+            "sibling_rank": 1,
+            "link_title": "👨‍👩‍👧‍👦 Members",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 139793829,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": {
+                "id": 139793829,
+                "publication_id": 1119965,
+                "is_published": true,
+                "title": "FEATURED 😎 MEMBERS",
+                "body": "s3://substack-content/post/139793829/2024-01-22T22-10-55-945Z/106306946/d814a0ed818368e0eb63f10e50da6e6a09ad1045",
+                "slug": "vip",
+                "post_date": "2023-12-14T20:10:29.309Z",
+                "draft_title": "FEATURED 😎 MEMBERS",
+                "draft_body": "s3://substack-content/post/139793829/2024-01-22T22-10-55-945Z/106306946/d814a0ed818368e0eb63f10e50da6e6a09ad1045",
+                "draft_updated_at": "2024-01-22T22:10:56.005Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "7e344410-7162-4add-800f-afed8475842b",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-01-22T22:10:59.335Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": true,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 82,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2023-12-14T19:48:25.580Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            },
+            "section": null
+        },
+        {
+            "id": "fb1a05c7-1720-452a-bc15-cfd74c7cf043",
+            "publication_id": 1119965,
+            "sibling_rank": 2,
+            "link_title": "👉 Fraud Alert",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 117309736,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": {
+                "id": 117309736,
+                "publication_id": 1119965,
+                "is_published": true,
+                "title": "🧑‍💻 Beware Of Big Tech Cyber Crimes",
+                "body": "s3://substack-content/post/117309736/2024-08-18T03-02-18-491Z/106306946/81aa824bdf5c468b93e710e351bf251f0d3acff4",
+                "slug": "imposters",
+                "post_date": "2023-04-26T03:17:51.315Z",
+                "draft_title": "🧑‍💻 Beware Of Big Tech Cyber Crimes",
+                "draft_body": "s3://substack-content/post/117309736/2024-08-18T03-02-18-491Z/106306946/81aa824bdf5c468b93e710e351bf251f0d3acff4",
+                "draft_updated_at": "2024-08-18T03:02:18.539Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "33c96336-d644-4f5b-b9e1-c649ed5dd843",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-08-18T03:02:25.070Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 372,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2023-04-26T03:16:23.551Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            },
+            "section": null
+        },
+        {
+            "id": "55434fcf-80d9-45dd-b68e-031cfae16b52",
+            "publication_id": 1119965,
+            "sibling_rank": 3,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "chat",
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "1035bf01-2951-45ab-b7a9-deb879634c62",
+            "publication_id": 1119965,
+            "sibling_rank": 4,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 150690,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 150690,
+                "created_at": "2024-09-15T19:10:39.086Z",
+                "updated_at": "2024-09-15T19:14:07.080Z",
+                "publication_id": 1119965,
+                "name": "⚡ Take Action",
+                "description": "Take Action 📣 Sign These Petitions",
+                "slug": "campaign",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 0,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/84ad1140-b84a-4b8f-bf0a-4baa9b57de1b_320x320.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "c37556b6-c0ca-4fc8-9b9d-f58642eb285b",
+            "publication_id": 1119965,
+            "sibling_rank": 5,
+            "link_title": "🔎 The D.A.",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 144514655,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": {
+                "id": 144514655,
+                "publication_id": 1119965,
+                "is_published": true,
+                "title": "⚖️ FERRELUX™️ LEGAL ASSISTANCE 💼",
+                "body": "s3://substack-content/post/144514655/2024-08-18T03-00-11-963Z/106306946/1b598f419cbe9610576f6e3a41501cd3a2e96cf3",
+                "slug": "dao",
+                "post_date": "2024-05-10T18:47:12.855Z",
+                "draft_title": "⚖️ FERRELUX™️ LEGAL ASSISTANCE 💼",
+                "draft_body": "s3://substack-content/post/144514655/2024-08-18T03-00-11-963Z/106306946/1b598f419cbe9610576f6e3a41501cd3a2e96cf3",
+                "draft_updated_at": "2024-08-18T03:00:12.016Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "2681d0d7-27f8-469b-b7e9-9e2c70794d80",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-08-18T03:00:28.504Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": true,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 31,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2024-05-10T18:38:44.111Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            },
+            "section": null
+        },
+        {
+            "id": "e7ba01ab-9044-4d1c-b66c-db04ba8cde21",
+            "publication_id": 1119965,
+            "sibling_rank": 6,
+            "link_title": "🔗 Links",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 107912595,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": {
+                "id": 107912595,
+                "publication_id": 1119965,
+                "is_published": true,
+                "title": "FEATURED 💻 LINKS",
+                "body": "s3://substack-content/post/107912595/2023-12-29T21-58-03-094Z/106306946/9c42df023b59dc48cf8c755dc2e3dd544f8a1673",
+                "slug": "links",
+                "post_date": "2023-03-12T03:52:57.598Z",
+                "draft_title": "FEATURED 💻 LINKS",
+                "draft_body": "s3://substack-content/post/107912595/2023-12-29T21-58-03-094Z/106306946/9c42df023b59dc48cf8c755dc2e3dd544f8a1673",
+                "draft_updated_at": "2024-05-10T19:38:38.910Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "ca4be9d6-2f08-4f8d-b4ad-b95b534d9320",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-05-10T19:38:43.641Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 407,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2023-03-12T03:50:49.383Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            },
+            "section": null
+        },
+        {
+            "id": "5ffe9564-03bf-4a7f-9243-2d08df44ab9e",
+            "publication_id": 1119965,
+            "sibling_rank": 7,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 97438,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 97438,
+                "created_at": "2023-12-12T18:49:49.821Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "🤗 Exclusive",
+                "description": "Mainly Featuring Other Stuff About Me, Lhisa Mrklon (Lhisa666) And My Other FERRELUX Material, As Well As Certain Things I'm Promoting.",
+                "slug": "exclusive",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8f6da70a-464d-42f0-ac79-62a1b8f982ec_333x333.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "86f9209d-20cc-4d62-a4e9-f8a94e2e058a",
+            "publication_id": 1119965,
+            "sibling_rank": 8,
+            "link_title": "🌍 Global",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 144515652,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": {
+                "id": 144515652,
+                "publication_id": 1119965,
+                "is_published": true,
+                "title": "✈️ FERRELUX™️ GLOBAL OUTREACH 🌍",
+                "body": "s3://substack-content/post/144515652/2024-08-18T03-03-21-550Z/106306946/7f76c6073b84d739767407e2247565074d058c77",
+                "slug": "global",
+                "post_date": "2024-05-10T19:23:30.464Z",
+                "draft_title": "✈️ FERRELUX™️ GLOBAL OUTREACH 🌍",
+                "draft_body": "s3://substack-content/post/144515652/2024-08-18T03-03-21-550Z/106306946/7f76c6073b84d739767407e2247565074d058c77",
+                "draft_updated_at": "2024-08-18T03:03:21.609Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "2bd01e98-7743-4a73-873d-2b7541d8e607",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-08-18T03:03:29.633Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": true,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 148,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2024-05-10T19:10:12.743Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            },
+            "section": null
+        },
+        {
+            "id": "901b601e-b11b-4e39-b707-53ee4878a884",
+            "publication_id": 1119965,
+            "sibling_rank": 9,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 150532,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 150532,
+                "created_at": "2024-09-14T22:00:59.967Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "🛍️ Marketplace",
+                "description": "Shop Here For Recommended Items & Services From Sponsoring Merchants. Your Patronage Clicking On These Affiliate Links Helps Support Ferrelux's Ongoing Efforts With These Articles, Social Justice Reform Campaigns, and so on, through Earned Commissions. ",
+                "slug": "marketplace",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a8e561fe-e6a5-45a4-93ea-2427f2b2bcd0_473x473.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "87c6c944-4d5a-422e-9229-2ae2ab8b1b84",
+            "publication_id": 1119965,
+            "sibling_rank": 10,
+            "link_title": "🚙 Ads",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 144516802,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": {
+                "id": 144516802,
+                "publication_id": 1119965,
+                "is_published": true,
+                "title": "ADVERTISE 🚗 HERE",
+                "body": "s3://substack-content/post/144516802/2024-08-26T22-46-18-467Z/106306946/86f7aa0e080ce9599daa6c2545aab8be49a50c2a",
+                "slug": "adverts",
+                "post_date": "2024-05-10T20:23:37.611Z",
+                "draft_title": "ADVERTISE 🚗 HERE",
+                "draft_body": "s3://substack-content/post/144516802/2024-08-26T22-46-18-467Z/106306946/86f7aa0e080ce9599daa6c2545aab8be49a50c2a",
+                "draft_updated_at": "2024-08-26T22:46:18.507Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "f7fad860-5002-4aff-abff-7070e0cd3182",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-08-26T22:46:25.997Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": true,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 359,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2024-05-10T19:58:11.031Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            },
+            "section": null
+        },
+        {
+            "id": "1432eb8e-9ec4-4274-8ebd-ea34cf80314a",
+            "publication_id": 1119965,
+            "sibling_rank": 11,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 97283,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 97283,
+                "created_at": "2023-12-11T20:16:28.028Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "🎵 Music",
+                "description": "Listen To Some Hot Tracks Rate And Comment",
+                "slug": "music",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 3,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/1051a620-04e3-459c-be50-12e68ae0c9a8_1200x1200.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "a96ea10e-6abd-4f15-9be9-e4d5b2ec3441",
+            "publication_id": 1119965,
+            "sibling_rank": 12,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 97286,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 97286,
+                "created_at": "2023-12-11T20:20:20.170Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "🎥 Video",
+                "description": "Watch Some Movies, Rate And Comment",
+                "slug": "videos",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 4,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/4845b9df-b304-4913-a72e-1dffcfbf4d3a_1280x1280.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "138e4917-d548-46ea-a1b8-c8a9e683e7dc",
+            "publication_id": 1119965,
+            "sibling_rank": 13,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 97289,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 97289,
+                "created_at": "2023-12-11T20:24:32.829Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "🎨 Art",
+                "description": "View Some Pics, Like And Comment",
+                "slug": "art",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 5,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c2bdf1d2-d1fe-487b-8443-e4ca97cf56e4_316x316.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "8274f675-2ecd-4512-b7b2-aebc0de14aaf",
+            "publication_id": 1119965,
+            "sibling_rank": 14,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 117349,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 117349,
+                "created_at": "2024-04-03T18:35:43.210Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "🐩 Nature",
+                "description": "Featuring Wild Life Content.",
+                "slug": "nature",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 6,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/fe45bc81-c6c7-46fa-8c54-c252228eef5d_1200x1200.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "38a9bee7-43dd-416b-9985-a9976af8fd42",
+            "publication_id": 1119965,
+            "sibling_rank": 15,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 98864,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 98864,
+                "created_at": "2023-12-22T18:53:08.622Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "🎭 Culture",
+                "description": "The Learning Zone Filled With Politics, News, Current Events, Social Justice Concerns, Philosophy, Historic, Legal & Other Educated Stuff. ",
+                "slug": "culture",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 7,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d75e2e64-698b-4425-a9dc-a53f832538df_1280x1280.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "5d41abf6-c99c-45ec-8aab-1118c41736a4",
+            "publication_id": 1119965,
+            "sibling_rank": 16,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 98866,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 98866,
+                "created_at": "2023-12-22T18:59:24.534Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "💃 Lifestyle",
+                "description": "Things Concerning Civic Duty, Career, Relationships, Spirituality, Cooking, Health, Fitness, Sports, Beauty & Fashion, Travel & Leisure, Arts & Craft, Nature, Fun & Games, Etc.",
+                "slug": "lifestyle",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 8,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/dca6b0a0-86eb-424b-ab77-1c7676ff2757_339x339.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "bf411424-8426-400b-b422-11ac2090b6ad",
+            "publication_id": 1119965,
+            "sibling_rank": 17,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 98976,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 98976,
+                "created_at": "2023-12-23T20:52:24.169Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "💾 Tech",
+                "description": "Science & Technology",
+                "slug": "tech",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 9,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d39e25e7-890e-4978-976e-d4b80b9ac2aa_512x512.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "83bc48ea-ff41-4e34-8012-4c1d109f8aeb",
+            "publication_id": 1119965,
+            "sibling_rank": 18,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 99315,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 99315,
+                "created_at": "2023-12-27T01:49:53.077Z",
+                "updated_at": "2024-09-15T19:12:50.703Z",
+                "publication_id": 1119965,
+                "name": "🎤 Events",
+                "description": "Party, Concerts, Meetings, Job Fair, Call To Action & Other Social Gatherings.",
+                "slug": "events",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 10,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c68250d5-a2a1-4399-b4d8-e1a0e5f4b0f2_1280x1280.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Ferrelux™️",
+            "handle": "ferrelux",
+            "role": "admin",
+            "owner": true,
+            "user_id": 106306946,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/4253e05b-23f9-4f4f-aaf9-a2f52764de7d_900x840.jpeg",
+            "bio": "Visit Ferrelux.org "
+        },
+        {
+            "name": "LUCIFER",
+            "handle": "satani",
+            "role": "admin",
+            "owner": false,
+            "user_id": 192457674,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d30bae0b-df0b-4fe0-8fa5-ccc1fa2c111e_900x900.jpeg",
+            "bio": "Fallen Archangel"
+        },
+        {
+            "name": "Lhisa Mrklon",
+            "handle": "lhisa",
+            "role": "admin",
+            "owner": false,
+            "user_id": 106304732,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b22331d1-35e3-4f7a-a808-7354d90e5124_428x480.jpeg",
+            "bio": "Entertainer & Entrepreneur"
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://ferrelux.substack.com",
+    "hostname": "ferrelux.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": {
+        "id": 2723,
+        "publication_id": 1119965,
+        "section_id": null,
+        "spotify_access_token": "b89c498f-ce4b-4a2b-a6a6-27b880ed42c0",
+        "spotify_uri": null,
+        "spotify_podcast_title": null,
+        "created_at": "2024-03-25T22:31:59.248Z",
+        "updated_at": "2024-03-25T22:31:59.248Z",
+        "currently_published_on_spotify": false,
+        "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/b89c498f-ce4b-4a2b-a6a6-27b880ed42c0/1119965.rss",
+        "spotify_show_url": ""
+    },
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                200,
+                54,
+                112
+            ],
+            "population": 420
+        },
+        "DarkVibrant": {
+            "rgb": [
+                118,
+                16,
+                45
+            ],
+            "population": 183
+        },
+        "LightVibrant": {
+            "rgb": [
+                118,
+                175,
+                229
+            ],
+            "population": 125
+        },
+        "Muted": {
+            "rgb": [
+                152,
+                131,
+                118
+            ],
+            "population": 378
+        },
+        "DarkMuted": {
+            "rgb": [
+                92,
+                50,
+                56
+            ],
+            "population": 335
+        },
+        "LightMuted": {
+            "rgb": [
+                203,
+                197,
+                182
+            ],
+            "population": 419
+        }
+    },
+    "pageThemes": {
+        "podcast": {
+            "id": 1386,
+            "publication_id": 1119965,
+            "section_id": null,
+            "page": "podcast",
+            "page_hero": "feature-media",
+            "page_posts": "grid",
+            "show_podcast_links": true,
+            "hero_alignment": "center"
+        }
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                124,
+                124,
+                124
+            ],
+            "population": 62
+        },
+        "DarkMuted": {
+            "rgb": [
+                76,
+                76,
+                76
+            ],
+            "population": 47
+        },
+        "LightMuted": {
+            "rgb": [
+                188,
+                188,
+                188
+            ],
+            "population": 65
+        }
+    }
+}

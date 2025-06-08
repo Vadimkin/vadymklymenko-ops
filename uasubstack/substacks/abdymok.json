@@ -1,0 +1,531 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 7561999,
+    "byline_images_enabled": true,
+    "bylines_enabled": false,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "abdymok",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/427d4685-2be1-4ceb-840c-401b9678b2cd_1279x501.png",
+    "created_at": "2020-03-09T03:05:36.601Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6b08b227-2633-4cd1-af52-ecb8724a5e22_1500x500.png",
+    "email_from_name": "ukraine@war ",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": "CEjvuCmkytyWCDju1K37iJS5znHA6o7-DCN3THe_Eis",
+    "google_tag_manager_token": "GTM-W5BCHK5R",
+    "hero_image": null,
+    "hero_text": "Ultra-competitive Ukraine-style Politics",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 32760,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5e7585d-7303-422b-87c9-8433dc792c08_250x250.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "ukraine@war ",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 7561999,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": false,
+    "subdomain": "abdymok",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#121bfa",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "pgb",
+    "author_handle": "abdymok",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F08e26bac-9e81-4560-b25e-79349a8ead6e_250x250.jpeg",
+    "author_bio": "Ukraine, Belarus, OSI, Merck, BSF, DOD, NSA. RIA, Options ",
+    "twitter_screen_name": "abdymok",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#e85c57",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": "#ffffff",
+        "publication_id": 32760,
+        "color_links": null,
+        "font_preset_heading": "slab",
+        "font_preset_body": "slab",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magaziney",
+        "home_posts": "grid",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": "2023-01-01T06:03:06.572+00:00",
+        "reader_thread_notifications_enabled": false,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2014-09-22T09:04:20.559Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "write",
+    "rankingDetail": "Launched 5 years ago",
+    "rankingDetailFreeIncluded": "Hundreds of subscribers",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 5 Jahren",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "309"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 5 años",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "309"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 5 années",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "309"
+        },
+        "pt": {
+            "rankingDetail": "Launched 5 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "309"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 5 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "309"
+        },
+        "it": {
+            "rankingDetail": "Launched 5 anni",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "309"
+        },
+        "en": {
+            "rankingDetail": "Launched 5 years ago",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "309"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "309",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": "2023-05-17T05:55:47.407Z",
+    "primary_profile_name": "pgb",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F08e26bac-9e81-4560-b25e-79349a8ead6e_250x250.jpeg",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 92085,
+            "created_at": "2023-11-09T08:06:50.778Z",
+            "updated_at": "2024-04-03T13:45:34.971Z",
+            "publication_id": 32760,
+            "name": "ukraine@war ",
+            "description": "ultra-competitive ukraine-style politics",
+            "slug": "ukrainewar",
+            "is_podcast": true,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/9301ff27-e07f-422a-b5c9-c9b1be777041_250x250.png",
+            "hide_from_navbar": true,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "spotifyPodcastSettings": {
+                "id": 9647,
+                "publication_id": null,
+                "section_id": 92085,
+                "spotify_access_token": "bba42f45-90a9-49cb-bc7e-65b6be4912d3",
+                "spotify_uri": null,
+                "spotify_podcast_title": null,
+                "created_at": "2024-05-04T04:09:14.833Z",
+                "updated_at": "2024-05-04T04:09:14.833Z",
+                "currently_published_on_spotify": false
+            },
+            "pageTheme": null,
+            "podcastSettings": {
+                "section_id": 92085,
+                "itunes_podcast_primary_category": "History",
+                "itunes_podcast_primary_subcategory": "",
+                "itunes_podcast_secondary_category": "News",
+                "itunes_podcast_secondary_subcategory": "",
+                "itunes_email": null,
+                "language": null,
+                "itunes_explicit": false,
+                "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/6a72490f-4ddc-4e65-bd4f-bb5288dd1877_1400x1400.png",
+                "podcast_subtitle": null,
+                "podcast_keywords": null,
+                "hide_podcast_feed_link": false,
+                "podcast_feed_url": null,
+                "podcast_title": "ukraine@war ",
+                "podcast_description": "ultra-competitive ukraine-style politics",
+                "podcast_byline": "pgb",
+                "paid_podcast_episode_art_url": null,
+                "migrated_to_attached_podcast": false
+            },
+            "showLinks": [],
+            "podcastPalette": {
+                "Vibrant": {
+                    "rgb": [
+                        219,
+                        116,
+                        34
+                    ],
+                    "population": 208
+                },
+                "DarkVibrant": {
+                    "rgb": [
+                        109,
+                        48,
+                        27
+                    ],
+                    "population": 65
+                },
+                "LightVibrant": {
+                    "rgb": [
+                        236,
+                        216,
+                        112
+                    ],
+                    "population": 2
+                },
+                "Muted": {
+                    "rgb": [
+                        129,
+                        99,
+                        85
+                    ],
+                    "population": 454
+                },
+                "DarkMuted": {
+                    "rgb": [
+                        94,
+                        56,
+                        41
+                    ],
+                    "population": 204
+                },
+                "LightMuted": {
+                    "rgb": [
+                        204,
+                        172,
+                        148
+                    ],
+                    "population": 166
+                }
+            },
+            "spotify_podcast_settings": {
+                "id": 9647,
+                "publication_id": null,
+                "section_id": 92085,
+                "spotify_access_token": "bba42f45-90a9-49cb-bc7e-65b6be4912d3",
+                "spotify_uri": null,
+                "spotify_podcast_title": null,
+                "created_at": "2024-05-04T04:09:14.833Z",
+                "updated_at": "2024-05-04T04:09:14.833Z",
+                "currently_published_on_spotify": false,
+                "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/bba42f45-90a9-49cb-bc7e-65b6be4912d3/32760/s/92085.rss",
+                "spotify_show_url": ""
+            }
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "15eb8aa0-f104-4fa5-8c68-161d19610e44",
+            "publication_id": 32760,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "notes",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "b65b5ee6-4e70-4fc3-aa25-c9691b8e40f4",
+            "publication_id": 32760,
+            "sibling_rank": 1,
+            "link_title": "abdymok",
+            "link_url": "https://sites.google.com/site/abdymok/home",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "ff799921-c470-471a-9fef-58b077f69e49",
+            "publication_id": 32760,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 92085,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 92085,
+                "created_at": "2023-11-09T08:06:50.778Z",
+                "updated_at": "2024-04-03T13:45:34.971Z",
+                "publication_id": 32760,
+                "name": "ukraine@war ",
+                "description": "ultra-competitive ukraine-style politics",
+                "slug": "ukrainewar",
+                "is_podcast": true,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/9301ff27-e07f-422a-b5c9-c9b1be777041_250x250.png",
+                "hide_from_navbar": true,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "pgb",
+            "handle": "abdymok",
+            "role": "admin",
+            "owner": true,
+            "user_id": 7561999,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/08e26bac-9e81-4560-b25e-79349a8ead6e_250x250.jpeg",
+            "bio": "Ukraine, Belarus, OSI, Merck, BSF, DOD, NSA. RIA, Options "
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://abdymok.substack.com",
+    "hostname": "abdymok.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                172,
+                44,
+                52
+            ],
+            "population": 1
+        },
+        "DarkVibrant": {
+            "rgb": [
+                12,
+                10,
+                4
+            ],
+            "population": 6
+        },
+        "LightVibrant": {
+            "rgb": [
+                200,
+                124,
+                120
+            ],
+            "population": 2
+        },
+        "Muted": {
+            "rgb": [
+                180,
+                132,
+                132
+            ],
+            "population": 1
+        },
+        "DarkMuted": {
+            "rgb": [
+                68,
+                68,
+                68
+            ],
+            "population": 15
+        },
+        "LightMuted": {
+            "rgb": [
+                225,
+                198,
+                196
+            ],
+            "population": 3
+        }
+    }
+}

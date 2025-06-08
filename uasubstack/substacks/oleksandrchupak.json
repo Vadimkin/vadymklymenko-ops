@@ -1,0 +1,600 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 268252821,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Oleksandr",
+    "cover_photo_url": null,
+    "created_at": "2024-09-18T14:15:09.055Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "My personal Substack",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 3036343,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba7b944c-7229-4d20-b813-b824577779f3_580x580.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Oleksandr’s Substack",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/a167ba0c-7f7b-49d0-af54-e17e24dd5140_3000x3000",
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": "Вітаємо на хвилях подкасту “Акценти Тижня”! Тут ми говоримо про події, для розуміння яких нам часто бракує часу зануритися глибше заголовків новинних каналів.\nhttps://linktr.ee/akcenty",
+    "podcast_enabled": true,
+    "podcast_feed_url": null,
+    "podcast_title": "Акценти Тижня",
+    "post_preview_limit": null,
+    "primary_user_id": 268252821,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "oleksandrchupak",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Oleksandr",
+    "author_handle": "oleksandr108058",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedd98529-c129-4c77-9cf2-35877c2e88f4_144x144.png",
+    "author_bio": null,
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2024-05-18T13:16:14.000Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 9 months ago",
+    "rankingDetailFreeIncluded": "Launched 9 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 9 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 9 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 9 meses",
+            "rankingDetailFreeIncluded": "Launched hace 9 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 9 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 9 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt": {
+            "rankingDetail": "Launched 9 meses",
+            "rankingDetailFreeIncluded": "Launched 9 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 9 meses",
+            "rankingDetailFreeIncluded": "Launched 9 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "it": {
+            "rankingDetail": "Launched 9 mesi",
+            "rankingDetailFreeIncluded": "Launched 9 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "en": {
+            "rankingDetail": "Launched 9 months ago",
+            "rankingDetailFreeIncluded": "Launched 9 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "2",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Oleksandr",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedd98529-c129-4c77-9cf2-35877c2e88f4_144x144.png",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 155807,
+            "created_at": "2024-10-10T10:31:09.094Z",
+            "updated_at": "2024-10-14T08:05:09.132Z",
+            "publication_id": 3036343,
+            "name": "Статті",
+            "description": "Articles",
+            "slug": "8d2",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 155808,
+            "created_at": "2024-10-10T10:31:53.996Z",
+            "updated_at": "2024-10-14T08:05:24.248Z",
+            "publication_id": 3036343,
+            "name": "Подкасти",
+            "description": "Podcasts",
+            "slug": "podcasts",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": null,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "80f6b770-ef7f-405d-8dce-9e08207c83df",
+            "publication_id": 3036343,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "eba7f101-0f83-41e3-a37d-a48b8bb13028",
+            "publication_id": 3036343,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "0b8cc07d-9513-4ee0-8247-d71f1d6dca8b",
+            "publication_id": 3036343,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 155807,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 155807,
+                "created_at": "2024-10-10T10:31:09.094Z",
+                "updated_at": "2024-10-14T08:05:09.132Z",
+                "publication_id": 3036343,
+                "name": "Статті",
+                "description": "Articles",
+                "slug": "8d2",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "88fb3f31-6dda-40b3-b2d3-c0ad7b3b4f1b",
+            "publication_id": 3036343,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 155808,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 155808,
+                "created_at": "2024-10-10T10:31:53.996Z",
+                "updated_at": "2024-10-14T08:05:24.248Z",
+                "publication_id": 3036343,
+                "name": "Подкасти",
+                "description": "Podcasts",
+                "slug": "podcasts",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Oleksandr",
+            "handle": "oleksandr108058",
+            "role": "admin",
+            "owner": true,
+            "user_id": 268252821,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/edd98529-c129-4c77-9cf2-35877c2e88f4_144x144.png",
+            "bio": null
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://oleksandrchupak.substack.com",
+    "hostname": "oleksandrchupak.substack.com",
+    "is_on_substack": false,
+    "show_links": [
+        {
+            "id": 25469,
+            "publication_id": 3036343,
+            "section_id": null,
+            "url": "https://open.spotify.com/show/0PtbeaZzBMw79QyAohzRgR",
+            "platform": "spotify"
+        }
+    ],
+    "spotify_podcast_settings": {
+        "id": 23414,
+        "publication_id": 3036343,
+        "section_id": null,
+        "spotify_access_token": "135988fe-6ae7-46a0-91c8-4032de303bf8",
+        "spotify_uri": null,
+        "spotify_podcast_title": null,
+        "created_at": "2024-10-10T10:44:30.539Z",
+        "updated_at": "2024-10-10T10:44:30.539Z",
+        "currently_published_on_spotify": false,
+        "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/135988fe-6ae7-46a0-91c8-4032de303bf8/3036343.rss",
+        "spotify_show_url": ""
+    },
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                228,
+                4,
+                36
+            ],
+            "population": 5577
+        },
+        "DarkVibrant": {
+            "rgb": [
+                130.3137931034483,
+                2.2862068965517173,
+                20.575862068965534
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                244,
+                132,
+                148
+            ],
+            "population": 12
+        },
+        "Muted": {
+            "rgb": [
+                150.36206896551724,
+                2.637931034482764,
+                23.741379310344854
+            ],
+            "population": 0
+        },
+        "DarkMuted": {
+            "rgb": [
+                150.36206896551727,
+                2.637931034482736,
+                23.741379310344833
+            ],
+            "population": 0
+        },
+        "LightMuted": {
+            "rgb": [
+                140.4402985074627,
+                12.559701492537288,
+                30.828358208955223
+            ],
+            "population": 0
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                132,
+                132,
+                132
+            ],
+            "population": 183
+        },
+        "DarkMuted": {
+            "rgb": [
+                56,
+                56,
+                56
+            ],
+            "population": 578
+        },
+        "LightMuted": {
+            "rgb": [
+                172,
+                172,
+                172
+            ],
+            "population": 1189
+        }
+    }
+}

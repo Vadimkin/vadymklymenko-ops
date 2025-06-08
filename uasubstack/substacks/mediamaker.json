@@ -1,0 +1,355 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 106124796,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Медіамейкер",
+    "cover_photo_url": null,
+    "created_at": "2022-10-03T16:46:26.038Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "most_recent_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/48d9c22d-aaf0-43b7-bd76-187c9944178d_2200x440.png",
+    "email_from_name": "Медіамейкер",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": "",
+    "google_tag_manager_token": "GT-55B3BK9",
+    "hero_image": null,
+    "hero_text": "Медіа для і про тих, хто працює в медіа й суміжних сферах та хоче робити це чесно, виважено і з користю для аудиторії",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 1116272,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6aea0d8-b602-4aeb-92a5-d4ab59c10df7_8041x1762.png",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffecde26f-e119-4e48-a080-ec3198546c3a_1080x1080.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Медіамейкер",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 106124796,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "mediamaker",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#D10000",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Медіамейкер",
+    "author_handle": "mediamakerme",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa09516fb-192e-4128-9fbf-4e9d9fc4f861_1080x1080.png",
+    "author_bio": "Українське медіа для тих, хто працює в медіа та хоче робити це чесно, виважено і з користю для аудиторії || MediaMaker is an Ukrainian media for those who work in media and wants to do it honestly and professionally, benefiting their audience",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#040EF8",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 1116272,
+        "color_links": null,
+        "font_preset_heading": "heavy_sans",
+        "font_preset_body": "slab",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "feature",
+        "home_posts": "custom",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2022-10-31T09:32:57.869Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": null,
+    "rankingDetailFreeIncluded": null,
+    "rankingDetailOrderOfMagnitude": null,
+    "rankingDetailFreeIncludedOrderOfMagnitude": null,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {},
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": null,
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Медіамейкер",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa09516fb-192e-4128-9fbf-4e9d9fc4f861_1080x1080.png",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "eaad42cf-b571-4520-a963-33d0e78f1d7b",
+            "publication_id": 1116272,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "notes",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "2a3c9ffb-7d78-4166-8da3-d42131ddad68",
+            "publication_id": 1116272,
+            "sibling_rank": 0,
+            "link_title": "Основний сайт",
+            "link_url": "https://mediamaker.me/",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "b42b8219-350d-4d70-9b7e-028c26369a9b",
+            "publication_id": 1116272,
+            "sibling_rank": 1,
+            "link_title": "Telegram",
+            "link_url": "https://t.me/mediamakerme",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "828a12d7-3817-498b-84ae-9e339fbeb0fd",
+            "publication_id": 1116272,
+            "sibling_rank": 2,
+            "link_title": "Facebook",
+            "link_url": "https://www.facebook.com/mediamakerme",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "4c01e571-9362-48c1-9c6a-7e785b20bdf4",
+            "publication_id": 1116272,
+            "sibling_rank": 3,
+            "link_title": "Instagram",
+            "link_url": "https://www.instagram.com/mediamakerme/",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Медіамейкер",
+            "handle": "mediamakerme",
+            "role": "admin",
+            "owner": true,
+            "user_id": 106124796,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a09516fb-192e-4128-9fbf-4e9d9fc4f861_1080x1080.png",
+            "bio": "Українське медіа для тих, хто працює в медіа та хоче робити це чесно, виважено і з користю для аудиторії || MediaMaker is an Ukrainian media for those who work in media and wants to do it honestly and professionally, benefiting their audience"
+        },
+        {
+            "name": "Daria Trapeznikova",
+            "handle": "darostra",
+            "role": "admin",
+            "owner": false,
+            "user_id": 97300811,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/35ea97c0-3c2d-445e-9062-5b46b12ed678_836x838.jpeg",
+            "bio": "Editor-in-chief @MediaMaker (Медіамейкер) 🇺🇦"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://mediamaker.substack.com",
+    "hostname": "mediamaker.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                4,
+                12,
+                252
+            ],
+            "population": 5037
+        },
+        "DarkVibrant": {
+            "rgb": [
+                1.566141732283472,
+                5.742519685039373,
+                131.03385826771654
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                124,
+                132,
+                252
+            ],
+            "population": 5
+        },
+        "Muted": {
+            "rgb": [
+                1.8070866141732194,
+                6.625984251968491,
+                151.19291338582678
+            ],
+            "population": 0
+        },
+        "DarkMuted": {
+            "rgb": [
+                1.8070866141732194,
+                6.625984251968491,
+                151.19291338582678
+            ],
+            "population": 0
+        },
+        "LightMuted": {
+            "rgb": [
+                3.425373134328351,
+                12.559701492537275,
+                149.57462686567163
+            ],
+            "population": 0
+        }
+    }
+}

@@ -1,0 +1,1202 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 284461004,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Mike Mihajlovic",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/4264ef4a-6aad-44e2-b91c-3bf917e6d1b1_1280x1280.png",
+    "created_at": "2022-09-26T19:50:14.149Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Geopolitical, military and economical analysis",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 1105422,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b600c97-2453-458f-96c8-7d0c48f1bd0b_1280x1280.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Black Mountain Analysis",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Access to Q&A Sessions on YouTube Exclusive to Paid Subscribers"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": 200,
+    "primary_user_id": 105461170,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "bmanalysis",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#2096FF",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly50usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1735904933,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$50 a year",
+            "product": "prod_RWBkc3xGTQprCi",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 28500,
+                    "unit_amount_decimal": "28500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4500,
+                    "unit_amount_decimal": "4500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 35000,
+                    "unit_amount_decimal": "35000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4700,
+                    "unit_amount_decimal": "4700"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 102000,
+                    "unit_amount_decimal": "102000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 52500,
+                    "unit_amount_decimal": "52500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 19500,
+                    "unit_amount_decimal": "19500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 50500,
+                    "unit_amount_decimal": "50500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                }
+            }
+        },
+        {
+            "id": "monthly5usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1735904932,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$5 a month",
+            "product": "prod_RWBkvQEV4pFC1E",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2900,
+                    "unit_amount_decimal": "2900"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3500,
+                    "unit_amount_decimal": "3500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 400,
+                    "unit_amount_decimal": "400"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2000,
+                    "unit_amount_decimal": "2000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                }
+            }
+        },
+        {
+            "id": "founding18000usd",
+            "name": "founding18000usd",
+            "nickname": "founding18000usd",
+            "active": true,
+            "amount": 18000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "5000",
+                "minimum_local": {
+                    "aud": 8000,
+                    "brl": 28000,
+                    "cad": 7000,
+                    "chf": 4200,
+                    "dkk": 33000,
+                    "eur": 4400,
+                    "gbp": 3700,
+                    "mxn": 96000,
+                    "nok": 51000,
+                    "nzd": 8500,
+                    "pln": 19000,
+                    "sek": 48500,
+                    "usd": 5000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 28000,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 100500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 25000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 15000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 118000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 16000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 13500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 344000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 182500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 30000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 68000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 174000,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1Qd92aBVTaaQNqpD",
+    "stripe_country": "CA",
+    "stripe_publishable_key": "pk_live_51Qd92aBVTaaQNqpDfrWAX4WvLx7TmNndyEEon0URUHNOuHZs9qr0hfECl01KBd6m8e238FxxX35D8ca3UN2KH0mb00nCJFMPOD",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": null,
+    "author_handle": null,
+    "author_photo_url": null,
+    "author_bio": null,
+    "twitter_screen_name": "AleksBMA",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": "2024-04-29T13:22:42.303+00:00",
+        "create_thread_minimum_role": "paid",
+        "activated_at": "2024-04-29T13:22:10.578+00:00",
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": true,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2022-10-09T09:24:27.066Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "write",
+    "rankingDetail": "Launched 3 years ago",
+    "rankingDetailFreeIncluded": "Tens of thousands of subscribers",
+    "rankingDetailOrderOfMagnitude": 10,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10000,
+    "rankingDetailFreeSubscriberCount": "Over 11,000 subscribers",
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Vor vor 3 Jahren gelauncht",
+            "rankingDetailFreeIncluded": "Zehntausende von Abonnenten",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10000,
+            "rankingDetailFreeSubscriberCount": "Über 11,000 Abonnenten",
+            "freeSubscriberCount": "11,000",
+            "freeSubscriberCountOrderOfMagnitude": "11K+"
+        },
+        "es": {
+            "rankingDetail": "Lanzado hace 3 años",
+            "rankingDetailFreeIncluded": "Decenas de miles de suscriptores",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10000,
+            "rankingDetailFreeSubscriberCount": "Más de 11,000 suscriptores",
+            "freeSubscriberCount": "11,000",
+            "freeSubscriberCountOrderOfMagnitude": "11K+"
+        },
+        "fr": {
+            "rankingDetail": "Lancé il y a 3 années",
+            "rankingDetailFreeIncluded": "Des dizaines de milliers d'abonnés",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10000,
+            "rankingDetailFreeSubscriberCount": "Plus de 11,000 abonnés",
+            "freeSubscriberCount": "11,000",
+            "freeSubscriberCountOrderOfMagnitude": "11K+"
+        },
+        "pt": {
+            "rankingDetail": "Lançado 3 anos",
+            "rankingDetailFreeIncluded": "Dezenas de milhares de subscritores",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10000,
+            "rankingDetailFreeSubscriberCount": "Mais de 11,000 subscritores",
+            "freeSubscriberCount": "11,000",
+            "freeSubscriberCountOrderOfMagnitude": "11K+"
+        },
+        "pt-br": {
+            "rankingDetail": "Lançado 3 anos",
+            "rankingDetailFreeIncluded": "Dezenas de milhares de assinantes",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10000,
+            "rankingDetailFreeSubscriberCount": "Mais de 11,000 assinantes",
+            "freeSubscriberCount": "11,000",
+            "freeSubscriberCountOrderOfMagnitude": "11K+"
+        },
+        "it": {
+            "rankingDetail": "Lanciato 3 anni",
+            "rankingDetailFreeIncluded": "Decine di migliaia di abbonati",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10000,
+            "rankingDetailFreeSubscriberCount": "Oltre 11,000 abbonati",
+            "freeSubscriberCount": "11,000",
+            "freeSubscriberCountOrderOfMagnitude": "11K+"
+        },
+        "en": {
+            "rankingDetail": "Launched 3 years ago",
+            "rankingDetailFreeIncluded": "Tens of thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10000,
+            "rankingDetailFreeSubscriberCount": "Over 11,000 subscribers",
+            "freeSubscriberCount": "11,000",
+            "freeSubscriberCountOrderOfMagnitude": "11K+"
+        }
+    },
+    "freeSubscriberCount": "11,000",
+    "freeSubscriberCountOrderOfMagnitude": "11K+",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": "2024-05-14T15:30:25.742Z",
+    "primary_profile_name": "Aleks",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff815d981-88d6-431f-bfa5-0b7931a67340_2048x2048.jpeg",
+    "no_follow": false,
+    "paywall_chat": "paid",
+    "sections": [
+        {
+            "id": 102569,
+            "created_at": "2024-01-14T11:18:47.944Z",
+            "updated_at": "2024-03-29T12:26:12.452Z",
+            "publication_id": 1105422,
+            "name": "Black Mountain Talks",
+            "description": "Welcome to Black Mountain Talks, the podcast where objectivity meets in-depth analysis on a journey through the complex landscapes of Geopolitics, Economics, Technology, and Culture. ",
+            "slug": "black-mountain-talks",
+            "is_podcast": true,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/0611a09e-47dc-4126-bec0-5bd6be41ff49_1280x1280.png",
+            "hide_from_navbar": false,
+            "email_from_name": "Black Mountain Talks",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": {
+                "section_id": 102569,
+                "itunes_podcast_primary_category": "News",
+                "itunes_podcast_primary_subcategory": "",
+                "itunes_podcast_secondary_category": "Technology",
+                "itunes_podcast_secondary_subcategory": "",
+                "itunes_email": null,
+                "language": null,
+                "itunes_explicit": false,
+                "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/ae9d40cd-7434-4fe6-a3fb-5ab58ba6b35e_2000x2000.png",
+                "podcast_subtitle": null,
+                "podcast_keywords": null,
+                "hide_podcast_feed_link": false,
+                "podcast_feed_url": null,
+                "podcast_title": "Black Mountain Talks",
+                "podcast_description": "Welcome to Black Mountain Talks, the podcast where objectivity meets in-depth analysis on a journey through the complex landscapes of Geopolitics, Economics, Technology, and Culture. ",
+                "podcast_byline": "Hosted by Lena",
+                "paid_podcast_episode_art_url": null,
+                "migrated_to_attached_podcast": false
+            },
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastPalette": {
+                "Vibrant": {
+                    "rgb": [
+                        127.5,
+                        127.5,
+                        127.5
+                    ],
+                    "population": 0
+                },
+                "DarkVibrant": {
+                    "rgb": [
+                        66.3,
+                        66.3,
+                        66.3
+                    ],
+                    "population": 0
+                },
+                "LightVibrant": {
+                    "rgb": [
+                        188.7,
+                        188.7,
+                        188.7
+                    ],
+                    "population": 0
+                },
+                "Muted": {
+                    "rgb": [
+                        124,
+                        124,
+                        124
+                    ],
+                    "population": 24
+                },
+                "DarkMuted": {
+                    "rgb": [
+                        68,
+                        68,
+                        68
+                    ],
+                    "population": 39
+                },
+                "LightMuted": {
+                    "rgb": [
+                        212,
+                        212,
+                        212
+                    ],
+                    "population": 12
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "3ff224bb-87bb-480c-a7a1-bd302d023406",
+            "publication_id": 1105422,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "notes",
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "9e5fdd2f-3459-44fd-b5c2-cc8af2a641b5",
+            "publication_id": 1105422,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": null
+        },
+        {
+            "id": "16b7b2aa-4597-4aa7-b04a-9b901848854b",
+            "publication_id": 1105422,
+            "sibling_rank": 3,
+            "link_title": "Economics and Empires",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 143071406,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": {
+                "id": 143071406,
+                "publication_id": 1105422,
+                "is_published": true,
+                "title": "Economics and Empires",
+                "body": "s3://substack-content/post/143071406/2024-03-29T13-07-09-992Z/105461170/bcf14243e08445e977527d9c4c8e65256e7d2f0e",
+                "slug": "economics-and-empires-c19",
+                "post_date": "2024-03-29T12:13:50.270Z",
+                "draft_title": "Economics and Empires",
+                "draft_body": "s3://substack-content/post/143071406/2024-03-29T13-07-09-992Z/105461170/bcf14243e08445e977527d9c4c8e65256e7d2f0e",
+                "draft_updated_at": "2024-03-29T13:07:10.047Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "c5a6aac6-423b-460c-94b0-8a65dcf3d28a",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2024-03-29T13:07:14.731Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 225,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2024-03-29T12:13:21.282Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            },
+            "section": null
+        },
+        {
+            "id": "93cc5f50-d54f-4a6a-953a-09e6539c1183",
+            "publication_id": 1105422,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 102569,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "postTag": null,
+            "post": null,
+            "section": {
+                "id": 102569,
+                "created_at": "2024-01-14T11:18:47.944Z",
+                "updated_at": "2024-03-29T12:26:12.452Z",
+                "publication_id": 1105422,
+                "name": "Black Mountain Talks",
+                "description": "Welcome to Black Mountain Talks, the podcast where objectivity meets in-depth analysis on a journey through the complex landscapes of Geopolitics, Economics, Technology, and Culture. ",
+                "slug": "black-mountain-talks",
+                "is_podcast": true,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/0611a09e-47dc-4126-bec0-5bd6be41ff49_1280x1280.png",
+                "hide_from_navbar": false,
+                "email_from_name": "Black Mountain Talks",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Aleks",
+            "handle": "bmanalysis",
+            "role": "admin",
+            "owner": false,
+            "user_id": 105461170,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/f815d981-88d6-431f-bfa5-0b7931a67340_2048x2048.jpeg",
+            "bio": "Executive\nEngineer\nEconomist"
+        },
+        {
+            "name": "Mike Mihajlovic",
+            "handle": "mikemihajlovic",
+            "role": "admin",
+            "owner": false,
+            "user_id": 121334627,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/eb6501b4-220a-4494-80f9-f33c3fbb8757_400x400.jpeg",
+            "bio": null
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": {
+        "id": "c31b4225-eef0-49cb-abb8-d2bcb9636ef9",
+        "publication_id": 1105422,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "Geopolitical and economical analysis",
+        "created_at": "2023-01-13T14:13:45.237995+00:00",
+        "updated_at": "2023-01-13T14:13:45.237995+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly50usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1735904933,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$50 a year",
+            "product": "prod_RWBkc3xGTQprCi",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 28500,
+                    "unit_amount_decimal": "28500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4500,
+                    "unit_amount_decimal": "4500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 35000,
+                    "unit_amount_decimal": "35000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4700,
+                    "unit_amount_decimal": "4700"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 102000,
+                    "unit_amount_decimal": "102000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 52500,
+                    "unit_amount_decimal": "52500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 19500,
+                    "unit_amount_decimal": "19500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 50500,
+                    "unit_amount_decimal": "50500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                }
+            }
+        },
+        {
+            "id": "monthly5usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1735904932,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$5 a month",
+            "product": "prod_RWBkvQEV4pFC1E",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2900,
+                    "unit_amount_decimal": "2900"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3500,
+                    "unit_amount_decimal": "3500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 400,
+                    "unit_amount_decimal": "400"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2000,
+                    "unit_amount_decimal": "2000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                }
+            }
+        },
+        {
+            "id": "founding18000usd",
+            "name": "founding18000usd",
+            "nickname": "founding18000usd",
+            "active": true,
+            "amount": 18000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "5000",
+                "minimum_local": {
+                    "aud": 8000,
+                    "brl": 28000,
+                    "cad": 7000,
+                    "chf": 4200,
+                    "dkk": 33000,
+                    "eur": 4400,
+                    "gbp": 3700,
+                    "mxn": 96000,
+                    "nok": 51000,
+                    "nzd": 8500,
+                    "pln": 19000,
+                    "sek": 48500,
+                    "usd": 5000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 28000,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 100500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 25000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 15000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 118000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 16000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 13500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 344000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 182500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 30000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 68000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 174000,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "base_url": "https://bmanalysis.substack.com",
+    "hostname": "bmanalysis.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                120,
+                120,
+                120
+            ],
+            "population": 68
+        },
+        "DarkMuted": {
+            "rgb": [
+                59,
+                59,
+                59
+            ],
+            "population": 72
+        },
+        "LightMuted": {
+            "rgb": [
+                188,
+                188,
+                188
+            ],
+            "population": 33
+        }
+    }
+}

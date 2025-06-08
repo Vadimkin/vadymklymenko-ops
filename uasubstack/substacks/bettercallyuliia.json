@@ -1,0 +1,1162 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 8563494,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Юлія Химерик",
+    "cover_photo_url": null,
+    "created_at": "2025-01-12T16:16:41.501Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": "GTM-PQQSGLJM",
+    "hero_image": null,
+    "hero_text": "новини, розслідування та судові репортажі про воєнні злочини рф та злочини проти основ нацбезпеки півдня України",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 3739289,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87b420ab-eb51-486f-8ecf-3dd097d83568_1500x500.jpeg",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3783f3c7-96fe-4397-81c0-401083a5f86e_2889x2889.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Better Call Yuliia",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/d9a582af-1108-4bac-9801-d6b3ac558a17_3000x3000",
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": "подкаст, що висвітлює воєнні та кримінальні злочини, корупційні схеми, займається ідентифікацією потенційних підозрюваних, а також аналізує реальні судові справи і те, як працює закон",
+    "podcast_enabled": true,
+    "podcast_feed_url": null,
+    "podcast_title": "Better Call Yuliia",
+    "post_preview_limit": null,
+    "primary_user_id": null,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "bettercallyuliia",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Юлія Химерик",
+    "author_handle": "yuliiakhimeryk",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3783f3c7-96fe-4397-81c0-401083a5f86e_2889x2889.png",
+    "author_bio": "I'm ukranian investigative journalist",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#2563eb",
+        "web_bg_color": "#020617",
+        "cover_bg_color": "#020617",
+        "publication_id": 3739289,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "feature-media",
+        "home_posts": "grid-groups",
+        "home_show_top_posts": true,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null,
+        "body_post_groups": []
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "free_subscriber",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2025-03-31T16:53:08.000Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 2 months ago",
+    "rankingDetailFreeIncluded": "Launched 2 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 2 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 2 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 2 meses",
+            "rankingDetailFreeIncluded": "Launched hace 2 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 2 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 2 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt": {
+            "rankingDetail": "Launched 2 meses",
+            "rankingDetailFreeIncluded": "Launched 2 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 2 meses",
+            "rankingDetailFreeIncluded": "Launched 2 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "it": {
+            "rankingDetail": "Launched 2 mesi",
+            "rankingDetailFreeIncluded": "Launched 2 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        },
+        "en": {
+            "rankingDetail": "Launched 2 months ago",
+            "rankingDetailFreeIncluded": "Launched 2 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "2"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "2",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 204918,
+            "created_at": "2025-03-29T18:26:15.054Z",
+            "updated_at": "2025-03-29T18:57:14.396Z",
+            "publication_id": 3739289,
+            "name": "Про Better call Yuliia",
+            "description": "Про незалежний медіа проєкт",
+            "slug": "better-call-yuliia",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 0,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 204914,
+            "created_at": "2025-03-29T18:20:29.276Z",
+            "updated_at": "2025-03-29T18:57:14.396Z",
+            "publication_id": 3739289,
+            "name": "Новини",
+            "description": "Важливі новини ",
+            "slug": "8f7",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 204911,
+            "created_at": "2025-03-29T18:16:46.076Z",
+            "updated_at": "2025-03-29T18:57:14.396Z",
+            "publication_id": 3739289,
+            "name": "Розслідування",
+            "description": "Розслідування воєнних злочинів рф, злочинів проти основ нацбезпеки, корупційних злочинів",
+            "slug": "3a0",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 204912,
+            "created_at": "2025-03-29T18:18:03.344Z",
+            "updated_at": "2025-03-29T18:57:14.396Z",
+            "publication_id": 3739289,
+            "name": "Статті",
+            "description": "Аналітика, репортажі, експлейнери",
+            "slug": "650",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 3,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 204917,
+            "created_at": "2025-03-29T18:23:52.330Z",
+            "updated_at": "2025-03-29T18:57:14.396Z",
+            "publication_id": 3739289,
+            "name": "Підтримати",
+            "description": "Як можна підтримати проєкт",
+            "slug": "39c",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 4,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "podcastSettings": null,
+            "spotifyPodcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 205605,
+            "created_at": "2025-03-31T19:47:53.766Z",
+            "updated_at": "2025-04-08T10:10:47.954Z",
+            "publication_id": 3739289,
+            "name": "Подкаст",
+            "description": "слухайте на Spotify, Apple Podcast та Youtube",
+            "slug": "2b6",
+            "is_podcast": true,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 5,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [
+                {
+                    "id": 41834,
+                    "publication_id": 3739289,
+                    "section_id": 205605,
+                    "url": "https://podcasts.apple.com/us/podcast/на-варті-з-юлією-химерик/id1805640202",
+                    "platform": "apple_podcasts"
+                }
+            ],
+            "pageTheme": null,
+            "podcastSettings": {
+                "section_id": 205605,
+                "itunes_podcast_primary_category": "True Crime",
+                "itunes_podcast_primary_subcategory": "",
+                "itunes_podcast_secondary_category": "News",
+                "itunes_podcast_secondary_subcategory": "",
+                "itunes_email": null,
+                "language": null,
+                "itunes_explicit": false,
+                "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/63256c60-5ea7-4fce-bbf2-9b58f454da9a_3000x3000",
+                "podcast_subtitle": "",
+                "podcast_keywords": null,
+                "hide_podcast_feed_link": false,
+                "podcast_feed_url": null,
+                "podcast_title": "Better Call Yuliia",
+                "podcast_description": "подкаст, що висвітлює воєнні та кримінальні злочини, корупційні схеми, займається ідентифікацією потенційних підозрюваних, а також аналізує реальні судові справи і те, як працює закон",
+                "podcast_byline": "Юлія Химерик",
+                "paid_podcast_episode_art_url": null,
+                "migrated_to_attached_podcast": false
+            },
+            "spotifyPodcastSettings": {
+                "id": 43752,
+                "publication_id": null,
+                "section_id": 205605,
+                "spotify_access_token": "213f20d2-81ee-4820-924e-42d58c69bf4b",
+                "spotify_uri": "spotify:show:7KwUWGeQtRbAriX3anPuCZ",
+                "spotify_podcast_title": null,
+                "created_at": "2025-04-02T22:19:03.428Z",
+                "updated_at": "2025-04-08T10:07:45.262Z",
+                "currently_published_on_spotify": true
+            },
+            "podcastPalette": {
+                "Vibrant": {
+                    "rgb": [
+                        250,
+                        61,
+                        116
+                    ],
+                    "population": 783
+                },
+                "DarkVibrant": {
+                    "rgb": [
+                        116,
+                        108,
+                        36
+                    ],
+                    "population": 1
+                },
+                "LightVibrant": {
+                    "rgb": [
+                        246,
+                        134,
+                        162
+                    ],
+                    "population": 72
+                },
+                "Muted": {
+                    "rgb": [
+                        84,
+                        136,
+                        172
+                    ],
+                    "population": 2
+                },
+                "DarkMuted": {
+                    "rgb": [
+                        61,
+                        58,
+                        85
+                    ],
+                    "population": 29
+                },
+                "LightMuted": {
+                    "rgb": [
+                        202,
+                        186,
+                        161
+                    ],
+                    "population": 154
+                }
+            },
+            "spotify_podcast_settings": {
+                "id": 43752,
+                "publication_id": null,
+                "section_id": 205605,
+                "spotify_access_token": "213f20d2-81ee-4820-924e-42d58c69bf4b",
+                "spotify_uri": "spotify:show:7KwUWGeQtRbAriX3anPuCZ",
+                "spotify_podcast_title": null,
+                "created_at": "2025-04-02T22:19:03.428Z",
+                "updated_at": "2025-04-08T10:07:45.262Z",
+                "currently_published_on_spotify": true,
+                "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/213f20d2-81ee-4820-924e-42d58c69bf4b/3739289/s/205605.rss",
+                "spotify_show_url": "https://open.spotify.com/show/7KwUWGeQtRbAriX3anPuCZ"
+            }
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "9e3b6c3f-3047-44d0-8d34-cf17d1f500b6",
+            "publication_id": 3739289,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "chat",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "671b3d8e-345c-4ecf-9a53-2701da60cc48",
+            "publication_id": 3739289,
+            "sibling_rank": 1,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "notes",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "887c6b73-5ea3-4cae-b8f3-04eec4c40583",
+            "publication_id": 3739289,
+            "sibling_rank": 2,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "80042e0c-b1fb-4396-a09f-f72c81400b7c",
+            "publication_id": 3739289,
+            "sibling_rank": 3,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "41d4b415-a11e-4f7c-812d-5a493fa05041",
+            "publication_id": 3739289,
+            "sibling_rank": 4,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 204918,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 204918,
+                "created_at": "2025-03-29T18:26:15.054Z",
+                "updated_at": "2025-03-29T18:57:14.396Z",
+                "publication_id": 3739289,
+                "name": "Про Better call Yuliia",
+                "description": "Про незалежний медіа проєкт",
+                "slug": "better-call-yuliia",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 0,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "81eb0368-af39-4adc-ac9d-2c3dc3e25712",
+            "publication_id": 3739289,
+            "sibling_rank": 5,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 204914,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 204914,
+                "created_at": "2025-03-29T18:20:29.276Z",
+                "updated_at": "2025-03-29T18:57:14.396Z",
+                "publication_id": 3739289,
+                "name": "Новини",
+                "description": "Важливі новини ",
+                "slug": "8f7",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "326e382b-2e90-4730-981e-0e4b3d0a3108",
+            "publication_id": 3739289,
+            "sibling_rank": 6,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 204911,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 204911,
+                "created_at": "2025-03-29T18:16:46.076Z",
+                "updated_at": "2025-03-29T18:57:14.396Z",
+                "publication_id": 3739289,
+                "name": "Розслідування",
+                "description": "Розслідування воєнних злочинів рф, злочинів проти основ нацбезпеки, корупційних злочинів",
+                "slug": "3a0",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "bdd38234-96c2-426b-94e4-757ecf887167",
+            "publication_id": 3739289,
+            "sibling_rank": 7,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 204912,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 204912,
+                "created_at": "2025-03-29T18:18:03.344Z",
+                "updated_at": "2025-03-29T18:57:14.396Z",
+                "publication_id": 3739289,
+                "name": "Статті",
+                "description": "Аналітика, репортажі, експлейнери",
+                "slug": "650",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 3,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "718f6d11-f5c1-4b3b-a724-f8c2162d2f43",
+            "publication_id": 3739289,
+            "sibling_rank": 8,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 204917,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 204917,
+                "created_at": "2025-03-29T18:23:52.330Z",
+                "updated_at": "2025-03-29T18:57:14.396Z",
+                "publication_id": 3739289,
+                "name": "Підтримати",
+                "description": "Як можна підтримати проєкт",
+                "slug": "39c",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 4,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "ff323b43-e805-4570-b989-75143ab80814",
+            "publication_id": 3739289,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 205605,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 205605,
+                "created_at": "2025-03-31T19:47:53.766Z",
+                "updated_at": "2025-04-08T10:10:47.954Z",
+                "publication_id": 3739289,
+                "name": "Подкаст",
+                "description": "слухайте на Spotify, Apple Podcast та Youtube",
+                "slug": "2b6",
+                "is_podcast": true,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 5,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Юлія Химерик",
+            "handle": "yuliiakhimeryk",
+            "role": "admin",
+            "owner": true,
+            "user_id": 8563494,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3783f3c7-96fe-4397-81c0-401083a5f86e_2889x2889.png",
+            "bio": "I'm ukranian investigative journalist"
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://bettercallyuliia.substack.com",
+    "hostname": "bettercallyuliia.substack.com",
+    "is_on_substack": false,
+    "show_links": [
+        {
+            "id": 41832,
+            "publication_id": 3739289,
+            "section_id": null,
+            "url": "https://podcasts.apple.com/us/podcast/на-варті-з-юлією-химерик/id1805640202",
+            "platform": "apple_podcasts"
+        }
+    ],
+    "spotify_podcast_settings": {
+        "id": 43333,
+        "publication_id": 3739289,
+        "section_id": null,
+        "spotify_access_token": "4869a3d4-83f4-4656-b0bb-d7b41b79e73f",
+        "spotify_uri": null,
+        "spotify_podcast_title": null,
+        "created_at": "2025-03-31T19:49:03.275Z",
+        "updated_at": "2025-03-31T19:49:03.275Z",
+        "currently_published_on_spotify": false,
+        "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/4869a3d4-83f4-4656-b0bb-d7b41b79e73f/3739289.rss",
+        "spotify_show_url": ""
+    },
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                250,
+                61,
+                116
+            ],
+            "population": 783
+        },
+        "DarkVibrant": {
+            "rgb": [
+                116,
+                108,
+                36
+            ],
+            "population": 1
+        },
+        "LightVibrant": {
+            "rgb": [
+                246,
+                134,
+                162
+            ],
+            "population": 72
+        },
+        "Muted": {
+            "rgb": [
+                84,
+                136,
+                172
+            ],
+            "population": 2
+        },
+        "DarkMuted": {
+            "rgb": [
+                61,
+                58,
+                85
+            ],
+            "population": 29
+        },
+        "LightMuted": {
+            "rgb": [
+                202,
+                186,
+                161
+            ],
+            "population": 154
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                248,
+                61,
+                115
+            ],
+            "population": 732
+        },
+        "DarkVibrant": {
+            "rgb": [
+                100,
+                92,
+                28
+            ],
+            "population": 1
+        },
+        "LightVibrant": {
+            "rgb": [
+                252,
+                92,
+                140
+            ],
+            "population": 6
+        },
+        "Muted": {
+            "rgb": [
+                96,
+                148,
+                172
+            ],
+            "population": 2
+        },
+        "DarkMuted": {
+            "rgb": [
+                60,
+                59,
+                105
+            ],
+            "population": 30
+        },
+        "LightMuted": {
+            "rgb": [
+                196,
+                183,
+                153
+            ],
+            "population": 151
+        }
+    }
+}

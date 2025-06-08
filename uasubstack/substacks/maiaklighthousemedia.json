@@ -1,0 +1,991 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 244806124,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "МАЯК [Lighthouse] Media",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3343db81-e32f-4df4-a616-36c7da061e18_820x360.png",
+    "created_at": "2024-06-13T19:56:24.790Z",
+    "custom_domain_optional": true,
+    "custom_domain": "maiaklighthouse.media",
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/ea331fbf-b20c-4ba4-a70a-e65e43b8233f_1128x191.png",
+    "email_from_name": "МАЯК [Lighthouse] Media Substack",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Occasional public posts"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "The word \"Maяк\"[ma:iak] in Ukrainian means \"Lighthouse\". As you see word \"lighthouse\" includes two different words \"light\" and \"house\". The main feature of lighthouses is to show the way home for those who are lost in the dark sea, which is very symbolic.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 2704843,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd934a5b7-a9ff-4d13-89fa-0e0461e2ea5d_1344x256.png",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c244e8-64ce-4afd-87e9-d0b61b4a0b0b_500x500.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "МАЯК’s Substack",
+    "paid_subscription_benefits": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 244806124,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "maiaklighthousemedia",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#67BDFC",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly50gbp",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1719495056,
+            "currency": "gbp",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "£50 a year",
+            "product": "prod_QN2UdqzFoW7h6d",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 37000,
+                    "unit_amount_decimal": "37000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 45000,
+                    "unit_amount_decimal": "45000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 131500,
+                    "unit_amount_decimal": "131500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 68000,
+                    "unit_amount_decimal": "68000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11500,
+                    "unit_amount_decimal": "11500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 25500,
+                    "unit_amount_decimal": "25500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 64500,
+                    "unit_amount_decimal": "64500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                }
+            }
+        },
+        {
+            "id": "monthly5gbp",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1719495056,
+            "currency": "gbp",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "£5 a month",
+            "product": "prod_QN2UyjO8sCxVSe",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1100,
+                    "unit_amount_decimal": "1100"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3700,
+                    "unit_amount_decimal": "3700"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 600,
+                    "unit_amount_decimal": "600"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4500,
+                    "unit_amount_decimal": "4500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 13500,
+                    "unit_amount_decimal": "13500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7000,
+                    "unit_amount_decimal": "7000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1200,
+                    "unit_amount_decimal": "1200"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2600,
+                    "unit_amount_decimal": "2600"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                }
+            }
+        },
+        {
+            "id": "founding15000gbp",
+            "name": "founding15000gbp",
+            "nickname": "founding15000gbp",
+            "active": true,
+            "amount": 15000,
+            "currency": "gbp",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "5000",
+                "minimum_local": {
+                    "aud": 10500,
+                    "brl": 38000,
+                    "cad": 9500,
+                    "chf": 6000,
+                    "dkk": 44500,
+                    "eur": 6000,
+                    "gbp": 5000,
+                    "mxn": 129500,
+                    "nok": 68500,
+                    "nzd": 11500,
+                    "pln": 25500,
+                    "sek": 65500,
+                    "usd": 7000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 31500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 113000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 28000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 17000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 133000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 15000,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 388000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 205500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 34000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 76500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 196000,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 20500,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1PWIELFw8F1zTNUl",
+    "stripe_country": "GB",
+    "stripe_publishable_key": "pk_live_51PWIELFw8F1zTNUlztLXyFYqwVGEHY9LtOU40ArO0etgklXlfRMopOVdJ3PhtX44GQqAhcUxUTcsIfvtlp09YiDW007oEOn3qb",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "МАЯК [Lighthouse] Media",
+    "author_handle": "lighthousemedia1",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c244e8-64ce-4afd-87e9-d0b61b4a0b0b_500x500.png",
+    "author_bio": null,
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#ff9036",
+        "web_bg_color": "#fff6f3",
+        "cover_bg_color": "#fff6f3",
+        "publication_id": 2704843,
+        "color_links": null,
+        "font_preset_heading": "fancy_serif",
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magazine-5",
+        "home_posts": "list",
+        "home_show_top_posts": true,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2024-06-21T22:13:51.272Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched a year ago",
+    "rankingDetailFreeIncluded": "Launched a year ago",
+    "rankingDetailOrderOfMagnitude": 1,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor einem Jahr",
+            "rankingDetailFreeIncluded": "Launched vor einem Jahr",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "38"
+        },
+        "es": {
+            "rankingDetail": "Launched hace un año",
+            "rankingDetailFreeIncluded": "Launched hace un año",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "38"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a une année",
+            "rankingDetailFreeIncluded": "Launched il y a une année",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "38"
+        },
+        "pt": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Launched 1 ano",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "38"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Launched 1 ano",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "38"
+        },
+        "it": {
+            "rankingDetail": "Launched 1 anno",
+            "rankingDetailFreeIncluded": "Launched 1 anno",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "38"
+        },
+        "en": {
+            "rankingDetail": "Launched a year ago",
+            "rankingDetailFreeIncluded": "Launched a year ago",
+            "rankingDetailOrderOfMagnitude": 1,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "38"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "38",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "МАЯК [Lighthouse] Media",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c244e8-64ce-4afd-87e9-d0b61b4a0b0b_500x500.png",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "4fc58c17-ce45-4853-bd1a-b047fecd1da9",
+            "publication_id": 2704843,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        }
+    ],
+    "contributors": [
+        {
+            "name": "МАЯК [Lighthouse] Media",
+            "handle": "lighthousemedia1",
+            "role": "admin",
+            "owner": true,
+            "user_id": 244806124,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d0c244e8-64ce-4afd-87e9-d0b61b4a0b0b_500x500.png",
+            "bio": null
+        },
+        {
+            "name": "Anastasiia",
+            "handle": "zanuzdanova",
+            "role": "contributor",
+            "owner": false,
+            "user_id": 272811475,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/dab8833e-5fe3-4b81-b487-5b54468622de_3268x4085.jpeg",
+            "bio": "Editor 🖍️"
+        },
+        {
+            "name": "Helen Lewis",
+            "handle": "ogymru",
+            "role": "contributor",
+            "owner": false,
+            "user_id": 44663932,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/9c881df2-0fc4-47e6-aa62-1a364b64f7a2_144x144.png",
+            "bio": null
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": {
+        "id": "8530108d-4c5b-4579-aec7-7c85edd96619",
+        "publication_id": 2704843,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "My personal Substack",
+        "created_at": "2024-06-27T13:31:27.543276+00:00",
+        "updated_at": "2024-06-27T13:31:27.543276+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly50gbp",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1719495056,
+            "currency": "gbp",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "£50 a year",
+            "product": "prod_QN2UdqzFoW7h6d",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 37000,
+                    "unit_amount_decimal": "37000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 45000,
+                    "unit_amount_decimal": "45000"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 131500,
+                    "unit_amount_decimal": "131500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 68000,
+                    "unit_amount_decimal": "68000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11500,
+                    "unit_amount_decimal": "11500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 25500,
+                    "unit_amount_decimal": "25500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 64500,
+                    "unit_amount_decimal": "64500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                }
+            }
+        },
+        {
+            "id": "monthly5gbp",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1719495056,
+            "currency": "gbp",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "£5 a month",
+            "product": "prod_QN2UyjO8sCxVSe",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1100,
+                    "unit_amount_decimal": "1100"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3700,
+                    "unit_amount_decimal": "3700"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 600,
+                    "unit_amount_decimal": "600"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4500,
+                    "unit_amount_decimal": "4500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 13500,
+                    "unit_amount_decimal": "13500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7000,
+                    "unit_amount_decimal": "7000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1200,
+                    "unit_amount_decimal": "1200"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2600,
+                    "unit_amount_decimal": "2600"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 700,
+                    "unit_amount_decimal": "700"
+                }
+            }
+        },
+        {
+            "id": "founding15000gbp",
+            "name": "founding15000gbp",
+            "nickname": "founding15000gbp",
+            "active": true,
+            "amount": 15000,
+            "currency": "gbp",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "5000",
+                "minimum_local": {
+                    "aud": 10500,
+                    "brl": 38000,
+                    "cad": 9500,
+                    "chf": 6000,
+                    "dkk": 44500,
+                    "eur": 6000,
+                    "gbp": 5000,
+                    "mxn": 129500,
+                    "nok": 68500,
+                    "nzd": 11500,
+                    "pln": 25500,
+                    "sek": 65500,
+                    "usd": 7000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 31500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 113000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 28000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 17000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 133000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 15000,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 388000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 205500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 34000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 76500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 196000,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 20500,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "paid_subscription_benefits_english": [
+        "Subscriber-only posts and full archive",
+        "Post comments and join the community"
+    ],
+    "free_subscription_benefits_english": [
+        "Occasional public posts"
+    ],
+    "base_url": "https://maiaklighthousemedia.substack.com",
+    "hostname": "maiaklighthousemedia.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                84,
+                60,
+                144
+            ],
+            "population": 10
+        },
+        "DarkVibrant": {
+            "rgb": [
+                37,
+                7,
+                116
+            ],
+            "population": 259
+        },
+        "LightVibrant": {
+            "rgb": [
+                252,
+                236,
+                238
+            ],
+            "population": 3
+        },
+        "Muted": {
+            "rgb": [
+                105,
+                85,
+                156
+            ],
+            "population": 66
+        },
+        "DarkMuted": {
+            "rgb": [
+                46.024390243902396,
+                8.707317073170739,
+                144.29268292682926
+            ],
+            "population": 0
+        },
+        "LightMuted": {
+            "rgb": [
+                188,
+                172,
+                204
+            ],
+            "population": 11
+        }
+    }
+}

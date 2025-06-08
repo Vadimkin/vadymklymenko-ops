@@ -1,0 +1,353 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 293208752,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "12 зірок",
+    "cover_photo_url": null,
+    "created_at": "2024-12-01T12:13:55.867Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "12 зірок",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Журнал «Європа»\nЗрозуміти Європу та свій інтерес щодо неї.\nСтавимо питання. Шукаємо відповіді.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 3443975,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99e4f6b0-226d-4743-ac72-25e38185c093_640x640.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "12 зірок ",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/c3f93d57-b13b-4bb8-ab17-574c359b48cc_3000x3000",
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": "Журнал «Європа»\nЗрозуміти Європу та свій інтерес щодо неї.\nСтавимо питання. Шукаємо відповіді.\nТексти шукайте тут https://t.me/XIIsterne\nГоловний редактор - Георгій Рябцун @Riabtsun",
+    "podcast_enabled": true,
+    "podcast_feed_url": null,
+    "podcast_title": "12 зірок",
+    "post_preview_limit": null,
+    "primary_user_id": 293208752,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "xllsterne",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "12 зірок",
+    "author_handle": "xllsterne",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8516bb89-8cc9-44a2-b9f1-08c783633d7e_640x640.jpeg",
+    "author_bio": "Журнал «Європа» Зрозуміти Європу та свій інтерес щодо неї. Ставимо питання. Шукаємо відповіді. Ukrainian journal «Europe». We write what we think about EU and where we can find a place in it.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#010c8e",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 3443975,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": "sans",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "free_subscriber",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2024-05-29T16:36:23.000Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 6 months ago",
+    "rankingDetailFreeIncluded": "Launched 6 months ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 6 Monaten",
+            "rankingDetailFreeIncluded": "Launched vor 6 Monaten",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "33"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 6 meses",
+            "rankingDetailFreeIncluded": "Launched hace 6 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "33"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 6 mois",
+            "rankingDetailFreeIncluded": "Launched il y a 6 mois",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "33"
+        },
+        "pt": {
+            "rankingDetail": "Launched 6 meses",
+            "rankingDetailFreeIncluded": "Launched 6 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "33"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 6 meses",
+            "rankingDetailFreeIncluded": "Launched 6 meses",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "33"
+        },
+        "it": {
+            "rankingDetail": "Launched 6 mesi",
+            "rankingDetailFreeIncluded": "Launched 6 mesi",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "33"
+        },
+        "en": {
+            "rankingDetail": "Launched 6 months ago",
+            "rankingDetailFreeIncluded": "Launched 6 months ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "33"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "33",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "12 зірок",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8516bb89-8cc9-44a2-b9f1-08c783633d7e_640x640.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "12 зірок",
+            "handle": "xllsterne",
+            "role": "admin",
+            "owner": true,
+            "user_id": 293208752,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8516bb89-8cc9-44a2-b9f1-08c783633d7e_640x640.jpeg",
+            "bio": "Журнал «Європа» Зрозуміти Європу та свій інтерес щодо неї. Ставимо питання. Шукаємо відповіді. Ukrainian journal «Europe». We write what we think about EU and where we can find a place in it."
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://xllsterne.substack.com",
+    "hostname": "xllsterne.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": {
+        "id": 28635,
+        "publication_id": 3443975,
+        "section_id": null,
+        "spotify_access_token": "b9dd90a5-5e9d-469e-a934-6f3640940871",
+        "spotify_uri": "spotify:show:6vl5kOsE6eCJITzfQ6MOjQ",
+        "spotify_podcast_title": null,
+        "created_at": "2024-12-09T20:17:06.235Z",
+        "updated_at": "2024-12-09T20:18:16.738Z",
+        "currently_published_on_spotify": false,
+        "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/b9dd90a5-5e9d-469e-a934-6f3640940871/3443975.rss",
+        "spotify_show_url": "https://open.spotify.com/show/6vl5kOsE6eCJITzfQ6MOjQ"
+    },
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                247,
+                209,
+                7
+            ],
+            "population": 65
+        },
+        "DarkVibrant": {
+            "rgb": [
+                4,
+                12,
+                140
+            ],
+            "population": 6039
+        },
+        "LightVibrant": {
+            "rgb": [
+                251.34566929133857,
+                231.507874015748,
+                126.05433070866142
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                132,
+                116,
+                76
+            ],
+            "population": 5
+        },
+        "DarkMuted": {
+            "rgb": [
+                60,
+                60,
+                108
+            ],
+            "population": 4
+        },
+        "LightMuted": {
+            "rgb": [
+                148.78346456692913,
+                125.89370078740156,
+                4.216535433070864
+            ],
+            "population": 0
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                250,
+                214,
+                8
+            ],
+            "population": 179
+        },
+        "DarkVibrant": {
+            "rgb": [
+                4,
+                12,
+                140
+            ],
+            "population": 5709
+        },
+        "LightVibrant": {
+            "rgb": [
+                252.3690476190476,
+                233.4261904761905,
+                125.0309523809524
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                148,
+                134,
+                76
+            ],
+            "population": 3
+        },
+        "DarkMuted": {
+            "rgb": [
+                68,
+                60,
+                105
+            ],
+            "population": 6
+        },
+        "LightMuted": {
+            "rgb": [
+                149.9642857142857,
+                128.10714285714286,
+                3.0357142857143034
+            ],
+            "population": 0
+        }
+    }
+}

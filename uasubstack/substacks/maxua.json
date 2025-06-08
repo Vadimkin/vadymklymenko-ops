@@ -1,0 +1,368 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 4104576,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": false,
+    "copyright": "Max Ischenko",
+    "cover_photo_url": null,
+    "created_at": "2020-12-26T15:38:24.419Z",
+    "custom_domain_optional": false,
+    "custom_domain": "newsletter.maxua.com",
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "Max Ischenko",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Блог Max Ischenko про стартапи, Джин і все потрошку.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 246380,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45411855-3b2b-43c6-8b44-399c5cbc5a25_1280x1280.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Startups are hard",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/853a0b81-5e5f-458b-88a9-0ba3442ac8aa_1400x1400.png",
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": "Max Ischenko",
+    "podcast_description": "Подкаст Джина",
+    "podcast_enabled": true,
+    "podcast_feed_url": "https://feeds.transistor.fm/startups-are-hard",
+    "podcast_title": "Startups are hard",
+    "post_preview_limit": null,
+    "primary_user_id": 4104576,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": true,
+    "show_recs_on_homepage": true,
+    "subdomain": "maxua",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#ff9900",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Max Ischenko",
+    "author_handle": "maxua",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0772bb9-6bbe-44fb-b050-dbb9f7bb842b_200x200.jpeg",
+    "author_bio": "I moved my blog off Substack: go to maxua.com and subscribe! ;)",
+    "twitter_screen_name": "maxua",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": false,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2020-12-29T07:00:03.653Z",
+    "has_podcast": true,
+    "has_free_podcast": true,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "write",
+    "rankingDetail": "Launched 4 years ago",
+    "rankingDetailFreeIncluded": "Thousands of subscribers",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+    "rankingDetailFreeSubscriberCount": "Over 2,000 subscribers",
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 4 Jahren",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 2,000 subscribers",
+            "freeSubscriberCount": "2,000",
+            "freeSubscriberCountOrderOfMagnitude": "2.4K+"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 4 años",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 2,000 subscribers",
+            "freeSubscriberCount": "2,000",
+            "freeSubscriberCountOrderOfMagnitude": "2.4K+"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 4 années",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 2,000 subscribers",
+            "freeSubscriberCount": "2,000",
+            "freeSubscriberCountOrderOfMagnitude": "2.4K+"
+        },
+        "pt": {
+            "rankingDetail": "Launched 4 anos",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 2,000 subscribers",
+            "freeSubscriberCount": "2,000",
+            "freeSubscriberCountOrderOfMagnitude": "2.4K+"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 4 anos",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 2,000 subscribers",
+            "freeSubscriberCount": "2,000",
+            "freeSubscriberCountOrderOfMagnitude": "2.4K+"
+        },
+        "it": {
+            "rankingDetail": "Launched 4 anni",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 2,000 subscribers",
+            "freeSubscriberCount": "2,000",
+            "freeSubscriberCountOrderOfMagnitude": "2.4K+"
+        },
+        "en": {
+            "rankingDetail": "Launched 4 years ago",
+            "rankingDetailFreeIncluded": "Thousands of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1000,
+            "rankingDetailFreeSubscriberCount": "Over 2,000 subscribers",
+            "freeSubscriberCount": "2,000",
+            "freeSubscriberCountOrderOfMagnitude": "2.4K+"
+        }
+    },
+    "freeSubscriberCount": "2,000",
+    "freeSubscriberCountOrderOfMagnitude": "2.4K+",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Max Ischenko",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0772bb9-6bbe-44fb-b050-dbb9f7bb842b_200x200.jpeg",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "Max Ischenko",
+            "handle": "maxua",
+            "role": "admin",
+            "owner": true,
+            "user_id": 4104576,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d0772bb9-6bbe-44fb-b050-dbb9f7bb842b_200x200.jpeg",
+            "bio": "I moved my blog off Substack: go to maxua.com and subscribe! ;)"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://newsletter.maxua.com",
+    "hostname": "newsletter.maxua.com",
+    "is_on_substack": false,
+    "show_links": [
+        {
+            "id": 448,
+            "publication_id": 246380,
+            "section_id": null,
+            "url": "https://podcasts.apple.com/us/podcast/startups-are-hard/id1616301447",
+            "platform": "apple_podcasts"
+        },
+        {
+            "id": 449,
+            "publication_id": 246380,
+            "section_id": null,
+            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9uZXdzbGV0dGVyLm1heHVhLmNvbS9mZWVk",
+            "platform": "google_podcasts"
+        },
+        {
+            "id": 450,
+            "publication_id": 246380,
+            "section_id": null,
+            "url": "https://overcast.fm/itunes1616301447/startups-are-hard",
+            "platform": "overcast"
+        },
+        {
+            "id": 447,
+            "publication_id": 246380,
+            "section_id": null,
+            "url": "https://open.spotify.com/show/2lnCQcCqkCxRI8yVbNeJfm",
+            "platform": "spotify"
+        }
+    ],
+    "spotify_podcast_settings": {
+        "id": 10269,
+        "publication_id": 246380,
+        "section_id": null,
+        "spotify_access_token": "c59af71d-d893-4ddf-b5ae-c18ce217d25b",
+        "spotify_uri": "spotify:show:6CJxC3gHnpX9lCibZCw7CV",
+        "spotify_podcast_title": null,
+        "created_at": "2024-05-09T11:58:40.041Z",
+        "updated_at": "2024-10-04T11:51:25.896Z",
+        "currently_published_on_spotify": true,
+        "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/c59af71d-d893-4ddf-b5ae-c18ce217d25b/246380.rss",
+        "spotify_show_url": "https://open.spotify.com/show/6CJxC3gHnpX9lCibZCw7CV"
+    },
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                252,
+                148,
+                76
+            ],
+            "population": 4422
+        },
+        "DarkVibrant": {
+            "rgb": [
+                130.4142857142857,
+                54.64285714285715,
+                2.1857142857142837
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                252,
+                172,
+                124
+            ],
+            "population": 64
+        },
+        "Muted": {
+            "rgb": [
+                150.47802197802199,
+                63.049450549450555,
+                2.521978021978013
+            ],
+            "population": 0
+        },
+        "DarkMuted": {
+            "rgb": [
+                150.47802197802199,
+                63.049450549450555,
+                2.521978021978013
+            ],
+            "population": 0
+        },
+        "LightMuted": {
+            "rgb": [
+                149.57462686567163,
+                58.2313432835821,
+                3.425373134328351
+            ],
+            "population": 0
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                252,
+                148,
+                76
+            ],
+            "population": 4339
+        },
+        "DarkVibrant": {
+            "rgb": [
+                130.4142857142857,
+                54.64285714285715,
+                2.1857142857142837
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                251,
+                164,
+                107
+            ],
+            "population": 154
+        },
+        "Muted": {
+            "rgb": [
+                180,
+                148,
+                124
+            ],
+            "population": 1
+        },
+        "DarkMuted": {
+            "rgb": [
+                117,
+                101,
+                94
+            ],
+            "population": 19
+        },
+        "LightMuted": {
+            "rgb": [
+                180,
+                180,
+                182
+            ],
+            "population": 3
+        }
+    }
+}

@@ -1,0 +1,1400 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 188324122,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Пара́граф",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/dff33dd1-debe-46cd-b31b-76953c617300_600x600.png",
+    "created_at": "2023-12-10T06:09:18.511Z",
+    "custom_domain_optional": false,
+    "custom_domain": "www.paragraf.is",
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "Пара́граф",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [],
+    "free_subscription_benefits": [
+        "Усі публічні публікації"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Мікромедіа та культурно-освітній проєкт, який перечитує культуру через призму феміністичного аналізу та висвітлює важливі соціальні теми.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 2169602,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda2d338b-13da-43bd-b93d-d489a4f08d59_1344x256.png",
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F914a191d-3024-4a3f-a799-aa9a4dc1ffbb_1080x1080.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Пара́граф",
+    "paid_subscription_benefits": [
+        "Дописи лише для підписників і повний архів публікацій",
+        "Ексклюзивні інтерв'ю, матеріали та репортажі",
+        "Доступ до чату спільноти"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 188324122,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "paragrafis",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#A33ACB",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly50usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1702278379,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$50 a year",
+            "product": "prod_PAOLT0e86f2Ek3",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 28500,
+                    "unit_amount_decimal": "28500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4500,
+                    "unit_amount_decimal": "4500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 34500,
+                    "unit_amount_decimal": "34500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4700,
+                    "unit_amount_decimal": "4700"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 101500,
+                    "unit_amount_decimal": "101500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 52500,
+                    "unit_amount_decimal": "52500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 19500,
+                    "unit_amount_decimal": "19500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 50000,
+                    "unit_amount_decimal": "50000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                }
+            }
+        },
+        {
+            "id": "monthly5usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1702278379,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$5 a month",
+            "product": "prod_PAOLWbsDZRCwUc",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2900,
+                    "unit_amount_decimal": "2900"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3500,
+                    "unit_amount_decimal": "3500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 400,
+                    "unit_amount_decimal": "400"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2000,
+                    "unit_amount_decimal": "2000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                }
+            }
+        },
+        {
+            "id": "founding10000usd",
+            "name": "founding10000usd",
+            "nickname": "founding10000usd",
+            "active": true,
+            "amount": 10000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Читач-засновник",
+                "short_description_english": "Читач-засновник",
+                "minimum": "10000",
+                "minimum_local": {
+                    "aud": 15500,
+                    "brl": 56000,
+                    "cad": 14000,
+                    "chf": 8500,
+                    "dkk": 65500,
+                    "eur": 9000,
+                    "gbp": 7500,
+                    "mxn": 191500,
+                    "nok": 101500,
+                    "nzd": 17000,
+                    "pln": 38000,
+                    "sek": 96500,
+                    "usd": 10000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 15500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 56000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 14000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 8500,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 65500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 9000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 7500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 191500,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 101500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 17000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 38000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 96500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 10000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1OM3QqLBXEvB7m1q",
+    "stripe_country": "JP",
+    "stripe_publishable_key": "pk_live_51OM3QqLBXEvB7m1qhZ0nO5JwX5HOxvhkBsmfVdX61TB3tImc0aMSINb7GFzQIhA8iSxredTtIeZ6cax1iOXQy6VZ00lsS1vJcS",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Пара́граф",
+    "author_handle": "paragrafis",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F914a191d-3024-4a3f-a799-aa9a4dc1ffbb_1080x1080.png",
+    "author_bio": "Ми — мікромедіа та культурно-освітній проєкт Пара́граф.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#ff5c39",
+        "web_bg_color": "#f3efec",
+        "cover_bg_color": "#f3efec",
+        "publication_id": 2169602,
+        "color_links": null,
+        "font_preset_heading": null,
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magaziney",
+        "home_posts": "grid",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": false,
+        "boost_free_subscriber_chat_preview_enabled": true,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2023-12-10T06:40:12.141Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched a year ago",
+    "rankingDetailFreeIncluded": "Launched a year ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor einem Jahr",
+            "rankingDetailFreeIncluded": "Launched vor einem Jahr",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "3"
+        },
+        "es": {
+            "rankingDetail": "Launched hace un año",
+            "rankingDetailFreeIncluded": "Launched hace un año",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "3"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a une année",
+            "rankingDetailFreeIncluded": "Launched il y a une année",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "3"
+        },
+        "pt": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Launched 1 ano",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "3"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Launched 1 ano",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "3"
+        },
+        "it": {
+            "rankingDetail": "Launched 1 anno",
+            "rankingDetailFreeIncluded": "Launched 1 anno",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "3"
+        },
+        "en": {
+            "rankingDetail": "Launched a year ago",
+            "rankingDetailFreeIncluded": "Launched a year ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "3"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "3",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Пара́граф",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F914a191d-3024-4a3f-a799-aa9a4dc1ffbb_1080x1080.png",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "7fc444e4-95f6-48fe-836b-f4af17fcf3c9",
+            "publication_id": 2169602,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": null
+        },
+        {
+            "id": "354e4ece-783d-4fe3-b6e6-f34d83614032",
+            "publication_id": 2169602,
+            "sibling_rank": 1,
+            "link_title": "Есе",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 139688777,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": {
+                "id": 139688777,
+                "publication_id": 2169602,
+                "is_published": true,
+                "title": "Есе",
+                "body": "s3://substack-content/post/139688777/2023-12-11T10-32-04-033Z/188324122/4de5421a54a28a3a137892e65f091209449fc32d",
+                "slug": "ef7",
+                "post_date": "2023-12-11T10:32:06.569Z",
+                "draft_title": "Есе",
+                "draft_body": "s3://substack-content/post/139688777/2023-12-11T10-32-04-033Z/188324122/4de5421a54a28a3a137892e65f091209449fc32d",
+                "draft_updated_at": "2023-12-11T10:32:04.133Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "50adfb20-88af-4b0a-9ae0-65de1d3cb932",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2023-12-11T10:32:06.569Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 0,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2023-12-11T10:31:59.889Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            }
+        },
+        {
+            "id": "6abe76cb-8330-41b7-b4ee-a802d5d536cb",
+            "publication_id": 2169602,
+            "sibling_rank": 2,
+            "link_title": "Книги",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 139688784,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": {
+                "id": 139688784,
+                "publication_id": 2169602,
+                "is_published": true,
+                "title": "Книги",
+                "body": "s3://substack-content/post/139688784/2023-12-11T10-32-35-071Z/188324122/89079dbc47866f51b46f08d4c3c70073bb8cb66b",
+                "slug": "6bd",
+                "post_date": "2023-12-11T10:32:39.788Z",
+                "draft_title": "Книги",
+                "draft_body": "s3://substack-content/post/139688784/2023-12-11T10-32-35-071Z/188324122/89079dbc47866f51b46f08d4c3c70073bb8cb66b",
+                "draft_updated_at": "2023-12-11T10:32:35.104Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "2e3e9c1e-478c-4954-aece-8aa2871d3f60",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2023-12-11T10:32:39.788Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 0,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2023-12-11T10:32:31.658Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            }
+        },
+        {
+            "id": "b40325ef-92f8-4f35-b2cc-9a848aed09b5",
+            "publication_id": 2169602,
+            "sibling_rank": 3,
+            "link_title": "Культура",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 139688736,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": {
+                "id": 139688736,
+                "publication_id": 2169602,
+                "is_published": true,
+                "title": "Культура",
+                "body": "s3://substack-content/post/139688736/2023-12-11T10-30-50-244Z/188324122/c502d3dbe9a00f6ec87a2c852ac895dcfa88d3e4",
+                "slug": "036",
+                "post_date": "2023-12-11T10:30:59.080Z",
+                "draft_title": "Культура",
+                "draft_body": "s3://substack-content/post/139688736/2023-12-11T10-30-50-244Z/188324122/c502d3dbe9a00f6ec87a2c852ac895dcfa88d3e4",
+                "draft_updated_at": "2023-12-11T10:30:50.346Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "151b3e18-484e-45ba-995d-291f0e849d9a",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2023-12-11T10:30:59.080Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 0,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2023-12-11T10:28:53.755Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            }
+        },
+        {
+            "id": "2aa406a5-e0b9-4279-ac78-629e0bd1ce01",
+            "publication_id": 2169602,
+            "sibling_rank": 4,
+            "link_title": "Фемінізм",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 139688791,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": {
+                "id": 139688791,
+                "publication_id": 2169602,
+                "is_published": true,
+                "title": "Фемінізм",
+                "body": "s3://substack-content/post/139688791/2023-12-11T10-33-11-382Z/942f0399ee569d59fb6b28aca668ddce349ad078",
+                "slug": "9b9",
+                "post_date": "2023-12-11T10:33:15.628Z",
+                "draft_title": "Фемінізм",
+                "draft_body": "s3://substack-content/post/139688791/2023-12-11T10-33-11-382Z/942f0399ee569d59fb6b28aca668ddce349ad078",
+                "draft_updated_at": "2023-12-11T10:33:11.374Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "dddebb59-b667-4537-81fc-10edb5e3b9ad",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2023-12-11T10:33:15.628Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 0,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2023-12-11T10:33:11.374Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            }
+        },
+        {
+            "id": "c56a51e0-d8b6-4d28-907d-780427a75ead",
+            "publication_id": 2169602,
+            "sibling_rank": 5,
+            "link_title": "Новини",
+            "link_url": "",
+            "section_id": null,
+            "post_id": 139688807,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "section": null,
+            "postTag": null,
+            "post": {
+                "id": 139688807,
+                "publication_id": 2169602,
+                "is_published": true,
+                "title": "Новини",
+                "body": "s3://substack-content/post/139688807/2023-12-11T10-34-25-537Z/479181a9b0e3e48397d46b79f6d06fba18b17b0f",
+                "slug": "b30",
+                "post_date": "2023-12-11T10:34:30.812Z",
+                "draft_title": "Новини",
+                "draft_body": "s3://substack-content/post/139688807/2023-12-11T10-34-25-537Z/479181a9b0e3e48397d46b79f6d06fba18b17b0f",
+                "draft_updated_at": "2023-12-11T10:34:25.526Z",
+                "subtitle": "",
+                "draft_subtitle": "",
+                "email_sent_at": null,
+                "audience": "everyone",
+                "type": "page",
+                "podcast_url": "",
+                "draft_podcast_url": "",
+                "podcast_duration": null,
+                "draft_podcast_duration": null,
+                "podcast_art_url": null,
+                "podcast_description": null,
+                "podcast_subtitle": null,
+                "explicit": null,
+                "podcast_content": null,
+                "podcast_guid": null,
+                "social_title": null,
+                "description": null,
+                "cover_image": null,
+                "imported_podcast_url": null,
+                "imported_podcast_art_url": null,
+                "uuid": "a6a18cd9-4d19-4a1e-8fc3-2dd258b90aac",
+                "write_comment_permissions": "everyone",
+                "should_send_email": false,
+                "default_comment_sort": null,
+                "search_engine_title": null,
+                "search_engine_description": null,
+                "updated_at": "2023-12-11T10:34:30.812Z",
+                "canonical_url": null,
+                "subscriber_set_id": null,
+                "section_id": null,
+                "section_chosen": false,
+                "draft_section_id": null,
+                "show_guest_bios": true,
+                "reply_to_post_id": null,
+                "should_send_free_preview": false,
+                "word_count": 0,
+                "video_upload_id": null,
+                "draft_video_upload_id": null,
+                "draft_created_at": "2023-12-11T10:34:25.526Z",
+                "podcast_upload_id": null,
+                "draft_podcast_upload_id": null,
+                "voiceover_upload_id": null,
+                "draft_voiceover_upload_id": null,
+                "free_unlock_required": false,
+                "podcast_preview_upload_id": null,
+                "draft_podcast_preview_upload_id": null,
+                "legacy_podcast_file_size": null,
+                "syndicate_voiceover_to_rss": false,
+                "audience_before_archived": null,
+                "should_send_stats_email": true,
+                "exempt_from_archive_paywall": false,
+                "has_explicit_paywall": false,
+                "inbox_sent_at": null,
+                "editor_v2": false,
+                "teaser_post_eligible": true,
+                "has_dismissed_tk_warning": false,
+                "live_stream_id": null,
+                "is_draft_hidden": false,
+                "meter_type": "none"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Пара́граф",
+            "handle": "paragrafis",
+            "role": "admin",
+            "owner": true,
+            "user_id": 188324122,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/914a191d-3024-4a3f-a799-aa9a4dc1ffbb_1080x1080.png",
+            "bio": "Ми — мікромедіа та культурно-освітній проєкт Пара́граф."
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": {
+        "id": "fedb6a9b-9fb7-4cb0-aeb7-21adf2802e1f",
+        "publication_id": 2169602,
+        "enabled": false,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": false,
+        "message": "Мікромедіа та культурно-освітній проєкт, який перечитує культуру через призму феміністичного аналізу та висвітлює важливі соціальні теми.",
+        "created_at": "2023-12-11T07:07:17.682269+00:00",
+        "updated_at": "2023-12-11T07:07:17.682269+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Читач-засновник",
+    "draft_plans": [
+        {
+            "id": "yearly50usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1702278379,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$50 a year",
+            "product": "prod_PAOLT0e86f2Ek3",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 28500,
+                    "unit_amount_decimal": "28500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4500,
+                    "unit_amount_decimal": "4500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 34500,
+                    "unit_amount_decimal": "34500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4700,
+                    "unit_amount_decimal": "4700"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3900,
+                    "unit_amount_decimal": "3900"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 101500,
+                    "unit_amount_decimal": "101500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 52500,
+                    "unit_amount_decimal": "52500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 19500,
+                    "unit_amount_decimal": "19500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 50000,
+                    "unit_amount_decimal": "50000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                }
+            }
+        },
+        {
+            "id": "monthly5usd",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1702278379,
+            "currency": "usd",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "$5 a month",
+            "product": "prod_PAOLWbsDZRCwUc",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2900,
+                    "unit_amount_decimal": "2900"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3500,
+                    "unit_amount_decimal": "3500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 400,
+                    "unit_amount_decimal": "400"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2000,
+                    "unit_amount_decimal": "2000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                }
+            }
+        },
+        {
+            "id": "founding10000usd",
+            "name": "founding10000usd",
+            "nickname": "founding10000usd",
+            "active": true,
+            "amount": 10000,
+            "currency": "usd",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Читач-засновник",
+                "short_description_english": "Читач-засновник",
+                "minimum": "10000",
+                "minimum_local": {
+                    "aud": 15500,
+                    "brl": 56000,
+                    "cad": 14000,
+                    "chf": 8500,
+                    "dkk": 65500,
+                    "eur": 9000,
+                    "gbp": 7500,
+                    "mxn": 191500,
+                    "nok": 101500,
+                    "nzd": 17000,
+                    "pln": 38000,
+                    "sek": 96500,
+                    "usd": 10000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 15500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 56000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 14000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 8500,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 65500,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 9000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 7500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 191500,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 101500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 17000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 38000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 96500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 10000,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "base_url": "https://www.paragraf.is",
+    "hostname": "www.paragraf.is",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                252,
+                92,
+                59
+            ],
+            "population": 546
+        },
+        "DarkVibrant": {
+            "rgb": [
+                130.60100502512563,
+                23.987939698492458,
+                1.9989949748743623
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                252,
+                146,
+                122
+            ],
+            "population": 52
+        },
+        "Muted": {
+            "rgb": [
+                150.6934673366834,
+                27.678391959798997,
+                2.3065326633165872
+            ],
+            "population": 0
+        },
+        "DarkMuted": {
+            "rgb": [
+                150.6934673366834,
+                27.678391959798997,
+                2.3065326633165872
+            ],
+            "population": 0
+        },
+        "LightMuted": {
+            "rgb": [
+                244,
+                236,
+                236
+            ],
+            "population": 5558
+        }
+    }
+}

@@ -1,0 +1,1439 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": "vasilkolev.com",
+    "author_id": 245491454,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Vassil Kolev",
+    "cover_photo_url": null,
+    "created_at": "2024-06-13T07:55:43.192Z",
+    "custom_domain_optional": false,
+    "custom_domain": "www.vasilkolev.com",
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": "73366e6f",
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": "Васил Колев ",
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [
+        "Безплатни книги, публикувани от автора"
+    ],
+    "free_subscription_benefits": [
+        "Селектирани текстове от предложените на платените абонати"
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "И още: анализи, коментари, пътеписи и множество интересни неща за великата игра и големите мачове. Често и лично от мястото на събитието.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 2703123,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47ede87b-27c9-432e-8ed9-df56320557b0_640x640.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Футболни истории от Васил Колев",
+    "paid_subscription_benefits": [
+        "„Гурме за левскари“ - анализи на мачовете, поредици, кратки текстове по различни теми",
+        "„Пътеписи“ - футболни събития и туризъм, поредица \"Футболните градове\"",
+        "„Футболни истории от Васил Колев“ - актуални истории от българския и световния футбол, европейските турнири и Мондиалите"
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 245491454,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "vkolev",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#8AE1A2",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly50eur",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1720387615,
+            "currency": "eur",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "€50 a year",
+            "product": "prod_QQuQEFqrjVjUKn",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 31000,
+                    "unit_amount_decimal": "31000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4800,
+                    "unit_amount_decimal": "4800"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 37500,
+                    "unit_amount_decimal": "37500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4200,
+                    "unit_amount_decimal": "4200"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 109500,
+                    "unit_amount_decimal": "109500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 56500,
+                    "unit_amount_decimal": "56500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 21000,
+                    "unit_amount_decimal": "21000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 54000,
+                    "unit_amount_decimal": "54000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                }
+            }
+        },
+        {
+            "id": "monthly5eur",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1720387614,
+            "currency": "eur",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "€5 a month",
+            "product": "prod_QQuQ3wsUiQtsRi",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3100,
+                    "unit_amount_decimal": "3100"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3800,
+                    "unit_amount_decimal": "3800"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11000,
+                    "unit_amount_decimal": "11000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2100,
+                    "unit_amount_decimal": "2100"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 600,
+                    "unit_amount_decimal": "600"
+                }
+            }
+        },
+        {
+            "id": "founding10000eur",
+            "name": "founding10000eur",
+            "nickname": "founding10000eur",
+            "active": true,
+            "amount": 10000,
+            "currency": "eur",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "10000",
+                "minimum_local": {
+                    "aud": 18000,
+                    "brl": 63500,
+                    "cad": 16000,
+                    "chf": 9500,
+                    "dkk": 75000,
+                    "eur": 10000,
+                    "gbp": 8500,
+                    "mxn": 218000,
+                    "nok": 115500,
+                    "nzd": 19000,
+                    "pln": 43000,
+                    "sek": 110000,
+                    "usd": 11500
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 63500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 16000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 9500,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 75000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 10000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 8500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 218000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 115500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 19000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 43000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 110000,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 11500,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1Pa2PPEjouPl96zR",
+    "stripe_country": "BG",
+    "stripe_publishable_key": "pk_live_51Pa2PPEjouPl96zR3EVnek66SIunVSu1zd8ChISX2J4Km1JqIjY3nGGJoKN9ghwJgjhB1aQ0EBsDxd38Dk16Nkb800DOnE8tlx",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Vassil Kolev",
+    "author_handle": "vascok",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faec88d00-1aac-4d28-820f-fb3e428fccf3_2091x2788.jpeg",
+    "author_bio": "Футболен журналист и броудкастър/Football writer and broadcaster",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": null,
+        "web_bg_color": null,
+        "cover_bg_color": null,
+        "home_hero": "newspaper",
+        "home_posts": "list"
+    },
+    "threads_v2_settings": null,
+    "default_group_coupon_percent_off": "20.00",
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2024-07-18T12:51:55.256Z",
+    "has_podcast": true,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": true,
+    "has_community_content": true,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched a year ago",
+    "rankingDetailFreeIncluded": "Hundreds of subscribers",
+    "rankingDetailOrderOfMagnitude": 10,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor einem Jahr",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "641"
+        },
+        "es": {
+            "rankingDetail": "Launched hace un año",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "641"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a une année",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "641"
+        },
+        "pt": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "641"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 1 ano",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "641"
+        },
+        "it": {
+            "rankingDetail": "Launched 1 anno",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "641"
+        },
+        "en": {
+            "rankingDetail": "Launched a year ago",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 10,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "641"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "641",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Vassil Kolev",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faec88d00-1aac-4d28-820f-fb3e428fccf3_2091x2788.jpeg",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 136204,
+            "created_at": "2024-07-07T21:36:19.616Z",
+            "updated_at": "2024-07-07T21:36:19.724Z",
+            "publication_id": 2703123,
+            "name": "Гурме за левскари",
+            "description": "Всичко, което искате да знаете за Левски",
+            "slug": "c11",
+            "is_podcast": true,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b7217196-7518-48d4-b899-b3c47cf6d4df_1280x1280.png",
+            "hide_from_navbar": false,
+            "email_from_name": "Васил Колев",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "spotifyPodcastSettings": {
+                "id": 15736,
+                "publication_id": null,
+                "section_id": 136204,
+                "spotify_access_token": "1aeccff1-080b-439f-b9a1-f289758e0ce2",
+                "spotify_uri": null,
+                "spotify_podcast_title": null,
+                "created_at": "2024-07-07T21:36:33.029Z",
+                "updated_at": "2024-07-07T21:36:33.029Z",
+                "currently_published_on_spotify": false
+            },
+            "pageTheme": null,
+            "podcastSettings": {
+                "section_id": 136204,
+                "itunes_podcast_primary_category": "Sports",
+                "itunes_podcast_primary_subcategory": "Football",
+                "itunes_podcast_secondary_category": "Sports",
+                "itunes_podcast_secondary_subcategory": "",
+                "itunes_email": null,
+                "language": null,
+                "itunes_explicit": false,
+                "podcast_art_url": "https://substack-post-media.s3.amazonaws.com/public/images/a6442ca6-093b-4627-9ca6-eb20d397b1d6_2091x2091.png",
+                "podcast_subtitle": null,
+                "podcast_keywords": null,
+                "hide_podcast_feed_link": false,
+                "podcast_feed_url": null,
+                "podcast_title": "Гурме за левскари",
+                "podcast_description": "Анализи на Васил Колев за всичко най-интересно около Левски",
+                "podcast_byline": "Vassil Kolev",
+                "paid_podcast_episode_art_url": null,
+                "migrated_to_attached_podcast": false
+            },
+            "showLinks": [],
+            "podcastPalette": {
+                "Vibrant": {
+                    "rgb": [
+                        81,
+                        172,
+                        217
+                    ],
+                    "population": 3
+                },
+                "DarkVibrant": {
+                    "rgb": [
+                        23,
+                        45,
+                        75
+                    ],
+                    "population": 18
+                },
+                "LightVibrant": {
+                    "rgb": [
+                        223,
+                        173,
+                        147
+                    ],
+                    "population": 141
+                },
+                "Muted": {
+                    "rgb": [
+                        159,
+                        115,
+                        102
+                    ],
+                    "population": 84
+                },
+                "DarkMuted": {
+                    "rgb": [
+                        106,
+                        46,
+                        52
+                    ],
+                    "population": 8
+                },
+                "LightMuted": {
+                    "rgb": [
+                        171,
+                        193,
+                        197
+                    ],
+                    "population": 551
+                }
+            },
+            "spotify_podcast_settings": {
+                "id": 15736,
+                "publication_id": null,
+                "section_id": 136204,
+                "spotify_access_token": "1aeccff1-080b-439f-b9a1-f289758e0ce2",
+                "spotify_uri": null,
+                "spotify_podcast_title": null,
+                "created_at": "2024-07-07T21:36:33.029Z",
+                "updated_at": "2024-07-07T21:36:33.029Z",
+                "currently_published_on_spotify": false,
+                "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/1aeccff1-080b-439f-b9a1-f289758e0ce2/2703123/s/136204.rss",
+                "spotify_show_url": ""
+            }
+        },
+        {
+            "id": 141037,
+            "created_at": "2024-07-30T11:58:13.032Z",
+            "updated_at": "2024-07-30T11:58:13.742Z",
+            "publication_id": 2703123,
+            "name": "Футболни пътеписи",
+            "description": "Футбол, хапване и пийване са съвършената формула на футболните пътувания. Моите преживявания са нещо, за което пиша с удоволствие.",
+            "slug": "9cc",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3f6e3a7b-05bd-4c9f-8316-0fb4fa192886_1280x1280.png",
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "spotifyPodcastSettings": null,
+            "pageTheme": null,
+            "podcastSettings": null,
+            "showLinks": [],
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 154506,
+            "created_at": "2024-10-04T06:02:20.236Z",
+            "updated_at": "2024-10-04T06:04:25.247Z",
+            "publication_id": 2703123,
+            "name": "Тайните истории от световните първенства",
+            "description": "Малко известни неща от най-голямото футболно събитие на планетата",
+            "slug": "297",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 3,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/6a0e2b14-799e-4028-8d63-c6f14480573d_279x279.png",
+            "hide_from_navbar": false,
+            "email_from_name": "Васил Колев",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "spotifyPodcastSettings": null,
+            "pageTheme": null,
+            "podcastSettings": null,
+            "showLinks": [],
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 195692,
+            "created_at": "2025-03-04T10:28:49.835Z",
+            "updated_at": "2025-03-04T10:28:51.436Z",
+            "publication_id": 2703123,
+            "name": "В сянката на купата с големите уши",
+            "description": "Историята на европейските турнири",
+            "slug": "6af",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 4,
+            "port_status": "success",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/61361960-b370-48e4-a44b-3e17322c1d09_1280x1280.png",
+            "hide_from_navbar": false,
+            "email_from_name": "Футболни истории от Васил Колев",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "spotifyPodcastSettings": null,
+            "pageTheme": null,
+            "podcastSettings": null,
+            "showLinks": [],
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "7f1fa4ff-0913-4009-b73d-b1b47c3565cf",
+            "publication_id": 2703123,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 154506,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 154506,
+                "created_at": "2024-10-04T06:02:20.236Z",
+                "updated_at": "2024-10-04T06:04:25.247Z",
+                "publication_id": 2703123,
+                "name": "Тайните истории от световните първенства",
+                "description": "Малко известни неща от най-голямото футболно събитие на планетата",
+                "slug": "297",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 3,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/6a0e2b14-799e-4028-8d63-c6f14480573d_279x279.png",
+                "hide_from_navbar": false,
+                "email_from_name": "Васил Колев",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "b8a13508-85d7-4d7c-a7ca-0a3f9cfad3e1",
+            "publication_id": 2703123,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 136204,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 136204,
+                "created_at": "2024-07-07T21:36:19.616Z",
+                "updated_at": "2024-07-07T21:36:19.724Z",
+                "publication_id": 2703123,
+                "name": "Гурме за левскари",
+                "description": "Всичко, което искате да знаете за Левски",
+                "slug": "c11",
+                "is_podcast": true,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b7217196-7518-48d4-b899-b3c47cf6d4df_1280x1280.png",
+                "hide_from_navbar": false,
+                "email_from_name": "Васил Колев",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "4c51e77a-272e-45e3-bbaa-d4fb79092607",
+            "publication_id": 2703123,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 141037,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 141037,
+                "created_at": "2024-07-30T11:58:13.032Z",
+                "updated_at": "2024-07-30T11:58:13.742Z",
+                "publication_id": 2703123,
+                "name": "Футболни пътеписи",
+                "description": "Футбол, хапване и пийване са съвършената формула на футболните пътувания. Моите преживявания са нещо, за което пиша с удоволствие.",
+                "slug": "9cc",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3f6e3a7b-05bd-4c9f-8316-0fb4fa192886_1280x1280.png",
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "3891a627-b229-4231-916b-ab13e302afaa",
+            "publication_id": 2703123,
+            "sibling_rank": 9999,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 195692,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 195692,
+                "created_at": "2025-03-04T10:28:49.835Z",
+                "updated_at": "2025-03-04T10:28:51.436Z",
+                "publication_id": 2703123,
+                "name": "В сянката на купата с големите уши",
+                "description": "Историята на европейските турнири",
+                "slug": "6af",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 4,
+                "port_status": "success",
+                "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/61361960-b370-48e4-a44b-3e17322c1d09_1280x1280.png",
+                "hide_from_navbar": false,
+                "email_from_name": "Футболни истории от Васил Колев",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Vassil Kolev",
+            "handle": "vascok",
+            "role": "admin",
+            "owner": true,
+            "user_id": 245491454,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/aec88d00-1aac-4d28-820f-fb3e428fccf3_2091x2788.jpeg",
+            "bio": "Футболен журналист и броудкастър/Football writer and broadcaster"
+        }
+    ],
+    "threads_v2_enabled": false,
+    "viralGiftsConfig": {
+        "id": "173b6e8f-0c63-4f4f-a96e-5dc43514c0dc",
+        "publication_id": 2703123,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "My personal Substack",
+        "created_at": "2024-07-07T21:26:59.593993+00:00",
+        "updated_at": "2024-07-07T21:26:59.593993+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\"},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Скъпи приятелю,\"},{\"type\":\"hard_break\"},{\"type\":\"text\",\"text\":\"Благодаря, че сте абонат на “Футболни истории от Васил Колев”. Като платен абонат помагате за това, което е днес този блог.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Като благодарност имате три БЕЗПЛАТНИ 1-месечни абонамента, които можете да раздадете на приятелите си или семейството. Познавате някого, който би се заинтересувал от този блог? Кликнете на бутона по-долу е можете да раздадете своите подаръци.\"}]},{\"type\":\"paragraph\"},{\"type\":\"button\",\"attrs\":{\"url\":\"%%grant_gift_url%%\",\"text\":\"Give a subscription\",\"action\":null,\"class\":\"left\"}},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Благодаря още веднъж, че четете и разпространявате Футболни истории от Васил Колев!\"}]}]}",
+        "grant_email_subject": "Футболни истории от Васил Колев subscriptions for you to give away"
+    },
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": [
+        {
+            "id": "yearly50eur",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 5000,
+            "amount_decimal": "5000",
+            "billing_scheme": "per_unit",
+            "created": 1720387615,
+            "currency": "eur",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "€50 a year",
+            "product": "prod_QQuQEFqrjVjUKn",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 31000,
+                    "unit_amount_decimal": "31000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4800,
+                    "unit_amount_decimal": "4800"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 37500,
+                    "unit_amount_decimal": "37500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5000,
+                    "unit_amount_decimal": "5000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4200,
+                    "unit_amount_decimal": "4200"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 109500,
+                    "unit_amount_decimal": "109500"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 56500,
+                    "unit_amount_decimal": "56500"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9500,
+                    "unit_amount_decimal": "9500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 21000,
+                    "unit_amount_decimal": "21000"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 54000,
+                    "unit_amount_decimal": "54000"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                }
+            }
+        },
+        {
+            "id": "monthly5eur",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 500,
+            "amount_decimal": "500",
+            "billing_scheme": "per_unit",
+            "created": 1720387614,
+            "currency": "eur",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "€5 a month",
+            "product": "prod_QQuQ3wsUiQtsRi",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3100,
+                    "unit_amount_decimal": "3100"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 3800,
+                    "unit_amount_decimal": "3800"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 500,
+                    "unit_amount_decimal": "500"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11000,
+                    "unit_amount_decimal": "11000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6000,
+                    "unit_amount_decimal": "6000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 2100,
+                    "unit_amount_decimal": "2100"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 5500,
+                    "unit_amount_decimal": "5500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 600,
+                    "unit_amount_decimal": "600"
+                }
+            }
+        },
+        {
+            "id": "founding10000eur",
+            "name": "founding10000eur",
+            "nickname": "founding10000eur",
+            "active": true,
+            "amount": 10000,
+            "currency": "eur",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Founding Member",
+                "short_description_english": "Founding Member",
+                "minimum": "10000",
+                "minimum_local": {
+                    "aud": 18000,
+                    "brl": 63500,
+                    "cad": 16000,
+                    "chf": 9500,
+                    "dkk": 75000,
+                    "eur": 10000,
+                    "gbp": 8500,
+                    "mxn": 218000,
+                    "nok": 115500,
+                    "nzd": 19000,
+                    "pln": 43000,
+                    "sek": 110000,
+                    "usd": 11500
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 18000,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 63500,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 16000,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 9500,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 75000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 10000,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 8500,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 218000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 115500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 19000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 43000,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 110000,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 11500,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "base_url": "https://www.vasilkolev.com",
+    "hostname": "www.vasilkolev.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                174.57692307692307,
+                127.5,
+                80.42307692307692
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                89,
+                65,
+                41
+            ],
+            "population": 88
+        },
+        "LightVibrant": {
+            "rgb": [
+                213.18,
+                188.7,
+                164.21999999999997
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                140,
+                122,
+                99
+            ],
+            "population": 401
+        },
+        "DarkMuted": {
+            "rgb": [
+                92,
+                95,
+                50
+            ],
+            "population": 284
+        },
+        "LightMuted": {
+            "rgb": [
+                196,
+                198,
+                186
+            ],
+            "population": 4
+        }
+    }
+}

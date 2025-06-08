@@ -1,0 +1,534 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 65664315,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Serhii Povísenko",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e06e824d-1e10-4de2-9a30-fd5c734ad368_960x531.png",
+    "created_at": "2022-12-11T20:35:03.817Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "transl. On the topic of. Here I write in Ukrainian and English to shape my views and share them with the world. Subscribe to get a copy of the not-so-often newsletter.",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": false,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "newspaper",
+    "id": 1237492,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1da1435-7216-4897-9f62-6229a6127a15_1280x1280.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Твір на тему",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 65664315,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "povisenko",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#121BFA",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Serhii Povísenko",
+    "author_handle": "povisenko",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F884f0ac9-1df3-4811-8861-dfe6debecb7a_1167x1164.jpeg",
+    "author_bio": "✍🏻🇺🇦🌐",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#EF4E69",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": null,
+        "publication_id": 1237492,
+        "color_links": null,
+        "font_preset_heading": "sans",
+        "font_preset_body": "sans",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "newspaper",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": "2023-08-10T18:26:53.805+00:00",
+        "create_thread_minimum_role": "contributor",
+        "activated_at": "2023-08-10T18:26:23.776+00:00",
+        "reader_thread_notifications_enabled": false,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2022-12-23T09:18:37.335Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "read",
+    "rankingDetail": "Launched 2 years ago",
+    "rankingDetailFreeIncluded": "Launched 2 years ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 2 Jahren",
+            "rankingDetailFreeIncluded": "Launched vor 2 Jahren",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "28"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 2 años",
+            "rankingDetailFreeIncluded": "Launched hace 2 años",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "28"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 2 années",
+            "rankingDetailFreeIncluded": "Launched il y a 2 années",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "28"
+        },
+        "pt": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "28"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 2 anos",
+            "rankingDetailFreeIncluded": "Launched 2 anos",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "28"
+        },
+        "it": {
+            "rankingDetail": "Launched 2 anni",
+            "rankingDetailFreeIncluded": "Launched 2 anni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "28"
+        },
+        "en": {
+            "rankingDetail": "Launched 2 years ago",
+            "rankingDetailFreeIncluded": "Launched 2 years ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 10,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "28"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "28",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": "2023-08-10T18:26:23.479Z",
+    "primary_profile_name": "Serhii Povísenko",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F884f0ac9-1df3-4811-8861-dfe6debecb7a_1167x1164.jpeg",
+    "no_follow": true,
+    "paywall_chat": "free",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "468945ad-0aa7-4a86-a82a-b91df6a3e24d",
+            "publication_id": 1237492,
+            "sibling_rank": 0,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "880e362d-451c-4649-816f-2879d2ae28b3",
+            "publication_id": 1237492,
+            "sibling_rank": 1,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": false,
+            "standard_key": "archive",
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "1b5d8aa1-d9f2-4d1d-ab9b-a3228bb20de5",
+            "publication_id": 1237492,
+            "sibling_rank": 2,
+            "link_title": "Україна",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "e404f2f6-e1c8-48fd-87cd-608238ca74ea",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "e404f2f6-e1c8-48fd-87cd-608238ca74ea",
+                "publication_id": 1237492,
+                "name": "україна",
+                "slug": "ukraine",
+                "hidden": false
+            }
+        },
+        {
+            "id": "6ec0a917-ecc5-428e-9d45-44c59ea269d9",
+            "publication_id": 1237492,
+            "sibling_rank": 3,
+            "link_title": "Філософія",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "379e9149-166a-435d-8583-4c8d3d708fc3",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "379e9149-166a-435d-8583-4c8d3d708fc3",
+                "publication_id": 1237492,
+                "name": "філософія",
+                "slug": "philosophy",
+                "hidden": false
+            }
+        },
+        {
+            "id": "775add3e-2cce-4af2-95fa-0bfd22c1f936",
+            "publication_id": 1237492,
+            "sibling_rank": 4,
+            "link_title": "Технології",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "855b1a1e-9d84-46f9-a39b-592738700b48",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "855b1a1e-9d84-46f9-a39b-592738700b48",
+                "publication_id": 1237492,
+                "name": "технології",
+                "slug": "technology",
+                "hidden": false
+            }
+        },
+        {
+            "id": "52184319-d0df-47be-be88-dcef1e4697bc",
+            "publication_id": 1237492,
+            "sibling_rank": 5,
+            "link_title": "Економіка",
+            "link_url": "/t/economy",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "section": null,
+            "postTag": null
+        },
+        {
+            "id": "a8368cda-6bae-4715-958a-2e4bb86b2bdb",
+            "publication_id": 1237492,
+            "sibling_rank": 6,
+            "link_title": "Екологія",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "f50c4ca6-d8b4-4d72-b0a3-fe8d3b25a87c",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "f50c4ca6-d8b4-4d72-b0a3-fe8d3b25a87c",
+                "publication_id": 1237492,
+                "name": "екологія",
+                "slug": "ecology",
+                "hidden": false
+            }
+        },
+        {
+            "id": "3e945d0c-eb63-496d-8397-90e73fe9f998",
+            "publication_id": 1237492,
+            "sibling_rank": 7,
+            "link_title": "Культура",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "d92c275d-d6a0-4542-938d-fc206519eed0",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "d92c275d-d6a0-4542-938d-fc206519eed0",
+                "publication_id": 1237492,
+                "name": "культура",
+                "slug": "culture",
+                "hidden": false
+            }
+        },
+        {
+            "id": "1ae38192-695d-484f-8964-33178b8332a5",
+            "publication_id": 1237492,
+            "sibling_rank": 8,
+            "link_title": "Мистецтво",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "1c602447-ea4c-4244-97fd-c52814faf385",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "1c602447-ea4c-4244-97fd-c52814faf385",
+                "publication_id": 1237492,
+                "name": "мистецтво",
+                "slug": "art",
+                "hidden": false
+            }
+        },
+        {
+            "id": "c05d40e0-f425-4fcd-a622-3f3a767acf72",
+            "publication_id": 1237492,
+            "sibling_rank": 9,
+            "link_title": "English",
+            "link_url": "",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": "62cde5dc-4e82-48cb-9325-b6f05d6bfc27",
+            "post": null,
+            "section": null,
+            "postTag": {
+                "id": "62cde5dc-4e82-48cb-9325-b6f05d6bfc27",
+                "publication_id": 1237492,
+                "name": "english",
+                "slug": "english",
+                "hidden": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Serhii Povísenko",
+            "handle": "povisenko",
+            "role": "admin",
+            "owner": true,
+            "user_id": 65664315,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/884f0ac9-1df3-4811-8861-dfe6debecb7a_1167x1164.jpeg",
+            "bio": "✍🏻🇺🇦🌐"
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://povisenko.substack.com",
+    "hostname": "povisenko.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                192,
+                66,
+                84
+            ],
+            "population": 6
+        },
+        "DarkVibrant": {
+            "rgb": [
+                62,
+                110,
+                28
+            ],
+            "population": 3
+        },
+        "LightVibrant": {
+            "rgb": [
+                245,
+                137,
+                145
+            ],
+            "population": 516
+        },
+        "Muted": {
+            "rgb": [
+                127,
+                171,
+                105
+            ],
+            "population": 251
+        },
+        "DarkMuted": {
+            "rgb": [
+                56,
+                86,
+                45
+            ],
+            "population": 403
+        },
+        "LightMuted": {
+            "rgb": [
+                186,
+                196,
+                162
+            ],
+            "population": 23
+        }
+    }
+}

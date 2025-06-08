@@ -1,0 +1,961 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 348658009,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Sofiia Mykhailovych",
+    "cover_photo_url": null,
+    "created_at": "2025-05-27T15:18:45.648Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "best_first",
+    "default_coupon": null,
+    "default_group_coupon": "5b347cca",
+    "default_show_guest_bios": true,
+    "email_banner_url": null,
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": [
+        "Occasional personal letters, early access to drafts, and my quiet gratitude — for helping these words find a home."
+    ],
+    "free_subscription_benefits": [
+        "Notes I share with the world."
+    ],
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Small Girl, Big Planet\na journal of soft strength and honest questions.\nA small girl on a big planet.\nLife gets faster, but I pause — to listen to what hurts, what pulls, what fascinates, and what makes me stay.\nI write about emotions, sensations, the uns",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 5145495,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e70443-c8b2-4a8a-ba3e-6eda572e0cc5_812x1280.jpeg",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "Small Girl, Big Planet",
+    "paid_subscription_benefits": [
+        "Thoughts I trust only a quiet room to hear.",
+        "Deeper essays on loneliness, meaning, connection, and self-searching.",
+        "The ability to comment and be part of a slow, intentional community."
+    ],
+    "parsely_pixel_id": null,
+    "payments_state": "enabled",
+    "paywall_free_trial_enabled": true,
+    "podcast_art_url": null,
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": null,
+    "podcast_description": null,
+    "podcast_enabled": false,
+    "podcast_feed_url": null,
+    "podcast_title": null,
+    "post_preview_limit": null,
+    "primary_user_id": 348658009,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "sofiiamykhailovych",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#FF6719",
+    "theme_var_color_links": true,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": [
+        {
+            "id": "yearly80gbp",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 8000,
+            "amount_decimal": "8000",
+            "billing_scheme": "per_unit",
+            "created": 1748366329,
+            "currency": "gbp",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "£80 a year",
+            "product": "prod_SODa3ILEXzy87r",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 17000,
+                    "unit_amount_decimal": "17000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 62000,
+                    "unit_amount_decimal": "62000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 15000,
+                    "unit_amount_decimal": "15000"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 71500,
+                    "unit_amount_decimal": "71500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 209000,
+                    "unit_amount_decimal": "209000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 110000,
+                    "unit_amount_decimal": "110000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 18500,
+                    "unit_amount_decimal": "18500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 40500,
+                    "unit_amount_decimal": "40500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 103500,
+                    "unit_amount_decimal": "103500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11000,
+                    "unit_amount_decimal": "11000"
+                }
+            }
+        },
+        {
+            "id": "monthly8gbp",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 800,
+            "amount_decimal": "800",
+            "billing_scheme": "per_unit",
+            "created": 1748366328,
+            "currency": "gbp",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "£8 a month",
+            "product": "prod_SODalyd4jIH5va",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1700,
+                    "unit_amount_decimal": "1700"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1500,
+                    "unit_amount_decimal": "1500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 21000,
+                    "unit_amount_decimal": "21000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11000,
+                    "unit_amount_decimal": "11000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1900,
+                    "unit_amount_decimal": "1900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4100,
+                    "unit_amount_decimal": "4100"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1100,
+                    "unit_amount_decimal": "1100"
+                }
+            }
+        },
+        {
+            "id": "founding24000gbp",
+            "name": "founding24000gbp",
+            "nickname": "founding24000gbp",
+            "active": true,
+            "amount": 24000,
+            "currency": "gbp",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Підтримка для роздумів",
+                "short_description_english": "Підтримка для роздумів",
+                "minimum": "8000",
+                "minimum_local": {
+                    "aud": 17000,
+                    "brl": 60500,
+                    "cad": 15000,
+                    "chf": 9000,
+                    "dkk": 71000,
+                    "eur": 9500,
+                    "gbp": 8000,
+                    "mxn": 207000,
+                    "nok": 109500,
+                    "nzd": 18000,
+                    "pln": 41000,
+                    "sek": 104500,
+                    "usd": 11000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 50500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 181000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 44500,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 27000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 213000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 28500,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 24000,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 621000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 328500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 54000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 122500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 313500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 32500,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "stripe_user_id": "acct_1RTQAoDkb72r1s7T",
+    "stripe_country": "GB",
+    "stripe_publishable_key": "pk_live_51RTQAoDkb72r1s7TWzczyu8SWdPj0QWyiFp4rLxiin3J46XfV37FK7bhRsR9rUiMZnKaN4METZePIXzlvn6RClXN003UaDg480",
+    "stripe_platform_account": "US",
+    "automatic_tax_enabled": false,
+    "author_name": "Sofiia Mykhailovych",
+    "author_handle": "smallgirlbigplanet",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e70443-c8b2-4a8a-ba3e-6eda572e0cc5_812x1280.jpeg",
+    "author_bio": "Маленька дівчинка на великій планеті. Життя стає швидшим, а я зупиняюсь — і слухаю: що болить, що цікавить, що тягне і змушує залишитись. Пишу про емоції, відчуття, про несказанне — і те, що завжди лишається між рядками.",
+    "twitter_share_on_publish_opt_in": null,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#16a34a",
+        "web_bg_color": "#f0f9ff",
+        "cover_bg_color": "#f0f9ff",
+        "publication_id": 5145495,
+        "color_links": null,
+        "font_preset_heading": "slab",
+        "font_preset_body": "slab",
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magazine-5",
+        "home_posts": "grid",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "paid",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": true,
+        "boost_free_subscriber_chat_preview_enabled": true,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": "10.00",
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": false,
+    "first_post_date": "2025-05-27T17:46:03.346Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": false,
+    "twitter_permissions": "none",
+    "rankingDetail": "Launched 11 days ago",
+    "rankingDetailFreeIncluded": "Launched 11 days ago",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 11 Tagen",
+            "rankingDetailFreeIncluded": "Launched vor 11 Tagen",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 11 días",
+            "rankingDetailFreeIncluded": "Launched hace 11 días",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 11 jours",
+            "rankingDetailFreeIncluded": "Launched il y a 11 jours",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "pt": {
+            "rankingDetail": "Launched 11 dias",
+            "rankingDetailFreeIncluded": "Launched 11 dias",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 11 dias",
+            "rankingDetailFreeIncluded": "Launched 11 dias",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "it": {
+            "rankingDetail": "Launched 11 giorni",
+            "rankingDetailFreeIncluded": "Launched 11 giorni",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        },
+        "en": {
+            "rankingDetail": "Launched 11 days ago",
+            "rankingDetailFreeIncluded": "Launched 11 days ago",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 1,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "5"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "5",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": true,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Sofiia Mykhailovych",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e70443-c8b2-4a8a-ba3e-6eda572e0cc5_812x1280.jpeg",
+    "no_follow": true,
+    "paywall_chat": "paid",
+    "sections": [],
+    "multipub_migration": null,
+    "navigationBarItems": [],
+    "contributors": [
+        {
+            "name": "Sofiia Mykhailovych",
+            "handle": "smallgirlbigplanet",
+            "role": "admin",
+            "owner": true,
+            "user_id": 348658009,
+            "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/11e70443-c8b2-4a8a-ba3e-6eda572e0cc5_812x1280.jpeg",
+            "bio": "Маленька дівчинка на великій планеті. Життя стає швидшим, а я зупиняюсь — і слухаю: що болить, що цікавить, що тягне і змушує залишитись. Пишу про емоції, відчуття, про несказанне — і те, що завжди лишається між рядками."
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": {
+        "id": "7f1a8914-4e0d-49e1-bd2a-3807f416932e",
+        "publication_id": 5145495,
+        "enabled": true,
+        "gifts_per_user": 5,
+        "gift_length_months": 1,
+        "send_extra_gifts": true,
+        "message": "My personal Substack",
+        "created_at": "2025-05-27T17:18:53.166471+00:00",
+        "updated_at": "2025-05-27T17:18:53.166471+00:00",
+        "days_til_invite": 14,
+        "send_emails": true,
+        "show_link": null,
+        "grant_email_body": null,
+        "grant_email_subject": null
+    },
+    "tier": 1,
+    "no_index": false,
+    "can_set_google_site_verification": false,
+    "can_have_sitemap": false,
+    "founding_plan_name_english": "Підтримка для роздумів",
+    "draft_plans": [
+        {
+            "id": "yearly80gbp",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 8000,
+            "amount_decimal": "8000",
+            "billing_scheme": "per_unit",
+            "created": 1748366329,
+            "currency": "gbp",
+            "interval": "year",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "£80 a year",
+            "product": "prod_SODa3ILEXzy87r",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 17000,
+                    "unit_amount_decimal": "17000"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 62000,
+                    "unit_amount_decimal": "62000"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 15000,
+                    "unit_amount_decimal": "15000"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 9000,
+                    "unit_amount_decimal": "9000"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 71500,
+                    "unit_amount_decimal": "71500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10000,
+                    "unit_amount_decimal": "10000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 8000,
+                    "unit_amount_decimal": "8000"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 209000,
+                    "unit_amount_decimal": "209000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 110000,
+                    "unit_amount_decimal": "110000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 18500,
+                    "unit_amount_decimal": "18500"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 40500,
+                    "unit_amount_decimal": "40500"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 103500,
+                    "unit_amount_decimal": "103500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11000,
+                    "unit_amount_decimal": "11000"
+                }
+            }
+        },
+        {
+            "id": "monthly8gbp",
+            "object": "plan",
+            "active": true,
+            "aggregate_usage": null,
+            "amount": 800,
+            "amount_decimal": "800",
+            "billing_scheme": "per_unit",
+            "created": 1748366328,
+            "currency": "gbp",
+            "interval": "month",
+            "interval_count": 1,
+            "livemode": true,
+            "metadata": {
+                "substack": "yes"
+            },
+            "meter": null,
+            "nickname": "£8 a month",
+            "product": "prod_SODalyd4jIH5va",
+            "tiers": null,
+            "tiers_mode": null,
+            "transform_usage": null,
+            "trial_period_days": null,
+            "usage_type": "licensed",
+            "currency_options": {
+                "aud": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1700,
+                    "unit_amount_decimal": "1700"
+                },
+                "brl": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 6500,
+                    "unit_amount_decimal": "6500"
+                },
+                "cad": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1500,
+                    "unit_amount_decimal": "1500"
+                },
+                "chf": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 900,
+                    "unit_amount_decimal": "900"
+                },
+                "dkk": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 7500,
+                    "unit_amount_decimal": "7500"
+                },
+                "eur": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1000,
+                    "unit_amount_decimal": "1000"
+                },
+                "gbp": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 800,
+                    "unit_amount_decimal": "800"
+                },
+                "mxn": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 21000,
+                    "unit_amount_decimal": "21000"
+                },
+                "nok": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 11000,
+                    "unit_amount_decimal": "11000"
+                },
+                "nzd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1900,
+                    "unit_amount_decimal": "1900"
+                },
+                "pln": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 4100,
+                    "unit_amount_decimal": "4100"
+                },
+                "sek": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 10500,
+                    "unit_amount_decimal": "10500"
+                },
+                "usd": {
+                    "custom_unit_amount": null,
+                    "tax_behavior": "unspecified",
+                    "unit_amount": 1100,
+                    "unit_amount_decimal": "1100"
+                }
+            }
+        },
+        {
+            "id": "founding24000gbp",
+            "name": "founding24000gbp",
+            "nickname": "founding24000gbp",
+            "active": true,
+            "amount": 24000,
+            "currency": "gbp",
+            "interval": "year",
+            "interval_count": 1,
+            "metadata": {
+                "substack": "yes",
+                "founding": "yes",
+                "no_coupons": "yes",
+                "short_description": "Підтримка для роздумів",
+                "short_description_english": "Підтримка для роздумів",
+                "minimum": "8000",
+                "minimum_local": {
+                    "aud": 17000,
+                    "brl": 60500,
+                    "cad": 15000,
+                    "chf": 9000,
+                    "dkk": 71000,
+                    "eur": 9500,
+                    "gbp": 8000,
+                    "mxn": 207000,
+                    "nok": 109500,
+                    "nzd": 18000,
+                    "pln": 41000,
+                    "sek": 104500,
+                    "usd": 11000
+                }
+            },
+            "currency_options": {
+                "aud": {
+                    "unit_amount": 50500,
+                    "tax_behavior": "unspecified"
+                },
+                "brl": {
+                    "unit_amount": 181000,
+                    "tax_behavior": "unspecified"
+                },
+                "cad": {
+                    "unit_amount": 44500,
+                    "tax_behavior": "unspecified"
+                },
+                "chf": {
+                    "unit_amount": 27000,
+                    "tax_behavior": "unspecified"
+                },
+                "dkk": {
+                    "unit_amount": 213000,
+                    "tax_behavior": "unspecified"
+                },
+                "eur": {
+                    "unit_amount": 28500,
+                    "tax_behavior": "unspecified"
+                },
+                "gbp": {
+                    "unit_amount": 24000,
+                    "tax_behavior": "unspecified"
+                },
+                "mxn": {
+                    "unit_amount": 621000,
+                    "tax_behavior": "unspecified"
+                },
+                "nok": {
+                    "unit_amount": 328500,
+                    "tax_behavior": "unspecified"
+                },
+                "nzd": {
+                    "unit_amount": 54000,
+                    "tax_behavior": "unspecified"
+                },
+                "pln": {
+                    "unit_amount": 122500,
+                    "tax_behavior": "unspecified"
+                },
+                "sek": {
+                    "unit_amount": 313500,
+                    "tax_behavior": "unspecified"
+                },
+                "usd": {
+                    "unit_amount": 32500,
+                    "tax_behavior": "unspecified"
+                }
+            }
+        }
+    ],
+    "base_url": "https://sofiiamykhailovych.substack.com",
+    "hostname": "sofiiamykhailovych.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": null,
+    "podcastPalette": {
+        "DarkMuted": {
+            "population": 72,
+            "rgb": [
+                73,
+                153,
+                137
+            ]
+        },
+        "DarkVibrant": {
+            "population": 6013,
+            "rgb": [
+                4,
+                100,
+                84
+            ]
+        },
+        "LightMuted": {
+            "population": 7,
+            "rgb": [
+                142,
+                198,
+                186
+            ]
+        },
+        "LightVibrant": {
+            "population": 3,
+            "rgb": [
+                166,
+                214,
+                206
+            ]
+        },
+        "Muted": {
+            "population": 6,
+            "rgb": [
+                92,
+                164,
+                156
+            ]
+        },
+        "Vibrant": {
+            "population": 5,
+            "rgb": [
+                76,
+                164,
+                146
+            ]
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                130,
+                183,
+                218
+            ],
+            "population": 475
+        },
+        "DarkVibrant": {
+            "rgb": [
+                30.28518518518519,
+                73.66666666666666,
+                102.31481481481481
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                154,
+                204,
+                222
+            ],
+            "population": 8
+        },
+        "Muted": {
+            "rgb": [
+                106,
+                128,
+                143
+            ],
+            "population": 178
+        },
+        "DarkMuted": {
+            "rgb": [
+                76,
+                73,
+                60
+            ],
+            "population": 156
+        },
+        "LightMuted": {
+            "rgb": [
+                212,
+                208,
+                180
+            ],
+            "population": 4
+        }
+    }
+}

@@ -1,0 +1,4 @@
+requests==2.32.3
+notebook==7.4.3
+feedparser==6.0.11
+aiohttp==3.12.11

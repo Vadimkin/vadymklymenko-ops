@@ -1,0 +1,1192 @@
+{
+    "apple_pay_disabled": false,
+    "apex_domain": null,
+    "author_id": 64312062,
+    "byline_images_enabled": true,
+    "bylines_enabled": true,
+    "chartable_token": null,
+    "community_enabled": true,
+    "copyright": "Romko",
+    "cover_photo_url": null,
+    "created_at": "2021-12-14T07:09:52.754Z",
+    "custom_domain_optional": false,
+    "custom_domain": null,
+    "default_comment_sort": "most_recent_first",
+    "default_coupon": null,
+    "default_group_coupon": null,
+    "default_show_guest_bios": true,
+    "email_banner_url": "https://substack-post-media.s3.amazonaws.com/public/images/a4f51d29-ff35-476a-9203-e77705794bb2_1500x500.png",
+    "email_from_name": null,
+    "email_from": null,
+    "embed_tracking_disabled": false,
+    "explicit": false,
+    "expose_paywall_content_to_search_engines": true,
+    "fb_pixel_id": null,
+    "fb_site_verification_token": null,
+    "flagged_as_spam": false,
+    "founding_subscription_benefits": null,
+    "free_subscription_benefits": null,
+    "ga_pixel_id": null,
+    "google_site_verification_token": null,
+    "google_tag_manager_token": null,
+    "hero_image": null,
+    "hero_text": "Bankless — це більше, ніж блог. Це динамічний посібник. Інформація, яка допоможе тобі покинути світ банків і стати банк/less.\n\n",
+    "hide_intro_subtitle": null,
+    "hide_intro_title": null,
+    "hide_podcast_feed_link": false,
+    "homepage_type": "magaziney",
+    "id": 611651,
+    "image_thumbnails_always_enabled": false,
+    "invite_only": false,
+    "language": "en",
+    "logo_url_wide": null,
+    "logo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F71199356-bb76-463b-8844-e78cd010fafc_1080x1080.png",
+    "minimum_group_size": 2,
+    "moderation_enabled": true,
+    "name": "BanklessUA",
+    "paid_subscription_benefits": null,
+    "parsely_pixel_id": null,
+    "payments_state": "disabled",
+    "paywall_free_trial_enabled": false,
+    "podcast_art_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8459d617-9450-410a-bd97-2c9673822d91_1600x1600.png",
+    "paid_podcast_episode_art_url": null,
+    "podcast_byline": "Щотижневі підсумки Bankless DAO",
+    "podcast_description": "Bankless — це більше, ніж блог. Це динамічний посібник. Інформація, яка допоможе тобі покинути світ банків і стати банк/less.\n\n",
+    "podcast_enabled": true,
+    "podcast_feed_url": null,
+    "podcast_title": "Bankless UA  Щотижневик",
+    "post_preview_limit": null,
+    "primary_user_id": 64312062,
+    "require_clickthrough": false,
+    "show_pub_podcast_tab": false,
+    "show_recs_on_homepage": true,
+    "subdomain": "banklessua",
+    "subscriber_invites": 0,
+    "support_email": null,
+    "theme_var_background_pop": "#EA410B",
+    "theme_var_color_links": false,
+    "theme_var_cover_bg_color": null,
+    "trial_end_override": null,
+    "twitter_pixel_id": null,
+    "type": "newsletter",
+    "post_reaction_faces_enabled": true,
+    "is_personal_mode": false,
+    "plans": null,
+    "stripe_user_id": null,
+    "stripe_country": null,
+    "stripe_publishable_key": null,
+    "stripe_platform_account": null,
+    "automatic_tax_enabled": null,
+    "author_name": "Banklessua",
+    "author_handle": "banklessua",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04359141-1bc6-471f-a756-5d8afda252cb_500x500.png",
+    "author_bio": "Bankless — це більше, ніж блог. Це динамічний посібник. Інформація, яка допоможе тобі покинути світ банків і стати банк/less.\n\n",
+    "twitter_screen_name": "banklessUA",
+    "twitter_share_on_publish_opt_in": false,
+    "has_custom_tos": false,
+    "has_custom_privacy": false,
+    "theme": {
+        "background_pop_color": "#000000",
+        "web_bg_color": "#ffffff",
+        "cover_bg_color": "#ffffff",
+        "publication_id": 611651,
+        "color_links": null,
+        "font_preset_heading": "fancy_serif",
+        "font_preset_body": null,
+        "font_family_headings": null,
+        "font_family_body": null,
+        "font_family_ui": null,
+        "font_size_body_desktop": null,
+        "print_secondary": null,
+        "custom_css_web": null,
+        "custom_css_email": null,
+        "home_hero": "magaziney",
+        "home_posts": "list",
+        "home_show_top_posts": false,
+        "hide_images_from_list": false,
+        "home_hero_alignment": "left",
+        "home_hero_show_podcast_links": true,
+        "default_post_header_variant": null
+    },
+    "threads_v2_settings": {
+        "photo_replies_enabled": true,
+        "first_thread_email_sent_at": null,
+        "create_thread_minimum_role": "contributor",
+        "activated_at": null,
+        "reader_thread_notifications_enabled": false,
+        "boost_free_subscriber_chat_preview_enabled": false,
+        "push_suppression_enabled": false
+    },
+    "default_group_coupon_percent_off": null,
+    "pause_return_date": null,
+    "has_posts": true,
+    "has_recommendations": true,
+    "first_post_date": "2021-12-26T07:27:03.853Z",
+    "has_podcast": false,
+    "has_free_podcast": false,
+    "has_subscriber_only_podcast": false,
+    "has_community_content": true,
+    "twitter_permissions": "write",
+    "rankingDetail": "Launched 3 years ago",
+    "rankingDetailFreeIncluded": "Hundreds of subscribers",
+    "rankingDetailOrderOfMagnitude": 0,
+    "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+    "rankingDetailFreeSubscriberCount": null,
+    "rankingDetailByLanguage": {
+        "de": {
+            "rankingDetail": "Launched vor 3 Jahren",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "175"
+        },
+        "es": {
+            "rankingDetail": "Launched hace 3 años",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "175"
+        },
+        "fr": {
+            "rankingDetail": "Launched il y a 3 années",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "175"
+        },
+        "pt": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "175"
+        },
+        "pt-br": {
+            "rankingDetail": "Launched 3 anos",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "175"
+        },
+        "it": {
+            "rankingDetail": "Launched 3 anni",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "175"
+        },
+        "en": {
+            "rankingDetail": "Launched 3 years ago",
+            "rankingDetailFreeIncluded": "Hundreds of subscribers",
+            "rankingDetailOrderOfMagnitude": 0,
+            "rankingDetailFreeIncludedOrderOfMagnitude": 100,
+            "rankingDetailFreeSubscriberCount": null,
+            "freeSubscriberCount": null,
+            "freeSubscriberCountOrderOfMagnitude": "175"
+        }
+    },
+    "freeSubscriberCount": null,
+    "freeSubscriberCountOrderOfMagnitude": "175",
+    "author_bestseller_tier": 0,
+    "disable_monthly_subscriptions": false,
+    "disable_annual_subscriptions": false,
+    "hide_post_restacks": false,
+    "notes_feed_enabled": false,
+    "last_chat_post_at": null,
+    "primary_profile_name": "Banklessua",
+    "primary_profile_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04359141-1bc6-471f-a756-5d8afda252cb_500x500.png",
+    "no_follow": false,
+    "paywall_chat": "free",
+    "sections": [
+        {
+            "id": 23116,
+            "created_at": "2022-07-22T10:40:04.811Z",
+            "updated_at": "2022-07-22T10:40:04.811Z",
+            "publication_id": 611651,
+            "name": "Все про DeFi",
+            "description": "Твоє надійне джерело інформації про DeFi, анонси проєктів та підручники з токеноміки.",
+            "slug": "-defi",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 0,
+            "port_status": "success",
+            "logo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4e609e84-324c-4257-826b-9bd2a0440e8d_256x256.png",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 12696,
+            "created_at": "2022-02-10T19:15:53.319Z",
+            "updated_at": "2022-02-10T19:15:53.319Z",
+            "publication_id": 611651,
+            "name": "Гід BanklessDAO",
+            "description": "Твій провідник у сферу відкритих фінансів!",
+            "slug": "-banklessdao",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 1,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 91734,
+            "created_at": "2023-11-07T12:09:25.575Z",
+            "updated_at": "2024-02-24T07:00:29.717Z",
+            "publication_id": 611651,
+            "name": "Gitcoin",
+            "description": "Все, що вам потрібно знати про платформу Gitcoin та можливості, які вона пропонує",
+            "slug": "gticoin",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 2,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 63618,
+            "created_at": "2023-05-02T19:43:04.076Z",
+            "updated_at": "2023-05-02T19:43:04.076Z",
+            "publication_id": 611651,
+            "name": "Layer 2",
+            "description": "Все про новітні технології L2",
+            "slug": "layer-2",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 3,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": "",
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 14368,
+            "created_at": "2022-03-08T14:22:25.282Z",
+            "updated_at": "2022-03-08T14:22:25.282Z",
+            "publication_id": 611651,
+            "name": "Корисне",
+            "description": "Корисна інформація зі світу криптовалют",
+            "slug": "b77",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 4,
+            "port_status": "success",
+            "logo_url": null,
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 12772,
+            "created_at": "2022-02-11T18:31:45.151Z",
+            "updated_at": "2022-02-11T18:31:45.151Z",
+            "publication_id": 611651,
+            "name": "NFT",
+            "description": "Досліджуємо гарячі тенденції та новини в екосистемі NFT",
+            "slug": "-nft",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 5,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        },
+        {
+            "id": 12695,
+            "created_at": "2022-02-10T19:08:57.373Z",
+            "updated_at": "2022-02-10T19:08:57.373Z",
+            "publication_id": 611651,
+            "name": "Новини BanklessDAO",
+            "description": "Дізнайтеся, що сталося цього тижня в BanklessDAO. ",
+            "slug": "-bankless-dao",
+            "is_podcast": false,
+            "is_live": true,
+            "is_default_on": true,
+            "sibling_rank": 6,
+            "port_status": "success",
+            "logo_url": "",
+            "hide_from_navbar": false,
+            "email_from_name": null,
+            "hide_posts_from_pub_listings": false,
+            "email_banner_url": null,
+            "cover_photo_url": null,
+            "hide_intro_title": false,
+            "hide_intro_subtitle": false,
+            "ignore_publication_email_settings": false,
+            "showLinks": [],
+            "pageTheme": null,
+            "spotifyPodcastSettings": null,
+            "podcastSettings": null,
+            "podcastPalette": {
+                "DarkMuted": {
+                    "population": 72,
+                    "rgb": [
+                        73,
+                        153,
+                        137
+                    ]
+                },
+                "DarkVibrant": {
+                    "population": 6013,
+                    "rgb": [
+                        4,
+                        100,
+                        84
+                    ]
+                },
+                "LightMuted": {
+                    "population": 7,
+                    "rgb": [
+                        142,
+                        198,
+                        186
+                    ]
+                },
+                "LightVibrant": {
+                    "population": 3,
+                    "rgb": [
+                        166,
+                        214,
+                        206
+                    ]
+                },
+                "Muted": {
+                    "population": 6,
+                    "rgb": [
+                        92,
+                        164,
+                        156
+                    ]
+                },
+                "Vibrant": {
+                    "population": 5,
+                    "rgb": [
+                        76,
+                        164,
+                        146
+                    ]
+                }
+            },
+            "spotify_podcast_settings": null
+        }
+    ],
+    "multipub_migration": null,
+    "navigationBarItems": [
+        {
+            "id": "1b564084-bb9d-49e6-aad2-7096ef5d2e3a",
+            "publication_id": 611651,
+            "sibling_rank": 0,
+            "link_title": "Twitter",
+            "link_url": "https://twitter.com/BanklessUA",
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "97898d48-a630-4530-807c-dda91b6be7d0",
+            "publication_id": 611651,
+            "sibling_rank": 1,
+            "link_title": null,
+            "link_url": null,
+            "section_id": null,
+            "post_id": null,
+            "is_hidden": true,
+            "standard_key": "about",
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": null
+        },
+        {
+            "id": "b06fe0c4-eefb-4abf-bd67-66006d113ad6",
+            "publication_id": 611651,
+            "sibling_rank": 2,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 23116,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 23116,
+                "created_at": "2022-07-22T10:40:04.811Z",
+                "updated_at": "2022-07-22T10:40:04.811Z",
+                "publication_id": 611651,
+                "name": "Все про DeFi",
+                "description": "Твоє надійне джерело інформації про DeFi, анонси проєктів та підручники з токеноміки.",
+                "slug": "-defi",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 0,
+                "port_status": "success",
+                "logo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4e609e84-324c-4257-826b-9bd2a0440e8d_256x256.png",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "9aec9df4-4baf-4f70-b95d-a381977afeda",
+            "publication_id": 611651,
+            "sibling_rank": 3,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 12696,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 12696,
+                "created_at": "2022-02-10T19:15:53.319Z",
+                "updated_at": "2022-02-10T19:15:53.319Z",
+                "publication_id": 611651,
+                "name": "Гід BanklessDAO",
+                "description": "Твій провідник у сферу відкритих фінансів!",
+                "slug": "-banklessdao",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 1,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "c1defe9c-1db5-48d9-a3e4-abbe4c5e4867",
+            "publication_id": 611651,
+            "sibling_rank": 4,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 91734,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 91734,
+                "created_at": "2023-11-07T12:09:25.575Z",
+                "updated_at": "2024-02-24T07:00:29.717Z",
+                "publication_id": 611651,
+                "name": "Gitcoin",
+                "description": "Все, що вам потрібно знати про платформу Gitcoin та можливості, які вона пропонує",
+                "slug": "gticoin",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 2,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "2e79f24c-a68b-4d27-853d-ead2ae5046d2",
+            "publication_id": 611651,
+            "sibling_rank": 5,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 63618,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 63618,
+                "created_at": "2023-05-02T19:43:04.076Z",
+                "updated_at": "2023-05-02T19:43:04.076Z",
+                "publication_id": 611651,
+                "name": "Layer 2",
+                "description": "Все про новітні технології L2",
+                "slug": "layer-2",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 3,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": "",
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "ce75351b-f7ee-4304-a426-a2c6b0967538",
+            "publication_id": 611651,
+            "sibling_rank": 6,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 14368,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 14368,
+                "created_at": "2022-03-08T14:22:25.282Z",
+                "updated_at": "2022-03-08T14:22:25.282Z",
+                "publication_id": 611651,
+                "name": "Корисне",
+                "description": "Корисна інформація зі світу криптовалют",
+                "slug": "b77",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 4,
+                "port_status": "success",
+                "logo_url": null,
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "9e13ae8a-3c63-4e2c-a093-ad0dc4fea1c1",
+            "publication_id": 611651,
+            "sibling_rank": 7,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 12772,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 12772,
+                "created_at": "2022-02-11T18:31:45.151Z",
+                "updated_at": "2022-02-11T18:31:45.151Z",
+                "publication_id": 611651,
+                "name": "NFT",
+                "description": "Досліджуємо гарячі тенденції та новини в екосистемі NFT",
+                "slug": "-nft",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 5,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        },
+        {
+            "id": "493ea418-ad6a-4bfa-ada3-a4522e6a78b6",
+            "publication_id": 611651,
+            "sibling_rank": 8,
+            "link_title": null,
+            "link_url": null,
+            "section_id": 12695,
+            "post_id": null,
+            "is_hidden": null,
+            "standard_key": null,
+            "post_tag_id": null,
+            "post": null,
+            "postTag": null,
+            "section": {
+                "id": 12695,
+                "created_at": "2022-02-10T19:08:57.373Z",
+                "updated_at": "2022-02-10T19:08:57.373Z",
+                "publication_id": 611651,
+                "name": "Новини BanklessDAO",
+                "description": "Дізнайтеся, що сталося цього тижня в BanklessDAO. ",
+                "slug": "-bankless-dao",
+                "is_podcast": false,
+                "is_live": true,
+                "is_default_on": true,
+                "sibling_rank": 6,
+                "port_status": "success",
+                "logo_url": "",
+                "hide_from_navbar": false,
+                "email_from_name": null,
+                "hide_posts_from_pub_listings": false,
+                "email_banner_url": null,
+                "cover_photo_url": null,
+                "hide_intro_title": false,
+                "hide_intro_subtitle": false,
+                "ignore_publication_email_settings": false
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Banklessua",
+            "handle": "banklessua",
+            "role": "admin",
+            "owner": true,
+            "user_id": 64312062,
+            "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/04359141-1bc6-471f-a756-5d8afda252cb_500x500.png",
+            "bio": "Bankless — це більше, ніж блог. Це динамічний посібник. Інформація, яка допоможе тобі покинути світ банків і стати банк/less.\n\n"
+        }
+    ],
+    "threads_v2_enabled": true,
+    "viralGiftsConfig": null,
+    "tier": 2,
+    "no_index": false,
+    "can_set_google_site_verification": true,
+    "can_have_sitemap": true,
+    "founding_plan_name_english": "Founding Member",
+    "draft_plans": null,
+    "base_url": "https://banklessua.substack.com",
+    "hostname": "banklessua.substack.com",
+    "is_on_substack": false,
+    "spotify_podcast_settings": {
+        "id": 7768,
+        "publication_id": 611651,
+        "section_id": null,
+        "spotify_access_token": "d6b3ce6a-4831-4f78-8b49-e283747c258f",
+        "spotify_uri": null,
+        "spotify_podcast_title": null,
+        "created_at": "2024-04-21T10:11:49.992Z",
+        "updated_at": "2024-04-21T10:11:49.992Z",
+        "currently_published_on_spotify": false,
+        "feed_url_for_spotify": "https://api.substack.com/feed/podcast/spotify/d6b3ce6a-4831-4f78-8b49-e283747c258f/611651.rss",
+        "spotify_show_url": ""
+    },
+    "podcastPalette": {
+        "Vibrant": {
+            "rgb": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "population": 0
+        },
+        "DarkVibrant": {
+            "rgb": [
+                66.3,
+                66.3,
+                66.3
+            ],
+            "population": 0
+        },
+        "LightVibrant": {
+            "rgb": [
+                188.7,
+                188.7,
+                188.7
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                124,
+                124,
+                124
+            ],
+            "population": 4
+        },
+        "DarkMuted": {
+            "rgb": [
+                60,
+                60,
+                60
+            ],
+            "population": 3
+        },
+        "LightMuted": {
+            "rgb": [
+                204,
+                204,
+                204
+            ],
+            "population": 1
+        }
+    },
+    "pageThemes": {
+        "podcast": null
+    },
+    "multiple_pins": true,
+    "live_subscriber_counts": false,
+    "logoPalette": {
+        "Vibrant": {
+            "rgb": [
+                4,
+                4,
+                171
+            ],
+            "population": 54
+        },
+        "DarkVibrant": {
+            "rgb": [
+                169,
+                169,
+                4
+            ],
+            "population": 50
+        },
+        "LightVibrant": {
+            "rgb": [
+                125.43085714285719,
+                125.43085714285719,
+                251.9691428571428
+            ],
+            "population": 0
+        },
+        "Muted": {
+            "rgb": [
+                124,
+                124,
+                124
+            ],
+            "population": 5
+        },
+        "DarkMuted": {
+            "rgb": [
+                60,
+                60,
+                60
+            ],
+            "population": 11
+        },
+        "LightMuted": {
+            "rgb": [
+                180,
+                180,
+                180
+            ],
+            "population": 22
+        }
+    }
+}
