@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "6 advanced TypeScript tricks",
+      "link": "https://sinja.io/blog/advanced-typescript",
+      "published": "Sun, 08 Jun 2025 00:00:00 GMT"
+    },
+    {
       "title": "Years of evidence",
       "link": "https://world.hey.com/jason/years-of-evidence-9f0504db",
       "published": "2025-06-04T22:01:25Z"
@@ -191,24 +196,9 @@
       "published": "Wed, 11 Sep 2024 00:00:00 +0000"
     },
     {
-      "title": "Features of your font you had no idea about",
-      "link": "https://sinja.io/blog/get-maximum-out-of-your-font",
-      "published": "Tue, 10 Sep 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Quick guide to web typography for developers",
-      "link": "https://sinja.io/blog/web-typography-quick-guide",
-      "published": "Tue, 03 Sep 2024 00:00:00 GMT"
-    },
-    {
       "title": "The Startup Designer",
       "link": "https://paulstamatiou.com/the-startup-designer",
       "published": "Tue, 27 Aug 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Building Swipe Actions component with React and Framer Motion",
-      "link": "https://sinja.io/blog/swipe-actions-react-framer-motion",
-      "published": "Mon, 19 Aug 2024 00:00:00 GMT"
     },
     {
       "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
