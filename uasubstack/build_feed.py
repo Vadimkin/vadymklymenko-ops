@@ -86,9 +86,25 @@ def process_feeds():
 
     entries: list[FeedEntry] = []
 
+    headers = {
+        "accept": "application/rss+xml",
+        "accept-language": "en-US,en;q=0.9",
+        "cache-control": "no-cache",
+        "pragma": "no-cache",
+        "priority": "u=1, i",
+        "referer": "https://substack.com/search/%D1%96?searching=all_posts",
+        "sec-ch-ua": "\"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "no-cors",
+        "sec-fetch-site": "cross-site",
+        "sec-fetch-storage-access": "active",
+    }
+
     for i, blog in enumerate(blogs):
         print(f"Processing feed {i}/{len(blogs)}: {blog}")
-        feed_parsed = feedparser.parse(blog["feed_url"])
+        feed_parsed = feedparser.parse(blog["feed_url"], request_headers=headers)
         print(f"Found {len(feed_parsed.entries)} entries")
 
         feed_entries = list(filter(should_process, feed_parsed.entries))[:10]
