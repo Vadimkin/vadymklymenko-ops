@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Notes on code, text, and war. Week 1: Believing in text",
+      "link": "https://zverok.space/blog/2025-06-11-code-war-notes-week1.html",
+      "published": "Wed, 11 Jun 2025 00:00:00 +0000"
+    },
+    {
       "title": "6 advanced TypeScript tricks",
       "link": "https://sinja.io/blog/advanced-typescript",
       "published": "Sun, 08 Jun 2025 00:00:00 GMT"
@@ -76,6 +81,11 @@
       "published": "Wed, 07 May 2025 23:16:33 +0000"
     },
     {
+      "title": "Smoke, Mirrors, and Toothpaste Foam — from the Desk of van Schneider",
+      "link": "https://vanschneider.com/blog/edition-265/",
+      "published": "Tue, 06 May 2025 17:13:14 GMT"
+    },
+    {
       "title": "Tortoise Mode vs Hare Mode",
       "link": "https://www.autodidacts.io/tortoise-mode/",
       "published": "Wed, 30 Apr 2025 18:46:34 GMT"
@@ -94,6 +104,11 @@
       "title": "Fluxion — Haze",
       "link": "https://zametkin.me/2025/04/27/fluxion-haze/",
       "published": "Sun, 27 Apr 2025 09:39:05 +0000"
+    },
+    {
+      "title": "The story of the Orange",
+      "link": "https://vanschneider.com/blog/edition-264/",
+      "published": "Tue, 22 Apr 2025 20:25:53 GMT"
     },
     {
       "title": "Legoland",
@@ -141,11 +156,6 @@
       "published": "Mon, 17 Feb 2025 12:00:00 +0000"
     },
     {
-      "title": "Seven things I know after 25 years of development",
-      "link": "https://zverok.space/blog/2025-01-27-7things-euruko.html",
-      "published": "Mon, 27 Jan 2025 00:00:00 +0000"
-    },
-    {
       "title": "Мій 2024",
       "link": "https://zaytsev.io/blog/2024-summary/",
       "published": "Wed, 15 Jan 2025 00:00:00 +0000"
@@ -156,11 +166,6 @@
       "published": "Mon, 06 Jan 2025 19:18:23 GMT"
     },
     {
-      "title": "The short outburst of activity during Ruby Changelog preparation—2025 edition",
-      "link": "https://zverok.space/blog/2025-01-06-changelog-2025.html",
-      "published": "Mon, 06 Jan 2025 00:00:00 +0000"
-    },
-    {
       "title": "Moon",
       "link": "https://ciechanow.ski/moon/",
       "published": "Tue, 17 Dec 2024 04:00:00 -0800"
@@ -169,11 +174,6 @@
       "title": "On Code Reviews",
       "link": "https://zemlan.in/on-code-reviews.html",
       "published": "Sun, 08 Dec 2024 17:00:00 GMT"
-    },
-    {
-      "title": "Elixir-like pipes in Ruby (oh no not again)",
-      "link": "https://zverok.space/blog/2024-11-16-elixir-pipes.html",
-      "published": "Sat, 16 Nov 2024 00:00:00 +0000"
     },
     {
       "title": "Автори двох кращих книг року",
