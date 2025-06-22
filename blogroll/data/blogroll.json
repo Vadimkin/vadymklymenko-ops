@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "A short history of web bots and bot detection services",
+      "link": "https://sinja.io/blog/bot-or-not",
+      "published": "Sun, 22 Jun 2025 00:00:00 GMT"
+    },
+    {
       "title": "Notes on code, text, and war. Week 2: If code is text, then what?",
       "link": "https://zverok.space/blog/2025-06-21-code-war-notes-week2.html",
       "published": "Sat, 21 Jun 2025 00:00:00 +0000"
