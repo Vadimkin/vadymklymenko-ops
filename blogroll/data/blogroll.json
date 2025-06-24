@@ -1,12 +1,7 @@
 {
   "feed": [
     {
-      "title": "Збори та шахраї",
-      "link": "https://www.rozhkov.me/crooks/",
-      "published": "Mon, 23 Jun 2025 06:24:49 GMT"
-    },
-    {
-      "title": "A short history of web bots and bot detection services",
+      "title": "A short history of web bots and bot detection techniques",
       "link": "https://sinja.io/blog/bot-or-not",
       "published": "Sun, 22 Jun 2025 00:00:00 GMT"
     },
@@ -14,11 +9,6 @@
       "title": "Notes on code, text, and war. Week 2: If code is text, then what?",
       "link": "https://zverok.space/blog/2025-06-21-code-war-notes-week2.html",
       "published": "Sat, 21 Jun 2025 00:00:00 +0000"
-    },
-    {
-      "title": "daily rozhok №12:🍦повертається😋",
-      "link": "https://www.rozhkov.me/daily-rozhok-12/",
-      "published": "Fri, 20 Jun 2025 06:30:01 GMT"
     },
     {
       "title": "Notes on code, text, and war. Week 1: Believing in text",
@@ -64,11 +54,6 @@
       "title": "Omarchy: Bottling that inspiration before it spoils",
       "link": "https://world.hey.com/dhh/omarchy-bottling-that-inspiration-before-it-spoils-cd75e26b",
       "published": "2025-06-02T15:07:56Z"
-    },
-    {
-      "title": "Закон Гудгарта",
-      "link": "https://www.rozhkov.me/goodharts-law/",
-      "published": "Mon, 02 Jun 2025 07:24:30 GMT"
     },
     {
       "title": "Temecula",
