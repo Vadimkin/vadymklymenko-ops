@@ -2,9 +2,9 @@ name: Update substack
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   # https://crontab.guru
-  #   - cron: '00 */8 * * *'
+  schedule:
+    # https://crontab.guru
+    - cron: '00 01 * * *'
 
 jobs:
   build:
