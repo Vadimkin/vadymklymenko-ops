@@ -14,10 +14,10 @@ jobs:
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
-      - name: Set up Python 3.11
+      - name: Set up Python 3.14
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11.13'
+          python-version: '3.14'
           cache: 'pip' # caching pip dependencies
       - name: Install requirements
         run: pip install -r uasubstack/requirements.txt
