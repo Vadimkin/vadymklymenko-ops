@@ -19,7 +19,7 @@ jobs:
           cd uasubstack
           python -m venv .venv
           source .venv/bin/activate
-          pip install -r uasubstack/requirements.txt
+          pip install -r requirements.txt
       - name: Parse rss feeds
         run: |
           python build_feed.py
