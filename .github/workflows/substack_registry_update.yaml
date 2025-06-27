@@ -16,12 +16,12 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Install requirements
         run: | 
+          cd uasubstack
           python -m venv .venv
           source .venv/bin/activate
           pip install -r uasubstack/requirements.txt
       - name: Parse rss feeds
         run: |
-          cd uasubstack
           python build_feed.py
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
