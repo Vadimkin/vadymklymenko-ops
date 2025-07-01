@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "My Favourite Ways to Avoid Spending Money",
+      "link": "https://www.autodidacts.io/how-to-spend-less-money/",
+      "published": "Tue, 01 Jul 2025 06:13:32 GMT"
+    },
+    {
       "title": "The parental dead end of consent morality",
       "link": "https://world.hey.com/dhh/the-parental-dead-end-of-consent-morality-e4e8a8ee",
       "published": "2025-06-29T19:15:55Z"
@@ -106,11 +111,6 @@
       "published": "Tue, 06 May 2025 17:13:14 GMT"
     },
     {
-      "title": "Tortoise Mode vs Hare Mode",
-      "link": "https://www.autodidacts.io/tortoise-mode/",
-      "published": "Wed, 30 Apr 2025 18:46:34 GMT"
-    },
-    {
       "title": "Yagya — Vor",
       "link": "https://zametkin.me/2025/04/30/yagya-vor/",
       "published": "Wed, 30 Apr 2025 10:13:46 +0000"
@@ -161,19 +161,9 @@
       "published": "Sat, 01 Mar 2025 14:14:38 GMT"
     },
     {
-      "title": "On Troubleshooting",
-      "link": "https://www.autodidacts.io/troubleshooting/",
-      "published": "Sat, 22 Feb 2025 03:22:00 GMT"
-    },
-    {
       "title": "Мій 2024",
       "link": "https://zaytsev.io/blog/2024-summary/",
       "published": "Wed, 15 Jan 2025 00:00:00 +0000"
-    },
-    {
-      "title": "Scroll-to-text fragment bookmarklet",
-      "link": "https://www.autodidacts.io/scroll-to-text-fragment-bookmarklet/",
-      "published": "Mon, 06 Jan 2025 19:18:23 GMT"
     },
     {
       "title": "Moon",
