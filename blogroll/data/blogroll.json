@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Не цікаво",
+      "link": "https://www.rozhkov.me/not-interesting/",
+      "published": "Tue, 08 Jul 2025 06:24:56 GMT"
+    },
+    {
       "title": "Користувацький досвід та труднощі перекладу",
       "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
       "published": "Mon, 07 Jul 2025 08:48:55 GMT"
@@ -71,24 +76,14 @@
       "published": "Fri, 20 Jun 2025 06:30:01 GMT"
     },
     {
+      "title": "Seal Beach",
+      "link": "https://mrgall.com/gallery/2025_06_15/",
+      "published": "Sun, 15 Jun 2025 12:00:00 +0000"
+    },
+    {
       "title": "Notes on code, text, and war. Week 1: Believing in text",
       "link": "https://zverok.space/blog/2025-06-11-code-war-notes-week1.html",
       "published": "Wed, 11 Jun 2025 00:00:00 +0000"
-    },
-    {
-      "title": "San Bernardino National Forest",
-      "link": "https://mrgall.com/gallery/2025_06_07/",
-      "published": "Sat, 07 Jun 2025 12:00:00 +0000"
-    },
-    {
-      "title": "San Bernardino National Forest",
-      "link": "https://mrgall.com/gallery/2025_06_06/",
-      "published": "Fri, 06 Jun 2025 12:00:00 +0000"
-    },
-    {
-      "title": "San Bernardino National Forest",
-      "link": "https://mrgall.com/gallery/2025_06_05/",
-      "published": "Thu, 05 Jun 2025 12:00:00 +0000"
     },
     {
       "title": "Years of evidence",
