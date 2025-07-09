@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Наша Європа",
-      "author": "Оксана Забужко",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747608938l/234426701.jpg",
-      "review_url": "https://www.goodreads.com/review/show/7615812442",
-      "rating": null,
-      "date_started": "2025-06-05",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    },
-    {
       "title": "Культура під тиском від ООО/ОООО",
       "author": "Borys Filonenko",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728910787l/220408864.jpg",
@@ -54,6 +43,17 @@
       "date_read": null,
       "is_reading_now": true,
       "own": true
+    },
+    {
+      "title": "Наша Європа",
+      "author": "Оксана Забужко",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747608938l/234426701.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7615812442",
+      "rating": 4,
+      "date_started": "2025-06-05",
+      "date_read": "2025-07-08",
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "The Practice: Shipping Creative Work",
@@ -1165,17 +1165,6 @@
       "date_read": "2014-12-19",
       "is_reading_now": false,
       "own": true
-    },
-    {
-      "title": "Цветы для Элджернона",
-      "author": "Daniel Keyes",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322070690l/6139677.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269822600",
-      "rating": 5,
-      "date_started": "2014-05-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
     },
     {
       "title": "Remote: Office Not Required",

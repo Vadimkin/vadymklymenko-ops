@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Наша Європа",
-      "author": "Оксана Забужко",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747608938l/234426701.jpg",
-      "review_url": "https://www.goodreads.com/review/show/7615812442",
-      "rating": null,
-      "date_started": "2025-06-05",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    },
-    {
       "title": "Культура під тиском від ООО/ОООО",
       "author": "Borys Filonenko",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728910787l/220408864.jpg",
