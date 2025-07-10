@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect",
+      "author": "Will Guidara",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664754462l/60018618.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7724332849",
+      "rating": null,
+      "date_started": "2025-07-09",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Культура під тиском від ООО/ОООО",
       "author": "Borys Filonenko",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728910787l/220408864.jpg",
