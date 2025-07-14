@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect",
+      "author": "Will Guidara",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664754462l/60018618.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7724332849",
+      "rating": 4,
+      "date_started": "2025-07-09",
+      "date_read": "2025-07-13",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "Наша Європа",
       "author": "Оксана Забужко",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747608938l/234426701.jpg",

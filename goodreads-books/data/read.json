@@ -1,12 +1,12 @@
 {
   "books": [
     {
-      "title": "Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect",
-      "author": "Will Guidara",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664754462l/60018618.jpg",
-      "review_url": "https://www.goodreads.com/review/show/7724332849",
+      "title": "1000 років радості й смутку. Мемуари",
+      "author": "Weiwei Ai",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677699377l/123161292.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5347668547",
       "rating": null,
-      "date_started": "2025-07-09",
+      "date_started": "2025-07-13",
       "date_read": null,
       "is_reading_now": true,
       "own": true
@@ -53,6 +53,17 @@
       "date_started": "2024-09-07",
       "date_read": null,
       "is_reading_now": true,
+      "own": true
+    },
+    {
+      "title": "Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect",
+      "author": "Will Guidara",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664754462l/60018618.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7724332849",
+      "rating": 4,
+      "date_started": "2025-07-09",
+      "date_read": "2025-07-13",
+      "is_reading_now": false,
       "own": true
     },
     {
@@ -1176,17 +1187,6 @@
       "date_read": "2014-12-19",
       "is_reading_now": false,
       "own": true
-    },
-    {
-      "title": "Remote: Office Not Required",
-      "author": "David Heinemeier Hansson",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363265098l/17316682.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269823394",
-      "rating": null,
-      "date_started": "2014-04-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
     },
     {
       "title": "1984, Скотный Двор",
