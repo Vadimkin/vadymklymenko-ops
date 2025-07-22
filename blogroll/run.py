@@ -74,7 +74,7 @@ def main():
         entries.extend(feed_entries)
 
     # Order by date
-    entries = sorted(entries, key=lambda entry: entry.published_parsed, reverse=True)
+    entries = sorted(entries, key=lambda entry: struct_time_to_datetime(entry.published_parsed), reverse=True)
     clean_entries = [clean_entry(entry) for entry in entries]
     print("Total entries:", len(clean_entries))
 
