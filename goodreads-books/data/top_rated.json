@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Мистецтво роману",
+      "author": "Milan Kundera",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737980356l/224032238.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7752248155",
+      "rating": 4,
+      "date_started": "2025-07-19",
+      "date_read": "2025-07-22",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect",
       "author": "Will Guidara",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664754462l/60018618.jpg",

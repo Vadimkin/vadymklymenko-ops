@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Мистецтво роману",
-      "author": "Milan Kundera",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737980356l/224032238.jpg",
-      "review_url": "https://www.goodreads.com/review/show/7752248155",
-      "rating": null,
-      "date_started": "2025-07-19",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    },
-    {
       "title": "1000 років радості й смутку. Мемуари",
       "author": "Weiwei Ai",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677699377l/123161292.jpg",
