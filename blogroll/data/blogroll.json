@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "It's a Beelink, baby",
+      "link": "https://world.hey.com/dhh/it-s-a-beelink-baby-243fdaf1",
+      "published": "2025-07-23T18:03:06Z"
+    },
+    {
       "title": "Tales From the Island of Illness",
       "link": "https://moretothat.com/tales-from-the-island-of-illness/",
       "published": "Tue, 22 Jul 2025 21:42:19 +0000"
@@ -119,11 +124,6 @@
       "title": "The Story of My First Book",
       "link": "https://moretothat.com/the-story-of-my-first-book/",
       "published": "Tue, 24 Jun 2025 22:20:34 +0000"
-    },
-    {
-      "title": "TechLeadConf 2025 in September",
-      "link": "https://swizec.com/blog/tech-lead-conf-2025-in-september/",
-      "published": "Tue, 24 Jun 2025 00:00:00 GMT"
     },
     {
       "title": "A short history of web bots and bot detection techniques",
