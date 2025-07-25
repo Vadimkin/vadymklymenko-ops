@@ -1,6 +1,26 @@
 {
   "feed": [
     {
+      "title": "Building competency is better than therapy",
+      "link": "https://world.hey.com/dhh/building-competency-is-better-than-therapy-4622c6b7",
+      "published": "2025-07-25T15:16:53Z"
+    },
+    {
+      "title": "Користувацький досвід та труднощі перекладу",
+      "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
+      "published": "Fri, 25 Jul 2025 15:16:43 GMT"
+    },
+    {
+      "title": "Візуальний дизайн, вайб та смак",
+      "link": "https://www.govorukhin.com/blog/visuals-vibes",
+      "published": "Fri, 25 Jul 2025 15:15:45 GMT"
+    },
+    {
+      "title": "Питання на етичність",
+      "link": "https://www.govorukhin.com/blog/ethics-check",
+      "published": "Fri, 25 Jul 2025 08:53:37 GMT"
+    },
+    {
       "title": "You expect principles but should wish for none",
       "link": "https://world.hey.com/dhh/you-expect-principles-but-should-wish-for-none-531988ec",
       "published": "2025-07-24T19:28:08Z"
@@ -51,11 +71,6 @@
       "published": "Fri, 11 Jul 2025 22:17:55 GMT"
     },
     {
-      "title": "Питання на етичність",
-      "link": "https://www.govorukhin.com/blog/ethics-check",
-      "published": "Fri, 11 Jul 2025 11:15:56 GMT"
-    },
-    {
       "title": "A few more thoughts on mentoring",
       "link": "https://swizec.com/blog/a-few-more-thoughts-on-mentoring/",
       "published": "Wed, 09 Jul 2025 00:00:00 GMT"
@@ -64,11 +79,6 @@
       "title": "Не цікаво",
       "link": "https://www.rozhkov.me/not-interesting/",
       "published": "Tue, 08 Jul 2025 06:24:56 GMT"
-    },
-    {
-      "title": "Користувацький досвід та труднощі перекладу",
-      "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
-      "published": "Mon, 07 Jul 2025 08:48:55 GMT"
     },
     {
       "title": "Вайбкодинг не здатен на все",
