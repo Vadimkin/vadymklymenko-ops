@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "You expect principles but should wish for none",
+      "link": "https://world.hey.com/dhh/you-expect-principles-but-should-wish-for-none-531988ec",
+      "published": "2025-07-24T19:28:08Z"
+    },
+    {
       "title": "It's a Beelink, baby",
       "link": "https://world.hey.com/dhh/it-s-a-beelink-baby-243fdaf1",
       "published": "2025-07-23T18:03:06Z"
@@ -119,11 +124,6 @@
       "title": "My mentoring philosophy",
       "link": "https://swizec.com/blog/my-mentoring-philosophy/",
       "published": "Thu, 26 Jun 2025 00:00:00 GMT"
-    },
-    {
-      "title": "The Story of My First Book",
-      "link": "https://moretothat.com/the-story-of-my-first-book/",
-      "published": "Tue, 24 Jun 2025 22:20:34 +0000"
     },
     {
       "title": "A short history of web bots and bot detection techniques",
