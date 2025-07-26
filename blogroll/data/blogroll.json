@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Knives and battleships",
+      "link": "https://world.hey.com/jason/knives-and-battleships-ac8dc8c2",
+      "published": "2025-07-25T18:07:10Z"
+    },
+    {
       "title": "Building competency is better than therapy",
       "link": "https://world.hey.com/dhh/building-competency-is-better-than-therapy-4622c6b7",
       "published": "2025-07-25T15:16:53Z"
@@ -129,11 +134,6 @@
       "title": "Omarchy is out",
       "link": "https://world.hey.com/dhh/omarchy-is-out-4666dd31",
       "published": "2025-06-26T23:07:19Z"
-    },
-    {
-      "title": "My mentoring philosophy",
-      "link": "https://swizec.com/blog/my-mentoring-philosophy/",
-      "published": "Thu, 26 Jun 2025 00:00:00 GMT"
     },
     {
       "title": "A short history of web bots and bot detection techniques",
