@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Час випити чаю",
+      "link": "https://zametkin.me/2025/07/27/5oclock/",
+      "published": "Sun, 27 Jul 2025 15:00:00 +0000"
+    },
+    {
       "title": "Про аудіокниги та digital-журнали",
       "link": "https://zametkin.me/2025/07/27/digital-books-and-magazines/",
       "published": "Sun, 27 Jul 2025 07:59:58 +0000"
@@ -134,11 +139,6 @@
       "title": "The parental dead end of consent morality",
       "link": "https://world.hey.com/dhh/the-parental-dead-end-of-consent-morality-e4e8a8ee",
       "published": "2025-06-29T19:15:55Z"
-    },
-    {
-      "title": "Self-driving is finally happening",
-      "link": "https://world.hey.com/dhh/self-driving-is-finally-happening-1d973fdd",
-      "published": "2025-06-27T15:21:37Z"
     },
     {
       "title": "A short history of web bots and bot detection techniques",
