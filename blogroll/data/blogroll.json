@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "These 3 alerts catch the most issues",
+      "link": "https://swizec.com/blog/these-3-alerts-catch-the-most-issues/",
+      "published": "Sat, 26 Jul 2025 00:00:00 GMT"
+    },
+    {
       "title": "Knives and battleships",
       "link": "https://world.hey.com/jason/knives-and-battleships-ac8dc8c2",
       "published": "2025-07-25T18:07:10Z"
@@ -129,11 +134,6 @@
       "title": "Self-driving is finally happening",
       "link": "https://world.hey.com/dhh/self-driving-is-finally-happening-1d973fdd",
       "published": "2025-06-27T15:21:37Z"
-    },
-    {
-      "title": "Omarchy is out",
-      "link": "https://world.hey.com/dhh/omarchy-is-out-4666dd31",
-      "published": "2025-06-26T23:07:19Z"
     },
     {
       "title": "A short history of web bots and bot detection techniques",
