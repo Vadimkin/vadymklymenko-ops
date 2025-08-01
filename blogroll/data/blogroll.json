@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Marconi Union — The Fear of Never Landing",
+      "link": "https://zametkin.me/2025/07/31/marconi-union-the-fear-of-never-landing/",
+      "published": "Thu, 31 Jul 2025 17:30:00 +0000"
+    },
+    {
       "title": "Слимаки-мандрівники",
       "link": "https://zametkin.me/2025/07/31/slymaky-mandrivnyky/",
       "published": "Thu, 31 Jul 2025 14:21:50 +0000"
@@ -139,11 +144,6 @@
       "title": "Get in losers, we're moving to Linux!",
       "link": "https://world.hey.com/dhh/get-in-losers-we-re-moving-to-linux-5e1b93cd",
       "published": "2025-07-03T22:26:17Z"
-    },
-    {
-      "title": "Cursor background agents in Slack changed my workflow",
-      "link": "https://swizec.com/blog/cursor-background-agents-in-slack-changed-my-workflow/",
-      "published": "Wed, 02 Jul 2025 00:00:00 GMT"
     },
     {
       "title": "A short history of web bots and bot detection techniques",
