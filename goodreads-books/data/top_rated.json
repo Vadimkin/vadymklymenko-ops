@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "The Answer Is No",
+      "author": "Fredrik Backman",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727897163l/219876684.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7569328726",
+      "rating": 4,
+      "date_started": "2025-08-02",
+      "date_read": "2025-08-02",
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Мистецтво роману",
       "author": "Milan Kundera",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737980356l/224032238.jpg",

@@ -45,6 +45,17 @@
       "own": true
     },
     {
+      "title": "The Answer Is No",
+      "author": "Fredrik Backman",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727897163l/219876684.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7569328726",
+      "rating": 4,
+      "date_started": "2025-08-02",
+      "date_read": "2025-08-02",
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Мистецтво роману",
       "author": "Milan Kundera",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737980356l/224032238.jpg",
@@ -1194,17 +1205,6 @@
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365185159l/17733382.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269824783",
       "rating": 5,
-      "date_started": "2014-03-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Алхимик",
-      "author": "Paulo Coelho",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350211349l/6432120.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269824164",
-      "rating": null,
       "date_started": "2014-03-01",
       "date_read": null,
       "is_reading_now": false,
