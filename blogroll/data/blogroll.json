@@ -136,11 +136,6 @@
       "published": "Fri, 04 Jul 2025 12:00:00 +0000"
     },
     {
-      "title": "daily rozhok №13: у ріжка горить срака👩‍🚒",
-      "link": "https://www.rozhkov.me/daily-rozhok-13/",
-      "published": "Fri, 04 Jul 2025 06:30:53 GMT"
-    },
-    {
       "title": "A short history of web bots and bot detection techniques",
       "link": "https://sinja.io/blog/bot-or-not",
       "published": "Sun, 22 Jun 2025 00:00:00 GMT"
@@ -151,6 +146,11 @@
       "published": "Sat, 21 Jun 2025 00:00:00 +0000"
     },
     {
+      "title": "Збір на тачку для 3 ОШБ",
+      "link": "https://kos.fm/sidenotes/vasyl-fundraising/",
+      "published": "Fri, 20 Jun 2025 16:00:00 +0300"
+    },
+    {
       "title": "Notes on code, text, and war. Week 1: Believing in text",
       "link": "https://zverok.space/blog/2025-06-11-code-war-notes-week1.html",
       "published": "Wed, 11 Jun 2025 00:00:00 +0000"
@@ -159,6 +159,16 @@
       "title": "6 advanced TypeScript tricks",
       "link": "https://sinja.io/blog/advanced-typescript",
       "published": "Sun, 08 Jun 2025 00:00:00 GMT"
+    },
+    {
+      "title": "Apple Vision Pro",
+      "link": "https://kos.fm/sidenotes/apple-vision-pro/",
+      "published": "Sat, 07 Jun 2025 16:45:17 +0300"
+    },
+    {
+      "title": "Проблема 5 доменів",
+      "link": "https://kos.fm/5-domain-problem/",
+      "published": "Thu, 22 May 2025 10:00:00 +0300"
     },
     {
       "title": "That thing that you loved (before you googled it)",
