@@ -54,6 +54,7 @@ def main():
         "https://media3.substack.com/feed/",
         "https://tlfrd.substack.com/feed/",
         "https://www.rozhkov.me/rss/",
+        "https://feeds.feedburner.com/ostrozub/new?format=xml",
     ]
 
     entries = []
