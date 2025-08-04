@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Оптимізатор медіафайлів Clop",
+      "link": "https://zametkin.me/2025/08/04/clop-optimizer/",
+      "published": "Mon, 04 Aug 2025 09:34:16 +0000"
+    },
+    {
       "title": "Текстовий редактор Antinote",
       "link": "https://zametkin.me/2025/08/03/antinote-text-processor/",
       "published": "Sun, 03 Aug 2025 09:32:15 +0000"
