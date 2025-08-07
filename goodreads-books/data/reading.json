@@ -1,23 +1,23 @@
 {
   "books": [
     {
+      "title": "Клуб любителів книжок та пирогів з картопляного лушпиння",
+      "author": "Mary Ann Shaffer",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572858345l/45755755.jpg",
+      "review_url": "https://www.goodreads.com/review/show/4311775251",
+      "rating": null,
+      "date_started": "2025-08-06",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": false
+    },
+    {
       "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
       "author": "Malcolm Gladwell",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587822931l/48572539.jpg",
       "review_url": "https://www.goodreads.com/review/show/5556818040",
       "rating": null,
       "date_started": "2025-08-04",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
-      "title": "Культура під тиском від ООО/ОООО",
-      "author": "Borys Filonenko",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728910787l/220408864.jpg",
-      "review_url": "https://www.goodreads.com/review/show/7381345430",
-      "rating": null,
-      "date_started": "2025-03-06",
       "date_read": null,
       "is_reading_now": true,
       "own": true
@@ -32,28 +32,6 @@
       "date_read": null,
       "is_reading_now": true,
       "own": false
-    },
-    {
-      "title": "Життя деінде",
-      "author": "Milan Kundera",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622374313l/56159700.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6882037142",
-      "rating": null,
-      "date_started": "2024-09-27",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
-      "title": "«Нова ґенерація» і мистецький модернізм в Україні",
-      "author": "Myroslava M. Mudrak",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529527819l/40599577.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6826754414",
-      "rating": null,
-      "date_started": "2024-09-07",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
     }
   ]
 }
