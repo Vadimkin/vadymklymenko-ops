@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Клуб любителів книжок та пирогів з картопляного лушпиння",
-      "author": "Mary Ann Shaffer",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572858345l/45755755.jpg",
-      "review_url": "https://www.goodreads.com/review/show/4311775251",
-      "rating": null,
-      "date_started": "2025-08-06",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    },
-    {
       "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
       "author": "Malcolm Gladwell",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587822931l/48572539.jpg",
@@ -31,6 +20,17 @@
       "date_started": "2024-10-20",
       "date_read": null,
       "is_reading_now": true,
+      "own": false
+    },
+    {
+      "title": "Клуб любителів книжок та пирогів з картопляного лушпиння",
+      "author": "Mary Ann Shaffer",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572858345l/45755755.jpg",
+      "review_url": "https://www.goodreads.com/review/show/4311775251",
+      "rating": 4,
+      "date_started": "2025-08-06",
+      "date_read": "2025-08-09",
+      "is_reading_now": false,
       "own": false
     },
     {
@@ -1198,17 +1198,6 @@
       "date_read": "2014-12-19",
       "is_reading_now": false,
       "own": true
-    },
-    {
-      "title": "Пятьдесят оттенков серого",
-      "author": "E.L. James",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348677284l/16048509.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269825289",
-      "rating": 2,
-      "date_started": "2014-02-01",
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
     },
     {
       "title": "Are You Just Existing and Calling it a Life?: Empower Your Passion to Find Purpose",

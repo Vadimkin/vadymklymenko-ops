@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Клуб любителів книжок та пирогів з картопляного лушпиння",
-      "author": "Mary Ann Shaffer",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572858345l/45755755.jpg",
-      "review_url": "https://www.goodreads.com/review/show/4311775251",
-      "rating": null,
-      "date_started": "2025-08-06",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    },
-    {
       "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
       "author": "Malcolm Gladwell",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587822931l/48572539.jpg",
