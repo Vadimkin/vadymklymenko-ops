@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Omarchy micro-forks Chromium",
+      "link": "https://world.hey.com/dhh/omarchy-micro-forks-chromium-1287486d",
+      "published": "2025-08-14T16:36:21Z"
+    },
+    {
       "title": "Quick tips for distributed event-based systems",
       "link": "https://swizec.com/blog/quick-tips-for-distributed-event-based-systems/",
       "published": "Wed, 13 Aug 2025 00:00:00 GMT"
@@ -114,11 +119,6 @@
       "title": "Питання на етичність",
       "link": "https://www.govorukhin.com/blog/ethics-check",
       "published": "Fri, 25 Jul 2025 08:53:37 GMT"
-    },
-    {
-      "title": "You expect principles but should wish for none",
-      "link": "https://world.hey.com/dhh/you-expect-principles-but-should-wish-for-none-531988ec",
-      "published": "2025-07-24T19:28:08Z"
     },
     {
       "title": "Tales From the Island of Illness",
