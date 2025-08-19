@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "HTMX – Server Components without React",
+      "link": "https://swizec.com/blog/htmx-server-components-without-react/",
+      "published": "Tue, 19 Aug 2025 00:00:00 GMT"
+    },
+    {
       "title": "Omarchy micro-forks Chromium",
       "link": "https://world.hey.com/dhh/omarchy-micro-forks-chromium-1287486d",
       "published": "2025-08-14T16:36:21Z"
