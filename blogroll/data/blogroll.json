@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "An obligation to independence",
+      "link": "https://world.hey.com/jason/an-obligation-to-independence-670b78af",
+      "published": "2025-08-21T19:29:26Z"
+    },
+    {
       "title": "HTMX – Server Components without React",
       "link": "https://swizec.com/blog/htmx-server-components-without-react/",
       "published": "Tue, 19 Aug 2025 00:00:00 GMT"
@@ -131,6 +136,11 @@
       "published": "Tue, 22 Jul 2025 21:42:19 +0000"
     },
     {
+      "title": "The Poison of Status",
+      "link": "https://moretothat.com/the-poison-of-status/",
+      "published": "Tue, 15 Jul 2025 03:30:19 +0000"
+    },
+    {
       "title": "I can haz knowledgebase",
       "link": "https://www.autodidacts.io/knowledgebase/",
       "published": "Fri, 11 Jul 2025 22:17:55 GMT"
@@ -154,6 +164,11 @@
       "title": "My Favourite Ways to Avoid Spending Money",
       "link": "https://www.autodidacts.io/how-to-spend-less-money/",
       "published": "Tue, 01 Jul 2025 06:13:32 GMT"
+    },
+    {
+      "title": "The Story of My First Book",
+      "link": "https://moretothat.com/the-story-of-my-first-book/",
+      "published": "Tue, 24 Jun 2025 22:20:34 +0000"
     },
     {
       "title": "Збори та шахраї",
