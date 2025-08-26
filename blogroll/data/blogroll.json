@@ -1,9 +1,19 @@
 {
   "feed": [
     {
+      "title": "National pride",
+      "link": "https://world.hey.com/dhh/national-pride-f7aa1e92",
+      "published": "2025-08-26T12:45:04Z"
+    },
+    {
       "title": "Закон Конвея",
       "link": "https://www.rozhkov.me/conways-law/",
       "published": "Tue, 26 Aug 2025 06:24:11 GMT"
+    },
+    {
+      "title": "Pair programming",
+      "link": "https://swizec.com/blog/pair-programming/",
+      "published": "Tue, 26 Aug 2025 00:00:00 GMT"
     },
     {
       "title": "Yes it's like spinning plates",
@@ -104,11 +114,6 @@
       "title": "The beauty of ideals",
       "link": "https://world.hey.com/dhh/the-beauty-of-ideals-b3dccf72",
       "published": "2025-07-28T10:31:34Z"
-    },
-    {
-      "title": "Час випити чаю",
-      "link": "https://zametkin.me/2025/07/27/5oclock/",
-      "published": "Sun, 27 Jul 2025 15:00:00 +0000"
     },
     {
       "title": "Користувацький досвід та труднощі перекладу",
