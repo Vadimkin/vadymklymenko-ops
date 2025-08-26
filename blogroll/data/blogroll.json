@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Закон Конвея",
+      "link": "https://www.rozhkov.me/conways-law/",
+      "published": "Tue, 26 Aug 2025 06:24:11 GMT"
+    },
+    {
       "title": "Yes it's like spinning plates",
       "link": "https://swizec.com/blog/yes-its-like-spinning-plates/",
       "published": "Sat, 23 Aug 2025 00:00:00 GMT"
@@ -106,11 +111,6 @@
       "published": "Sun, 27 Jul 2025 15:00:00 +0000"
     },
     {
-      "title": "Про аудіокниги та digital-журнали",
-      "link": "https://zametkin.me/2025/07/27/digital-books-and-magazines/",
-      "published": "Sun, 27 Jul 2025 07:59:58 +0000"
-    },
-    {
       "title": "Користувацький досвід та труднощі перекладу",
       "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
       "published": "Fri, 25 Jul 2025 15:16:43 GMT"
@@ -141,16 +141,6 @@
       "published": "Fri, 11 Jul 2025 22:17:55 GMT"
     },
     {
-      "title": "Не цікаво",
-      "link": "https://www.rozhkov.me/not-interesting/",
-      "published": "Tue, 08 Jul 2025 06:24:56 GMT"
-    },
-    {
-      "title": "daily rozhok №13: у ріжка горить срака👩‍🚒",
-      "link": "https://www.rozhkov.me/daily-rozhok-13/",
-      "published": "Fri, 04 Jul 2025 06:30:53 GMT"
-    },
-    {
       "title": "My Favourite Ways to Avoid Spending Money",
       "link": "https://www.autodidacts.io/how-to-spend-less-money/",
       "published": "Tue, 01 Jul 2025 06:13:32 GMT"
@@ -159,11 +149,6 @@
       "title": "The Story of My First Book",
       "link": "https://moretothat.com/the-story-of-my-first-book/",
       "published": "Tue, 24 Jun 2025 22:20:34 +0000"
-    },
-    {
-      "title": "Збори та шахраї",
-      "link": "https://www.rozhkov.me/crooks/",
-      "published": "Mon, 23 Jun 2025 06:24:49 GMT"
     },
     {
       "title": "A short history of web bots and bot detection techniques",
