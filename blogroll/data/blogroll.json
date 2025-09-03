@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Хайлоад — подивився «Ford v Ferrari» та «F1»",
+      "link": "https://www.rozhkov.me/ford-v-ferrari-f1-highload/",
+      "published": "Wed, 03 Sep 2025 06:24:23 GMT"
+    },
+    {
+      "title": "“Is There More to Life Than This?”",
+      "link": "https://moretothat.com/is-there-more-to-life-than-this/",
+      "published": "Wed, 03 Sep 2025 01:46:29 +0000"
+    },
+    {
       "title": "Leadership lessons from growing 3x in 1 year",
       "link": "https://swizec.com/blog/leadership-lessons-from-growing-3x-in-1-year/",
       "published": "Tue, 02 Sep 2025 00:00:00 GMT"
@@ -131,16 +141,6 @@
       "published": "Fri, 25 Jul 2025 08:53:37 GMT"
     },
     {
-      "title": "Tales From the Island of Illness",
-      "link": "https://moretothat.com/tales-from-the-island-of-illness/",
-      "published": "Tue, 22 Jul 2025 21:42:19 +0000"
-    },
-    {
-      "title": "The Poison of Status",
-      "link": "https://moretothat.com/the-poison-of-status/",
-      "published": "Tue, 15 Jul 2025 03:30:19 +0000"
-    },
-    {
       "title": "I can haz knowledgebase",
       "link": "https://www.autodidacts.io/knowledgebase/",
       "published": "Fri, 11 Jul 2025 22:17:55 GMT"
@@ -149,11 +149,6 @@
       "title": "My Favourite Ways to Avoid Spending Money",
       "link": "https://www.autodidacts.io/how-to-spend-less-money/",
       "published": "Tue, 01 Jul 2025 06:13:32 GMT"
-    },
-    {
-      "title": "The Story of My First Book",
-      "link": "https://moretothat.com/the-story-of-my-first-book/",
-      "published": "Tue, 24 Jun 2025 22:20:34 +0000"
     },
     {
       "title": "A short history of web bots and bot detection techniques",
