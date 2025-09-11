@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Hello, human resources?",
+      "link": "https://www.rozhkov.me/hello-human-resources/",
+      "published": "Thu, 11 Sep 2025 06:24:40 GMT"
+    },
+    {
       "title": "@grok is this true?",
       "link": "https://www.rozhkov.me/grok-is-this-true/",
       "published": "Tue, 09 Sep 2025 06:24:48 GMT"
