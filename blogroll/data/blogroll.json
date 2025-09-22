@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "What Counts as an Iteration?",
+      "link": "https://www.autodidacts.io/iteration/",
+      "published": "Sun, 21 Sep 2025 22:56:00 GMT"
+    },
+    {
       "title": "Kyiv Car Fest",
       "link": "https://zametkin.me/2025/09/21/kyiv-car-fest/",
       "published": "Sun, 21 Sep 2025 09:13:35 +0000"
@@ -131,16 +136,6 @@
       "published": "Sun, 10 Aug 2025 12:00:00 +0000"
     },
     {
-      "title": "I can haz knowledgebase",
-      "link": "https://www.autodidacts.io/knowledgebase/",
-      "published": "Fri, 11 Jul 2025 22:17:55 GMT"
-    },
-    {
-      "title": "My Favourite Ways to Avoid Spending Money",
-      "link": "https://www.autodidacts.io/how-to-spend-less-money/",
-      "published": "Tue, 01 Jul 2025 06:13:32 GMT"
-    },
-    {
       "title": "A short history of web bots and bot detection techniques",
       "link": "https://sinja.io/blog/bot-or-not",
       "published": "Sun, 22 Jun 2025 00:00:00 GMT"
@@ -184,11 +179,6 @@
       "title": "Smoke, Mirrors, and Toothpaste Foam — from the Desk of van Schneider",
       "link": "https://vanschneider.com/blog/edition-265/",
       "published": "Tue, 06 May 2025 17:13:14 GMT"
-    },
-    {
-      "title": "Tortoise Mode vs Hare Mode",
-      "link": "https://www.autodidacts.io/tortoise-mode/",
-      "published": "Wed, 30 Apr 2025 18:46:34 GMT"
     },
     {
       "title": "The story of the Orange",
