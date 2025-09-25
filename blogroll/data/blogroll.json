@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Calling someone a \"nazi\" is a permission slip for violence",
+      "link": "https://world.hey.com/dhh/calling-someone-a-nazi-is-a-permission-slip-for-violence-4bfbbb82",
+      "published": "2025-09-24T23:27:33Z"
+    },
+    {
       "title": "You may be looking for a useSyncExternalStore",
       "link": "https://swizec.com/blog/you-may-be-looking-for-a-useSyncExternalStore/",
       "published": "Tue, 23 Sep 2025 00:00:00 GMT"
@@ -129,11 +134,6 @@
       "title": "Закон Конвея",
       "link": "https://www.rozhkov.me/conways-law/",
       "published": "Tue, 26 Aug 2025 06:24:11 GMT"
-    },
-    {
-      "title": "Pair programming",
-      "link": "https://swizec.com/blog/pair-programming/",
-      "published": "Tue, 26 Aug 2025 00:00:00 GMT"
     },
     {
       "title": "Hearst Castle & Morro Bay",
