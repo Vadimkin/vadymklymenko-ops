@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Як бути стоїком. Антична філософія для сучасного життя",
-      "author": "Massimo Pigliucci",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739864396l/228118289.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3449595796",
-      "rating": null,
-      "date_started": "2025-08-09",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
       "author": "Malcolm Gladwell",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587822931l/48572539.jpg",
@@ -32,6 +21,17 @@
       "date_read": null,
       "is_reading_now": true,
       "own": false
+    },
+    {
+      "title": "Як бути стоїком. Антична філософія для сучасного життя",
+      "author": "Massimo Pigliucci",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739864396l/228118289.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3449595796",
+      "rating": 4,
+      "date_started": "2025-08-09",
+      "date_read": "2025-09-28",
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Клуб любителів книжок та пирогів з картопляного лушпиння",
@@ -1218,17 +1218,6 @@
       "rating": 3,
       "date_started": "2013-12-19",
       "date_read": "2013-12-19",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Психология влияния",
-      "author": "Robert B. Cialdini",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347884858l/16031110.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269825718",
-      "rating": null,
-      "date_started": "2013-12-01",
-      "date_read": null,
       "is_reading_now": false,
       "own": false
     },
