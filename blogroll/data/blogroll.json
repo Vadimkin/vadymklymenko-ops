@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "AI-скепсис",
+      "link": "https://www.rozhkov.me/ai-scepticism/",
+      "published": "Fri, 03 Oct 2025 06:24:40 GMT"
+    },
+    {
       "title": "Менеджимо контекст менеджера",
       "link": "https://www.rozhkov.me/manager-management/",
       "published": "Wed, 01 Oct 2025 06:24:48 GMT"
@@ -114,16 +119,6 @@
       "title": "Ідейність vs наймитство",
       "link": "https://www.rozhkov.me/cult-vs-firm/",
       "published": "Fri, 05 Sep 2025 06:24:08 GMT"
-    },
-    {
-      "title": "Хайлоад — подивився «Ford v Ferrari» та «F1»",
-      "link": "https://www.rozhkov.me/ford-v-ferrari-f1-highload/",
-      "published": "Wed, 03 Sep 2025 06:24:23 GMT"
-    },
-    {
-      "title": "“Is There More to Life Than This?”",
-      "link": "https://moretothat.com/is-there-more-to-life-than-this/",
-      "published": "Wed, 03 Sep 2025 01:46:29 +0000"
     },
     {
       "title": "Hearst Castle & Morro Bay",
