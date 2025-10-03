@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # https://crontab.guru
-    - cron: '00 01 * * *'
+    - cron: "00 01 * * *"
 
 jobs:
   build:
@@ -15,8 +15,9 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Install requirements
-        run: | 
+        run: |
           cd uasubstack
+          rm -rf .venv
           python -m venv .venv
           source .venv/bin/activate
           pip install -r requirements.txt
@@ -29,4 +30,4 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           default_author: "github_actions"
-          message: '📪 Updated substack registry with new posts'
+          message: "📪 Updated substack registry with new posts"
