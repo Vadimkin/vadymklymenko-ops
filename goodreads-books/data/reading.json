@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Столиций Київ: як воювала, творила і бешкетувала наша еліта 100 років тому",
+      "author": "Тетяна Швидченко",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716884527l/213925854.jpg",
+      "review_url": "https://www.goodreads.com/review/show/7014846577",
+      "rating": null,
+      "date_started": "2025-10-10",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": false
+    },
+    {
       "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
       "author": "Malcolm Gladwell",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587822931l/48572539.jpg",
