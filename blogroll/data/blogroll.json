@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Про швидкість роботи",
+      "link": "https://www.govorukhin.com/blog/on-speed",
+      "published": "Tue, 14 Oct 2025 12:06:20 GMT"
+    },
+    {
       "title": "The next product",
       "link": "https://world.hey.com/jason/the-next-product-42d6eaf9",
       "published": "2025-10-13T21:38:17Z"
@@ -119,16 +124,6 @@
       "title": "As I remember London",
       "link": "https://world.hey.com/dhh/as-i-remember-london-e7d38e64",
       "published": "2025-09-15T08:19:00Z"
-    },
-    {
-      "title": "Як відкрити еквалайзер Apple Music на айфоні одним дотиком",
-      "link": "https://zametkin.me/2025/09/14/music-eq-shortcut/",
-      "published": "Sun, 14 Sep 2025 14:52:58 +0000"
-    },
-    {
-      "title": "Apple has no one left who can say no",
-      "link": "https://world.hey.com/dhh/apple-has-no-one-left-who-can-say-no-1a542329",
-      "published": "2025-09-14T10:50:57Z"
     },
     {
       "title": "Hearst Castle & Morro Bay",
