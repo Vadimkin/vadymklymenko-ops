@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Кава з CoffeaSHED",
+      "link": "https://kos.fm/sidenotes/coffeashed-shanghai-coffee/",
+      "published": "Wed, 15 Oct 2025 22:00:00 +0300"
+    },
+    {
       "title": "Про швидкість роботи",
       "link": "https://www.govorukhin.com/blog/on-speed",
       "published": "Tue, 14 Oct 2025 12:06:20 GMT"
@@ -116,11 +121,6 @@
       "published": "Sat, 20 Sep 2025 06:46:09 +0000"
     },
     {
-      "title": "How to be witty and off-the-cuff as a slow deep thinker",
-      "link": "https://swizec.com/blog/how-to-be-witty-and-off-the-cuff-as-a-slow-deep-thinker/",
-      "published": "Tue, 16 Sep 2025 00:00:00 GMT"
-    },
-    {
       "title": "Hearst Castle & Morro Bay",
       "link": "https://mrgall.com/gallery/2025_08_12/",
       "published": "Tue, 12 Aug 2025 12:00:00 +0000"
@@ -146,11 +146,6 @@
       "published": "Sat, 21 Jun 2025 00:00:00 +0000"
     },
     {
-      "title": "Збір на тачку для 3 ОШБ",
-      "link": "https://kos.fm/sidenotes/vasyl-fundraising/",
-      "published": "Fri, 20 Jun 2025 16:00:00 +0300"
-    },
-    {
       "title": "Notes on code, text, and war. Week 1: Believing in text",
       "link": "https://zverok.space/blog/2025-06-11-code-war-notes-week1.html",
       "published": "Wed, 11 Jun 2025 00:00:00 +0000"
@@ -159,16 +154,6 @@
       "title": "6 advanced TypeScript tricks",
       "link": "https://sinja.io/blog/advanced-typescript",
       "published": "Sun, 08 Jun 2025 00:00:00 GMT"
-    },
-    {
-      "title": "Apple Vision Pro",
-      "link": "https://kos.fm/sidenotes/apple-vision-pro/",
-      "published": "Sat, 07 Jun 2025 16:45:17 +0300"
-    },
-    {
-      "title": "Проблема 5 доменів",
-      "link": "https://kos.fm/5-domain-problem/",
-      "published": "Thu, 22 May 2025 10:00:00 +0300"
     },
     {
       "title": "That thing that you loved (before you googled it)",
