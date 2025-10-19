@@ -6,11 +6,6 @@
       "published": "2025-10-16T14:43:41Z"
     },
     {
-      "title": "Feedback is a strange thing",
-      "link": "https://swizec.com/blog/feedback-is-a-strange-thing/",
-      "published": "Thu, 16 Oct 2025 00:00:00 GMT"
-    },
-    {
       "title": "Кава з CoffeaSHED",
       "link": "https://kos.fm/sidenotes/coffeashed-shanghai-coffee/",
       "published": "Wed, 15 Oct 2025 22:00:00 +0300"
@@ -46,19 +41,9 @@
       "published": "2025-10-07T13:02:38Z"
     },
     {
-      "title": "React, HTMX, and TanStack/Start",
-      "link": "https://swizec.com/blog/react-htmx-and-tan-stack-start/",
-      "published": "Mon, 06 Oct 2025 00:00:00 GMT"
-    },
-    {
       "title": "Pay yourself first",
       "link": "https://world.hey.com/dhh/pay-yourself-first-e86f8147",
       "published": "2025-10-04T08:12:02Z"
-    },
-    {
-      "title": "The grind won't get you there",
-      "link": "https://swizec.com/blog/the-grind-wont-get-you-there/",
-      "published": "Sat, 04 Oct 2025 00:00:00 GMT"
     },
     {
       "title": "Менеджер має захищати від хуйні",
@@ -74,11 +59,6 @@
       "title": "Менеджимо контекст менеджера",
       "link": "https://www.rozhkov.me/manager-management/",
       "published": "Wed, 01 Oct 2025 06:24:48 GMT"
-    },
-    {
-      "title": "Most history is fake myth building",
-      "link": "https://swizec.com/blog/most-history-is-fake-myth-building/",
-      "published": "Tue, 30 Sep 2025 00:00:00 GMT"
     },
     {
       "title": "Страх втратити роботу",
@@ -99,11 +79,6 @@
       "title": "Calling someone a \"nazi\" is a permission slip for violence",
       "link": "https://world.hey.com/dhh/calling-someone-a-nazi-is-a-permission-slip-for-violence-4bfbbb82",
       "published": "2025-09-24T23:27:33Z"
-    },
-    {
-      "title": "You may be looking for a useSyncExternalStore",
-      "link": "https://swizec.com/blog/you-may-be-looking-for-a-useSyncExternalStore/",
-      "published": "Tue, 23 Sep 2025 00:00:00 GMT"
     },
     {
       "title": "Мультифід у додатку Megogo",
@@ -146,11 +121,6 @@
       "published": "Sun, 10 Aug 2025 12:00:00 +0000"
     },
     {
-      "title": "A short history of web bots and bot detection techniques",
-      "link": "https://sinja.io/blog/bot-or-not",
-      "published": "Sun, 22 Jun 2025 00:00:00 GMT"
-    },
-    {
       "title": "Notes on code, text, and war. Week 2: If code is text, then what?",
       "link": "https://zverok.space/blog/2025-06-21-code-war-notes-week2.html",
       "published": "Sat, 21 Jun 2025 00:00:00 +0000"
@@ -159,11 +129,6 @@
       "title": "Notes on code, text, and war. Week 1: Believing in text",
       "link": "https://zverok.space/blog/2025-06-11-code-war-notes-week1.html",
       "published": "Wed, 11 Jun 2025 00:00:00 +0000"
-    },
-    {
-      "title": "6 advanced TypeScript tricks",
-      "link": "https://sinja.io/blog/advanced-typescript",
-      "published": "Sun, 08 Jun 2025 00:00:00 GMT"
     },
     {
       "title": "That thing that you loved (before you googled it)",
@@ -184,16 +149,6 @@
       "title": "The case against conversational interfaces",
       "link": "https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/",
       "published": "Thu, 27 Mar 2025 14:13:42 +0000"
-    },
-    {
-      "title": "Browse No More",
-      "link": "https://paulstamatiou.com/browse-no-more",
-      "published": "Thu, 13 Mar 2025 16:00:00 GMT"
-    },
-    {
-      "title": "How to write exceptional documentation",
-      "link": "https://chrisnicholas.dev/blog/how-to-write-exceptional-documentation",
-      "published": "Tue, 04 Mar 2025 00:00:00 GMT"
     },
     {
       "title": "Seven things I know after 25 years of development",
@@ -241,16 +196,6 @@
       "published": "Wed, 11 Sep 2024 00:00:00 +0000"
     },
     {
-      "title": "Features of your font you had no idea about",
-      "link": "https://sinja.io/blog/get-maximum-out-of-your-font",
-      "published": "Tue, 10 Sep 2024 00:00:00 GMT"
-    },
-    {
-      "title": "The Startup Designer",
-      "link": "https://paulstamatiou.com/the-startup-designer",
-      "published": "Tue, 27 Aug 2024 00:00:00 GMT"
-    },
-    {
       "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
       "link": "https://reporters.media/zhurnalistyka-velykogo-formatu/",
       "published": "Thu, 08 Aug 2024 13:12:09 +0000"
@@ -259,11 +204,6 @@
       "title": "Більше, ніж яблук, хат і людей",
       "link": "https://reporters.media/bilshe-nizh-yabluk-hat-i-lyudej/",
       "published": "Tue, 06 Aug 2024 07:51:00 +0000"
-    },
-    {
-      "title": "Building an AI toolbar for text editors",
-      "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
-      "published": "Tue, 09 Jul 2024 00:00:00 GMT"
     },
     {
       "title": "Дивись, як я можу",
@@ -284,16 +224,6 @@
       "title": "All My Thoughts After 40 Hours in the Vision Pro",
       "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
       "published": "Fri, 09 Feb 2024 18:24:38 +0000"
-    },
-    {
-      "title": "A new blog for 2024",
-      "link": "https://chrisnicholas.dev/blog/a-new-blog-for-2024",
-      "published": "Tue, 02 Jan 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Stocketa",
-      "link": "https://paulstamatiou.com/stocketa",
-      "published": "Mon, 16 Oct 2023 00:00:00 GMT"
     },
     {
       "title": "Multi-layered calendars",
