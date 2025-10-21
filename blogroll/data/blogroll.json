@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Make sure it works first",
+      "link": "https://swizec.com/blog/make-sure-it-works-first/",
+      "published": "Tue, 21 Oct 2025 00:00:00 GMT"
+    },
+    {
       "title": "A petabyte worth of Omarchy in a month",
       "link": "https://world.hey.com/dhh/a-petabyte-worth-of-omarchy-in-a-month-a1fc538e",
       "published": "2025-10-16T14:43:41Z"
@@ -119,11 +124,6 @@
       "title": "What Counts as an Iteration?",
       "link": "https://www.autodidacts.io/iteration/",
       "published": "Sun, 21 Sep 2025 22:56:00 GMT"
-    },
-    {
-      "title": "Kyiv Car Fest",
-      "link": "https://zametkin.me/2025/09/21/kyiv-car-fest/",
-      "published": "Sun, 21 Sep 2025 09:13:35 +0000"
     },
     {
       "title": "Hearst Castle & Morro Bay",
