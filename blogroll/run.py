@@ -75,21 +75,14 @@ def main():
         entries.extend(feed_entries)
 
     # Order by date
-    entries = sorted(
-        entries,
-        key=lambda entry: struct_time_to_datetime(entry.published_parsed),
-        reverse=True,
-    )
+    entries = sorted(entries, key=lambda entry: struct_time_to_datetime(entry.published_parsed), reverse=True)
     clean_entries = [clean_entry(entry) for entry in entries]
     print("Total entries:", len(clean_entries))
 
-    for entry in entries:
-        print(f"{entry.title} {struct_time_to_datetime(entry.published_parsed)}")
-
-    # with open(blogroll_json_path, 'w', encoding='utf-8') as f:
-    #     books_dict = {"feed": clean_entries}
-    #     json_str = json.dumps(books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False, indent=2)
-    #     f.write(json_str)
+    with open(blogroll_json_path, 'w', encoding='utf-8') as f:
+        books_dict = {"feed": clean_entries}
+        json_str = json.dumps(books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False, indent=2)
+        f.write(json_str)
 
 
 def struct_time_to_datetime(st: time.struct_time) -> datetime.datetime:
