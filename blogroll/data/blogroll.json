@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Куда я жмав #17",
+      "link": "https://gallery21.blog/2025/10/26/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-17/",
+      "published": "Sun, 26 Oct 2025 19:54:46 +0000"
+    },
+    {
       "title": "The job behind the job [of a high level IC]",
       "link": "https://swizec.com/blog/the-job-behind-the-job-of-a-high-level-ic/",
       "published": "Sat, 25 Oct 2025 00:00:00 GMT"
@@ -114,11 +119,6 @@
       "title": "куда я жмав #15",
       "link": "https://gallery21.blog/2025/10/01/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-15/",
       "published": "Wed, 01 Oct 2025 18:01:56 +0000"
-    },
-    {
-      "title": "Старі леви (Secondhand Lions)",
-      "link": "https://gallery21.blog/2025/10/01/%d1%81%d1%82%d0%b0%d1%80%d1%96-%d0%bb%d0%b5%d0%b2%d0%b8-secondhand-lions/",
-      "published": "Wed, 01 Oct 2025 17:12:31 +0000"
     },
     {
       "title": "Менеджимо контекст менеджера",
@@ -254,21 +254,6 @@
       "title": "Автори двох кращих книг року",
       "link": "https://zaytsev.io/blog/david-burns-and-rick-rubin/",
       "published": "Wed, 13 Nov 2024 00:00:00 +0000"
-    },
-    {
-      "title": "QA: Кодинг у дизайні",
-      "link": "https://blog.alexkolodko.com/all/qa-design-and-coding/",
-      "published": "Sun, 29 Sep 2024 16:13:08 +0300"
-    },
-    {
-      "title": "Кишенькові схеми метро",
-      "link": "https://blog.alexkolodko.com/all/pocket-metro-map/",
-      "published": "Fri, 27 Sep 2024 16:43:26 +0300"
-    },
-    {
-      "title": "Лого НСЗУ",
-      "link": "https://blog.alexkolodko.com/all/logo-nszu/",
-      "published": "Fri, 27 Sep 2024 12:58:50 +0300"
     },
     {
       "title": "SVG, тригонометрія та стрілки крутого повороту",
