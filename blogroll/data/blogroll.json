@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Куда я жмав #18",
+      "link": "https://gallery21.blog/2025/11/02/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-18/",
+      "published": "Sun, 02 Nov 2025 17:55:43 +0000"
+    },
+    {
       "title": "Трохи про те як і на чому раніше в нас писали",
       "link": "https://gallery21.blog/2025/10/29/%d1%82%d1%80%d0%be%d1%85%d0%b8-%d0%bf%d1%80%d0%be-%d1%82%d0%b5-%d1%8f%d0%ba-%d1%96-%d0%bd%d0%b0-%d1%87%d0%be%d0%bc%d1%83-%d1%80%d0%b0%d0%bd%d1%96%d1%88%d0%b5-%d0%b2-%d0%bd%d0%b0%d1%81-%d0%bf%d0%b8/",
       "published": "Wed, 29 Oct 2025 10:24:29 +0000"
@@ -86,11 +91,6 @@
       "published": "Sat, 11 Oct 2025 16:10:46 +0000"
     },
     {
-      "title": "Месія Дюни",
-      "link": "https://gallery21.blog/2025/10/11/%d0%bc%d0%b5%d1%81%d1%96%d1%8f-%d0%b4%d1%8e%d0%bd%d0%b8/",
-      "published": "Sat, 11 Oct 2025 16:08:41 +0000"
-    },
-    {
       "title": "Краса життя — у його непередбачуваності",
       "link": "https://poohitan.com/p/what-a-beautiful-life",
       "published": "Wed, 08 Oct 2025 08:37:00 GMT"
@@ -109,11 +109,6 @@
       "title": "React, HTMX, and TanStack/Start",
       "link": "https://swizec.com/blog/react-htmx-and-tan-stack-start/",
       "published": "Mon, 06 Oct 2025 00:00:00 GMT"
-    },
-    {
-      "title": "The grind won't get you there",
-      "link": "https://swizec.com/blog/the-grind-wont-get-you-there/",
-      "published": "Sat, 04 Oct 2025 00:00:00 GMT"
     },
     {
       "title": "AI-скепсис",
