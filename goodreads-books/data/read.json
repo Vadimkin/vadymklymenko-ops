@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Шахмати для дибілів",
+      "author": "Михайло Бриних",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1756285311l/240697302.jpg",
+      "review_url": "https://www.goodreads.com/review/show/8045081383",
+      "rating": null,
+      "date_started": "2025-11-04",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Столиций Київ: як воювала, творила і бешкетувала наша еліта 100 років тому",
       "author": "Тетяна Швидченко",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716884527l/213925854.jpg",
