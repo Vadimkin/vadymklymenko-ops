@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Улюблена робота",
+      "link": "https://www.rozhkov.me/best-job/",
+      "published": "Mon, 10 Nov 2025 07:24:22 GMT"
+    },
+    {
       "title": "Залізничник (The Railrodder)",
       "link": "https://gallery21.blog/2025/11/09/%d0%b7%d0%b0%d0%bb%d1%96%d0%b7%d0%bd%d0%b8%d1%87%d0%bd%d0%b8%d0%ba-the-railrodder/",
       "published": "Sun, 09 Nov 2025 18:34:15 +0000"
@@ -116,19 +121,9 @@
       "published": "Wed, 08 Oct 2025 07:56:18 +0000"
     },
     {
-      "title": "AI-скепсис",
-      "link": "https://www.rozhkov.me/ai-scepticism/",
-      "published": "Fri, 03 Oct 2025 06:24:40 GMT"
-    },
-    {
-      "title": "Менеджимо контекст менеджера",
-      "link": "https://www.rozhkov.me/manager-management/",
-      "published": "Wed, 01 Oct 2025 06:24:48 GMT"
-    },
-    {
-      "title": "Страх втратити роботу",
-      "link": "https://www.rozhkov.me/job-lose-fobia/",
-      "published": "Mon, 29 Sep 2025 06:24:35 GMT"
+      "title": "Irvine Regional Park",
+      "link": "https://mrgall.com/gallery/2025_10_05/",
+      "published": "Sun, 05 Oct 2025 12:00:00 +0000"
     },
     {
       "title": "Мультифід у додатку Megogo",
@@ -169,11 +164,6 @@
       "title": "Hearst Castle & Morro Bay",
       "link": "https://mrgall.com/gallery/2025_08_12/",
       "published": "Tue, 12 Aug 2025 12:00:00 +0000"
-    },
-    {
-      "title": "San Francisco",
-      "link": "https://mrgall.com/gallery/2025_08_11/",
-      "published": "Mon, 11 Aug 2025 12:00:00 +0000"
     },
     {
       "title": "I can haz knowledgebase",
