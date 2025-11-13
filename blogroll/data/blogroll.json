@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Секрет, як швидко розбагатіти без будь-яких зусиль. Прочитавши цю статтю, ви станете багатим, збільшите розмір свого (так саме того) та вирішите проблему голоду у світі.",
+      "link": "https://gallery21.blog/2025/11/13/%d1%81%d0%b5%d0%ba%d1%80%d0%b5%d1%82-%d1%8f%d0%ba-%d1%88%d0%b2%d0%b8%d0%b4%d0%ba%d0%be-%d1%80%d0%be%d0%b7%d0%b1%d0%b0%d0%b3%d0%b0%d1%82%d1%96%d1%82%d0%b8-%d0%b1%d0%b5%d0%b7-%d0%b1%d1%83%d0%b4%d1%8c/",
+      "published": "Thu, 13 Nov 2025 15:37:23 +0000"
+    },
+    {
+      "title": "Як перемогти в будь якій інтернет-суперечці за 5 простих кроків. Бездоганний посібник, як добре провести час і показати світу, що ви неабияк розумні",
+      "link": "https://gallery21.blog/2025/11/13/%d1%8f%d0%ba-%d0%bf%d0%b5%d1%80%d0%b5%d0%bc%d0%be%d0%b3%d1%82%d0%b8-%d0%b2-%d0%b1%d1%83%d0%b4%d1%8c-%d1%8f%d0%ba%d1%96%d0%b9-%d1%96%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d1%81%d1%83%d0%bf%d0%b5/",
+      "published": "Thu, 13 Nov 2025 14:58:27 +0000"
+    },
+    {
       "title": "The Pitfalls of Consistency",
       "link": "https://moretothat.com/the-pitfalls-of-consistency/",
       "published": "Tue, 11 Nov 2025 20:36:16 +0000"
@@ -51,6 +61,11 @@
       "published": "Wed, 05 Nov 2025 17:27:55 +0000"
     },
     {
+      "title": "Dear Young Designer, Part II",
+      "link": "https://vanschneider.com/blog/dear-young-designer-2/",
+      "published": "Tue, 04 Nov 2025 18:08:21 GMT"
+    },
+    {
       "title": "The unreasonable effectiveness of stack ranking",
       "link": "https://swizec.com/blog/the-unreasonable-effectiveness-of-stack-ranking/",
       "published": "Tue, 04 Nov 2025 00:00:00 GMT"
@@ -69,16 +84,6 @@
       "title": "Chesterton's true lesson",
       "link": "https://swizec.com/blog/chestertons-true-lesson/",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT"
-    },
-    {
-      "title": "Мапи Толкіна: Чому Середзем’я здається таким реальним",
-      "link": "https://gallery21.blog/2025/10/27/%d0%ba%d0%b0%d1%80%d1%82%d0%b8-%d1%82%d0%be%d0%bb%d0%ba%d1%96%d0%bd%d0%b0-%d0%bf%d1%80%d0%b8%d1%87%d0%b8%d0%bd%d0%b0-%d1%87%d0%be%d0%bc%d1%83-%d1%81%d0%b5%d1%80%d0%b5%d0%b4%d0%b7%d0%b5%d0%bc%d1%8f/",
-      "published": "Mon, 27 Oct 2025 16:56:58 +0000"
-    },
-    {
-      "title": "Куда я жмав #17",
-      "link": "https://gallery21.blog/2025/10/26/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-17/",
-      "published": "Sun, 26 Oct 2025 19:54:46 +0000"
     },
     {
       "title": "The job behind the job [of a high level IC]",
@@ -136,6 +141,11 @@
       "published": "Sun, 05 Oct 2025 12:00:00 +0000"
     },
     {
+      "title": "Менеджер має захищати від хуйні",
+      "link": "https://www.govorukhin.com/blog/real-managers",
+      "published": "Fri, 03 Oct 2025 10:36:18 GMT"
+    },
+    {
       "title": "What to do with $2M?",
       "link": "https://world.hey.com/jason/what-to-do-with-2m-4f0a16b2",
       "published": "2025-09-25T22:18:59Z"
@@ -169,6 +179,11 @@
       "title": "Hearst Castle & Morro Bay",
       "link": "https://mrgall.com/gallery/2025_08_12/",
       "published": "Tue, 12 Aug 2025 12:00:00 +0000"
+    },
+    {
+      "title": "Користувацький досвід та труднощі перекладу",
+      "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
+      "published": "Fri, 25 Jul 2025 15:16:43 GMT"
     },
     {
       "title": "I can haz knowledgebase",
