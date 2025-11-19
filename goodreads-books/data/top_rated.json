@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Шахмати для дибілів",
+      "author": "Михайло Бриних",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1756285311l/240697302.jpg",
+      "review_url": "https://www.goodreads.com/review/show/8045081383",
+      "rating": 4,
+      "date_started": "2025-11-04",
+      "date_read": "2025-11-18",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "Як бути стоїком. Антична філософія для сучасного життя",
       "author": "Massimo Pigliucci",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739864396l/228118289.jpg",
