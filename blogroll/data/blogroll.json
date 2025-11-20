@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to lead a project",
+      "link": "https://swizec.com/blog/how-to-lead-a-project/",
+      "published": "Wed, 19 Nov 2025 00:00:00 GMT"
+    },
+    {
       "title": "Quality: The Concept2 RowErg",
       "link": "https://world.hey.com/jason/quality-the-concept2-rowerg-7f7bb027",
       "published": "2025-11-18T17:56:43Z"
@@ -109,11 +114,6 @@
       "title": "Tales from Toddlerhood",
       "link": "https://waitbutwhy.com/2025/10/toddler.html",
       "published": "Fri, 24 Oct 2025 12:36:56 +0000"
-    },
-    {
-      "title": "Make sure it works first",
-      "link": "https://swizec.com/blog/make-sure-it-works-first/",
-      "published": "Tue, 21 Oct 2025 00:00:00 GMT"
     },
     {
       "title": "Кава з CoffeaSHED",
