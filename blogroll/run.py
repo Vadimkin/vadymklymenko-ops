@@ -1,10 +1,9 @@
+import datetime
 import json
 import pathlib
 import time
-import datetime
 
 import feedparser
-
 from enhased_json_encoder import EnhancedJSONEncoder
 
 blogroll_json_path = pathlib.Path(__file__).parent.resolve() / "data" / "blogroll.json"
@@ -55,6 +54,7 @@ def main():
         "https://www.rozhkov.me/rss/",
         "https://feeds.feedburner.com/ostrozub/new?format=xml",
         "https://gallery21.blog/feed/",
+        "https://foodiereads.org/feed/",
     ]
 
     entries = []
@@ -75,13 +75,19 @@ def main():
         entries.extend(feed_entries)
 
     # Order by date
-    entries = sorted(entries, key=lambda entry: struct_time_to_datetime(entry.published_parsed), reverse=True)
+    entries = sorted(
+        entries,
+        key=lambda entry: struct_time_to_datetime(entry.published_parsed),
+        reverse=True,
+    )
     clean_entries = [clean_entry(entry) for entry in entries]
     print("Total entries:", len(clean_entries))
 
-    with open(blogroll_json_path, 'w', encoding='utf-8') as f:
+    with open(blogroll_json_path, "w", encoding="utf-8") as f:
         books_dict = {"feed": clean_entries}
-        json_str = json.dumps(books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False, indent=2)
+        json_str = json.dumps(
+            books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False, indent=2
+        )
         f.write(json_str)
 
 
