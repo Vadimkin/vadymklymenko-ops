@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Трилогія",
-      "author": "Jon Fosse",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758181246l/241768626.jpg",
-      "review_url": "https://www.goodreads.com/review/show/8091360961",
-      "rating": null,
-      "date_started": "2025-11-22",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "Столиций Київ: як воювала, творила і бешкетувала наша еліта 100 років тому",
       "author": "Тетяна Швидченко",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716884527l/213925854.jpg",
@@ -43,6 +32,17 @@
       "date_read": null,
       "is_reading_now": true,
       "own": false
+    },
+    {
+      "title": "Трилогія",
+      "author": "Jon Fosse",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758181246l/241768626.jpg",
+      "review_url": "https://www.goodreads.com/review/show/8091360961",
+      "rating": 4,
+      "date_started": "2025-11-22",
+      "date_read": "2025-11-23",
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Шахмати для дибілів",
@@ -1251,17 +1251,6 @@
       "rating": 3,
       "date_started": "2013-12-19",
       "date_read": "2013-12-19",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Как люди думают",
-      "author": "Дмитрий Чернышев",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409323025l/18071574.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3269826564",
-      "rating": 2,
-      "date_started": "2013-11-01",
-      "date_read": null,
       "is_reading_now": false,
       "own": false
     },

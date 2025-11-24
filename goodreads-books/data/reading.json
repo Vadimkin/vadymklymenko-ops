@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Трилогія",
-      "author": "Jon Fosse",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758181246l/241768626.jpg",
-      "review_url": "https://www.goodreads.com/review/show/8091360961",
-      "rating": null,
-      "date_started": "2025-11-22",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "Столиций Київ: як воювала, творила і бешкетувала наша еліта 100 років тому",
       "author": "Тетяна Швидченко",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716884527l/213925854.jpg",
