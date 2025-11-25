@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Химерні світи Філіпа К. Діка. Рецензія на “Повне зібрання короткої прози. Том 1”",
+      "link": "https://gallery21.blog/2025/11/25/%d1%85%d0%b8%d0%bc%d0%b5%d1%80%d0%bd%d1%96-%d1%81%d0%b2%d1%96%d1%82%d0%b8-%d1%84%d1%96%d0%bb%d1%96%d0%bf%d0%b0-%d0%ba-%d0%b4%d1%96%d0%ba%d0%b0-%d1%80%d0%b5%d1%86%d0%b5%d0%bd%d0%b7%d1%96%d1%8f-%d0%bd/",
+      "published": "Tue, 25 Nov 2025 10:18:11 +0000"
+    },
+    {
       "title": "What makes your resume stand out",
       "link": "https://swizec.com/blog/what-makes-your-resume-stand-out/",
       "published": "Sat, 22 Nov 2025 00:00:00 GMT"
@@ -86,11 +91,6 @@
       "published": "Fri, 07 Nov 2025 00:00:00 GMT"
     },
     {
-      "title": "Edgar Allan Poe’s Complete Poetical Works Kindle Edition",
-      "link": "https://gallery21.blog/2025/11/06/edgar-allan-poes-complete-poetical-works-kindle-edition/",
-      "published": "Thu, 06 Nov 2025 16:08:26 +0000"
-    },
-    {
       "title": "Dear Young Designer, Part II",
       "link": "https://vanschneider.com/blog/dear-young-designer-2/",
       "published": "Tue, 04 Nov 2025 18:08:21 GMT"
@@ -136,9 +136,24 @@
       "published": "Wed, 08 Oct 2025 08:37:00 GMT"
     },
     {
+      "title": "Irvine Regional Park",
+      "link": "https://mrgall.com/gallery/2025_10_05/",
+      "published": "Sun, 05 Oct 2025 12:00:00 +0000"
+    },
+    {
       "title": "Менеджер має захищати від хуйні",
       "link": "https://www.govorukhin.com/blog/real-managers",
       "published": "Fri, 03 Oct 2025 10:36:18 GMT"
+    },
+    {
+      "title": "Книги з осінньої Книжкової країни, 2025",
+      "link": "https://foodiereads.org/2025/09/29/kupleni-knyhy-na-knyzhkovij-kraini-2025/",
+      "published": "Mon, 29 Sep 2025 13:54:54 +0000"
+    },
+    {
+      "title": "Дискусія «Мітологія і примирення з межовими досвідами»",
+      "link": "https://foodiereads.org/2025/09/26/mitologiya-i-prymyrennya-z-mezhovymy-dosvidamy/",
+      "published": "Fri, 26 Sep 2025 06:55:11 +0000"
     },
     {
       "title": "Мультифід у додатку Megogo",
@@ -149,6 +164,11 @@
       "title": "Quality, Quantity, and Effective Iteration",
       "link": "https://www.autodidacts.io/iteration/",
       "published": "Sun, 21 Sep 2025 22:56:00 GMT"
+    },
+    {
+      "title": "San Marcos",
+      "link": "https://mrgall.com/gallery/2025_09_21/",
+      "published": "Sun, 21 Sep 2025 12:00:00 +0000"
     },
     {
       "title": "Kyiv Car Fest",
@@ -261,9 +281,24 @@
       "published": "Tue, 27 Aug 2024 00:00:00 GMT"
     },
     {
+      "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
+      "link": "https://reporters.media/zhurnalistyka-velykogo-formatu/",
+      "published": "Thu, 08 Aug 2024 13:12:09 +0000"
+    },
+    {
+      "title": "Більше, ніж яблук, хат і людей",
+      "link": "https://reporters.media/bilshe-nizh-yabluk-hat-i-lyudej/",
+      "published": "Tue, 06 Aug 2024 07:51:00 +0000"
+    },
+    {
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Дивись, як я можу",
+      "link": "https://reporters.media/dyvys-yak-ya-mozhu/",
+      "published": "Wed, 03 Jul 2024 13:15:30 +0000"
     },
     {
       "title": "Airfoil",
