@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Foodie vs Athlete",
+      "link": "https://www.autodidacts.io/foodie-vs-athlete/",
+      "published": "Sun, 30 Nov 2025 03:15:52 GMT"
+    },
+    {
       "title": "A beta is like inviting guests over",
       "link": "https://world.hey.com/jason/a-beta-is-like-inviting-guests-over-a146c056",
       "published": "2025-11-29T20:16:13Z"
@@ -176,11 +181,6 @@
       "published": "Mon, 22 Sep 2025 13:27:12 +0000"
     },
     {
-      "title": "Quality, Quantity, and Effective Iteration",
-      "link": "https://www.autodidacts.io/iteration/",
-      "published": "Sun, 21 Sep 2025 22:56:00 GMT"
-    },
-    {
       "title": "San Marcos",
       "link": "https://mrgall.com/gallery/2025_09_21/",
       "published": "Sun, 21 Sep 2025 12:00:00 +0000"
@@ -199,16 +199,6 @@
       "title": "Користувацький досвід та труднощі перекладу",
       "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
       "published": "Fri, 25 Jul 2025 15:16:43 GMT"
-    },
-    {
-      "title": "I can haz knowledgebase",
-      "link": "https://www.autodidacts.io/knowledgebase/",
-      "published": "Fri, 11 Jul 2025 22:17:55 GMT"
-    },
-    {
-      "title": "My Favourite Ways to Avoid Spending Money",
-      "link": "https://www.autodidacts.io/how-to-spend-less-money/",
-      "published": "Tue, 01 Jul 2025 06:13:32 GMT"
     },
     {
       "title": "Notes on code, text, and war. Week 2: If code is text, then what?",
