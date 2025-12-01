@@ -36,9 +36,19 @@
       "published": "Tue, 25 Nov 2025 10:18:11 +0000"
     },
     {
+      "title": "What makes your resume stand out",
+      "link": "https://swizec.com/blog/what-makes-your-resume-stand-out/",
+      "published": "Sat, 22 Nov 2025 00:00:00 GMT"
+    },
+    {
       "title": "Чому українська стрічка «Ти — космос» Павла Острікова це космос, який не можна пропускати і от ВЖЕ варто йти в кіно",
       "link": "https://gallery21.blog/2025/11/21/%d1%87%d0%be%d0%bc%d1%83-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%81%d1%8c%d0%ba%d0%b0-%d1%81%d1%82%d1%80%d1%96%d1%87%d0%ba%d0%b0-%d1%82%d0%b8-%d0%ba%d0%be%d1%81%d0%bc%d0%be%d1%81/",
       "published": "Fri, 21 Nov 2025 15:24:45 +0000"
+    },
+    {
+      "title": "How to lead a project",
+      "link": "https://swizec.com/blog/how-to-lead-a-project/",
+      "published": "Wed, 19 Nov 2025 00:00:00 GMT"
     },
     {
       "title": "Quality: The Concept2 RowErg",
@@ -66,6 +76,11 @@
       "published": "Sun, 16 Nov 2025 18:44:31 +0000"
     },
     {
+      "title": "*People* detangle a ball of mud",
+      "link": "https://swizec.com/blog/people-detangle-a-ball-of-mud/",
+      "published": "Sat, 15 Nov 2025 00:00:00 GMT"
+    },
+    {
       "title": "The WHY always comes first.",
       "link": "https://vanschneider.com/blog/the-why-always-comes-first/",
       "published": "Thu, 13 Nov 2025 15:42:18 GMT"
@@ -86,6 +101,11 @@
       "published": "Tue, 11 Nov 2025 20:36:16 +0000"
     },
     {
+      "title": "AI fills my day with busywork",
+      "link": "https://swizec.com/blog/ai-fills-my-day-with-busywork/",
+      "published": "Tue, 11 Nov 2025 00:00:00 GMT"
+    },
+    {
       "title": "Куда я жмав #19",
       "link": "https://gallery21.blog/2025/11/10/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-19/",
       "published": "Mon, 10 Nov 2025 13:59:28 +0000"
@@ -96,9 +116,19 @@
       "published": "Mon, 10 Nov 2025 07:24:22 GMT"
     },
     {
+      "title": "How I built a notebook inside Obsidian",
+      "link": "https://sinja.io/blog/how-i-built-notebook-in-obisidian-emera",
+      "published": "Fri, 07 Nov 2025 00:00:00 GMT"
+    },
+    {
       "title": "Dear Young Designer, Part II",
       "link": "https://vanschneider.com/blog/dear-young-designer-2/",
       "published": "Tue, 04 Nov 2025 18:08:21 GMT"
+    },
+    {
+      "title": "The unreasonable effectiveness of stack ranking",
+      "link": "https://swizec.com/blog/the-unreasonable-effectiveness-of-stack-ranking/",
+      "published": "Tue, 04 Nov 2025 00:00:00 GMT"
     },
     {
       "title": "Air & Space Museum",
@@ -196,6 +226,16 @@
       "published": "Thu, 27 Mar 2025 14:13:42 +0000"
     },
     {
+      "title": "Browse No More",
+      "link": "https://paulstamatiou.com/browse-no-more",
+      "published": "Thu, 13 Mar 2025 16:00:00 GMT"
+    },
+    {
+      "title": "How to write exceptional documentation",
+      "link": "https://chrisnicholas.dev/blog/how-to-write-exceptional-documentation",
+      "published": "Tue, 04 Mar 2025 00:00:00 GMT"
+    },
+    {
       "title": "Seven things I know after 25 years of development",
       "link": "https://zverok.space/blog/2025-01-27-7things-euruko.html",
       "published": "Mon, 27 Jan 2025 00:00:00 +0000"
@@ -241,6 +281,11 @@
       "published": "Wed, 11 Sep 2024 00:00:00 +0000"
     },
     {
+      "title": "The Startup Designer",
+      "link": "https://paulstamatiou.com/the-startup-designer",
+      "published": "Tue, 27 Aug 2024 00:00:00 GMT"
+    },
+    {
       "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
       "link": "https://reporters.media/zhurnalistyka-velykogo-formatu/",
       "published": "Thu, 08 Aug 2024 13:12:09 +0000"
@@ -251,6 +296,11 @@
       "published": "Tue, 06 Aug 2024 07:51:00 +0000"
     },
     {
+      "title": "Building an AI toolbar for text editors",
+      "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
+      "published": "Tue, 09 Jul 2024 00:00:00 GMT"
+    },
+    {
       "title": "Дивись, як я можу",
       "link": "https://reporters.media/dyvys-yak-ya-mozhu/",
       "published": "Wed, 03 Jul 2024 13:15:30 +0000"
@@ -259,6 +309,16 @@
       "title": "Airfoil",
       "link": "https://ciechanow.ski/airfoil/",
       "published": "Tue, 27 Feb 2024 04:00:00 -0800"
+    },
+    {
+      "title": "A new blog for 2024",
+      "link": "https://chrisnicholas.dev/blog/a-new-blog-for-2024",
+      "published": "Tue, 02 Jan 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Stocketa",
+      "link": "https://paulstamatiou.com/stocketa",
+      "published": "Mon, 16 Oct 2023 00:00:00 GMT"
     },
     {
       "title": "Multi-layered calendars",
