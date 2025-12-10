@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Потяг на Захід",
+      "link": "https://www.rozhkov.me/train-to-the-west/",
+      "published": "Wed, 10 Dec 2025 07:24:02 GMT"
+    },
+    {
       "title": "How good engineering unlocks fast scaling",
       "link": "https://swizec.com/blog/how-good-engineering-unlocks-fast-scaling/",
       "published": "Tue, 09 Dec 2025 00:00:00 GMT"
@@ -134,11 +139,6 @@
       "title": "AI fills my day with busywork",
       "link": "https://swizec.com/blog/ai-fills-my-day-with-busywork/",
       "published": "Tue, 11 Nov 2025 00:00:00 GMT"
-    },
-    {
-      "title": "Улюблена робота",
-      "link": "https://www.rozhkov.me/best-job/",
-      "published": "Mon, 10 Nov 2025 07:24:22 GMT"
     },
     {
       "title": "How I built a notebook inside Obsidian",
