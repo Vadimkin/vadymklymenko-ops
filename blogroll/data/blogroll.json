@@ -16,11 +16,6 @@
       "published": "Mon, 22 Dec 2025 14:47:24 +0000"
     },
     {
-      "title": "Переведення",
-      "link": "https://www.rozhkov.me/transfers/",
-      "published": "Mon, 22 Dec 2025 07:24:36 GMT"
-    },
-    {
       "title": "Кострубонько, або коштруб",
       "link": "https://gallery21.blog/2025/12/21/%d0%ba%d0%be%d1%81%d1%82%d1%80%d1%83%d0%b1%d0%be%d0%bd%d1%8c%d0%ba%d0%be-%d0%b0%d0%b1%d0%be-%d0%ba%d0%be%d1%88%d1%82%d1%80%d1%83%d0%b1/",
       "published": "Sun, 21 Dec 2025 17:08:52 +0000"
@@ -41,19 +36,9 @@
       "published": "Wed, 10 Dec 2025 13:49:02 +0000"
     },
     {
-      "title": "Потяг на Захід",
-      "link": "https://www.rozhkov.me/train-to-the-west/",
-      "published": "Wed, 10 Dec 2025 07:24:02 GMT"
-    },
-    {
       "title": "How good engineering unlocks fast scaling",
       "link": "https://swizec.com/blog/how-good-engineering-unlocks-fast-scaling/",
       "published": "Tue, 09 Dec 2025 00:00:00 GMT"
-    },
-    {
-      "title": "Work-hate balance",
-      "link": "https://www.rozhkov.me/work-hate-balance/",
-      "published": "Mon, 08 Dec 2025 07:24:11 GMT"
     },
     {
       "title": "Scaling Fast – my new book on software engineering through the hockeystick",
@@ -94,11 +79,6 @@
       "title": "Ножі наголо 2: Скляна цибуля",
       "link": "https://gallery21.blog/2025/11/28/%d0%bd%d0%be%d0%b6%d1%96-%d0%bd%d0%b0%d0%b3%d0%be%d0%bb%d0%be-2-%d1%81%d0%ba%d0%bb%d1%8f%d0%bd%d0%b0-%d1%86%d0%b8%d0%b1%d1%83%d0%bb%d1%8f/",
       "published": "Fri, 28 Nov 2025 13:39:26 +0000"
-    },
-    {
-      "title": "daily rozhok №14: птсрний",
-      "link": "https://www.rozhkov.me/daily-rozhok-14/",
-      "published": "Fri, 28 Nov 2025 07:24:05 GMT"
     },
     {
       "title": "The sights and sounds of Bhutan",
@@ -258,17 +238,17 @@
     {
       "title": "QA: Кодинг у дизайні",
       "link": "https://blog.alexkolodko.com/all/qa-design-and-coding/",
-      "published": "Sun, 29 Sep 2024 16:13:08 +0300"
+      "published": "Sun, 29 Sep 2024 15:13:08 +0200"
     },
     {
       "title": "Кишенькові схеми метро",
       "link": "https://blog.alexkolodko.com/all/pocket-metro-map/",
-      "published": "Fri, 27 Sep 2024 16:43:26 +0300"
+      "published": "Fri, 27 Sep 2024 15:43:26 +0200"
     },
     {
       "title": "Лого НСЗУ",
       "link": "https://blog.alexkolodko.com/all/logo-nszu/",
-      "published": "Fri, 27 Sep 2024 12:58:50 +0300"
+      "published": "Fri, 27 Sep 2024 11:58:50 +0200"
     },
     {
       "title": "SVG, тригонометрія та стрілки крутого повороту",
