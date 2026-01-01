@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "I’m trying #100DaysToOffload",
+      "link": "https://www.autodidacts.io/100daystooffload/",
+      "published": "Thu, 01 Jan 2026 01:39:51 GMT"
+    },
+    {
       "title": "Київ-2",
       "link": "https://kos.fm/kyiv-2/",
       "published": "Wed, 31 Dec 2025 10:00:00 +0200"
@@ -69,11 +74,6 @@
       "title": "Introducing Fizzy, our newest product",
       "link": "https://world.hey.com/jason/introducing-fizzy-our-newest-product-83a4144f",
       "published": "2025-12-03T18:27:34Z"
-    },
-    {
-      "title": "Foodie vs Athlete",
-      "link": "https://www.autodidacts.io/foodie-vs-athlete/",
-      "published": "Sun, 30 Nov 2025 03:15:52 GMT"
     },
     {
       "title": "The sights and sounds of Bhutan",
@@ -156,11 +156,6 @@
       "published": "Mon, 22 Sep 2025 13:27:12 +0000"
     },
     {
-      "title": "Quality, Quantity, and Effective Iteration",
-      "link": "https://www.autodidacts.io/iteration/",
-      "published": "Sun, 21 Sep 2025 22:56:00 GMT"
-    },
-    {
       "title": "Kyiv Car Fest",
       "link": "https://zametkin.me/2025/09/21/kyiv-car-fest/",
       "published": "Sun, 21 Sep 2025 09:13:35 +0000"
@@ -174,11 +169,6 @@
       "title": "Користувацький досвід та труднощі перекладу",
       "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
       "published": "Fri, 25 Jul 2025 15:16:43 GMT"
-    },
-    {
-      "title": "I can haz knowledgebase",
-      "link": "https://www.autodidacts.io/knowledgebase/",
-      "published": "Fri, 11 Jul 2025 22:17:55 GMT"
     },
     {
       "title": "A short history of web bots and bot detection techniques",
