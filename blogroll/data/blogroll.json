@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Filtering RSS feeds by tag",
+      "link": "https://www.autodidacts.io/filter-rss-feeds-by-tag/",
+      "published": "Fri, 02 Jan 2026 02:44:55 GMT"
+    },
+    {
+      "title": "Cerelog’s ESP-EEG is a new 8 channel biosensing board at a hobbyist-friendly price",
+      "link": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
+      "published": "Fri, 02 Jan 2026 02:24:36 GMT"
+    },
+    {
       "title": "I’m trying #100DaysToOffload",
       "link": "https://www.autodidacts.io/100daystooffload/",
       "published": "Thu, 01 Jan 2026 01:39:51 GMT"
