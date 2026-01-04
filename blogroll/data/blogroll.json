@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "A list of public Wallabag instances that seem legit",
+      "link": "https://www.autodidacts.io/wallabag-instance-list/",
+      "published": "Sun, 04 Jan 2026 09:31:13 GMT"
+    },
+    {
       "title": "An unsolved question in sleep science",
       "link": "https://www.autodidacts.io/long-sleep-duration-and-mortality/",
       "published": "Fri, 02 Jan 2026 21:21:28 GMT"
