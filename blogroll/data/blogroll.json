@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Sleep is a continuum",
+      "link": "https://www.autodidacts.io/sleep-is-a-continuum/",
+      "published": "Mon, 05 Jan 2026 07:26:04 GMT"
+    },
+    {
       "title": "Patching KOReader Wallabag Plugin to add star support",
       "link": "https://www.autodidacts.io/star-wallabag-entry-from-koreader/",
       "published": "Sun, 04 Jan 2026 23:30:33 GMT"
