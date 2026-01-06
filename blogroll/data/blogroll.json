@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Мій 2025",
+      "link": "https://zaytsev.io/blog/2025-summary/",
+      "published": "Tue, 06 Jan 2026 00:00:00 +0000"
+    },
+    {
       "title": "The big regression",
       "link": "https://world.hey.com/jason/the-big-regression-da7fc60d",
       "published": "2026-01-05T22:08:20Z"
@@ -266,11 +271,6 @@
       "published": "Mon, 27 Jan 2025 00:00:00 +0000"
     },
     {
-      "title": "Мій 2024",
-      "link": "https://zaytsev.io/blog/2024-summary/",
-      "published": "Wed, 15 Jan 2025 00:00:00 +0000"
-    },
-    {
       "title": "Moon",
       "link": "https://ciechanow.ski/moon/",
       "published": "Tue, 17 Dec 2024 04:00:00 -0800"
@@ -279,11 +279,6 @@
       "title": "On Code Reviews",
       "link": "https://zemlan.in/on-code-reviews.html",
       "published": "Sun, 08 Dec 2024 17:00:00 GMT"
-    },
-    {
-      "title": "Автори двох кращих книг року",
-      "link": "https://zaytsev.io/blog/david-burns-and-rick-rubin/",
-      "published": "Wed, 13 Nov 2024 00:00:00 +0000"
     },
     {
       "title": "QA: Кодинг у дизайні",
@@ -299,11 +294,6 @@
       "title": "Лого НСЗУ",
       "link": "https://blog.alexkolodko.com/all/logo-nszu/",
       "published": "Fri, 27 Sep 2024 11:58:50 +0200"
-    },
-    {
-      "title": "SVG, тригонометрія та стрілки крутого повороту",
-      "link": "https://zaytsev.io/blog/trigonometry/",
-      "published": "Wed, 11 Sep 2024 00:00:00 +0000"
     },
     {
       "title": "The Startup Designer",
