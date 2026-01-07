@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "The joy of delegating to competence",
+      "link": "https://world.hey.com/jason/the-joy-of-delegating-to-competence-55f50d4d",
+      "published": "2026-01-06T20:57:11Z"
+    },
+    {
+      "title": "A better way to end-to-end test your webapp",
+      "link": "https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp/",
+      "published": "Tue, 06 Jan 2026 00:00:00 GMT"
+    },
+    {
       "title": "Мій 2025",
       "link": "https://zaytsev.io/blog/2025-summary/",
       "published": "Tue, 06 Jan 2026 00:00:00 +0000"
@@ -124,16 +134,6 @@
       "title": "Work-hate balance",
       "link": "https://www.rozhkov.me/work-hate-balance/",
       "published": "Mon, 08 Dec 2025 07:24:11 GMT"
-    },
-    {
-      "title": "Scaling Fast – my new book on software engineering through the hockeystick",
-      "link": "https://swizec.com/blog/scaling-fast-my-new-book-on-software-engineering-through-the-hockeystick/",
-      "published": "Mon, 08 Dec 2025 00:00:00 GMT"
-    },
-    {
-      "title": "F1 2025",
-      "link": "https://kos.fm/sidenotes/f1-2025/",
-      "published": "Mon, 08 Dec 2025 00:30:00 +0200"
     },
     {
       "title": "The sights and sounds of Bhutan",
