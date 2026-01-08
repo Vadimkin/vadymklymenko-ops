@@ -1,6 +1,26 @@
 {
   "feed": [
     {
+      "title": "Create custom filtered RSS feeds in Ghost, the easy way",
+      "link": "https://www.autodidacts.io/create-custom-filtered-rss-feeds-with-ghost-cms-routes-channels/",
+      "published": "Thu, 08 Jan 2026 00:09:22 GMT"
+    },
+    {
+      "title": "“Джерело” – Айн Ренд",
+      "link": "https://gallery21.blog/2026/01/07/%d0%b4%d0%b6%d0%b5%d1%80%d0%b5%d0%bb%d0%be-%d0%b0%d0%b9%d0%bd-%d1%80%d0%b5%d0%bd%d0%b4/",
+      "published": "Wed, 07 Jan 2026 16:54:06 +0000"
+    },
+    {
+      "title": "“Історії та війни” – Юрій Гудименко",
+      "link": "https://gallery21.blog/2026/01/07/%d1%96%d1%81%d1%82%d0%be%d1%80%d1%96%d1%97-%d1%82%d0%b0-%d0%b2%d1%96%d0%b9%d0%bd%d0%b8-%d1%8e%d1%80%d1%96%d0%b9-%d0%b3%d1%83%d0%b4%d0%b8%d0%bc%d0%b5%d0%bd%d0%ba%d0%be/",
+      "published": "Wed, 07 Jan 2026 16:34:55 +0000"
+    },
+    {
+      "title": "“Варта! Варта!” – Террі Пратчетт",
+      "link": "https://gallery21.blog/2026/01/07/%d0%b2%d0%b0%d1%80%d1%82%d0%b0-%d0%b2%d0%b0%d1%80%d1%82%d0%b0-%d1%82%d0%b5%d1%80%d1%80%d1%96-%d0%bf%d1%80%d0%b0%d1%82%d1%87%d0%b5%d1%82%d1%82/",
+      "published": "Wed, 07 Jan 2026 16:17:25 +0000"
+    },
+    {
       "title": "Вайнсбурґ, Огайо",
       "link": "https://gallery21.blog/2026/01/07/%d0%b2%d0%b0%d0%b9%d0%bd%d1%81%d0%b1%d1%83%d1%80%d2%91-%d0%be%d0%b3%d0%b0%d0%b9%d0%be/",
       "published": "Wed, 07 Jan 2026 16:04:37 +0000"
@@ -139,11 +159,6 @@
       "title": "Потяг на Захід",
       "link": "https://www.rozhkov.me/train-to-the-west/",
       "published": "Wed, 10 Dec 2025 07:24:02 GMT"
-    },
-    {
-      "title": "How good engineering unlocks fast scaling",
-      "link": "https://swizec.com/blog/how-good-engineering-unlocks-fast-scaling/",
-      "published": "Tue, 09 Dec 2025 00:00:00 GMT"
     },
     {
       "title": "The sights and sounds of Bhutan",
