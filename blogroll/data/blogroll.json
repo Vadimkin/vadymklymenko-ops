@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "What’s the end game for Ghost newsletter sign-up spam?",
+      "link": "https://www.autodidacts.io/ghost-newsletter-sign-up-spam/",
+      "published": "Sun, 11 Jan 2026 05:37:36 GMT"
+    },
+    {
       "title": "«Чаротворці» – Террі Пратчетт",
       "link": "https://gallery21.blog/2026/01/10/%d1%87%d0%b0%d1%80%d0%be%d1%82%d0%b2%d0%be%d1%80%d1%86%d1%96-%d1%82%d0%b5%d1%80%d1%80%d1%96-%d0%bf%d1%80%d0%b0%d1%82%d1%87%d0%b5%d1%82%d1%82/",
       "published": "Sat, 10 Jan 2026 20:18:53 +0000"
@@ -119,11 +124,6 @@
       "title": "An unsolved question in sleep science",
       "link": "https://www.autodidacts.io/long-sleep-duration-and-mortality/",
       "published": "Fri, 02 Jan 2026 21:21:28 GMT"
-    },
-    {
-      "title": "Filtering RSS feeds by tag",
-      "link": "https://www.autodidacts.io/filter-rss-feeds-by-tag/",
-      "published": "Fri, 02 Jan 2026 02:44:55 GMT"
     },
     {
       "title": "2025 Year in Review",
