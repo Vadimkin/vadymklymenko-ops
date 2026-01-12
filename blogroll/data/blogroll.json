@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Hundred Days Offensive",
+      "link": "https://www.rozhkov.me/hundred-days-offensive/",
+      "published": "Mon, 12 Jan 2026 07:24:03 GMT"
+    },
+    {
+      "title": "A Fish shortcut for rapidly appending clipboard data to text files",
+      "link": "https://www.autodidacts.io/fish-bash-clipboard-append-to-file/",
+      "published": "Mon, 12 Jan 2026 01:59:12 GMT"
+    },
+    {
       "title": "«Шлях до фінансової свободи» – Бодо Шефер",
       "link": "https://gallery21.blog/2026/01/11/%d1%88%d0%bb%d1%8f%d1%85-%d0%b4%d0%be-%d1%84%d1%96%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d0%be%d1%97-%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b4%d0%b8-%d0%b1%d0%be%d0%b4%d0%be-%d1%88%d0%b5%d1%84/",
       "published": "Sun, 11 Jan 2026 17:10:33 +0000"
@@ -124,11 +134,6 @@
       "title": "A list of public Wallabag instances that seem legit",
       "link": "https://www.autodidacts.io/wallabag-instance-list/",
       "published": "Sun, 04 Jan 2026 09:31:13 GMT"
-    },
-    {
-      "title": "An unsolved question in sleep science",
-      "link": "https://www.autodidacts.io/long-sleep-duration-and-mortality/",
-      "published": "Fri, 02 Jan 2026 21:21:28 GMT"
     },
     {
       "title": "2025 Year in Review",
