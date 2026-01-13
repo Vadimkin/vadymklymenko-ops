@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Split Testing in ~50 lines of JavaScript",
+      "link": "https://www.autodidacts.io/split-testing-in-50-lines-of-javascript/",
+      "published": "Tue, 13 Jan 2026 06:49:28 GMT"
+    },
+    {
       "title": "2025",
       "link": "https://paulstamatiou.com/2025-year-in-review",
       "published": "Mon, 12 Jan 2026 16:00:00 GMT"
@@ -134,11 +139,6 @@
       "title": "Patching KOReader Wallabag Plugin to add star support",
       "link": "https://www.autodidacts.io/star-wallabag-entry-from-koreader/",
       "published": "Sun, 04 Jan 2026 23:30:33 GMT"
-    },
-    {
-      "title": "A list of public Wallabag instances that seem legit",
-      "link": "https://www.autodidacts.io/wallabag-instance-list/",
-      "published": "Sun, 04 Jan 2026 09:31:13 GMT"
     },
     {
       "title": "2025 Year in Review",
