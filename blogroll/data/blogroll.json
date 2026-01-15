@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Human beings are waterproof",
+      "link": "https://www.autodidacts.io/human-beings-are-waterproof/",
+      "published": "Thu, 15 Jan 2026 06:25:41 GMT"
+    },
+    {
+      "title": "And then there’s Readeck",
+      "link": "https://www.autodidacts.io/readeck-open-source-read-it-later-app-with-kobo-support/",
+      "published": "Thu, 15 Jan 2026 04:02:42 GMT"
+    },
+    {
       "title": "Great design was a Cuisinart",
       "link": "https://world.hey.com/jason/great-design-was-a-cuisinart-86a83d1f",
       "published": "2026-01-14T18:51:18Z"
@@ -139,16 +149,6 @@
       "title": "The big regression",
       "link": "https://world.hey.com/jason/the-big-regression-da7fc60d",
       "published": "2026-01-05T22:08:20Z"
-    },
-    {
-      "title": "Wallabag wins, despite its flaws",
-      "link": "https://www.autodidacts.io/wallabag-wins-despite-its-flaws/",
-      "published": "Mon, 05 Jan 2026 21:29:24 GMT"
-    },
-    {
-      "title": "Sleep is a continuum",
-      "link": "https://www.autodidacts.io/sleep-is-a-continuum/",
-      "published": "Mon, 05 Jan 2026 07:26:04 GMT"
     },
     {
       "title": "2025 Year in Review",
