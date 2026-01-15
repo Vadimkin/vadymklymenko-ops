@@ -1,9 +1,19 @@
 {
   "feed": [
     {
+      "title": "Great design was a Cuisinart",
+      "link": "https://world.hey.com/jason/great-design-was-a-cuisinart-86a83d1f",
+      "published": "2026-01-14T18:51:18Z"
+    },
+    {
       "title": "Finally, an open-source dictation app for Linux that actually works",
       "link": "https://www.autodidacts.io/whispering-open-source-dictation-app-for-linux/",
       "published": "Wed, 14 Jan 2026 06:06:19 GMT"
+    },
+    {
+      "title": "Place good startup bets",
+      "link": "https://swizec.com/blog/place-good-startup-bets/",
+      "published": "Wed, 14 Jan 2026 00:00:00 GMT"
     },
     {
       "title": "Split Testing in ~50 lines of JavaScript",
