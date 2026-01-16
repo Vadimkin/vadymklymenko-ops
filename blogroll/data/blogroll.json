@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "I couldn’t find a free Silver price API — so I’m making one",
+      "link": "https://www.autodidacts.io/free-silver-price-api/",
+      "published": "Fri, 16 Jan 2026 07:12:06 GMT"
+    },
+    {
+      "title": "The Benefits of Creating a Personal Shorthand of Symbols",
+      "link": "https://www.autodidacts.io/personal-shorthand-symbols/",
+      "published": "Fri, 16 Jan 2026 06:44:06 GMT"
+    },
+    {
       "title": "«Атлант розправив плечі. Частина третя. А є а» – Айн Ренд",
       "link": "https://gallery21.blog/2026/01/15/%d0%b0%d1%82%d0%bb%d0%b0%d0%bd%d1%82-%d1%80%d0%be%d0%b7%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%b2-%d0%bf%d0%bb%d0%b5%d1%87%d1%96-%d1%87%d0%b0%d1%81%d1%82%d0%b8%d0%bd%d0%b0-%d1%82%d1%80%d0%b5%d1%82/",
       "published": "Thu, 15 Jan 2026 19:23:01 +0000"
@@ -119,16 +129,6 @@
       "title": "Script: export post as Markdown via Ghost Admin API",
       "link": "https://www.autodidacts.io/script-export-post-as-markdown-via-ghost-admin-api/",
       "published": "Thu, 08 Jan 2026 23:36:31 GMT"
-    },
-    {
-      "title": "Create custom filtered RSS feeds in Ghost, the easy way",
-      "link": "https://www.autodidacts.io/create-custom-filtered-rss-feeds-with-ghost-cms-routes-channels/",
-      "published": "Thu, 08 Jan 2026 00:09:22 GMT"
-    },
-    {
-      "title": "Regex is horrible, yet regex is amazing",
-      "link": "https://www.autodidacts.io/horrible-amazing-regex/",
-      "published": "Wed, 07 Jan 2026 08:50:45 GMT"
     },
     {
       "title": "The joy of delegating to competence",
