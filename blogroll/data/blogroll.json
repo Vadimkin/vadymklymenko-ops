@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "My Free Daily Silver Price API is Live",
+      "link": "https://www.autodidacts.io/my-free-daily-silver-price-api-is-live/",
+      "published": "Sun, 18 Jan 2026 07:09:39 GMT"
+    },
+    {
+      "title": "Dostoyevsky isn’t difficult",
+      "link": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+      "published": "Sun, 18 Jan 2026 06:47:13 GMT"
+    },
+    {
       "title": "«Брама Расьомон» – Рюноске Акутаґава",
       "link": "https://gallery21.blog/2026/01/17/%d0%b1%d1%80%d0%b0%d0%bc%d0%b0-%d1%80%d0%b0%d1%81%d1%8c%d0%be%d0%bc%d0%be%d0%bd-%d1%80%d1%8e%d0%bd%d0%be%d1%81%d0%ba%d0%b5-%d0%b0%d0%ba%d1%83%d1%82%d0%b0%d2%91%d0%b0%d0%b2%d0%b0/",
       "published": "Sat, 17 Jan 2026 17:45:10 +0000"
@@ -124,16 +134,6 @@
       "title": "Small projects, clear scope",
       "link": "https://swizec.com/blog/small-projects-clear-scope/",
       "published": "Sat, 10 Jan 2026 00:00:00 GMT"
-    },
-    {
-      "title": "How to Migrate Kobo eReader Books & Annotations to a New Device",
-      "link": "https://www.autodidacts.io/migrate-kobo-ereader-content-books-annotations-to-new-device/",
-      "published": "Fri, 09 Jan 2026 22:38:54 GMT"
-    },
-    {
-      "title": "Script: export post as Markdown via Ghost Admin API",
-      "link": "https://www.autodidacts.io/script-export-post-as-markdown-via-ghost-admin-api/",
-      "published": "Thu, 08 Jan 2026 23:36:31 GMT"
     },
     {
       "title": "The joy of delegating to competence",
