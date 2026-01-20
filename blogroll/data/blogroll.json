@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "It’s 2026 and LibreOffice Calc still can’t parse JSON API responses without a plugin",
+      "link": "https://www.autodidacts.io/parse-filter-json-api-responses-in-libreoffice-calc/",
+      "published": "Tue, 20 Jan 2026 00:34:26 GMT"
+    },
+    {
       "title": "My Free Daily Silver Price API is Live",
       "link": "https://www.autodidacts.io/my-free-daily-silver-price-api-is-live/",
       "published": "Sun, 18 Jan 2026 07:09:39 GMT"
@@ -104,11 +109,6 @@
       "title": "Cursor та (не)вайб кодінг",
       "link": "https://blog.alexkolodko.com/all/cursor-and-novibecoding/",
       "published": "Sun, 11 Jan 2026 18:53:45 +0200"
-    },
-    {
-      "title": "What’s the end game for Ghost newsletter sign-up spam?",
-      "link": "https://www.autodidacts.io/ghost-newsletter-sign-up-spam/",
-      "published": "Sun, 11 Jan 2026 05:37:36 GMT"
     },
     {
       "title": "«Чаротворці» – Террі Пратчетт",
