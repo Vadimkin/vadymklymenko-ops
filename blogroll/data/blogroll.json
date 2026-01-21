@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "2025",
+      "link": "https://kos.fm/2025/",
+      "published": "Wed, 21 Jan 2026 10:00:00 +0200"
+    },
+    {
       "title": "I fixed my crashing AWS t2.micro instance by adding swap",
       "link": "https://www.autodidacts.io/i-fixed-my-crashing-aws-t2-micro-instance-by-adding-swap/",
       "published": "Wed, 21 Jan 2026 02:01:39 GMT"
