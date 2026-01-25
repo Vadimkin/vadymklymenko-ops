@@ -6,6 +6,11 @@
       "published": "Sat, 24 Jan 2026 07:25:55 GMT"
     },
     {
+      "title": "The future of software engineering is SRE",
+      "link": "https://swizec.com/blog/the-future-of-software-engineering-is-sre/",
+      "published": "Sat, 24 Jan 2026 00:00:00 GMT"
+    },
+    {
       "title": "«Брехня у доповідях»",
       "link": "https://www.rozhkov.me/lie-in-reports/",
       "published": "Fri, 23 Jan 2026 07:24:13 GMT"
@@ -196,6 +201,11 @@
       "published": "Thu, 25 Dec 2025 20:02:39 +0000"
     },
     {
+      "title": "The Three Principles of Self-Understanding",
+      "link": "https://moretothat.com/the-three-principles-of-self-understanding/",
+      "published": "Thu, 11 Dec 2025 01:24:35 +0000"
+    },
+    {
       "title": "The sights and sounds of Bhutan",
       "link": "https://waitbutwhy.com/2025/11/bhutan.html",
       "published": "Tue, 25 Nov 2025 17:15:10 +0000"
@@ -219,6 +229,11 @@
       "title": "The WHY always comes first.",
       "link": "https://vanschneider.com/blog/the-why-always-comes-first/",
       "published": "Thu, 13 Nov 2025 15:42:18 GMT"
+    },
+    {
+      "title": "The Pitfalls of Consistency",
+      "link": "https://moretothat.com/the-pitfalls-of-consistency/",
+      "published": "Tue, 11 Nov 2025 20:36:16 +0000"
     },
     {
       "title": "How I built a notebook inside Obsidian",
