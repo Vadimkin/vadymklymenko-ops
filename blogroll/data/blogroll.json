@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Script: bulk star Wallabag entries by URL",
+      "link": "https://www.autodidacts.io/star-entries-by-url-wallabag-api-python-script/",
+      "published": "Sun, 25 Jan 2026 23:35:39 GMT"
+    },
+    {
+      "title": "Швидке розпізнавання тексту з екрана чи файлів у macOS",
+      "link": "https://blog.alexkolodko.com/all/automation-shortcuts-macos-ocr/",
+      "published": "Sun, 25 Jan 2026 19:28:43 +0200"
+    },
+    {
       "title": "A basic way to hotreload an AppImage",
       "link": "https://www.autodidacts.io/hotreload-an-appimage-extract-modify-repack-with-entr/",
       "published": "Sat, 24 Jan 2026 07:25:55 GMT"
@@ -94,11 +104,6 @@
       "title": "«Атлант розправив плечі. Частина перша. Несуперечність» – Айн Ренд",
       "link": "https://gallery21.blog/2026/01/15/%d0%b0%d1%82%d0%bb%d0%b0%d0%bd%d1%82-%d1%80%d0%be%d0%b7%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%b2-%d0%bf%d0%bb%d0%b5%d1%87%d1%96-%d1%87%d0%b0%d1%81%d1%82%d0%b8%d0%bd%d0%b0-%d0%bf%d0%b5%d1%80%d1%88/",
       "published": "Thu, 15 Jan 2026 18:53:16 +0000"
-    },
-    {
-      "title": "Human beings are waterproof",
-      "link": "https://www.autodidacts.io/human-beings-are-waterproof/",
-      "published": "Thu, 15 Jan 2026 06:25:41 GMT"
     },
     {
       "title": "Great design was a Cuisinart",
