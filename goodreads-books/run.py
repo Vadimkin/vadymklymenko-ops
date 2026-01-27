@@ -74,8 +74,8 @@ def login_to_goodreads(page: Page) -> None:
 
     logger.info("Successfully logged in to Goodreads")
 
-    # Wait for 5 seconds just in case
-    time.sleep(5)
+    # Wait for 10 seconds just in case
+    time.sleep(10)
 
 
 def process_bookshelf_page(page_content: BeautifulSoup, skip_unread: bool = True) -> list[BookReview]:
