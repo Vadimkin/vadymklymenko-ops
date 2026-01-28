@@ -2,9 +2,9 @@ name: Update books
 
 on:
   workflow_dispatch:
-  schedule:
-    # At 00:00 by UTC https://crontab.guru
-    - cron: "00 00 * * *"
+#  schedule:
+#    # At 00:00 by UTC https://crontab.guru
+#    - cron: "00 00 * * *"
 
 jobs:
   build:
