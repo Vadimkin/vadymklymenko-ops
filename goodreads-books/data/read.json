@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
+      "author": "Cory Doctorow",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1768197828l/246463819.jpg",
+      "review_url": "https://www.goodreads.com/review/show/8270920285",
+      "rating": null,
+      "date_started": "2026-01-28",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": false
+    },
+    {
       "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
       "author": "Malcolm Gladwell",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587822931l/48572539.jpg",
@@ -9,7 +20,7 @@
       "date_started": "2025-08-04",
       "date_read": null,
       "is_reading_now": true,
-      "own": false
+      "own": true
     },
     {
       "title": "Ворошиловград",
@@ -1277,6 +1288,17 @@
       "own": true
     },
     {
+      "title": "Говорит командир корабля. Вопросы, ответы и наблюдения опытного пилота",
+      "author": "Patrick Smith",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427623753l/25240770.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261201831",
+      "rating": 4,
+      "date_started": "2018-01-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Планета PIXAR. Моя неймовірна подорож зі Стівом Джобсом у створення історії розваг",
       "author": "Lawrence Levy",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515359723l/37850584.jpg",
@@ -1295,6 +1317,39 @@
       "rating": 4,
       "date_started": null,
       "date_read": "2017-12-01",
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Праздник, который всегда с тобой / Прощай, оружие!",
+      "author": "Ernest Hemingway",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357478672l/17212381.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261203826",
+      "rating": null,
+      "date_started": "2017-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Путеводитель по лжи: Критическое мышление в эпоху постправды",
+      "author": "Daniel J. Levitin",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514589846l/37769909.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261204243",
+      "rating": null,
+      "date_started": "2017-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Як ніколи не помилятися. Сила математичного мислення",
+      "author": "Jordan Ellenberg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500196698l/35686329.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252443305",
+      "rating": 3,
+      "date_started": "2017-08-01",
+      "date_read": null,
       "is_reading_now": false,
       "own": false
     },
@@ -1354,6 +1409,28 @@
       "own": true
     },
     {
+      "title": "У них так принято",
+      "author": "Ross McCammon",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472110279l/31677765.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261209040",
+      "rating": null,
+      "date_started": "2016-09-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Щасливі голі люди",
+      "author": "Kateryna Babkina",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460370659l/29875990.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276031961",
+      "rating": null,
+      "date_started": "2016-07-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Saint porno. Історія про кіно і тіло",
       "author": "Богдан Логвиненко",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461177494l/29966816.jpg",
@@ -1363,6 +1440,17 @@
       "date_read": "2016-06-01",
       "is_reading_now": false,
       "own": true
+    },
+    {
+      "title": "Scrum: The Art of Doing Twice the Work in Half the Time",
+      "author": "Jeff Sutherland",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393221649l/19288230.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261210054",
+      "rating": null,
+      "date_started": "2016-03-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Фламандская доска",
@@ -1376,12 +1464,89 @@
       "own": false
     },
     {
+      "title": "Франкенштейн, или Современный Прометей",
+      "author": "Mary Shelley",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529657162l/40609297.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261212161",
+      "rating": null,
+      "date_started": "2015-12-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Вилла «Белый Конь» / Десять негритят",
+      "author": "Agatha Christie",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414912536l/19424310.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261211038",
+      "rating": null,
+      "date_started": "2015-12-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Интерстеллар",
+      "author": "Kip S. Thorne",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449334854l/28105092.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261211573",
+      "rating": null,
+      "date_started": "2015-12-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Мир по Кларксону [Mir po Klarxonu]",
       "author": "Jeremy Clarkson",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532780270l/40966454.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269803318",
       "rating": 4,
       "date_started": "2015-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Отель. Аэропорт",
+      "author": "Arthur Hailey",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319477757l/3503865.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269802827",
+      "rating": null,
+      "date_started": "2015-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Вопрос на засыпку Как заставить мозги шевелиться",
+      "author": "John Farndon",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447241359l/27799145.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261212588",
+      "rating": null,
+      "date_started": "2015-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "theUKRAINIANS: історії успіху",
+      "author": "Тарас Прокопишин",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532196734l/25626127.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3261212978",
+      "rating": null,
+      "date_started": "2015-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Год, прожитый по-библейски",
+      "author": "A.J. Jacobs",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398449053l/22011991.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269803967",
+      "rating": 4,
+      "date_started": "2015-09-01",
       "date_read": null,
       "is_reading_now": false,
       "own": false
@@ -1420,12 +1585,56 @@
       "own": false
     },
     {
+      "title": "Включаем обаяние по методике спецслужб",
+      "author": "Jack Schafer",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444413853l/27063589.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269805336",
+      "rating": null,
+      "date_started": "2015-07-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Какое тебе дело до того, что думают другие?",
       "author": "Richard Feynman",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385665381l/19027732.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269806629",
       "rating": null,
       "date_started": "2015-06-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Побег из лагеря смерти",
+      "author": "Blaine Harden",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387227452l/19506262.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269806317",
+      "rating": null,
+      "date_started": "2015-06-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Практика малых дел: Каждый человек может что-то изменить",
+      "author": "Марк Санборн",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472563962l/31728960.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269807086",
+      "rating": null,
+      "date_started": "2015-06-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Уверенность в себе: Книга для работы над собой",
+      "author": "Alice Muir",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472071934l/31675593.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269807963",
+      "rating": null,
+      "date_started": "2015-04-01",
       "date_read": null,
       "is_reading_now": false,
       "own": false
@@ -1442,6 +1651,17 @@
       "own": false
     },
     {
+      "title": "БУДЬ лучшей версией себя: Как обычные люди становятся выдающимися",
+      "author": "Dan Waldschmidt",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469490148l/31223510.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269808793",
+      "rating": 3,
+      "date_started": "2015-02-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Эссенциализм. Путь к простоте",
       "author": "Greg McKeown",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422901692l/24227733.jpg",
@@ -1449,6 +1669,39 @@
       "rating": null,
       "date_started": "2015-01-01",
       "date_read": "2015-01-29",
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Таинственная история Билли Миллигана",
+      "author": "Daniel Keyes",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451888295l/28445642.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269810516",
+      "rating": 5,
+      "date_started": "2015-01-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Повелитель мух / Шпиль",
+      "author": "William Golding",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1229774665l/3395761.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269809264",
+      "rating": null,
+      "date_started": "2015-01-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Книга 2.0. Прошлое, настоящее и будущее электронных книг глазами создателя Kindle",
+      "author": "Jason Merkoski",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402206616l/22441905.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269810061",
+      "rating": null,
+      "date_started": "2015-01-01",
+      "date_read": null,
       "is_reading_now": false,
       "own": false
     },
@@ -1475,6 +1728,94 @@
       "own": false
     },
     {
+      "title": "Удовольствие от x. Увлекательная экскурсия в мир математики от одного из лучших преподавателей в мире",
+      "author": "Steven H. Strogatz",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394736134l/21457383.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269811499",
+      "rating": null,
+      "date_started": "2014-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Важные годы. Почему не стоит откладывать жизнь на потом",
+      "author": "Meg Jay",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406135849l/22757666.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269812511",
+      "rating": null,
+      "date_started": "2014-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Тюремные люди",
+      "author": "Михаил Ходорковский",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509519406l/36513950.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269811974",
+      "rating": null,
+      "date_started": "2014-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Инферно         (Роберт Лэнгдон, #4)",
+      "author": "Dan Brown",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377069013l/18363169.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269813295",
+      "rating": null,
+      "date_started": "2014-10-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Дорогая редакция. Подлинная история \"Ленты.ру\", рассказанная её создателями.",
+      "author": "Галина Тимченко",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503566879l/23354301.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269812885",
+      "rating": null,
+      "date_started": "2014-10-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Джони Айв. Легендарный дизайнер Apple",
+      "author": "Leander Kahney",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410515506l/23204192.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269813736",
+      "rating": null,
+      "date_started": "2014-09-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Майдан. (Р)Еволюція духу",
+      "author": "Антін Мухарський",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406364221l/22819186.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269814057",
+      "rating": null,
+      "date_started": "2014-09-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Сделай себя сам. Советы для тех, кто хочет оставить свой след",
+      "author": "Tina Seelig",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372663142l/18141696.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269815185",
+      "rating": null,
+      "date_started": "2014-08-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Иллюзии",
       "author": "Richard Bach",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412336620l/18399686.jpg",
@@ -1486,12 +1827,144 @@
       "own": false
     },
     {
+      "title": "Богатый папа, бедный папа",
+      "author": "Robert T. Kiyosaki",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255803716l/6999536.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269816605",
+      "rating": null,
+      "date_started": "2014-07-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Бегущий человек",
+      "author": "Richard Bachman",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340046062l/15711665.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269816087",
+      "rating": null,
+      "date_started": "2014-07-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Яндекс.Книга",
+      "author": "Дмитрий Соколов-Митрич",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402869534l/22428221.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269817067",
+      "rating": null,
+      "date_started": "2014-07-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Искусство войны",
+      "author": "Sun Tzu",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337179589l/13722891.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269821258",
+      "rating": null,
+      "date_started": "2014-06-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Сомнение. Манифест для тех, кто готов выйти из толпы",
+      "author": "Слава Баранский",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409322170l/22568540.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269817532",
+      "rating": 3,
+      "date_started": "2014-06-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Чайка по имени Джонатан Ливингстон",
       "author": "Richard Bach",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347872475l/16030860.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269822296",
       "rating": null,
       "date_started": "2014-05-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Цветы для Элджернона",
+      "author": "Daniel Keyes",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322070690l/6139677.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269822600",
+      "rating": 5,
+      "date_started": "2014-05-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "iПрезентация. Уроки убеждения от лидера Apple Стива Джобса",
+      "author": "Carmine Gallo",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315474106l/12553809.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269821753",
+      "rating": null,
+      "date_started": "2014-05-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Remote: Office Not Required",
+      "author": "David Heinemeier Hansson",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363265098l/17316682.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269823394",
+      "rating": null,
+      "date_started": "2014-04-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Процесс",
+      "author": "Franz Kafka",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496924253l/35388637.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269823766",
+      "rating": null,
+      "date_started": "2014-03-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "1984, Скотный Двор",
+      "author": "George Orwell",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365185159l/17733382.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269824783",
+      "rating": 5,
+      "date_started": "2014-03-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Алхимик",
+      "author": "Paulo Coelho",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350211349l/6432120.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269824164",
+      "rating": null,
+      "date_started": "2014-03-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Пятьдесят оттенков серого",
+      "author": "E.L. James",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348677284l/16048509.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269825289",
+      "rating": 2,
+      "date_started": "2014-02-01",
       "date_read": null,
       "is_reading_now": false,
       "own": false
@@ -1530,12 +2003,34 @@
       "own": false
     },
     {
+      "title": "Как люди думают",
+      "author": "Дмитрий Чернышев",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409323025l/18071574.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269826564",
+      "rating": 2,
+      "date_started": "2013-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Дизайн привычных вещей",
       "author": "Donald A. Norman",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347890338l/16031296.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269827172",
       "rating": null,
       "date_started": "2013-08-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Алексей Навальный. Гроза жуликов и воров",
+      "author": "Константин Воронков",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323534324l/13184601.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269827596",
+      "rating": null,
+      "date_started": "2013-07-01",
       "date_read": null,
       "is_reading_now": false,
       "own": false
@@ -1574,6 +2069,28 @@
       "own": false
     },
     {
+      "title": "Buyology: Увлекательное путешествие в мозг современного потребителя",
+      "author": "Martin Lindstrom",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328560948l/13455436.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269829549",
+      "rating": null,
+      "date_started": "2013-02-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Джулиан Ассанж - Неавторизованная автобиография",
+      "author": "Julian Assange",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414787564l/23485282.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269829256",
+      "rating": null,
+      "date_started": "2013-02-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Атлант расправил плечи",
       "author": "Ayn Rand",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1265900858l/7720173.jpg",
@@ -1589,6 +2106,17 @@
       "author": "George Carlin",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354264600l/16181183.jpg",
       "review_url": "https://www.goodreads.com/review/show/3269838160",
+      "rating": null,
+      "date_started": "2013-01-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Зажигая звезду",
+      "author": "Игорь Литовченко",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364803718l/17706758.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3269837175",
       "rating": null,
       "date_started": "2013-01-01",
       "date_read": null,
@@ -1629,6 +2157,28 @@
       "own": false
     },
     {
+      "title": "Михаил Ходорковский. Узник тишины",
+      "author": "Valery Panyushkin",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330192086l/13499972.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276023984",
+      "rating": null,
+      "date_started": "2012-05-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Занимательная физика. Книга 1",
+      "author": "Yakov Perelman",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460829615l/29928143.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276024285",
+      "rating": null,
+      "date_started": "2012-04-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Связи решают все. Бизнес-сказка о Царевне-лягушке",
       "author": "Darcy Rezac",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450157747l/28207462.jpg",
@@ -1657,6 +2207,116 @@
       "review_url": "https://www.goodreads.com/review/show/3276025068",
       "rating": null,
       "date_started": "2012-03-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Стартап без бюджета",
+      "author": "Mike Michalowicz",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311158809l/12078805.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276025563",
+      "rating": null,
+      "date_started": "2012-03-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Стив Джобс",
+      "author": "Walter Isaacson",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336588708l/13641031.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276025803",
+      "rating": null,
+      "date_started": "2012-03-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Над пропастью во ржи",
+      "author": "J.D. Salinger",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439164035l/21845138.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276024795",
+      "rating": null,
+      "date_started": "2012-03-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Одиночество в сети",
+      "author": "Janusz Leon Wiśniewski",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699204184l/9895040.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276027431",
+      "rating": null,
+      "date_started": "2012-02-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Парфюмер. История одного убийцы",
+      "author": "Patrick Süskind",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327789969l/5977817.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276026321",
+      "rating": null,
+      "date_started": "2012-02-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "The Телки. Повесть о ненастоящей любви",
+      "author": "Sergey Minaev",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330794520l/7011712.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276027157",
+      "rating": null,
+      "date_started": "2012-02-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Rework. Бизнес без предрассудков",
+      "author": "Jason Fried",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332748284l/12524677.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276026566",
+      "rating": null,
+      "date_started": "2012-02-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Апология математики",
+      "author": "Vladimir A. Uspensky",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1254006300l/6913229.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276026114",
+      "rating": null,
+      "date_started": "2012-02-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Бег с Лидьярдом: Доступные методики оздоровительного бега от великого тренера ХХ века",
+      "author": "Артур Лидьярд",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474236924l/32072364.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276026844",
+      "rating": null,
+      "date_started": "2012-02-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Математики тоже шутят",
+      "author": "Сергей Федин",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413051208l/23355547.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276027665",
+      "rating": null,
+      "date_started": "2012-01-01",
       "date_read": null,
       "is_reading_now": false,
       "own": false
@@ -1695,6 +2355,17 @@
       "own": false
     },
     {
+      "title": "Суперфрикономика",
+      "author": "Steven D. Levitt",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398357872l/18370633.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276028149",
+      "rating": null,
+      "date_started": "2011-11-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Никогда не ешьте в одиночку и другие правила нетворкинга",
       "author": "Keith Ferrazzi",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413101050l/18368237.jpg",
@@ -1717,12 +2388,45 @@
       "own": false
     },
     {
+      "title": "Доставляя счастье",
+      "author": "Tony Hsieh",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327930457l/10452387.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276029476",
+      "rating": null,
+      "date_started": "2011-08-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Ководство",
+      "author": "Artemy Lebedev",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297232092l/8065522.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276029262",
+      "rating": null,
+      "date_started": "2011-08-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "1984",
       "author": "George Orwell",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566l/5470.jpg",
       "review_url": "https://www.goodreads.com/review/show/3276029739",
       "rating": null,
       "date_started": "2011-07-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Спать хочется",
+      "author": "Anton Chekhov",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449508455l/28117797.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3276030044",
+      "rating": null,
+      "date_started": "2011-05-01",
       "date_read": null,
       "is_reading_now": false,
       "own": false

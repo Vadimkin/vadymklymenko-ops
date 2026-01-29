@@ -17,10 +17,10 @@ logger.setLevel(logging.DEBUG)
 
 goodreads_base_url = "https://www.goodreads.com"
 goodreads_login_url = f"{goodreads_base_url}/user/sign_in"
-goodreads_read_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=read"
-goodreads_currently_reading_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=currently-reading"
-goodreads_own_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=own"
-goodreads_bookcrossing_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=bookcrossing"
+goodreads_read_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=read&per_page=100"
+goodreads_currently_reading_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=currently-reading&per_page=100"
+goodreads_own_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=own&per_page=100"
+goodreads_bookcrossing_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=bookcrossing&per_page=100"
 
 read_books_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "read.json"
 reading_now_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "reading.json"
@@ -231,7 +231,7 @@ def process():
     Process books from goodreads and write them to file
     """
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)  # headless=True
+        browser = p.chromium.launch(headless=False)  # headless=True
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )

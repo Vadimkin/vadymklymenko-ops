@@ -559,7 +559,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Котик, Півник, Шафка",
@@ -647,13 +647,24 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Турист мимоволі",
       "author": "Anne Tyler",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589844813l/53441065.jpg",
       "review_url": "https://www.goodreads.com/review/show/5940647268",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Лексикон таємних знань",
+      "author": "Тарас Прохасько",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297758544l/10470263.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5942904589",
       "rating": null,
       "date_started": null,
       "date_read": null,
