@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Autodidacts Newsletter #24",
+      "link": "https://www.autodidacts.io/autodidacts-newsletter-24/",
+      "published": "Wed, 28 Jan 2026 21:34:07 GMT"
+    },
+    {
       "title": "Script: bulk star Readeck entries by URL (with URL cleaning)",
       "link": "https://www.autodidacts.io/readeck-api-like-star-favorite-entries-by-url-python-script/",
       "published": "Mon, 26 Jan 2026 23:29:00 GMT"
@@ -84,11 +89,6 @@
       "title": "A tough job market is the best time to start something",
       "link": "https://swizec.com/blog/a-tough-job-market-is-the-best-time-to-start-something/",
       "published": "Sat, 17 Jan 2026 00:00:00 GMT"
-    },
-    {
-      "title": "I couldn’t find a free Silver price API — so I’m making one",
-      "link": "https://www.autodidacts.io/free-silver-price-api/",
-      "published": "Fri, 16 Jan 2026 07:12:06 GMT"
     },
     {
       "title": "«Атлант розправив плечі. Частина третя. А є а» – Айн Ренд",
