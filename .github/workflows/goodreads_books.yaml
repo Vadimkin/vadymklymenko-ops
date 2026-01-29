@@ -18,18 +18,10 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
-          cache: "pip" # caching pip dependencies
-      - name: Install requirements
-        run: pip install -r goodreads-books/requirements.txt
-      - name: Install Playwright browsers
-        run: playwright install chromium --with-deps
-      - name: Parse goodreads
-        env:
-          GOODREADS_USERNAME: ${{ secrets.GOODREADS_USERNAME }}
-          GOODREADS_PASSWORD: ${{ secrets.GOODREADS_PASSWORD }}
+      - name: Parse goodreads via RSS
         run: |
           cd goodreads-books
-          python run.py
+          python run_rss.py
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
