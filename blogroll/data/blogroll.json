@@ -26,6 +26,11 @@
       "published": "Sun, 25 Jan 2026 23:35:39 GMT"
     },
     {
+      "title": "Швидке розпізнавання тексту з екрана чи файлів у macOS",
+      "link": "https://blog.alexkolodko.com/all/automation-shortcuts-macos-ocr/",
+      "published": "Sun, 25 Jan 2026 19:28:43 +0200"
+    },
+    {
       "title": "A basic way to hotreload an AppImage",
       "link": "https://www.autodidacts.io/hotreload-an-appimage-extract-modify-repack-with-entr/",
       "published": "Sat, 24 Jan 2026 07:25:55 GMT"
@@ -131,6 +136,11 @@
       "published": "Sun, 11 Jan 2026 17:10:33 +0000"
     },
     {
+      "title": "Cursor та (не)вайб кодінг",
+      "link": "https://blog.alexkolodko.com/all/cursor-and-novibecoding/",
+      "published": "Sun, 11 Jan 2026 18:53:45 +0200"
+    },
+    {
       "title": "«Чаротворці» – Террі Пратчетт",
       "link": "https://gallery21.blog/2026/01/10/%d1%87%d0%b0%d1%80%d0%be%d1%82%d0%b2%d0%be%d1%80%d1%86%d1%96-%d1%82%d0%b5%d1%80%d1%80%d1%96-%d0%bf%d1%80%d0%b0%d1%82%d1%87%d0%b5%d1%82%d1%82/",
       "published": "Sat, 10 Jan 2026 20:18:53 +0000"
@@ -174,11 +184,6 @@
       "title": "The big regression",
       "link": "https://world.hey.com/jason/the-big-regression-da7fc60d",
       "published": "2026-01-05T22:08:20Z"
-    },
-    {
-      "title": "2025 Year in Review",
-      "link": "https://swizec.com/blog/2025-year-in-review/",
-      "published": "Fri, 02 Jan 2026 00:00:00 GMT"
     },
     {
       "title": "Intuition and the Inner Compass",
