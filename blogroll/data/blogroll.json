@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "An extremely silly bug",
+      "link": "https://www.autodidacts.io/an-extremely-silly-bug/",
+      "published": "Sun, 01 Feb 2026 07:37:05 GMT"
+    },
+    {
       "title": "In Praise of Earnestness",
       "link": "https://www.autodidacts.io/earnestness/",
       "published": "Fri, 30 Jan 2026 22:18:26 GMT"
@@ -74,11 +79,6 @@
       "title": "It’s 2026 and LibreOffice Calc still can’t parse JSON API responses without a plugin",
       "link": "https://www.autodidacts.io/parse-filter-json-api-responses-in-libreoffice-calc/",
       "published": "Tue, 20 Jan 2026 00:34:26 GMT"
-    },
-    {
-      "title": "My Free Daily Silver Price API is Live",
-      "link": "https://www.autodidacts.io/my-free-daily-silver-price-api-is-live/",
-      "published": "Sun, 18 Jan 2026 07:09:39 GMT"
     },
     {
       "title": "It is 2026; where were we?",
