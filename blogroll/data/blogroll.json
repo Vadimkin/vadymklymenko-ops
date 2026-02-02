@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "title": "OCR Typewritten Documents with a Local Vision Model (Qwen3-VL:8B + Ollama)",
+      "link": "https://www.autodidacts.io/ocr-typewritten-manuscripts-with-local-ollama-vision-model/",
+      "published": "Mon, 02 Feb 2026 07:27:35 GMT"
+    },
+    {
+      "title": "Куда я жмав #24",
+      "link": "https://gallery21.blog/2026/02/01/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-24/",
+      "published": "Sun, 01 Feb 2026 18:31:14 +0000"
+    },
+    {
+      "title": "An extremely silly bug",
+      "link": "https://www.autodidacts.io/an-extremely-silly-bug/",
+      "published": "Sun, 01 Feb 2026 07:37:05 GMT"
+    },
+    {
+      "title": "How you migrate is everything",
+      "link": "https://swizec.com/blog/how-you-migrate-is-everything/",
+      "published": "Sat, 31 Jan 2026 00:00:00 GMT"
+    },
+    {
+      "title": "In Praise of Earnestness",
+      "link": "https://www.autodidacts.io/earnestness/",
+      "published": "Fri, 30 Jan 2026 22:18:26 GMT"
+    },
+    {
+      "title": "«Друзі, коханки і велика халепа» – Метью Перрі",
+      "link": "https://gallery21.blog/2026/01/29/%d0%b4%d1%80%d1%83%d0%b7%d1%96-%d0%ba%d0%be%d1%85%d0%b0%d0%bd%d0%ba%d0%b8-%d1%96-%d0%b2%d0%b5%d0%bb%d0%b8%d0%ba%d0%b0-%d1%85%d0%b0%d0%bb%d0%b5%d0%bf%d0%b0-%d0%bc%d0%b5%d1%82%d1%8c%d1%8e/",
+      "published": "Thu, 29 Jan 2026 18:44:14 +0000"
+    },
+    {
       "title": "Autodidacts Newsletter #24",
       "link": "https://www.autodidacts.io/autodidacts-newsletter-24/",
       "published": "Wed, 28 Jan 2026 21:34:07 GMT"
@@ -59,21 +89,6 @@
       "title": "I fixed my crashing AWS t2.micro instance by adding swap",
       "link": "https://www.autodidacts.io/i-fixed-my-crashing-aws-t2-micro-instance-by-adding-swap/",
       "published": "Wed, 21 Jan 2026 02:01:39 GMT"
-    },
-    {
-      "title": "It’s 2026 and LibreOffice Calc still can’t parse JSON API responses without a plugin",
-      "link": "https://www.autodidacts.io/parse-filter-json-api-responses-in-libreoffice-calc/",
-      "published": "Tue, 20 Jan 2026 00:34:26 GMT"
-    },
-    {
-      "title": "My Free Daily Silver Price API is Live",
-      "link": "https://www.autodidacts.io/my-free-daily-silver-price-api-is-live/",
-      "published": "Sun, 18 Jan 2026 07:09:39 GMT"
-    },
-    {
-      "title": "Dostoyevsky isn’t difficult",
-      "link": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "published": "Sun, 18 Jan 2026 06:47:13 GMT"
     },
     {
       "title": "It is 2026; where were we?",
@@ -151,16 +166,6 @@
       "published": "Sat, 10 Jan 2026 17:07:19 +0000"
     },
     {
-      "title": "«Ерік» – Террі Пратчетт",
-      "link": "https://gallery21.blog/2026/01/10/%d0%b5%d1%80%d1%96%d0%ba-%d1%82%d0%b5%d1%80%d1%80%d1%96-%d0%bf%d1%80%d0%b0%d1%82%d1%87%d0%b5%d1%82%d1%82/",
-      "published": "Sat, 10 Jan 2026 16:50:51 +0000"
-    },
-    {
-      "title": "«Душевна музика» – Террі Пратчетт",
-      "link": "https://gallery21.blog/2026/01/10/%d0%b4%d1%83%d1%88%d0%b5%d0%b2%d0%bd%d0%b0-%d0%bc%d1%83%d0%b7%d0%b8%d0%ba%d0%b0-%d1%82%d0%b5%d1%80%d1%80%d1%96-%d0%bf%d1%80%d0%b0%d1%82%d1%87%d0%b5%d1%82%d1%82/",
-      "published": "Sat, 10 Jan 2026 16:27:28 +0000"
-    },
-    {
       "title": "Small projects, clear scope",
       "link": "https://swizec.com/blog/small-projects-clear-scope/",
       "published": "Sat, 10 Jan 2026 00:00:00 GMT"
@@ -186,16 +191,6 @@
       "published": "2026-01-05T22:08:20Z"
     },
     {
-      "title": "2025 Year in Review",
-      "link": "https://swizec.com/blog/2025-year-in-review/",
-      "published": "Fri, 02 Jan 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Київ-2",
-      "link": "https://kos.fm/kyiv-2/",
-      "published": "Wed, 31 Dec 2025 10:00:00 +0200"
-    },
-    {
       "title": "Intuition and the Inner Compass",
       "link": "https://moretothat.com/intuition-and-the-inner-compass/",
       "published": "Thu, 25 Dec 2025 20:02:39 +0000"
@@ -209,6 +204,11 @@
       "title": "The sights and sounds of Bhutan",
       "link": "https://waitbutwhy.com/2025/11/bhutan.html",
       "published": "Tue, 25 Nov 2025 17:15:10 +0000"
+    },
+    {
+      "title": "Denver",
+      "link": "https://mrgall.com/gallery/2025_11_25/",
+      "published": "Tue, 25 Nov 2025 12:00:00 +0000"
     },
     {
       "title": "Colorado",
@@ -244,11 +244,6 @@
       "title": "Dear Young Designer, Part II",
       "link": "https://vanschneider.com/blog/dear-young-designer-2/",
       "published": "Tue, 04 Nov 2025 18:08:21 GMT"
-    },
-    {
-      "title": "Air & Space Museum",
-      "link": "https://mrgall.com/gallery/2025_10_26/",
-      "published": "Sun, 26 Oct 2025 12:00:00 +0000"
     },
     {
       "title": "Старі фото. 4-та ранку. Кейт Мосс. Та флешбеки з фотосесій.",
