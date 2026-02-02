@@ -105,6 +105,8 @@ def parse_book_from_item(item: ET.Element, is_currently_reading: bool = False) -
 
     # FIXME There is no field like that
     date_started = parse_rfc2822_date(get_text("user_read_at"))
+    if is_currently_reading and not date_started:
+        date_started = parse_rfc2822_date(get_text("user_date_added"))
 
     # Check if book is owned (from user_shelves)
     user_shelves = get_text("user_shelves")
