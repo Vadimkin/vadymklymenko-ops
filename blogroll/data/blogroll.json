@@ -6,6 +6,11 @@
       "published": "Wed, 04 Feb 2026 06:13:36 GMT"
     },
     {
+      "title": "In praise of the stacked pull request",
+      "link": "https://swizec.com/blog/in-praise-of-the-stacked-pull-request/",
+      "published": "Wed, 04 Feb 2026 00:00:00 GMT"
+    },
+    {
       "title": "How to pause and resume a resource-intensive process on Linux with SIGSTOP: specifically, Ollama LLM inference",
       "link": "https://www.autodidacts.io/pause-resume-resource-intensive-llm-inference-process-on-linux-with-sigstop-sigcont/",
       "published": "Mon, 02 Feb 2026 23:59:00 GMT"
