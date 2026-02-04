@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Something good happened to my memory, and I have a theory about what caused it",
+      "link": "https://www.autodidacts.io/memory-improves-with-use/",
+      "published": "Wed, 04 Feb 2026 06:13:36 GMT"
+    },
+    {
       "title": "How to pause and resume a resource-intensive process on Linux with SIGSTOP: specifically, Ollama LLM inference",
       "link": "https://www.autodidacts.io/pause-resume-resource-intensive-llm-inference-process-on-linux-with-sigstop-sigcont/",
       "published": "Mon, 02 Feb 2026 23:59:00 GMT"
@@ -79,11 +84,6 @@
       "title": "CRM для війни",
       "link": "https://www.rozhkov.me/crm-for-war/",
       "published": "Thu, 22 Jan 2026 07:24:10 GMT"
-    },
-    {
-      "title": "You’re in a computer literacy filter bubble",
-      "link": "https://www.autodidacts.io/computer-literacy-filter-bubble/",
-      "published": "Thu, 22 Jan 2026 07:20:18 GMT"
     },
     {
       "title": "2025",
