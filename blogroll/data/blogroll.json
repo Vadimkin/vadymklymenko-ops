@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "«Фанат» Нік Горнбі",
+      "link": "https://gallery21.blog/2026/02/04/%d1%84%d0%b0%d0%bd%d0%b0%d1%82-%d0%bd%d1%96%d0%ba-%d0%b3%d0%be%d1%80%d0%bd%d0%b1%d1%96/",
+      "published": "Wed, 04 Feb 2026 19:23:56 +0000"
+    },
+    {
+      "title": "«Двері у Літо» Роберт Гайнлайн",
+      "link": "https://gallery21.blog/2026/02/04/%d0%b4%d0%b2%d0%b5%d1%80%d1%96-%d1%83-%d0%bb%d1%96%d1%82%d0%be-%d1%80%d0%be%d0%b1%d0%b5%d1%80%d1%82-%d0%b3%d0%b0%d0%b9%d0%bd%d0%bb%d0%b0%d0%b9%d0%bd/",
+      "published": "Wed, 04 Feb 2026 18:53:49 +0000"
+    },
+    {
       "title": "Something good happened to my memory, and I have a theory about what caused it",
       "link": "https://www.autodidacts.io/memory-improves-with-use/",
       "published": "Wed, 04 Feb 2026 06:13:36 GMT"
@@ -161,16 +171,6 @@
       "published": "Sat, 10 Jan 2026 20:18:53 +0000"
     },
     {
-      "title": "«Химерне сяйво» – Террі Пратчетт",
-      "link": "https://gallery21.blog/2026/01/10/%d1%85%d0%b8%d0%bc%d0%b5%d1%80%d0%bd%d0%b5-%d1%81%d1%8f%d0%b9%d0%b2%d0%be-%d1%82%d0%b5%d1%80%d1%80%d1%96-%d0%bf%d1%80%d0%b0%d1%82%d1%87%d0%b5%d1%82%d1%82/",
-      "published": "Sat, 10 Jan 2026 19:59:42 +0000"
-    },
-    {
-      "title": "«Озброєні» – Террі Пратчетт",
-      "link": "https://gallery21.blog/2026/01/10/%d0%be%d0%b7%d0%b1%d1%80%d0%be%d1%94%d0%bd%d1%96-%d1%82%d0%b5%d1%80%d1%80%d1%96-%d0%bf%d1%80%d0%b0%d1%82%d1%87%d0%b5%d1%82%d1%82/",
-      "published": "Sat, 10 Jan 2026 17:07:19 +0000"
-    },
-    {
       "title": "Small projects, clear scope",
       "link": "https://swizec.com/blog/small-projects-clear-scope/",
       "published": "Sat, 10 Jan 2026 00:00:00 GMT"
@@ -181,19 +181,9 @@
       "published": "2026-01-06T20:57:11Z"
     },
     {
-      "title": "A better way to end-to-end test your webapp",
-      "link": "https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp/",
-      "published": "Tue, 06 Jan 2026 00:00:00 GMT"
-    },
-    {
       "title": "Мій 2025",
       "link": "https://zaytsev.io/blog/2025-summary/",
       "published": "Tue, 06 Jan 2026 00:00:00 +0000"
-    },
-    {
-      "title": "The big regression",
-      "link": "https://world.hey.com/jason/the-big-regression-da7fc60d",
-      "published": "2026-01-05T22:08:20Z"
     },
     {
       "title": "Intuition and the Inner Compass",
@@ -326,6 +316,11 @@
       "published": "Tue, 04 Mar 2025 00:00:00 GMT"
     },
     {
+      "title": "Мій 2024",
+      "link": "https://zaytsev.io/blog/2024-summary/",
+      "published": "Wed, 15 Jan 2025 00:00:00 +0000"
+    },
+    {
       "title": "Moon",
       "link": "https://ciechanow.ski/moon/",
       "published": "Tue, 17 Dec 2024 04:00:00 -0800"
@@ -334,6 +329,11 @@
       "title": "On Code Reviews",
       "link": "https://zemlan.in/on-code-reviews.html",
       "published": "Sun, 08 Dec 2024 17:00:00 GMT"
+    },
+    {
+      "title": "Автори двох кращих книг року",
+      "link": "https://zaytsev.io/blog/david-burns-and-rick-rubin/",
+      "published": "Wed, 13 Nov 2024 00:00:00 +0000"
     },
     {
       "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
