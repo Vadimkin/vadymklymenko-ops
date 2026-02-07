@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to increase Ollama context length",
+      "link": "https://www.autodidacts.io/increase-ollama-context-length-num-ctx/",
+      "published": "Thu, 05 Feb 2026 23:59:00 GMT"
+    },
+    {
       "title": "Star rating support has been merged into the Readeck KOReader plugin",
       "link": "https://www.autodidacts.io/readeck-koreader-plugin-now-supports-syncing-star-ratings-as-likes-and-labels/",
       "published": "Thu, 05 Feb 2026 02:13:55 GMT"
@@ -79,11 +84,6 @@
       "title": "Швидке розпізнавання тексту з екрана чи файлів у macOS",
       "link": "https://blog.alexkolodko.com/all/automation-shortcuts-macos-ocr/",
       "published": "Sun, 25 Jan 2026 19:28:43 +0200"
-    },
-    {
-      "title": "A basic way to hotreload an AppImage",
-      "link": "https://www.autodidacts.io/hotreload-an-appimage-extract-modify-repack-with-entr/",
-      "published": "Sat, 24 Jan 2026 07:25:55 GMT"
     },
     {
       "title": "The future of software engineering is SRE",
