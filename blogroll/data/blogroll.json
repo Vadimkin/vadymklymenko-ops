@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Maybe don’t optimize  conversion rate?",
+      "link": "https://www.autodidacts.io/maybe-dont-optimize-conversion-rate/",
+      "published": "Mon, 09 Feb 2026 06:43:55 GMT"
+    },
+    {
       "title": "Insomnia isn’t a waste of time",
       "link": "https://www.autodidacts.io/productive-insomnia-tips-for-hypnagogic-creativity/",
       "published": "Sun, 08 Feb 2026 05:28:47 GMT"
@@ -74,11 +79,6 @@
       "title": "Autodidacts Newsletter #24",
       "link": "https://www.autodidacts.io/autodidacts-newsletter-24/",
       "published": "Wed, 28 Jan 2026 21:34:07 GMT"
-    },
-    {
-      "title": "Script: bulk star Readeck entries by URL (with URL cleaning)",
-      "link": "https://www.autodidacts.io/readeck-api-like-star-favorite-entries-by-url-python-script/",
-      "published": "Mon, 26 Jan 2026 23:29:00 GMT"
     },
     {
       "title": "Швидке розпізнавання тексту з екрана чи файлів у macOS",
