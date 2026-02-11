@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Кінотеатр «Космос»",
-      "author": "Влад Нед",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759830359l/242486946.jpg",
-      "review_url": "https://www.goodreads.com/review/show/8318312475",
-      "rating": null,
-      "date_started": "2026-02-01",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    },
-    {
       "title": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
       "author": "Cory Doctorow",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1768197828l/246463819.jpg",
@@ -23,17 +12,6 @@
       "own": false
     },
     {
-      "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
-      "author": "Malcolm Gladwell",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587822931l/48572539.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5556818040",
-      "rating": null,
-      "date_started": "2025-08-04",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "Ворошиловград",
       "author": "Serhiy Zhadan",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676708512l/122756000.jpg",
@@ -42,6 +20,17 @@
       "date_started": "2024-10-20",
       "date_read": null,
       "is_reading_now": true,
+      "own": false
+    },
+    {
+      "title": "Кінотеатр «Космос»",
+      "author": "Влад Нед",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759830359l/242486946.jpg",
+      "review_url": "https://www.goodreads.com/review/show/8318312475",
+      "rating": 4,
+      "date_started": "2026-02-10",
+      "date_read": "2026-02-10",
+      "is_reading_now": false,
       "own": false
     },
     {

@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Кінотеатр «Космос»",
+      "author": "Влад Нед",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759830359l/242486946.jpg",
+      "review_url": "https://www.goodreads.com/review/show/8318312475",
+      "rating": 4,
+      "date_started": "2026-02-10",
+      "date_read": "2026-02-10",
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "ПРИВАТна історія",
       "author": "Андрій Яницький",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560355856l/46271122.jpg",
