@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Handy.computer is the Linux dictation app I've always wanted.",
+      "link": "https://www.autodidacts.io/dictate-into-active-text-box-at-cursor-with-handy-linux-app/",
+      "published": "Wed, 11 Feb 2026 04:50:53 GMT"
+    },
+    {
       "title": "The 3 curves that make a scalable business",
       "link": "https://swizec.com/blog/the-3-curves-that-make-a-scalable-business/",
       "published": "Tue, 10 Feb 2026 00:00:00 GMT"
@@ -81,11 +86,6 @@
       "published": "Thu, 29 Jan 2026 18:44:14 +0000"
     },
     {
-      "title": "Autodidacts Newsletter #24",
-      "link": "https://www.autodidacts.io/autodidacts-newsletter-24/",
-      "published": "Wed, 28 Jan 2026 21:34:07 GMT"
-    },
-    {
       "title": "Швидке розпізнавання тексту з екрана чи файлів у macOS",
       "link": "https://blog.alexkolodko.com/all/automation-shortcuts-macos-ocr/",
       "published": "Sun, 25 Jan 2026 19:28:43 +0200"
@@ -154,11 +154,6 @@
       "title": "2025",
       "link": "https://paulstamatiou.com/2025-year-in-review",
       "published": "Mon, 12 Jan 2026 16:00:00 GMT"
-    },
-    {
-      "title": "Hundred Days Offensive",
-      "link": "https://www.rozhkov.me/hundred-days-offensive/",
-      "published": "Mon, 12 Jan 2026 07:24:03 GMT"
     },
     {
       "title": "Мій 2025",
