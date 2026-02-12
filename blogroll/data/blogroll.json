@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Зеніт-Е",
+      "link": "https://kos.fm/zenit-e/",
+      "published": "Thu, 12 Feb 2026 10:00:00 +0200"
+    },
+    {
       "title": "A strange workaround for when the capacitive touch screen of your e-reader isn’t responding to dry fingers: use your nose",
       "link": "https://www.autodidacts.io/nose-as-a-stylus-fix-for-capacitive-touch-screen-not-registering-dry-zombie-fingers/",
       "published": "Thu, 12 Feb 2026 06:19:52 GMT"
