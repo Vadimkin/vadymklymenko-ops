@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Sonder is a word I like",
+      "link": "https://www.autodidacts.io/sonder/",
+      "published": "Sun, 15 Feb 2026 01:15:58 GMT"
+    },
+    {
       "title": "An unexpected benefit of docking my laptop beside my desk",
       "link": "https://www.autodidacts.io/loud-laptop-fans-fix-docking-laptop-beside-desk-reduces-noise/",
       "published": "Fri, 13 Feb 2026 06:43:00 GMT"
@@ -69,11 +74,6 @@
       "title": "How to pause and resume a resource-intensive process on Linux with SIGSTOP: specifically, Ollama LLM inference",
       "link": "https://www.autodidacts.io/pause-resume-resource-intensive-llm-inference-process-on-linux-with-sigstop-sigcont/",
       "published": "Mon, 02 Feb 2026 23:59:00 GMT"
-    },
-    {
-      "title": "OCR Typewritten Documents with a Local Vision Model (Qwen3-VL:8B + Ollama)",
-      "link": "https://www.autodidacts.io/ocr-typewritten-manuscripts-with-local-ollama-vision-model/",
-      "published": "Mon, 02 Feb 2026 07:27:35 GMT"
     },
     {
       "title": "Куда я жмав #24",
