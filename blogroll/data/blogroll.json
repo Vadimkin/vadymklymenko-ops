@@ -6,6 +6,11 @@
       "published": "Sun, 15 Feb 2026 01:15:58 GMT"
     },
     {
+      "title": "Practicing design and website rehaul",
+      "link": "https://sinja.io/blog/website-redesign-february-2026",
+      "published": "Sun, 15 Feb 2026 00:00:00 GMT"
+    },
+    {
       "title": "An unexpected benefit of docking my laptop beside my desk",
       "link": "https://www.autodidacts.io/loud-laptop-fans-fix-docking-laptop-beside-desk-reduces-noise/",
       "published": "Fri, 13 Feb 2026 06:43:00 GMT"
@@ -126,11 +131,6 @@
       "published": "Sat, 17 Jan 2026 17:45:10 +0000"
     },
     {
-      "title": "A tough job market is the best time to start something",
-      "link": "https://swizec.com/blog/a-tough-job-market-is-the-best-time-to-start-something/",
-      "published": "Sat, 17 Jan 2026 00:00:00 GMT"
-    },
-    {
       "title": "Great design was a Cuisinart",
       "link": "https://world.hey.com/jason/great-design-was-a-cuisinart-86a83d1f",
       "published": "2026-01-14T18:51:18Z"
@@ -201,11 +201,6 @@
       "published": "Tue, 11 Nov 2025 20:36:16 +0000"
     },
     {
-      "title": "How I built a notebook inside Obsidian",
-      "link": "https://sinja.io/blog/how-i-built-notebook-in-obisidian-emera",
-      "published": "Fri, 07 Nov 2025 00:00:00 GMT"
-    },
-    {
       "title": "Dear Young Designer, Part II",
       "link": "https://vanschneider.com/blog/dear-young-designer-2/",
       "published": "Tue, 04 Nov 2025 18:08:21 GMT"
@@ -264,16 +259,6 @@
       "title": "Користувацький досвід та труднощі перекладу",
       "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
       "published": "Fri, 25 Jul 2025 15:16:43 GMT"
-    },
-    {
-      "title": "A short history of web bots and bot detection techniques",
-      "link": "https://sinja.io/blog/bot-or-not",
-      "published": "Sun, 22 Jun 2025 00:00:00 GMT"
-    },
-    {
-      "title": "6 advanced TypeScript tricks",
-      "link": "https://sinja.io/blog/advanced-typescript",
-      "published": "Sun, 08 Jun 2025 00:00:00 GMT"
     },
     {
       "title": "The case against conversational interfaces",
