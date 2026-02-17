@@ -1,9 +1,24 @@
 {
   "feed": [
     {
+      "title": "Чухани та ентропія",
+      "link": "https://www.rozhkov.me/stinkies-and-entropy/",
+      "published": "Tue, 17 Feb 2026 07:24:17 GMT"
+    },
+    {
       "title": "A new interview",
       "link": "https://world.hey.com/jason/a-new-interview-0aced606",
       "published": "2026-02-16T22:02:24Z"
+    },
+    {
+      "title": "TIL how to accidentally overwrite a decade worth of data in LibreOffice calc",
+      "link": "https://www.autodidacts.io/libreoffice-calc-multi-sheet-paste-can-quietly-edit-or-overwrite-data-by-accident/",
+      "published": "Mon, 16 Feb 2026 06:12:48 GMT"
+    },
+    {
+      "title": "Taking responsibility for my energy levels",
+      "link": "https://www.autodidacts.io/tips-for-boosting-energy-levels-mitochondrial-function/",
+      "published": "Mon, 16 Feb 2026 05:15:03 GMT"
     },
     {
       "title": "GeLLMan amnesia",
@@ -11,9 +26,19 @@
       "published": "Mon, 16 Feb 2026 00:00:00 GMT"
     },
     {
+      "title": "Sonder is a word I like",
+      "link": "https://www.autodidacts.io/sonder/",
+      "published": "Sun, 15 Feb 2026 01:15:58 GMT"
+    },
+    {
       "title": "Practicing design and website rehaul",
       "link": "https://sinja.io/blog/website-redesign-february-2026",
       "published": "Sun, 15 Feb 2026 00:00:00 GMT"
+    },
+    {
+      "title": "An unexpected benefit of docking my laptop beside my desk",
+      "link": "https://www.autodidacts.io/loud-laptop-fans-fix-docking-laptop-beside-desk-reduces-noise/",
+      "published": "Fri, 13 Feb 2026 06:43:00 GMT"
     },
     {
       "title": "Зеніт-Е",
@@ -21,9 +46,39 @@
       "published": "Thu, 12 Feb 2026 10:00:00 +0200"
     },
     {
+      "title": "A strange workaround for when the capacitive touch screen of your e-reader isn’t responding to dry fingers: use your nose",
+      "link": "https://www.autodidacts.io/nose-as-a-stylus-fix-for-capacitive-touch-screen-not-registering-dry-zombie-fingers/",
+      "published": "Thu, 12 Feb 2026 06:19:52 GMT"
+    },
+    {
+      "title": "Handy.computer is the Linux dictation app I've always wanted.",
+      "link": "https://www.autodidacts.io/dictate-into-active-text-box-at-cursor-with-handy-linux-app/",
+      "published": "Wed, 11 Feb 2026 04:50:53 GMT"
+    },
+    {
       "title": "The 3 curves that make a scalable business",
       "link": "https://swizec.com/blog/the-3-curves-that-make-a-scalable-business/",
       "published": "Tue, 10 Feb 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Maybe don’t optimize  conversion rate?",
+      "link": "https://www.autodidacts.io/maybe-dont-optimize-conversion-rate/",
+      "published": "Mon, 09 Feb 2026 06:43:55 GMT"
+    },
+    {
+      "title": "Insomnia isn’t a waste of time",
+      "link": "https://www.autodidacts.io/productive-insomnia-tips-for-hypnagogic-creativity/",
+      "published": "Sun, 08 Feb 2026 05:28:47 GMT"
+    },
+    {
+      "title": "How to increase Ollama context length",
+      "link": "https://www.autodidacts.io/increase-ollama-context-length-num-ctx/",
+      "published": "Thu, 05 Feb 2026 23:59:00 GMT"
+    },
+    {
+      "title": "Star rating support has been merged into the Readeck KOReader plugin",
+      "link": "https://www.autodidacts.io/readeck-koreader-plugin-now-supports-syncing-star-ratings-as-likes-and-labels/",
+      "published": "Thu, 05 Feb 2026 02:13:55 GMT"
     },
     {
       "title": "«Фанат» Нік Горнбі",
