@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Військова звітність",
+      "link": "https://www.rozhkov.me/military-reporting/",
+      "published": "Wed, 18 Feb 2026 07:25:14 GMT"
+    },
+    {
       "title": "Чухани та ентропія",
       "link": "https://www.rozhkov.me/stinkies-and-entropy/",
       "published": "Tue, 17 Feb 2026 07:24:17 GMT"
@@ -161,6 +166,11 @@
       "published": "Thu, 11 Dec 2025 01:24:35 +0000"
     },
     {
+      "title": "New Mexico",
+      "link": "https://mrgall.com/gallery/2025_11_27/",
+      "published": "Thu, 27 Nov 2025 12:00:00 +0000"
+    },
+    {
       "title": "Colorado",
       "link": "https://mrgall.com/gallery/2025_11_26/",
       "published": "Wed, 26 Nov 2025 12:00:00 +0000"
@@ -174,11 +184,6 @@
       "title": "Denver",
       "link": "https://mrgall.com/gallery/2025_11_25/",
       "published": "Tue, 25 Nov 2025 12:00:00 +0000"
-    },
-    {
-      "title": "Colorado",
-      "link": "https://mrgall.com/gallery/2025_11_24/",
-      "published": "Mon, 24 Nov 2025 12:00:00 +0000"
     },
     {
       "title": "A cruel reminder for all designers",
