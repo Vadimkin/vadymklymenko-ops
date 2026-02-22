@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The Evening Writing Effect",
+      "link": "https://www.autodidacts.io/the-evening-writing-effect/",
+      "published": "Sun, 22 Feb 2026 06:43:33 GMT"
+    },
+    {
       "title": "Куда я жмав #25",
       "link": "https://gallery21.blog/2026/02/21/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-25/?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25ba%25d1%2583%25d0%25b4%25d0%25b0-%25d1%258f-%25d0%25b6%25d0%25bc%25d0%25b0%25d0%25b2-25",
       "published": "Sat, 21 Feb 2026 17:50:23 +0000"
@@ -91,11 +96,6 @@
       "published": "Mon, 09 Feb 2026 06:43:55 GMT"
     },
     {
-      "title": "Insomnia isn’t a waste of time",
-      "link": "https://www.autodidacts.io/productive-insomnia-tips-for-hypnagogic-creativity/",
-      "published": "Sun, 08 Feb 2026 05:28:47 GMT"
-    },
-    {
       "title": "«Фанат» Нік Горнбі",
       "link": "https://gallery21.blog/2026/02/04/%d1%84%d0%b0%d0%bd%d0%b0%d1%82-%d0%bd%d1%96%d0%ba-%d0%b3%d0%be%d1%80%d0%bd%d0%b1%d1%96/?utm_source=rss&utm_medium=rss&utm_campaign=%25d1%2584%25d0%25b0%25d0%25bd%25d0%25b0%25d1%2582-%25d0%25bd%25d1%2596%25d0%25ba-%25d0%25b3%25d0%25be%25d1%2580%25d0%25bd%25d0%25b1%25d1%2596",
       "published": "Wed, 04 Feb 2026 19:23:56 +0000"
@@ -134,11 +134,6 @@
       "title": "The future of software engineering is SRE",
       "link": "https://swizec.com/blog/the-future-of-software-engineering-is-sre/",
       "published": "Sat, 24 Jan 2026 00:00:00 GMT"
-    },
-    {
-      "title": "«Брехня у доповідях»",
-      "link": "https://www.rozhkov.me/lie-in-reports/",
-      "published": "Fri, 23 Jan 2026 07:24:13 GMT"
     },
     {
       "title": "It is 2026; where were we?",
