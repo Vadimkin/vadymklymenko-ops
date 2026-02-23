@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Social Cache Busting",
+      "link": "https://www.autodidacts.io/social-cache-busting/",
+      "published": "Mon, 23 Feb 2026 05:16:30 GMT"
+    },
+    {
       "title": "The Evening Writing Effect",
       "link": "https://www.autodidacts.io/the-evening-writing-effect/",
       "published": "Sun, 22 Feb 2026 06:43:33 GMT"
@@ -89,11 +94,6 @@
       "title": "The 3 curves that make a scalable business",
       "link": "https://swizec.com/blog/the-3-curves-that-make-a-scalable-business/",
       "published": "Tue, 10 Feb 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Maybe don’t optimize  conversion rate?",
-      "link": "https://www.autodidacts.io/maybe-dont-optimize-conversion-rate/",
-      "published": "Mon, 09 Feb 2026 06:43:55 GMT"
     },
     {
       "title": "«Фанат» Нік Горнбі",
