@@ -1,23 +1,12 @@
 {
   "books": [
     {
-      "title": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
-      "author": "Cory Doctorow",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1768197828l/246463819.jpg",
-      "review_url": "https://www.goodreads.com/review/show/8270920285",
+      "title": "Відкритий. Автобіографія",
+      "author": "Andre Agassi",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553291811l/44571543.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6625811893",
       "rating": null,
-      "date_started": "2026-01-28",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    },
-    {
-      "title": "Ворошиловград",
-      "author": "Serhiy Zhadan",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676708512l/122756000.jpg",
-      "review_url": "https://www.goodreads.com/review/show/4944079022",
-      "rating": null,
-      "date_started": "2024-10-20",
+      "date_started": "2026-02-21",
       "date_read": null,
       "is_reading_now": true,
       "own": false

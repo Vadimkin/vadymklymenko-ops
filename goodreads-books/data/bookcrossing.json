@@ -1,6 +1,204 @@
 {
   "books": [
     {
+      "title": "Як придумати ідею, якщо ви не Оґілві",
+      "author": "Alexey Ivanov",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577109733l/49770554.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252454033",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Стіни в моїй голові. Жити з тривожністю і депресією",
+      "author": "Володимир Станчишин",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601027880l/55450286.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940633982",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Основи. Графічний дизайн 04: Нові основи",
+      "author": "Ellen Lupton",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638443956l/59740596.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940641348",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Криза урбанізму. Чому міста роблять нас нещасними",
+      "author": "Richard Florida",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556124196l/45289509.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940643297",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Турист мимоволі",
+      "author": "Anne Tyler",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589844813l/53441065.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940647268",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Основи. 10 ключів до реальності",
+      "author": "Frank Wilczek",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617976805l/57676313.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940629952",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Шалено багаті азійці",
+      "author": "Kevin Kwan",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656588720l/54920327.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940632818",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Ковток повітря",
+      "author": "George Orwell",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632048936l/51915042.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940633463",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Шістдесят оповідань",
+      "author": "Donald Barthelme",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663193614l/62593224.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5363654594",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Spotify навиворіт. Як шведський стартап здійснив музичну революцію",
+      "author": "Sven   Carlsson",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630762444l/58923323.jpg",
+      "review_url": "https://www.goodreads.com/review/show/4238767022",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Моссад. Найвидатніші операції ізраїльської розвідки",
+      "author": "Michael Bar-Zohar",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642534773l/60155184.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5021490416",
+      "rating": 3,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Амадока",
+      "author": "Sofia Andrukhovych",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589718109l/51476901.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3352394416",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Як нагодувати диктатора",
+      "author": "Witold Szabłowski",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632502810l/53934457.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3522649872",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Чути українською",
+      "author": "Ольга Дубчак",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608687817l/55853863.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3848142537",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Страх і відраза в Лас-Вегасі",
+      "author": "Hunter S. Thompson",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661769883l/28963959.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252441320",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Опанувати складність",
+      "author": "Donald A. Norman",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556701789l/45422594.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252446247",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Нам усім пощастило",
+      "author": "Yuri Andrukhovych",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506288920l/36298009.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252458401",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "21 Lessons for the 21st Century",
+      "author": "Yuval Noah Harari",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252438824",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "За Перекопом є земля",
       "author": "Анастасія Левкова",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679581311l/123510454.jpg",
@@ -23,54 +221,10 @@
       "own": false
     },
     {
-      "title": "Страх і відраза в Лас-Вегасі",
-      "author": "Hunter S. Thompson",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661769883l/28963959.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252441320",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Шалено багаті азійці",
-      "author": "Kevin Kwan",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656588720l/54920327.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940632818",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Стіни в моїй голові. Жити з тривожністю і депресією",
-      "author": "Володимир Станчишин",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601027880l/55450286.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940633982",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
       "title": "Найкоротша історія часу",
       "author": "Stephen W. Hawking",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662114075l/30817508.jpg",
       "review_url": "https://www.goodreads.com/review/show/3252446725",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Амадока",
-      "author": "Sofia Andrukhovych",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589718109l/51476901.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3352394416",
       "rating": null,
       "date_started": null,
       "date_read": null,
@@ -107,17 +261,6 @@
       "rating": 4,
       "date_started": "2021-08-07",
       "date_read": "2021-08-07",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Основи. Графічний дизайн 04: Нові основи",
-      "author": "Ellen Lupton",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638443956l/59740596.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940641348",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
       "is_reading_now": false,
       "own": false
     },
@@ -166,17 +309,6 @@
       "own": false
     },
     {
-      "title": "Турист мимоволі",
-      "author": "Anne Tyler",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589844813l/53441065.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940647268",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
-    },
-    {
       "title": "Жизня",
       "author": "Oleh Sentsov",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557824104l/44891862.jpg",
@@ -197,39 +329,6 @@
       "date_read": null,
       "is_reading_now": false,
       "own": true
-    },
-    {
-      "title": "Нам усім пощастило",
-      "author": "Yuri Andrukhovych",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506288920l/36298009.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252458401",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Криза урбанізму. Чому міста роблять нас нещасними",
-      "author": "Richard Florida",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556124196l/45289509.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940643297",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "21 Lessons for the 21st Century",
-      "author": "Yuval Noah Harari",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252438824",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
     },
     {
       "title": "Незавершена війна. Історія протистояння України з Росією в 2014–2015 роках",
@@ -254,17 +353,6 @@
       "own": true
     },
     {
-      "title": "Як нагодувати диктатора",
-      "author": "Witold Szabłowski",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632502810l/53934457.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3522649872",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
       "title": "Економіка. Інструкція з використання",
       "author": "Ha-Joon Chang",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475524797l/32391847.jpg",
@@ -276,54 +364,10 @@
       "own": true
     },
     {
-      "title": "Ковток повітря",
-      "author": "George Orwell",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632048936l/51915042.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940633463",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
       "title": "Який чудесний світ новий!",
       "author": "Aldous Huxley",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677266892l/31700506.jpg",
       "review_url": "https://www.goodreads.com/review/show/3252428117",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Як придумати ідею, якщо ви не Оґілві",
-      "author": "Alexey    Ivanov",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577109733l/49770554.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252454033",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Опанувати складність",
-      "author": "Donald A. Norman",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556701789l/45422594.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252446247",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Основи. 10 ключів до реальності",
-      "author": "Frank Wilczek",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617976805l/57676313.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940629952",
       "rating": null,
       "date_started": null,
       "date_read": null,
@@ -441,17 +485,6 @@
       "own": false
     },
     {
-      "title": "Чути українською",
-      "author": "Ольга Дубчак",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608687817l/55853863.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3848142537",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
-    },
-    {
       "title": "Постправда",
       "author": "Lee McIntyre",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616759406l/57532429.jpg",
@@ -496,17 +529,6 @@
       "own": false
     },
     {
-      "title": "Spotify навиворіт. Як шведський стартап здійснив музичну революцію",
-      "author": "Sven   Carlsson",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630762444l/58923323.jpg",
-      "review_url": "https://www.goodreads.com/review/show/4238767022",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
-    },
-    {
       "title": "Don't Be Evil: How Big Tech Betrayed Its Founding Principles -- and All of Us",
       "author": "Rana Foroohar",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572533567l/48650992.jpg",
@@ -525,17 +547,6 @@
       "rating": 4,
       "date_started": "2022-03-13",
       "date_read": "2022-03-13",
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Моссад. Найвидатніші операції ізраїльської розвідки",
-      "author": "Michael Bar-Zohar",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642534773l/60155184.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5021490416",
-      "rating": 3,
-      "date_started": null,
-      "date_read": null,
       "is_reading_now": false,
       "own": true
     },
@@ -580,17 +591,6 @@
       "rating": 4,
       "date_started": "2023-04-23",
       "date_read": "2023-04-23",
-      "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Шістдесят оповідань",
-      "author": "Donald Barthelme",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663193614l/62593224.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5363654594",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
       "is_reading_now": false,
       "own": false
     },
