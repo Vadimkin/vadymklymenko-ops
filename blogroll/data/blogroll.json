@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "It’s surprisingly hard to reliably paste the current date at the cursor on Linux",
+      "link": "https://www.autodidacts.io/reliably-insert-current-date-at-cursor-on-linux/",
+      "published": "Wed, 25 Feb 2026 07:46:31 GMT"
+    },
+    {
+      "title": "Paste clipboard contents in places where you can’t paste",
+      "link": "https://www.autodidacts.io/insert-clipboard-content-in-places-that-do-not-allow-pasting-with-send-keys/",
+      "published": "Wed, 25 Feb 2026 06:08:31 GMT"
+    },
+    {
       "title": "Як бути менш “странніньким”: триетапне лікування майже універсальної пригодоньки",
       "link": "https://gallery21.blog/2026/02/24/%d1%8f%d0%ba-%d0%b1%d1%83%d1%82%d0%b8-%d0%bc%d0%b5%d0%bd%d1%88-%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d1%96%d0%bd%d1%8c%d0%ba%d0%b8%d0%bc-%d1%82%d1%80%d0%b8%d0%b5%d1%82%d0%b0%d0%bf%d0%bd%d0%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25d1%258f%25d0%25ba-%25d0%25b1%25d1%2583%25d1%2582%25d0%25b8-%25d0%25bc%25d0%25b5%25d0%25bd%25d1%2588-%25d1%2581%25d1%2582%25d1%2580%25d0%25b0%25d0%25bd%25d0%25bd%25d1%2596%25d0%25bd%25d1%258c%25d0%25ba%25d0%25b8%25d0%25bc-%25d1%2582%25d1%2580%25d0%25b8%25d0%25b5%25d1%2582%25d0%25b0%25d0%25bf%25d0%25bd%25d0%25b5",
       "published": "Tue, 24 Feb 2026 20:02:07 +0000"
@@ -81,19 +91,9 @@
       "published": "Sun, 15 Feb 2026 00:00:00 GMT"
     },
     {
-      "title": "An unexpected benefit of docking my laptop beside my desk",
-      "link": "https://www.autodidacts.io/loud-laptop-fans-fix-docking-laptop-beside-desk-reduces-noise/",
-      "published": "Fri, 13 Feb 2026 06:43:00 GMT"
-    },
-    {
       "title": "Зеніт-Е",
       "link": "https://kos.fm/zenit-e/",
       "published": "Thu, 12 Feb 2026 10:00:00 +0200"
-    },
-    {
-      "title": "A strange workaround for when the capacitive touch screen of your e-reader isn’t responding to dry fingers: use your nose",
-      "link": "https://www.autodidacts.io/nose-as-a-stylus-fix-for-capacitive-touch-screen-not-registering-dry-zombie-fingers/",
-      "published": "Thu, 12 Feb 2026 06:19:52 GMT"
     },
     {
       "title": "The 3 curves that make a scalable business",
