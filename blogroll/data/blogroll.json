@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Як бути менш “странніньким”: триетапне лікування майже універсальної пригодоньки",
+      "link": "https://gallery21.blog/2026/02/24/%d1%8f%d0%ba-%d0%b1%d1%83%d1%82%d0%b8-%d0%bc%d0%b5%d0%bd%d1%88-%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d1%96%d0%bd%d1%8c%d0%ba%d0%b8%d0%bc-%d1%82%d1%80%d0%b8%d0%b5%d1%82%d0%b0%d0%bf%d0%bd%d0%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25d1%258f%25d0%25ba-%25d0%25b1%25d1%2583%25d1%2582%25d0%25b8-%25d0%25bc%25d0%25b5%25d0%25bd%25d1%2588-%25d1%2581%25d1%2582%25d1%2580%25d0%25b0%25d0%25bd%25d0%25bd%25d1%2596%25d0%25bd%25d1%258c%25d0%25ba%25d0%25b8%25d0%25bc-%25d1%2582%25d1%2580%25d0%25b8%25d0%25b5%25d1%2582%25d0%25b0%25d0%25bf%25d0%25bd%25d0%25b5",
+      "published": "Tue, 24 Feb 2026 20:02:07 +0000"
+    },
+    {
       "title": "The Fewer Ingredients The Better",
       "link": "https://www.autodidacts.io/the-fewer-ingredients-the-better/",
       "published": "Tue, 24 Feb 2026 07:14:54 GMT"
@@ -139,6 +144,11 @@
       "title": "2025",
       "link": "https://paulstamatiou.com/2025-year-in-review",
       "published": "Mon, 12 Jan 2026 16:00:00 GMT"
+    },
+    {
+      "title": "Cursor та (не)вайб кодінг",
+      "link": "https://blog.alexkolodko.com/all/cursor-and-novibecoding/",
+      "published": "Sun, 11 Jan 2026 18:53:45 +0200"
     },
     {
       "title": "Мій 2025",
@@ -294,6 +304,11 @@
       "title": "Автори двох кращих книг року",
       "link": "https://zaytsev.io/blog/david-burns-and-rick-rubin/",
       "published": "Wed, 13 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "QA: Кодинг у дизайні",
+      "link": "https://blog.alexkolodko.com/all/qa-design-and-coding/",
+      "published": "Sun, 29 Sep 2024 15:13:08 +0200"
     },
     {
       "title": "The Startup Designer",
