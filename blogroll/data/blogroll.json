@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "We don’t know until the end, and it’s never the end",
+      "link": "https://www.autodidacts.io/we-dont-know-until-the-end-and-its-never-the-end/",
+      "published": "Fri, 27 Feb 2026 22:58:00 GMT"
+    },
+    {
       "title": "It’s surprisingly hard to reliably paste the current date at the cursor on Linux",
       "link": "https://www.autodidacts.io/reliably-insert-current-date-at-cursor-on-linux/",
       "published": "Wed, 25 Feb 2026 07:46:31 GMT"
@@ -79,11 +84,6 @@
       "title": "GeLLMan amnesia",
       "link": "https://swizec.com/blog/ge-ll-man-amnesia/",
       "published": "Mon, 16 Feb 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Sonder is a word I like",
-      "link": "https://www.autodidacts.io/sonder/",
-      "published": "Sun, 15 Feb 2026 01:15:58 GMT"
     },
     {
       "title": "Practicing design and website rehaul",
@@ -171,24 +171,24 @@
       "published": "Thu, 11 Dec 2025 01:24:35 +0000"
     },
     {
+      "title": "Arizona",
+      "link": "https://mrgall.com/gallery/2025_11_29/",
+      "published": "Sat, 29 Nov 2025 12:00:00 +0000"
+    },
+    {
+      "title": "Albuquerque",
+      "link": "https://mrgall.com/gallery/2025_11_28/",
+      "published": "Fri, 28 Nov 2025 12:00:00 +0000"
+    },
+    {
       "title": "New Mexico",
       "link": "https://mrgall.com/gallery/2025_11_27/",
       "published": "Thu, 27 Nov 2025 12:00:00 +0000"
     },
     {
-      "title": "Colorado",
-      "link": "https://mrgall.com/gallery/2025_11_26/",
-      "published": "Wed, 26 Nov 2025 12:00:00 +0000"
-    },
-    {
       "title": "The sights and sounds of Bhutan",
       "link": "https://waitbutwhy.com/2025/11/bhutan.html",
       "published": "Tue, 25 Nov 2025 17:15:10 +0000"
-    },
-    {
-      "title": "Denver",
-      "link": "https://mrgall.com/gallery/2025_11_25/",
-      "published": "Tue, 25 Nov 2025 12:00:00 +0000"
     },
     {
       "title": "A cruel reminder for all designers",
