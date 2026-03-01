@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Autodidacts Newsletter #25",
+      "link": "https://www.autodidacts.io/autodidacts-newsletter-25/",
+      "published": "Sat, 28 Feb 2026 23:48:51 GMT"
+    },
+    {
+      "title": "Probably the realest thing I ever wrote",
+      "link": "https://swizec.com/blog/probably-the-realest-thing-i-ever-wrote/",
+      "published": "Sat, 28 Feb 2026 00:00:00 GMT"
+    },
+    {
       "title": "We don’t know until the end, and it’s never the end",
       "link": "https://www.autodidacts.io/we-dont-know-until-the-end-and-its-never-the-end/",
       "published": "Fri, 27 Feb 2026 22:58:00 GMT"
@@ -76,11 +86,6 @@
       "published": "Mon, 16 Feb 2026 06:12:48 GMT"
     },
     {
-      "title": "Taking responsibility for my energy levels",
-      "link": "https://www.autodidacts.io/tips-for-boosting-energy-levels-mitochondrial-function/",
-      "published": "Mon, 16 Feb 2026 05:15:03 GMT"
-    },
-    {
       "title": "GeLLMan amnesia",
       "link": "https://swizec.com/blog/ge-ll-man-amnesia/",
       "published": "Mon, 16 Feb 2026 00:00:00 GMT"
@@ -124,11 +129,6 @@
       "title": "How you migrate is everything",
       "link": "https://swizec.com/blog/how-you-migrate-is-everything/",
       "published": "Sat, 31 Jan 2026 00:00:00 GMT"
-    },
-    {
-      "title": "«Друзі, коханки і велика халепа» – Метью Перрі",
-      "link": "https://gallery21.blog/2026/01/29/%d0%b4%d1%80%d1%83%d0%b7%d1%96-%d0%ba%d0%be%d1%85%d0%b0%d0%bd%d0%ba%d0%b8-%d1%96-%d0%b2%d0%b5%d0%bb%d0%b8%d0%ba%d0%b0-%d1%85%d0%b0%d0%bb%d0%b5%d0%bf%d0%b0-%d0%bc%d0%b5%d1%82%d1%8c%d1%8e/?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25b4%25d1%2580%25d1%2583%25d0%25b7%25d1%2596-%25d0%25ba%25d0%25be%25d1%2585%25d0%25b0%25d0%25bd%25d0%25ba%25d0%25b8-%25d1%2596-%25d0%25b2%25d0%25b5%25d0%25bb%25d0%25b8%25d0%25ba%25d0%25b0-%25d1%2585%25d0%25b0%25d0%25bb%25d0%25b5%25d0%25bf%25d0%25b0-%25d0%25bc%25d0%25b5%25d1%2582%25d1%258c%25d1%258e",
-      "published": "Thu, 29 Jan 2026 18:44:14 +0000"
     },
     {
       "title": "Швидке розпізнавання тексту з екрана чи файлів у macOS",
