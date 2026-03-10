@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Some thoughts about backing up, which occurred to me after my laptop abruptly expired",
+      "link": "https://www.autodidacts.io/thoughts-on-digital-fragility/",
+      "published": "Tue, 10 Mar 2026 04:26:26 GMT"
+    },
+    {
       "title": "Sheep Music & Wedding Bands",
       "link": "https://www.autodidacts.io/bookworm-pronunciation-syndrome/",
       "published": "Mon, 09 Mar 2026 05:00:20 GMT"
@@ -59,11 +64,6 @@
       "title": "It’s surprisingly hard to reliably paste the current date at the cursor on Linux",
       "link": "https://www.autodidacts.io/reliably-insert-current-date-at-cursor-on-linux/",
       "published": "Wed, 25 Feb 2026 07:46:31 GMT"
-    },
-    {
-      "title": "Paste clipboard contents in places where you can’t paste",
-      "link": "https://www.autodidacts.io/insert-clipboard-content-in-places-that-do-not-allow-pasting-with-send-keys/",
-      "published": "Wed, 25 Feb 2026 06:08:31 GMT"
     },
     {
       "title": "Як бути менш “странніньким”: триетапне лікування майже універсальної пригодоньки",
