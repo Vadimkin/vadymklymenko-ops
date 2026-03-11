@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "My criteria for a good Linux developer laptop",
+      "link": "https://www.autodidacts.io/my-criteria-for-a-good-linux-developer-laptop/",
+      "published": "Wed, 11 Mar 2026 06:10:14 GMT"
+    },
+    {
       "title": "Some thoughts about backing up, which occurred to me after my laptop abruptly expired",
       "link": "https://www.autodidacts.io/thoughts-on-digital-fragility/",
       "published": "Tue, 10 Mar 2026 04:26:26 GMT"
@@ -59,11 +64,6 @@
       "title": "We don’t know until the end, and it’s never the end",
       "link": "https://www.autodidacts.io/we-dont-know-until-the-end-and-its-never-the-end/",
       "published": "Fri, 27 Feb 2026 22:58:00 GMT"
-    },
-    {
-      "title": "It’s surprisingly hard to reliably paste the current date at the cursor on Linux",
-      "link": "https://www.autodidacts.io/reliably-insert-current-date-at-cursor-on-linux/",
-      "published": "Wed, 25 Feb 2026 07:46:31 GMT"
     },
     {
       "title": "Як бути менш “странніньким”: триетапне лікування майже універсальної пригодоньки",
