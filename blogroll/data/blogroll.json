@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Curation and its side effects",
+      "link": "https://www.autodidacts.io/curators-skim/",
+      "published": "Fri, 13 Mar 2026 23:59:00 GMT"
+    },
+    {
+      "title": "Закон Брукса на війні",
+      "link": "https://www.rozhkov.me/brooks-law-in-army/",
+      "published": "Fri, 13 Mar 2026 07:24:19 GMT"
+    },
+    {
       "title": "Мандри для бідних і невиїздних",
       "link": "https://zametkin.me/2026/03/12/window-swap/",
       "published": "Thu, 12 Mar 2026 17:40:13 +0000"
@@ -76,11 +86,6 @@
       "published": "Sun, 01 Mar 2026 23:59:00 GMT"
     },
     {
-      "title": "Autodidacts Newsletter #25",
-      "link": "https://www.autodidacts.io/autodidacts-newsletter-25/",
-      "published": "Sat, 28 Feb 2026 23:48:51 GMT"
-    },
-    {
       "title": "Probably the realest thing I ever wrote",
       "link": "https://swizec.com/blog/probably-the-realest-thing-i-ever-wrote/",
       "published": "Sat, 28 Feb 2026 00:00:00 GMT"
@@ -96,9 +101,19 @@
       "published": "Sat, 21 Feb 2026 17:50:23 +0000"
     },
     {
+      "title": "Військова звітність",
+      "link": "https://www.rozhkov.me/military-reporting/",
+      "published": "Wed, 18 Feb 2026 07:25:14 GMT"
+    },
+    {
       "title": "Users buy your service, not your code",
       "link": "https://swizec.com/blog/users-buy-your-service-not-your-code/",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Чухани та ентропія",
+      "link": "https://www.rozhkov.me/stinkies-and-entropy/",
+      "published": "Tue, 17 Feb 2026 07:24:17 GMT"
     },
     {
       "title": "A new interview",
@@ -121,6 +136,11 @@
       "published": "Thu, 12 Feb 2026 10:00:00 +0200"
     },
     {
+      "title": "2025",
+      "link": "https://kos.fm/2025/",
+      "published": "Wed, 21 Jan 2026 10:00:00 +0200"
+    },
+    {
       "title": "It is 2026; where were we?",
       "link": "https://zverok.space/blog/2026-01-18-upd.html",
       "published": "Sun, 18 Jan 2026 00:00:00 +0000"
@@ -134,6 +154,11 @@
       "title": "Мій 2025",
       "link": "https://zaytsev.io/blog/2025-summary/",
       "published": "Tue, 06 Jan 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Київ-2",
+      "link": "https://kos.fm/kyiv-2/",
+      "published": "Wed, 31 Dec 2025 10:00:00 +0200"
     },
     {
       "title": "Intuition and the Inner Compass",
