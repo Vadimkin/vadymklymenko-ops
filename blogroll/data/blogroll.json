@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Bothering to understand",
+      "link": "https://www.autodidacts.io/bothering-to-understand/",
+      "published": "Sun, 15 Mar 2026 08:09:17 GMT"
+    },
+    {
       "title": "Curation and its side effects",
       "link": "https://www.autodidacts.io/curators-skim/",
       "published": "Fri, 13 Mar 2026 23:59:00 GMT"
@@ -79,11 +84,6 @@
       "title": "How I find the email addresses of public figures 🔒",
       "link": "https://www.autodidacts.io/how-to-find-contact-information-of-public-figures/",
       "published": "Tue, 03 Mar 2026 05:16:13 GMT"
-    },
-    {
-      "title": "Underrated reasons to dislike AI",
-      "link": "https://www.autodidacts.io/underrated-reasons-to-dislike-ai/",
-      "published": "Sun, 01 Mar 2026 23:59:00 GMT"
     },
     {
       "title": "Probably the realest thing I ever wrote",
