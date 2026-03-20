@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The best engineers just get shit done, sometimes with AI",
+      "link": "https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/",
+      "published": "Thu, 19 Mar 2026 00:00:00 GMT"
+    },
+    {
       "title": "Delusional Optimism & the Art of Sneaking Up on Your Goals",
       "link": "https://www.autodidacts.io/sneaking-up-on-your-goals/",
       "published": "Tue, 17 Mar 2026 20:58:55 GMT"
@@ -119,11 +124,6 @@
       "title": "Військова звітність",
       "link": "https://www.rozhkov.me/military-reporting/",
       "published": "Wed, 18 Feb 2026 07:25:14 GMT"
-    },
-    {
-      "title": "Users buy your service, not your code",
-      "link": "https://swizec.com/blog/users-buy-your-service-not-your-code/",
-      "published": "Wed, 18 Feb 2026 00:00:00 GMT"
     },
     {
       "title": "A new interview",
