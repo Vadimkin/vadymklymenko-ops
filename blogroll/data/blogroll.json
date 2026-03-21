@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The bespoke software revolution? I'm not buying it.",
+      "link": "https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec",
+      "published": "2026-03-20T19:23:25Z"
+    },
+    {
       "title": "The best engineers just get shit done, sometimes with AI",
       "link": "https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/",
       "published": "Thu, 19 Mar 2026 00:00:00 GMT"
@@ -121,11 +126,6 @@
       "published": "Sat, 21 Feb 2026 17:50:23 +0000"
     },
     {
-      "title": "A new interview",
-      "link": "https://world.hey.com/jason/a-new-interview-0aced606",
-      "published": "2026-02-16T22:02:24Z"
-    },
-    {
       "title": "Practicing design and website rehaul",
       "link": "https://sinja.io/blog/website-redesign-february-2026",
       "published": "Sun, 15 Feb 2026 00:00:00 GMT"
@@ -146,19 +146,9 @@
       "published": "Sun, 18 Jan 2026 00:00:00 +0000"
     },
     {
-      "title": "Great design was a Cuisinart",
-      "link": "https://world.hey.com/jason/great-design-was-a-cuisinart-86a83d1f",
-      "published": "2026-01-14T18:51:18Z"
-    },
-    {
       "title": "2025",
       "link": "https://paulstamatiou.com/2025-year-in-review",
       "published": "Mon, 12 Jan 2026 16:00:00 GMT"
-    },
-    {
-      "title": "The joy of delegating to competence",
-      "link": "https://world.hey.com/jason/the-joy-of-delegating-to-competence-55f50d4d",
-      "published": "2026-01-06T20:57:11Z"
     },
     {
       "title": "Мій 2025",
