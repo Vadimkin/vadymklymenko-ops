@@ -1,10 +1,43 @@
 {
   "books": [
     {
-      "title": "Як придумати ідею, якщо ви не Оґілві",
-      "author": "Alexey Ivanov",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577109733l/49770554.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252454033",
+      "title": "Криза урбанізму. Чому міста роблять нас нещасними",
+      "author": "Richard Florida",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556124196l/45289509.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940643297",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Турист мимоволі",
+      "author": "Anne Tyler",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589844813l/53441065.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940647268",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Шалено багаті азійці",
+      "author": "Kevin Kwan",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656588720l/54920327.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940632818",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
+      "title": "Ковток повітря",
+      "author": "George Orwell",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632048936l/51915042.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940633463",
       "rating": null,
       "date_started": null,
       "date_read": null,
@@ -34,26 +67,15 @@
       "own": false
     },
     {
-      "title": "Криза урбанізму. Чому міста роблять нас нещасними",
-      "author": "Richard Florida",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556124196l/45289509.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940643297",
+      "title": "Шістдесят оповідань",
+      "author": "Donald Barthelme",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663193614l/62593224.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5363654594",
       "rating": null,
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "Турист мимоволі",
-      "author": "Anne Tyler",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589844813l/53441065.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940647268",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Основи. 10 ключів до реальності",
@@ -67,37 +89,26 @@
       "own": false
     },
     {
-      "title": "Шалено багаті азійці",
-      "author": "Kevin Kwan",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656588720l/54920327.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940632818",
-      "rating": null,
+      "title": "Моссад. Найвидатніші операції ізраїльської розвідки",
+      "author": "Michael Bar-Zohar",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642534773l/60155184.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5021490416",
+      "rating": 3,
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
-      "title": "Ковток повітря",
-      "author": "George Orwell",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632048936l/51915042.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5940633463",
+      "title": "Чути українською",
+      "author": "Ольга Дубчак",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608687817l/55853863.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3848142537",
       "rating": null,
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": false
-    },
-    {
-      "title": "Шістдесят оповідань",
-      "author": "Donald Barthelme",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663193614l/62593224.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5363654594",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": false
+      "own": true
     },
     {
       "title": "Spotify навиворіт. Як шведський стартап здійснив музичну революцію",
@@ -111,11 +122,11 @@
       "own": true
     },
     {
-      "title": "Моссад. Найвидатніші операції ізраїльської розвідки",
-      "author": "Michael Bar-Zohar",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642534773l/60155184.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5021490416",
-      "rating": 3,
+      "title": "Нам усім пощастило",
+      "author": "Yuri Andrukhovych",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506288920l/36298009.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252458401",
+      "rating": null,
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
@@ -144,15 +155,15 @@
       "own": false
     },
     {
-      "title": "Чути українською",
-      "author": "Ольга Дубчак",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608687817l/55853863.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3848142537",
+      "title": "21 Lessons for the 21st Century",
+      "author": "Yuval Noah Harari",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252438824",
       "rating": null,
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Страх і відраза в Лас-Вегасі",
@@ -177,21 +188,10 @@
       "own": true
     },
     {
-      "title": "Нам усім пощастило",
-      "author": "Yuri Andrukhovych",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506288920l/36298009.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252458401",
-      "rating": null,
-      "date_started": null,
-      "date_read": null,
-      "is_reading_now": false,
-      "own": true
-    },
-    {
-      "title": "21 Lessons for the 21st Century",
-      "author": "Yuval Noah Harari",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046.jpg",
-      "review_url": "https://www.goodreads.com/review/show/3252438824",
+      "title": "Як придумати ідею, якщо ви не Оґілві",
+      "author": "Alexey Ivanov",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577109733l/49770554.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252454033",
       "rating": null,
       "date_started": null,
       "date_read": null,
@@ -651,7 +651,7 @@
     },
     {
       "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
-      "author": "Фредерік Бастіа, Frederic Bastiat",
+      "author": "Frédéric Bastiat",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643293246l/60224345.jpg",
       "review_url": "https://www.goodreads.com/review/show/5884780066",
       "rating": 4,

@@ -1,15 +1,3 @@
 {
-  "books": [
-    {
-      "title": "Відкритий. Автобіографія",
-      "author": "Andre Agassi",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553291811l/44571543.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6625811893",
-      "rating": null,
-      "date_started": "2026-02-21",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    }
-  ]
+  "books": []
 }

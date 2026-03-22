@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Відкритий. Автобіографія",
+      "author": "Andre Agassi",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553291811l/44571543.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6625811893",
+      "rating": 4,
+      "date_started": "2026-03-22",
+      "date_read": "2026-03-22",
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Кінотеатр «Космос»",
       "author": "Влад Нед",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759830359l/242486946.jpg",
@@ -189,7 +200,7 @@
     },
     {
       "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
-      "author": "Фредерік Бастіа, Frederic Bastiat",
+      "author": "Frédéric Bastiat",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643293246l/60224345.jpg",
       "review_url": "https://www.goodreads.com/review/show/5884780066",
       "rating": 4,
