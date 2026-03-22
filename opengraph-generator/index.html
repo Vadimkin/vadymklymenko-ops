@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Social Card Editor</title>
+
+    <link rel="stylesheet" href="./css/fonts.css" />
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        clifford: "#da373d",
+                    },
+                },
+                fontFamily: {
+                    heading: ["e-Ukraine Head"],
+                    sans: ["e-Ukraine"],
+                    body: ["e-Ukraine"],
+                },
+            },
+        };
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js"></script>
+
+    <style>
+        /* Verbatim from index.html */
+        .gradient-text {
+            background-color: #dde7dc;
+            background-image: linear-gradient(45deg, #dde7dc, #a1dffb, #f98365);
+            background-size: 100%;
+            -webkit-background-clip: text;
+            -moz-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -moz-text-fill-color: transparent;
+        }
+
+        /* Editor shell */
+        * { box-sizing: border-box; }
+        body { margin: 0; overflow: hidden; background: #0f172a; }
+
+        .editor-shell {
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .sidebar {
+            width: 320px;
+            flex-shrink: 0;
+            overflow-y: auto;
+            background: #0f172a;
+            border-right: 1px solid #1e293b;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .preview-area {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            padding: 2rem;
+            background: #1e293b;
+        }
+
+        .preview-scaler {
+            transform-origin: top left;
+            overflow: hidden;
+            flex-shrink: 0;
+        }
+
+        .preview-image-draggable {
+            cursor: grab;
+            user-select: none;
+            -webkit-user-drag: none;
+        }
+
+        .preview-image-draggable.dragging {
+            cursor: grabbing;
+        }
+
+        /* Sidebar form controls */
+        .sidebar-label {
+            display: block;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #64748b;
+            margin-bottom: 6px;
+        }
+
+        .sidebar-input {
+            width: 100%;
+            background: #1e293b;
+            color: #e2e8f0;
+            border: 1px solid #334155;
+            border-radius: 6px;
+            padding: 8px 10px;
+            font-size: 13px;
+            outline: none;
+            resize: none;
+            font-family: inherit;
+            transition: border-color 0.15s;
+        }
+
+        .sidebar-input:focus {
+            border-color: #22d3ee;
+        }
+
+        .sidebar-input[type="number"] {
+            width: 100%;
+        }
+
+        .sidebar-section {
+            padding: 16px;
+            border-bottom: 1px solid #1e293b;
+        }
+
+        .sidebar-btn {
+            width: 100%;
+            padding: 9px 16px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            border: none;
+            transition: background 0.15s, opacity 0.15s;
+        }
+
+        .sidebar-btn-primary {
+            background: #0891b2;
+            color: white;
+        }
+
+        .sidebar-btn-primary:hover:not(:disabled) {
+            background: #0e7490;
+        }
+
+        .sidebar-btn-primary:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .sidebar-btn-ghost {
+            background: #1e293b;
+            color: #94a3b8;
+            border: 1px solid #334155;
+        }
+
+        .sidebar-btn-ghost:hover {
+            background: #334155;
+            color: #e2e8f0;
+        }
+
+        .dropzone {
+            border: 2px dashed #334155;
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: border-color 0.15s, background 0.15s;
+        }
+
+        .dropzone:hover, .dropzone.drag-over {
+            border-color: #22d3ee;
+            background: rgba(34, 211, 238, 0.05);
+        }
+
+        .preset-radio {
+            display: flex;
+            gap: 6px;
+        }
+
+        .preset-radio label {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            padding: 7px 10px;
+            border-radius: 6px;
+            border: 1px solid #334155;
+            font-size: 12px;
+            color: #94a3b8;
+            cursor: pointer;
+            transition: border-color 0.15s, color 0.15s, background 0.15s;
+        }
+
+        .preset-radio label:has(input:checked) {
+            border-color: #22d3ee;
+            color: #22d3ee;
+            background: rgba(34, 211, 238, 0.08);
+        }
+
+        .preset-radio input[type="radio"] {
+            display: none;
+        }
+
+        .thumb-preview {
+            position: relative;
+            margin-top: 10px;
+            border-radius: 6px;
+            overflow: hidden;
+            background: #1e293b;
+        }
+
+        .thumb-preview img {
+            width: 100%;
+            height: 80px;
+            object-fit: cover;
+            display: block;
+        }
+
+        .thumb-clear {
+            position: absolute;
+            top: 4px;
+            right: 4px;
+            background: rgba(0,0,0,0.6);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            width: 22px;
+            height: 22px;
+            font-size: 13px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            line-height: 1;
+        }
+
+        .thumb-clear:hover {
+            background: rgba(200,50,50,0.8);
+        }
+    </style>
+</head>
+<body>
+
+<div id="app">
+    <div class="editor-shell">
+
+        <!-- LEFT SIDEBAR -->
+        <aside class="sidebar">
+
+            <!-- Header -->
+            <div style="padding: 16px 16px 12px; border-bottom: 1px solid #1e293b;">
+                <div style="font-size: 13px; font-weight: 700; color: #e2e8f0; letter-spacing: -0.01em;">Social Card Editor</div>
+                <div style="font-size: 11px; color: #475569; margin-top: 2px;">Live preview · Export to PNG</div>
+            </div>
+
+            <!-- Title Section -->
+            <div class="sidebar-section">
+                <label class="sidebar-label">Post Title</label>
+                <textarea
+                    v-model="title"
+                    class="sidebar-input"
+                    rows="5"
+                    placeholder="Enter post title…"
+                ></textarea>
+            </div>
+
+            <!-- Image Section -->
+            <div class="sidebar-section">
+                <label class="sidebar-label">Preview Image</label>
+                <div
+                    class="dropzone"
+                    :class="{ 'drag-over': isDragOver }"
+                    @dragover.prevent="isDragOver = true"
+                    @dragleave="isDragOver = false"
+                    @drop.prevent="onDrop"
+                    @click="$refs.fileInput.click()"
+                >
+                    <input
+                        type="file"
+                        ref="fileInput"
+                        accept="image/*"
+                        style="display:none"
+                        @change="onFileInputChange"
+                    />
+                    <div style="font-size: 22px; margin-bottom: 6px;">🖼️</div>
+                    <div style="font-size: 12px; color: #94a3b8;">Click to upload or drag & drop</div>
+                    <div style="font-size: 11px; color: #475569; margin-top: 3px;">PNG, JPG, WEBP</div>
+                </div>
+                <div v-if="previewImageSrc" class="thumb-preview">
+                    <img :src="previewImageSrc" alt="" />
+                    <button class="thumb-clear" @click.stop="clearImage" title="Remove image">×</button>
+                </div>
+                <div v-if="previewImageSrc" style="font-size: 11px; color: #475569; margin-top: 8px;">
+                    Drag the image in the preview to reposition it
+                </div>
+            </div>
+
+            <!-- Size Section -->
+            <div class="sidebar-section">
+                <label class="sidebar-label">Export Size</label>
+                <div class="preset-radio" style="margin-bottom: 10px;">
+                    <label>
+                        <input type="radio" value="twitter" v-model="sizePreset" @change="onPresetChange('twitter')" />
+                        Twitter 1200×675
+                    </label>
+                    <label>
+                        <input type="radio" value="custom" v-model="sizePreset" />
+                        Custom
+                    </label>
+                </div>
+                <div style="display: flex; gap: 8px;">
+                    <div style="flex: 1;">
+                        <label class="sidebar-label">Width</label>
+                        <input
+                            type="number"
+                            class="sidebar-input"
+                            v-model.number="exportWidth"
+                            :disabled="sizePreset === 'twitter'"
+                            min="100"
+                            max="4000"
+                            @change="updatePreviewScale"
+                        />
+                    </div>
+                    <div style="flex: 1;">
+                        <label class="sidebar-label">Height</label>
+                        <input
+                            type="number"
+                            class="sidebar-input"
+                            v-model.number="exportHeight"
+                            :disabled="sizePreset === 'twitter'"
+                            min="100"
+                            max="4000"
+                            @change="updatePreviewScale"
+                        />
+                    </div>
+                </div>
+            </div>
+
+            <!-- Export Section -->
+            <div class="sidebar-section">
+                <button
+                    class="sidebar-btn sidebar-btn-primary"
+                    @click="exportPng"
+                    :disabled="isExporting"
+                >
+                    {{ isExporting ? 'Generating…' : 'Download PNG' }}
+                </button>
+            </div>
+
+            <!-- Spacer -->
+            <div style="flex: 1;"></div>
+
+            <!-- Footer hint -->
+            <div style="padding: 12px 16px; font-size: 11px; color: #334155; line-height: 1.5;">
+                {{ exportWidth }}×{{ exportHeight }}px export
+            </div>
+
+        </aside>
+
+        <!-- RIGHT PREVIEW AREA -->
+        <main class="preview-area" ref="previewArea">
+            <div :style="previewContainerStyle">
+                <div class="preview-scaler" ref="scaler" :style="scalerStyle">
+
+                    <!-- Social card — pixel-accurate replica of index.html -->
+                    <div class="bg-cyan-900 overflow-hidden" :style="{ width: exportWidth + 'px', height: exportHeight + 'px' }">
+                        <div class="flex justify-between mx-8 h-full max-h-full overflow-hidden">
+
+                            <!-- Left column -->
+                            <div class="flex flex-col justify-between">
+                                <div class="flex items-center mt-8">
+                                    <img
+                                        src="./avatar.png"
+                                        class="inline-block h-14 w-14 rounded-full mr-3"
+                                        alt=""
+                                        draggable="false"
+                                    />
+                                    <div class="font-['e-Ukraine'] text-2xl text-[#dde7dc]">
+                                        Вадим Клименко
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="text-4xl leading-tight break-normal text-stone-100 mt-4 gradient-text font-['e-Ukraine_Head']">
+                                        {{ title || 'Введіть заголовок…' }}
+                                    </div>
+                                    <div class="text-lg text-stone-100 mt-4 gradient-text opacity-1">
+                                        vadymklymenko.com
+                                    </div>
+                                </div>
+                                <div>&nbsp;</div>
+                            </div>
+
+                            <!-- Right column -->
+                            <div class="ml-16">
+                                <div class="relative w-[26rem] h-full overflow-hidden">
+                                    <div class="h-4/5 w-full absolute bottom-0 shadow-xl rounded-t-xl overflow-hidden">
+                                        <div
+                                            class="bg-gradient-to-b from-transparent from-80% to-cyan-900 absolute w-full h-full pointer-events-none"
+                                            style="z-index: 1;"
+                                        ></div>
+                                        <img
+                                            v-if="previewImageSrc"
+                                            :src="previewImageSrc"
+                                            :class="['preview-image-draggable', { dragging: isDragging }]"
+                                            :style="imageStyle"
+                                            @mousedown="onImageMouseDown"
+                                            alt=""
+                                            draggable="false"
+                                        />
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- END social card -->
+
+                </div>
+            </div>
+        </main>
+
+    </div>
+</div>
+
+<script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+<script>
+    const { createApp } = Vue;
+
+    createApp({
+        data() {
+            return {
+                title: 'Донатний принтер, підключений до інтернету',
+                previewImageSrc: null,
+                isDragOver: false,
+                isDragging: false,
+                dragStartX: 0,
+                dragStartY: 0,
+                imageOffsetX: 0,
+                imageOffsetY: 0,
+                dragOriginOffsetX: 0,
+                dragOriginOffsetY: 0,
+                previewScale: 1,
+                sizePreset: 'twitter',
+                exportWidth: 1200,
+                exportHeight: 675,
+                isExporting: false,
+            };
+        },
+
+        computed: {
+            previewContainerStyle() {
+                return {
+                    position: 'relative',
+                    width: (this.exportWidth * this.previewScale) + 'px',
+                    height: (this.exportHeight * this.previewScale) + 'px',
+                };
+            },
+            scalerStyle() {
+                return {
+                    transform: `scale(${this.previewScale})`,
+                    transformOrigin: 'top left',
+                    width: this.exportWidth + 'px',
+                    height: this.exportHeight + 'px',
+                };
+            },
+            imageStyle() {
+                return {
+                    position: 'relative',
+                    zIndex: 0,
+                    width: '100%',
+                    height: '100%',
+                    objectFit: 'cover',
+                    transformOrigin: 'top left',
+                    transform: `translate(${this.imageOffsetX}px, ${this.imageOffsetY}px)`,
+                };
+            },
+        },
+
+        methods: {
+            updatePreviewScale() {
+                const area = this.$refs.previewArea;
+                if (!area) return;
+                const availW = area.clientWidth - 64;
+                const availH = area.clientHeight - 64;
+                const scaleX = availW / this.exportWidth;
+                const scaleY = availH / this.exportHeight;
+                this.previewScale = Math.min(scaleX, scaleY, 1);
+            },
+
+            onPresetChange(preset) {
+                if (preset === 'twitter') {
+                    this.exportWidth = 1200;
+                    this.exportHeight = 675;
+                    this.$nextTick(this.updatePreviewScale);
+                }
+            },
+
+            onFileInputChange(event) {
+                const file = event.target.files[0];
+                if (file) this.loadImageFile(file);
+                event.target.value = '';
+            },
+
+            onDrop(event) {
+                this.isDragOver = false;
+                const file = event.dataTransfer.files[0];
+                if (file && file.type.startsWith('image/')) this.loadImageFile(file);
+            },
+
+            loadImageFile(file) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    this.previewImageSrc = e.target.result;
+                    this.imageOffsetX = 0;
+                    this.imageOffsetY = 0;
+                };
+                reader.readAsDataURL(file);
+            },
+
+            clearImage() {
+                this.previewImageSrc = null;
+                this.imageOffsetX = 0;
+                this.imageOffsetY = 0;
+            },
+
+            onImageMouseDown(event) {
+                event.preventDefault();
+                this.isDragging = true;
+                this.dragStartX = event.clientX;
+                this.dragStartY = event.clientY;
+                this.dragOriginOffsetX = this.imageOffsetX;
+                this.dragOriginOffsetY = this.imageOffsetY;
+            },
+
+            onMouseMove(event) {
+                if (!this.isDragging) return;
+                const dx = (event.clientX - this.dragStartX) / this.previewScale;
+                const dy = (event.clientY - this.dragStartY) / this.previewScale;
+                this.imageOffsetX = this.dragOriginOffsetX + dx;
+                this.imageOffsetY = this.dragOriginOffsetY + dy;
+            },
+
+            onMouseUp() {
+                this.isDragging = false;
+            },
+
+            async exportPng() {
+                if (this.isExporting) return;
+                this.isExporting = true;
+
+                const scaler = this.$refs.scaler;
+                const originalTransform = scaler.style.transform;
+
+                try {
+                    // Temporarily remove scale so dom-to-image captures at native resolution
+                    scaler.style.transform = 'scale(1)';
+                    scaler.style.transformOrigin = 'top left';
+
+                    await this.$nextTick();
+
+                    const dataUrl = await domtoimage.toPng(scaler, {
+                        width: this.exportWidth,
+                        height: this.exportHeight,
+                        style: { transform: 'scale(1)', transformOrigin: 'top left' },
+                    });
+
+                    const link = document.createElement('a');
+                    link.download = 'social-card.png';
+                    link.href = dataUrl;
+                    link.click();
+                } catch (err) {
+                    console.error('Export failed:', err);
+                    alert('Export failed. See console for details.');
+                } finally {
+                    scaler.style.transform = originalTransform;
+                    this.isExporting = false;
+                }
+            },
+        },
+
+        watch: {
+            exportWidth() {
+                if (this.sizePreset === 'custom') {
+                    this.$nextTick(this.updatePreviewScale);
+                }
+            },
+            exportHeight() {
+                if (this.sizePreset === 'custom') {
+                    this.$nextTick(this.updatePreviewScale);
+                }
+            },
+        },
+
+        mounted() {
+            this.updatePreviewScale();
+
+            this._resizeObserver = new ResizeObserver(this.updatePreviewScale);
+            this._resizeObserver.observe(this.$refs.previewArea);
+
+            window.addEventListener('mousemove', this.onMouseMove);
+            window.addEventListener('mouseup', this.onMouseUp);
+        },
+
+        beforeUnmount() {
+            this._resizeObserver.disconnect();
+            window.removeEventListener('mousemove', this.onMouseMove);
+            window.removeEventListener('mouseup', this.onMouseUp);
+        },
+    }).mount('#app');
+</script>
+</body>
+</html>
