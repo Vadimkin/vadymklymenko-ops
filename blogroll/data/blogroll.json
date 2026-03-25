@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Sigma BF",
+      "link": "https://kos.fm/sidenotes/sigma-bf/",
+      "published": "Tue, 24 Mar 2026 23:15:00 +0200"
+    },
+    {
       "title": "35 фотокарток, які змусять вас переосмислити де ви є і що справді важливо (або ні)",
       "link": "https://gallery21.blog/2026/03/22/35-%d1%84%d0%be%d1%82%d0%be%d0%ba%d0%b0%d1%80%d1%82%d0%be%d0%ba-%d1%8f%d0%ba%d1%96-%d0%b7%d0%bc%d1%83%d1%81%d1%8f%d1%82%d1%8c-%d0%b2%d0%b0%d1%81-%d0%bf%d0%b5%d1%80%d0%b5%d0%be%d1%81%d0%bc%d0%b8%d1%81/",
       "published": "Sun, 22 Mar 2026 19:56:21 +0000"
@@ -131,16 +136,6 @@
       "published": "Sun, 15 Feb 2026 00:00:00 GMT"
     },
     {
-      "title": "Зеніт-Е",
-      "link": "https://kos.fm/zenit-e/",
-      "published": "Thu, 12 Feb 2026 10:00:00 +0200"
-    },
-    {
-      "title": "2025",
-      "link": "https://kos.fm/2025/",
-      "published": "Wed, 21 Jan 2026 10:00:00 +0200"
-    },
-    {
       "title": "It is 2026; where were we?",
       "link": "https://zverok.space/blog/2026-01-18-upd.html",
       "published": "Sun, 18 Jan 2026 00:00:00 +0000"
@@ -154,11 +149,6 @@
       "title": "Мій 2025",
       "link": "https://zaytsev.io/blog/2025-summary/",
       "published": "Tue, 06 Jan 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Київ-2",
-      "link": "https://kos.fm/kyiv-2/",
-      "published": "Wed, 31 Dec 2025 10:00:00 +0200"
     },
     {
       "title": "Intuition and the Inner Compass",
