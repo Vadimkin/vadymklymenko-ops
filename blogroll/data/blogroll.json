@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Software engineer interviews for the age of AI",
+      "link": "https://swizec.com/blog/software-engineer-interviews-for-the-age-of-ai/",
+      "published": "Wed, 25 Mar 2026 00:00:00 GMT"
+    },
+    {
       "title": "Sigma BF",
       "link": "https://kos.fm/sidenotes/sigma-bf/",
       "published": "Tue, 24 Mar 2026 23:15:00 +0200"
