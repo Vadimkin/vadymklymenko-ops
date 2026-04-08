@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "The Inner Compass: Cultivating the Courage to Trust Yourself",
+      "author": "Lawrence Yeo",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1750288901l/236844874.jpg",
+      "review_url": "https://www.goodreads.com/review/show/8137678006",
+      "rating": 4,
+      "date_started": "2026-04-05",
+      "date_read": "2026-04-05",
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Відкритий. Автобіографія",
       "author": "Andre Agassi",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553291811l/44571543.jpg",
