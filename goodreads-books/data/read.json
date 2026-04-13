@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Закони дурості людської",
+      "author": "Carlo M. Cipolla",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721732932l/216764141.jpg",
+      "review_url": "https://www.goodreads.com/review/show/8517071479",
+      "rating": 3,
+      "date_started": "2026-04-12",
+      "date_read": "2026-04-12",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "Milk and honey",
       "author": "Rupi Kaur",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491595510l/23513349.jpg",
