@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Watch people work",
+      "link": "https://swizec.com/blog/watch-people-work/",
+      "published": "Tue, 14 Apr 2026 00:00:00 GMT"
+    },
+    {
       "title": "Shrinking S03",
       "link": "https://kos.fm/sidenotes/shrinking-s03/",
       "published": "Sun, 12 Apr 2026 23:30:30 +0300"
@@ -84,6 +89,16 @@
       "title": "Kruder & Dorfmeister наживо",
       "link": "https://zametkin.me/2026/03/15/kruder-amp-dorfmeister-nazhyvo/",
       "published": "Sun, 15 Mar 2026 13:20:30 +0000"
+    },
+    {
+      "title": "Мандри для бідних і невиїздних",
+      "link": "https://zametkin.me/2026/03/12/window-swap/",
+      "published": "Thu, 12 Mar 2026 17:40:13 +0000"
+    },
+    {
+      "title": "Jasper Tygner — Blue",
+      "link": "https://zametkin.me/2026/03/11/jasper-tygner-blue/",
+      "published": "Wed, 11 Mar 2026 16:55:45 +0000"
     },
     {
       "title": "Practicing design and website rehaul",
