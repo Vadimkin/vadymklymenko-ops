@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Живі. Зрозуміти українську літературу",
+      "author": "Олександр Михед",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715157510l/213048613.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6829832183",
+      "rating": null,
+      "date_started": "2026-04-15",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Закони дурості людської",
       "author": "Carlo M. Cipolla",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721732932l/216764141.jpg",
