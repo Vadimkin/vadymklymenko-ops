@@ -76,16 +76,6 @@
       "published": "Tue, 17 Mar 2026 20:58:55 GMT"
     },
     {
-      "title": "Куда я жмав #26",
-      "link": "https://gallery21.blog/2026/03/17/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-26/",
-      "published": "Tue, 17 Mar 2026 20:18:27 +0000"
-    },
-    {
-      "title": "Гедоністична адаптація: чому менше — це більше",
-      "link": "https://gallery21.blog/2026/03/17/%d0%b3%d0%b5%d0%b4%d0%be%d0%bd%d1%96%d1%81%d1%82%d0%b8%d1%87%d0%bd%d0%b0-%d0%b0%d0%b4%d0%b0%d0%bf%d1%82%d0%b0%d1%86%d1%96%d1%8f-%d1%87%d0%be%d0%bc%d1%83-%d0%bc%d0%b5%d0%bd%d1%88%d0%b5/",
-      "published": "Tue, 17 Mar 2026 18:27:34 +0000"
-    },
-    {
       "title": "Kruder & Dorfmeister наживо",
       "link": "https://zametkin.me/2026/03/15/kruder-amp-dorfmeister-nazhyvo/",
       "published": "Sun, 15 Mar 2026 13:20:30 +0000"
@@ -211,6 +201,11 @@
       "published": "Fri, 26 Sep 2025 06:55:11 +0000"
     },
     {
+      "title": "Quality, Quantity, and Effective Iteration",
+      "link": "https://www.autodidacts.io/iteration/",
+      "published": "Sun, 21 Sep 2025 22:56:00 GMT"
+    },
+    {
       "title": "Користувацький досвід та труднощі перекладу",
       "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
       "published": "Fri, 25 Jul 2025 15:16:43 GMT"
@@ -244,6 +239,11 @@
       "title": "How to write exceptional documentation",
       "link": "https://chrisnicholas.dev/blog/how-to-write-exceptional-documentation",
       "published": "Tue, 04 Mar 2025 00:00:00 GMT"
+    },
+    {
+      "title": "Troubleshooting: a skill that never goes obsolete",
+      "link": "https://www.autodidacts.io/troubleshooting/",
+      "published": "Sat, 22 Feb 2025 03:22:00 GMT"
     },
     {
       "title": "Мій 2024",
