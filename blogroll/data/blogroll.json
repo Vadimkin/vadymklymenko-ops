@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Just Read the Paper",
+      "link": "https://swizec.com/blog/just-read-the-paper/",
+      "published": "Mon, 20 Apr 2026 00:00:00 GMT"
+    },
+    {
       "title": "Українські ростерії",
       "link": "https://kos.fm/sidenotes/ukrainian-coffee-roasteries/",
       "published": "Sun, 19 Apr 2026 15:00:00 +0300"
