@@ -66,16 +66,6 @@
       "published": "Fri, 27 Mar 2026 07:24:41 GMT"
     },
     {
-      "title": "Software engineer interviews for the age of AI",
-      "link": "https://swizec.com/blog/software-engineer-interviews-for-the-age-of-ai/",
-      "published": "Wed, 25 Mar 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Sigma BF",
-      "link": "https://kos.fm/sidenotes/sigma-bf/",
-      "published": "Tue, 24 Mar 2026 23:15:00 +0200"
-    },
-    {
       "title": "The bespoke software revolution? I'm not buying it.",
       "link": "https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec",
       "published": "2026-03-20T19:23:25Z"
@@ -109,6 +99,11 @@
       "title": "Practicing design and website rehaul",
       "link": "https://sinja.io/blog/website-redesign-february-2026",
       "published": "Sun, 15 Feb 2026 00:00:00 GMT"
+    },
+    {
+      "title": "It is 2026; where were we?",
+      "link": "https://zverok.space/blog/2026-01-18-upd.html",
+      "published": "Sun, 18 Jan 2026 00:00:00 +0000"
     },
     {
       "title": "Great design was a Cuisinart",
@@ -229,6 +224,16 @@
       "title": "A short history of web bots and bot detection techniques",
       "link": "https://sinja.io/blog/bot-or-not",
       "published": "Sun, 22 Jun 2025 00:00:00 GMT"
+    },
+    {
+      "title": "Notes on code, text, and war. Week 2: If code is text, then what?",
+      "link": "https://zverok.space/blog/2025-06-21-code-war-notes-week2.html",
+      "published": "Sat, 21 Jun 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Notes on code, text, and war. Week 1: Believing in text",
+      "link": "https://zverok.space/blog/2025-06-11-code-war-notes-week1.html",
+      "published": "Wed, 11 Jun 2025 00:00:00 +0000"
     },
     {
       "title": "The case against conversational interfaces",
