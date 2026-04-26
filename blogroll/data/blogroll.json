@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "AI now writes 97% of my code. Here's what I learned",
+      "link": "https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/",
+      "published": "Sat, 25 Apr 2026 00:00:00 GMT"
+    },
+    {
       "title": "Just Read the Paper",
       "link": "https://swizec.com/blog/just-read-the-paper/",
       "published": "Mon, 20 Apr 2026 00:00:00 GMT"
