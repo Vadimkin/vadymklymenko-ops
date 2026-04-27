@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Хист до війни",
+      "link": "https://www.rozhkov.me/art-of-war/",
+      "published": "Mon, 27 Apr 2026 06:24:53 GMT"
+    },
+    {
       "title": "AI now writes 97% of my code. Here's what I learned",
       "link": "https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/",
       "published": "Sat, 25 Apr 2026 00:00:00 GMT"
@@ -116,6 +121,11 @@
       "published": "Thu, 25 Dec 2025 20:02:39 +0000"
     },
     {
+      "title": "Balboa Park",
+      "link": "https://mrgall.com/gallery/2025_12_21/",
+      "published": "Sun, 21 Dec 2025 12:00:00 +0000"
+    },
+    {
       "title": "My favorite type of designers",
       "link": "https://vanschneider.com/blog/edition-272/",
       "published": "Tue, 16 Dec 2025 22:57:57 GMT"
@@ -134,11 +144,6 @@
       "title": "The Three Principles of Self-Understanding",
       "link": "https://moretothat.com/the-three-principles-of-self-understanding/",
       "published": "Thu, 11 Dec 2025 01:24:35 +0000"
-    },
-    {
-      "title": "Arizona",
-      "link": "https://mrgall.com/gallery/2025_11_29/",
-      "published": "Sat, 29 Nov 2025 12:00:00 +0000"
     },
     {
       "title": "The sights and sounds of Bhutan",
