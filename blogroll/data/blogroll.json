@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Цифри",
+      "link": "https://www.rozhkov.me/numbers/",
+      "published": "Fri, 01 May 2026 06:24:06 GMT"
+    },
+    {
       "title": "Контрнахрюк",
       "link": "https://www.rozhkov.me/counteroffensive/",
       "published": "Wed, 29 Apr 2026 06:24:05 GMT"
