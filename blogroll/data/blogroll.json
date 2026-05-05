@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "What you need to make an agent",
+      "link": "https://swizec.com/blog/what-you-need-to-make-an-agent/",
+      "published": "Tue, 05 May 2026 00:00:00 GMT"
+    },
+    {
       "title": "Цифри",
       "link": "https://www.rozhkov.me/numbers/",
       "published": "Fri, 01 May 2026 06:24:06 GMT"
