@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Шкура не в грі",
+      "link": "https://www.rozhkov.me/skin-not-in-the-game/",
+      "published": "Thu, 07 May 2026 06:24:18 GMT"
+    },
+    {
       "title": "What you need to make an agent",
       "link": "https://swizec.com/blog/what-you-need-to-make-an-agent/",
       "published": "Tue, 05 May 2026 00:00:00 GMT"
