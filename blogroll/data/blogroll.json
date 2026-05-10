@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The art of getting back on one’s horse",
+      "link": "https://www.autodidacts.io/the-art-of-getting-back-on-one-s-horse/",
+      "published": "Sun, 10 May 2026 06:07:25 GMT"
+    },
+    {
       "title": "Якшо би ви задалися ціллю зберегти щось на століття, то як би ви то могли зробити?",
       "link": "https://gallery21.blog/2026/05/07/%d1%8f%d0%ba%d1%88%d0%be-%d0%b1%d0%b8-%d0%b2%d0%b8-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bb%d0%b8%d1%81%d1%8f-%d1%86%d1%96%d0%bb%d0%bb%d1%8e-%d0%b7%d0%b1%d0%b5%d1%80%d0%b5%d0%b3%d1%82%d0%b8-%d1%89%d0%be%d1%81/",
       "published": "Thu, 07 May 2026 19:20:58 +0000"
@@ -79,11 +84,6 @@
       "title": "The bespoke software revolution? I'm not buying it.",
       "link": "https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec",
       "published": "2026-03-20T19:23:25Z"
-    },
-    {
-      "title": "Delusional Optimism & the Art of Sneaking Up on Your Goals",
-      "link": "https://www.autodidacts.io/sneaking-up-on-your-goals/",
-      "published": "Tue, 17 Mar 2026 20:58:55 GMT"
     },
     {
       "title": "Kruder & Dorfmeister наживо",
@@ -216,11 +216,6 @@
       "published": "Fri, 26 Sep 2025 06:55:11 +0000"
     },
     {
-      "title": "Quality, Quantity, and Effective Iteration",
-      "link": "https://www.autodidacts.io/iteration/",
-      "published": "Sun, 21 Sep 2025 22:56:00 GMT"
-    },
-    {
       "title": "Користувацький досвід та труднощі перекладу",
       "link": "https://www.govorukhin.com/blog/ux-term-is-mid",
       "published": "Fri, 25 Jul 2025 15:16:43 GMT"
@@ -249,11 +244,6 @@
       "title": "How to write exceptional documentation",
       "link": "https://chrisnicholas.dev/blog/how-to-write-exceptional-documentation",
       "published": "Tue, 04 Mar 2025 00:00:00 GMT"
-    },
-    {
-      "title": "Troubleshooting: a skill that never goes obsolete",
-      "link": "https://www.autodidacts.io/troubleshooting/",
-      "published": "Sat, 22 Feb 2025 03:22:00 GMT"
     },
     {
       "title": "Мій 2024",
