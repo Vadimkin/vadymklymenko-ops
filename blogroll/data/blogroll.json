@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Engineering levels aren't about skill anymore",
+      "link": "https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/",
+      "published": "Tue, 19 May 2026 00:00:00 GMT"
+    },
+    {
       "title": "All Polymarket temperature markets have disappeared",
       "link": "https://www.autodidacts.io/polymarket-temperature-markets-dissappear/",
       "published": "Mon, 18 May 2026 18:42:30 GMT"
@@ -84,6 +89,16 @@
       "title": "Українські ростерії",
       "link": "https://kos.fm/sidenotes/ukrainian-coffee-roasteries/",
       "published": "Sun, 19 Apr 2026 15:00:00 +0300"
+    },
+    {
+      "title": "12. LTM",
+      "link": "https://kos.fm/yashchique/12/",
+      "published": "Sat, 18 Apr 2026 17:30:00 +0300"
+    },
+    {
+      "title": "Shrinking S03",
+      "link": "https://kos.fm/sidenotes/shrinking-s03/",
+      "published": "Sun, 12 Apr 2026 23:30:30 +0300"
     },
     {
       "title": "The bespoke software revolution? I'm not buying it.",
