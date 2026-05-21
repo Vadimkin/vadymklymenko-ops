@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Прокрутіть цю пісню по радіо",
+      "link": "https://gallery21.blog/2026/05/20/%d0%bf%d1%80%d0%be%d0%ba%d1%80%d1%83%d1%82%d1%96%d1%82%d1%8c-%d1%86%d1%8e-%d0%bf%d1%96%d1%81%d0%bd%d1%8e-%d0%bf%d0%be-%d1%80%d0%b0%d0%b4%d1%96%d0%be/",
+      "published": "Wed, 20 May 2026 19:09:13 +0000"
+    },
+    {
       "title": "Engineering levels aren't about skill anymore",
       "link": "https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/",
       "published": "Tue, 19 May 2026 00:00:00 GMT"
@@ -11,19 +16,9 @@
       "published": "Mon, 18 May 2026 18:42:30 GMT"
     },
     {
-      "title": "Справжні ураження",
-      "link": "https://www.rozhkov.me/genuine-kills/",
-      "published": "Wed, 13 May 2026 06:24:59 GMT"
-    },
-    {
       "title": "Just fix their PR",
       "link": "https://swizec.com/blog/just-fix-their-pr/",
       "published": "Wed, 13 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Деталі",
-      "link": "https://www.rozhkov.me/details/",
-      "published": "Mon, 11 May 2026 06:24:44 GMT"
     },
     {
       "title": "The bid-ask spread on used physical goods",
@@ -46,34 +41,14 @@
       "published": "Thu, 07 May 2026 19:20:58 +0000"
     },
     {
-      "title": "Шкура не в грі",
-      "link": "https://www.rozhkov.me/skin-not-in-the-game/",
-      "published": "Thu, 07 May 2026 06:24:18 GMT"
-    },
-    {
       "title": "What you need to make an agent",
       "link": "https://swizec.com/blog/what-you-need-to-make-an-agent/",
       "published": "Tue, 05 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Цифри",
-      "link": "https://www.rozhkov.me/numbers/",
-      "published": "Fri, 01 May 2026 06:24:06 GMT"
-    },
-    {
       "title": "Quick note on evals and putting AI in your resume",
       "link": "https://swizec.com/blog/quick-note-on-evals-and-putting-ai-in-your-resume/",
       "published": "Fri, 01 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Контрнахрюк",
-      "link": "https://www.rozhkov.me/counteroffensive/",
-      "published": "Wed, 29 Apr 2026 06:24:05 GMT"
-    },
-    {
-      "title": "Хист до війни",
-      "link": "https://www.rozhkov.me/art-of-war/",
-      "published": "Mon, 27 Apr 2026 06:24:53 GMT"
     },
     {
       "title": "AI now writes 97% of my code. Here's what I learned",
@@ -136,6 +111,11 @@
       "published": "2026-01-14T18:51:18Z"
     },
     {
+      "title": "Phoenix",
+      "link": "https://mrgall.com/gallery/2026_01_10/",
+      "published": "Sat, 10 Jan 2026 12:00:00 +0000"
+    },
+    {
       "title": "Мій 2025",
       "link": "https://zaytsev.io/blog/2025-summary/",
       "published": "Tue, 06 Jan 2026 00:00:00 +0000"
@@ -154,11 +134,6 @@
       "title": "Santa Ana",
       "link": "https://mrgall.com/gallery/2025_12_25/",
       "published": "Thu, 25 Dec 2025 12:00:00 +0000"
-    },
-    {
-      "title": "Balboa Park",
-      "link": "https://mrgall.com/gallery/2025_12_21/",
-      "published": "Sun, 21 Dec 2025 12:00:00 +0000"
     },
     {
       "title": "My favorite type of designers",
