@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Київ. Квітень 2026",
+      "link": "https://kos.fm/kyiv-april-2026/",
+      "published": "Wed, 03 Jun 2026 10:00:00 +0300"
+    },
+    {
       "title": "Bookmarklet: Copy Ghost Post ID to Clipboard",
       "link": "https://www.autodidacts.io/copy-ghost-post-id-to-clipboard-bookmarklet/",
       "published": "Mon, 01 Jun 2026 23:32:26 GMT"
@@ -101,24 +106,9 @@
       "published": "Tue, 05 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Українські ростерії",
-      "link": "https://kos.fm/sidenotes/ukrainian-coffee-roasteries/",
-      "published": "Sun, 19 Apr 2026 15:00:00 +0300"
-    },
-    {
-      "title": "12. LTM",
-      "link": "https://kos.fm/yashchique/12/",
-      "published": "Sat, 18 Apr 2026 17:30:00 +0300"
-    },
-    {
       "title": "Listening Is the Silencing of the Mind",
       "link": "https://moretothat.com/listening-is-the-silencing-of-the-mind/",
       "published": "Thu, 16 Apr 2026 15:00:48 +0000"
-    },
-    {
-      "title": "Shrinking S03",
-      "link": "https://kos.fm/sidenotes/shrinking-s03/",
-      "published": "Sun, 12 Apr 2026 23:30:30 +0300"
     },
     {
       "title": "The bespoke software revolution? I'm not buying it.",
