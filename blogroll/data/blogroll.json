@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to fit Qwen 3.6 35B A3B into 16GB of VRAM, & run it  with Llama.cpp on an RTX 3080",
+      "link": "https://www.autodidacts.io/how-to-fit-qwen3-6-35b-a3b-into-16gb-vram-run-with-llama-cpp-rtx-3080/",
+      "published": "Sat, 13 Jun 2026 21:49:20 GMT"
+    },
+    {
       "title": "Let’s call ‘em “aigents”",
       "link": "https://www.autodidacts.io/aigents/",
       "published": "Sat, 13 Jun 2026 02:54:09 GMT"
