@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Замах на гривню, удар на копійку",
+      "link": "https://www.rozhkov.me/all-bark-and-no-bite/",
+      "published": "Mon, 22 Jun 2026 06:24:58 GMT"
+    },
+    {
       "title": "Я не піду",
       "link": "https://www.rozhkov.me/i-wont-go/",
       "published": "Fri, 19 Jun 2026 06:24:49 GMT"
@@ -119,11 +124,6 @@
       "title": "Relentlessly focus on the outcomes",
       "link": "https://swizec.com/blog/relentlessly-focus-on-the-outcomes/",
       "published": "Tue, 26 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "20 years of Linux and I finally started using job control",
-      "link": "https://www.autodidacts.io/20-years-of-linux-and-i-finally-started-using-job-control/",
-      "published": "Sat, 23 May 2026 06:14:56 GMT"
     },
     {
       "title": "Listening Is the Silencing of the Mind",
