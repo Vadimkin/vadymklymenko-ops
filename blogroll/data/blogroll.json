@@ -1,6 +1,21 @@
 {
   "feed": [
     {
+      "title": "Autodidacts Newsletter #26",
+      "link": "https://www.autodidacts.io/autodidacts-newsletter-26/",
+      "published": "Mon, 29 Jun 2026 06:28:19 GMT"
+    },
+    {
+      "title": "Медалі відрами давали, я не брав",
+      "link": "https://www.rozhkov.me/medal-of-honor/",
+      "published": "Mon, 29 Jun 2026 06:24:14 GMT"
+    },
+    {
+      "title": "What Should We Optimize Away?",
+      "link": "https://www.autodidacts.io/holistic-optimization/",
+      "published": "Mon, 29 Jun 2026 03:18:07 GMT"
+    },
+    {
       "title": "Using vibes to rewrite my blog",
       "link": "https://swizec.com/blog/using-vibes-to-rewrite-my-blog/",
       "published": "Sat, 27 Jun 2026 00:00:00 GMT"
@@ -156,9 +171,24 @@
       "published": "Sun, 15 Feb 2026 00:00:00 GMT"
     },
     {
+      "title": "San Juan Capistrano & San Clemente",
+      "link": "https://mrgall.com/gallery/2026_01_19/",
+      "published": "Mon, 19 Jan 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Libby Lake",
+      "link": "https://mrgall.com/gallery/2026_01_18/",
+      "published": "Sun, 18 Jan 2026 12:00:00 +0000"
+    },
+    {
       "title": "It is 2026; where were we?",
       "link": "https://zverok.space/blog/2026-01-18-upd.html",
       "published": "Sun, 18 Jan 2026 00:00:00 +0000"
+    },
+    {
+      "title": "San Diego",
+      "link": "https://mrgall.com/gallery/2026_01_17/",
+      "published": "Sat, 17 Jan 2026 12:00:00 +0000"
     },
     {
       "title": "Great design was a Cuisinart",
