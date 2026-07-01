@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Піраміда музичного смаку",
+      "link": "https://zametkin.me/2026/07/01/music-taste/",
+      "published": "Wed, 01 Jul 2026 15:04:14 +0000"
+    },
+    {
+      "title": "Повівся на акційну пропозицію і нічого не виграв",
+      "link": "https://zametkin.me/2026/07/01/read-terms-and-conditions-and-dont-be-foolished/",
+      "published": "Wed, 01 Jul 2026 11:03:48 +0000"
+    },
+    {
       "title": "Поплавки",
       "link": "https://www.rozhkov.me/bobbers/",
       "published": "Wed, 01 Jul 2026 06:24:08 GMT"
@@ -24,6 +34,11 @@
       "title": "What Should We Optimize Away?",
       "link": "https://www.autodidacts.io/holistic-optimization/",
       "published": "Mon, 29 Jun 2026 03:18:07 GMT"
+    },
+    {
+      "title": "Є Конституція!",
+      "link": "https://zametkin.me/2026/06/28/28-of-june/",
+      "published": "Sun, 28 Jun 2026 19:37:00 +0000"
     },
     {
       "title": "Using vibes to rewrite my blog",
