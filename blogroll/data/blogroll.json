@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Деталі імплементації",
+      "link": "https://www.rozhkov.me/implementation-details/",
+      "published": "Fri, 03 Jul 2026 06:24:49 GMT"
+    },
+    {
       "title": "Піраміда музичного смаку",
       "link": "https://zametkin.me/2026/07/01/music-taste/",
       "published": "Wed, 01 Jul 2026 15:04:14 +0000"
@@ -149,11 +154,6 @@
       "title": "Underworld — Beaucoup Fish",
       "link": "https://zametkin.me/2026/06/03/underworld-beaucoup-fish/",
       "published": "Wed, 03 Jun 2026 15:20:26 +0000"
-    },
-    {
-      "title": "Київ. Квітень 2026",
-      "link": "https://kos.fm/kyiv-april-2026/",
-      "published": "Wed, 03 Jun 2026 10:00:00 +0300"
     },
     {
       "title": "Listening Is the Silencing of the Mind",
