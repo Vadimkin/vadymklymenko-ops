@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Шлях Карліто (Carlito’s Way): кіно про людину, яка вже майже втекла",
+      "link": "https://gallery21.blog/2026/07/04/%d1%88%d0%bb%d1%8f%d1%85-%d0%ba%d0%b0%d1%80%d0%bb%d1%96%d1%82%d0%be-carlitos-way-%d0%ba%d1%96%d0%bd%d0%be-%d0%bf%d1%80%d0%be-%d0%bb%d1%8e%d0%b4%d0%b8%d0%bd%d1%83-%d1%8f%d0%ba%d0%b0-%d0%b2/",
+      "published": "Sat, 04 Jul 2026 14:39:46 +0000"
+    },
+    {
       "title": "Деталі імплементації",
       "link": "https://www.rozhkov.me/implementation-details/",
       "published": "Fri, 03 Jul 2026 06:24:49 GMT"
@@ -301,24 +306,9 @@
       "published": "Wed, 13 Nov 2024 00:00:00 +0000"
     },
     {
-      "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
-      "link": "https://reporters.media/zhurnalistyka-velykogo-formatu/",
-      "published": "Thu, 08 Aug 2024 13:12:09 +0000"
-    },
-    {
-      "title": "Більше, ніж яблук, хат і людей",
-      "link": "https://reporters.media/bilshe-nizh-yabluk-hat-i-lyudej/",
-      "published": "Tue, 06 Aug 2024 07:51:00 +0000"
-    },
-    {
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Дивись, як я можу",
-      "link": "https://reporters.media/dyvys-yak-ya-mozhu/",
-      "published": "Wed, 03 Jul 2024 13:15:30 +0000"
     },
     {
       "title": "Airfoil",
