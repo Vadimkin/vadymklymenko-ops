@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Весна 2026",
+      "link": "https://kos.fm/spring-2026/",
+      "published": "Tue, 07 Jul 2026 10:00:00 +0300"
+    },
+    {
       "title": "Недооцінені способи зробити цей світ хоч трішечки кращим",
       "link": "https://gallery21.blog/2026/07/06/%d0%bd%d0%b5%d0%b4%d0%be%d0%be%d1%86%d1%96%d0%bd%d0%b5%d0%bd%d1%96-%d1%81%d0%bf%d0%be%d1%81%d0%be%d0%b1%d0%b8-%d0%b7%d1%80%d0%be%d0%b1%d0%b8%d1%82%d0%b8-%d1%86%d0%b5%d0%b9-%d1%81%d0%b2%d1%96%d1%82/",
       "published": "Mon, 06 Jul 2026 17:48:18 +0000"
@@ -159,11 +164,6 @@
       "title": "Нам тільки послухатись!",
       "link": "https://kos.fm/sidenotes/nam-tilky-poslukhatys/",
       "published": "Sun, 07 Jun 2026 15:35:00 +0300"
-    },
-    {
-      "title": "Ідеальний нотатник",
-      "link": "https://zametkin.me/2026/06/07/strflow-app/",
-      "published": "Sun, 07 Jun 2026 11:00:00 +0000"
     },
     {
       "title": "Listening Is the Silencing of the Mind",
