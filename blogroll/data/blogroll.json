@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The one thing every experienced engineer gets wrong",
+      "link": "https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong/",
+      "published": "Sat, 11 Jul 2026 00:00:00 GMT"
+    },
+    {
       "title": "People and Clothes",
       "link": "https://www.autodidacts.io/people-and-clothes/",
       "published": "Fri, 10 Jul 2026 22:41:06 GMT"
@@ -114,11 +119,6 @@
       "title": "Let’s call ‘em “aigents”",
       "link": "https://www.autodidacts.io/aigents/",
       "published": "Sat, 13 Jun 2026 02:54:09 GMT"
-    },
-    {
-      "title": "Treat People as Flowers",
-      "link": "https://www.autodidacts.io/treat-people-as-flowers/",
-      "published": "Thu, 11 Jun 2026 15:31:57 GMT"
     },
     {
       "title": "Listening Is the Silencing of the Mind",
