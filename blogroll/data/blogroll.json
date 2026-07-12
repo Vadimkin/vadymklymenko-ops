@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Marconi Union — Multiforms: Ambient Transmissions, Vol.3",
+      "link": "https://zametkin.me/2026/07/12/marconi-union-multiforms-ambient-transmissions-vol-3/",
+      "published": "Sun, 12 Jul 2026 15:00:00 +0000"
+    },
+    {
       "title": "The one thing every experienced engineer gets wrong",
       "link": "https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong/",
       "published": "Sat, 11 Jul 2026 00:00:00 GMT"
@@ -46,11 +51,6 @@
       "published": "Sat, 04 Jul 2026 14:39:46 +0000"
     },
     {
-      "title": "Деталі імплементації",
-      "link": "http://localhost:2368/implementation-details/",
-      "published": "Fri, 03 Jul 2026 06:24:49 GMT"
-    },
-    {
       "title": "Піраміда музичного смаку",
       "link": "https://zametkin.me/2026/07/01/music-taste/",
       "published": "Wed, 01 Jul 2026 15:04:14 +0000"
@@ -61,11 +61,6 @@
       "published": "Wed, 01 Jul 2026 11:03:48 +0000"
     },
     {
-      "title": "Поплавки",
-      "link": "http://localhost:2368/bobbers/",
-      "published": "Wed, 01 Jul 2026 06:24:08 GMT"
-    },
-    {
       "title": "Як соціальні мережі крадуть наш час (і, власне, життя)",
       "link": "https://gallery21.blog/2026/06/30/%d1%8f%d0%ba-%d1%81%d0%be%d1%86%d1%96%d0%b0%d0%bb%d1%8c%d0%bd%d1%96-%d0%bc%d0%b5%d1%80%d0%b5%d0%b6%d1%96-%d0%ba%d1%80%d0%b0%d0%b4%d1%83%d1%82%d1%8c-%d0%bd%d0%b0%d1%88%d0%b5-%d1%87%d0%b0%d1%81-%d1%96/",
       "published": "Tue, 30 Jun 2026 18:27:08 +0000"
@@ -74,11 +69,6 @@
       "title": "Autodidacts Newsletter #26",
       "link": "https://www.autodidacts.io/autodidacts-newsletter-26/",
       "published": "Mon, 29 Jun 2026 06:28:19 GMT"
-    },
-    {
-      "title": "Медалі відрами давали, я не брав",
-      "link": "http://localhost:2368/medal-of-honor/",
-      "published": "Mon, 29 Jun 2026 06:24:14 GMT"
     },
     {
       "title": "What Should We Optimize Away?",
@@ -111,16 +101,6 @@
       "published": "Tue, 23 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Замах на гривню, удар на копійку",
-      "link": "http://localhost:2368/all-bark-and-no-bite/",
-      "published": "Mon, 22 Jun 2026 06:24:58 GMT"
-    },
-    {
-      "title": "Я не піду",
-      "link": "http://localhost:2368/i-wont-go/",
-      "published": "Fri, 19 Jun 2026 06:24:49 GMT"
-    },
-    {
       "title": "Elevate: навчайся з задоволенням",
       "link": "https://zametkin.me/2026/06/17/elevate-navchajsya-z-zadovolennyam/",
       "published": "Wed, 17 Jun 2026 09:11:36 +0000"
@@ -129,11 +109,6 @@
       "title": "Code is the easy part, or how we refactored half the business to fix a janky script",
       "link": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script/",
       "published": "Wed, 17 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "єБалістика",
-      "link": "http://localhost:2368/e-ballistics/",
-      "published": "Mon, 15 Jun 2026 06:24:56 GMT"
     },
     {
       "title": "Україна до України: як старі джерела згадували українські землі від Русі до козацької держави",
