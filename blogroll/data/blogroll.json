@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Guide to data tools landscape for developers",
+      "link": "https://sinja.io/blog/data-landscape-guide-for-developers",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+    },
+    {
       "title": "Marconi Union — Multiforms: Ambient Transmissions, Vol.3",
       "link": "https://zametkin.me/2026/07/12/marconi-union-multiforms-ambient-transmissions-vol-3/",
       "published": "Sun, 12 Jul 2026 15:00:00 +0000"
@@ -111,11 +116,6 @@
       "published": "Wed, 17 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Україна до України: як старі джерела згадували українські землі від Русі до козацької держави",
-      "link": "https://gallery21.blog/2026/06/14/%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d0%b0-%d0%b4%d0%be-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d0%b8-%d1%8f%d0%ba-%d1%81%d1%82%d0%b0%d1%80%d1%96-%d0%b4%d0%b6%d0%b5%d1%80%d0%b5%d0%bb%d0%b0-%d0%b7%d0%b3/",
-      "published": "Sun, 14 Jun 2026 18:55:06 +0000"
-    },
-    {
       "title": "Listening Is the Silencing of the Mind",
       "link": "https://moretothat.com/listening-is-the-silencing-of-the-mind/",
       "published": "Thu, 16 Apr 2026 15:00:48 +0000"
@@ -134,11 +134,6 @@
       "title": "A new interview",
       "link": "https://world.hey.com/jason/a-new-interview-0aced606",
       "published": "2026-02-16T22:02:24Z"
-    },
-    {
-      "title": "Practicing design and website rehaul",
-      "link": "https://sinja.io/blog/website-redesign-february-2026",
-      "published": "Sun, 15 Feb 2026 00:00:00 GMT"
     },
     {
       "title": "Oceanside",
@@ -196,11 +191,6 @@
       "published": "Thu, 13 Nov 2025 15:42:18 GMT"
     },
     {
-      "title": "How I built a notebook inside Obsidian",
-      "link": "https://sinja.io/blog/how-i-built-notebook-in-obisidian-emera",
-      "published": "Fri, 07 Nov 2025 00:00:00 GMT"
-    },
-    {
       "title": "Старі фото. 4-та ранку. Кейт Мосс. Та флешбеки з фотосесій.",
       "link": "https://foodiereads.org/2025/10/26/stari-foto-refleksiya/",
       "published": "Sun, 26 Oct 2025 10:57:02 +0000"
@@ -224,11 +214,6 @@
       "title": "Дискусія «Мітологія і примирення з межовими досвідами»",
       "link": "https://foodiereads.org/2025/09/26/mitologiya-i-prymyrennya-z-mezhovymy-dosvidamy/",
       "published": "Fri, 26 Sep 2025 06:55:11 +0000"
-    },
-    {
-      "title": "A short history of web bots and bot detection techniques",
-      "link": "https://sinja.io/blog/bot-or-not",
-      "published": "Sun, 22 Jun 2025 00:00:00 GMT"
     },
     {
       "title": "Notes on code, text, and war. Week 2: If code is text, then what?",
