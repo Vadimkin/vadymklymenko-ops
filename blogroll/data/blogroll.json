@@ -71,6 +71,11 @@
       "published": "Sat, 04 Jul 2026 14:39:46 +0000"
     },
     {
+      "title": "Деталі імплементації",
+      "link": "https://www.rozhkov.me/implementation-details/",
+      "published": "Fri, 03 Jul 2026 06:24:49 GMT"
+    },
+    {
       "title": "Піраміда музичного смаку",
       "link": "https://zametkin.me/2026/07/01/music-taste/",
       "published": "Wed, 01 Jul 2026 15:04:14 +0000"
@@ -81,6 +86,11 @@
       "published": "Wed, 01 Jul 2026 11:03:48 +0000"
     },
     {
+      "title": "Поплавки",
+      "link": "https://www.rozhkov.me/bobbers/",
+      "published": "Wed, 01 Jul 2026 06:24:08 GMT"
+    },
+    {
       "title": "Як соціальні мережі крадуть наш час (і, власне, життя)",
       "link": "https://gallery21.blog/2026/06/30/%d1%8f%d0%ba-%d1%81%d0%be%d1%86%d1%96%d0%b0%d0%bb%d1%8c%d0%bd%d1%96-%d0%bc%d0%b5%d1%80%d0%b5%d0%b6%d1%96-%d0%ba%d1%80%d0%b0%d0%b4%d1%83%d1%82%d1%8c-%d0%bd%d0%b0%d1%88%d0%b5-%d1%87%d0%b0%d1%81-%d1%96/",
       "published": "Tue, 30 Jun 2026 18:27:08 +0000"
@@ -89,6 +99,11 @@
       "title": "Autodidacts Newsletter #26",
       "link": "https://www.autodidacts.io/autodidacts-newsletter-26/",
       "published": "Mon, 29 Jun 2026 06:28:19 GMT"
+    },
+    {
+      "title": "Медалі відрами давали, я не брав",
+      "link": "https://www.rozhkov.me/medal-of-honor/",
+      "published": "Mon, 29 Jun 2026 06:24:14 GMT"
     },
     {
       "title": "What Should We Optimize Away?",
