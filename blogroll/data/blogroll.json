@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to be useful as a software architect",
+      "link": "https://swizec.com/blog/how-to-be-useful-as-a-software-architect",
+      "published": "Sat, 25 Jul 2026 00:00:00 GMT"
+    },
+    {
       "title": "Mistaking making for the thing you've made",
       "link": "https://world.hey.com/jason/mistaking-making-for-the-thing-you-ve-made-bd348df9",
       "published": "2026-07-24T17:12:25Z"
