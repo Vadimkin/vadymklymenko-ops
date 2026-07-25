@@ -10,6 +10,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, Page
 from enhased_json_decoder import EnhancedJSONEncoder
+from image_utils import download_cover_image, process_cover_image
 
 logging.basicConfig()
 logger = logging.getLogger(__name__)
@@ -119,6 +120,8 @@ def process_bookshelf_page(page_content: BeautifulSoup, skip_unread: bool = True
             # Replace small cover with big one
             pattern = r"\._S[YX]\d+(_S[YX]\d+)?_\."
             cover_url = re.sub(pattern, ".", cover_url)
+            download_cover_image(cover_url)
+            cover_url = process_cover_image(cover_url)
 
         rating_field = row.find('td', class_='field rating')
         rating = None

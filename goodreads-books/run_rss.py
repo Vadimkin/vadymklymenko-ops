@@ -10,6 +10,7 @@ from email.utils import parsedate_to_datetime
 from urllib.request import urlopen, Request
 
 from enhased_json_decoder import EnhancedJSONEncoder
+from image_utils import download_cover_image, process_cover_image
 
 logging.basicConfig()
 logger = logging.getLogger(__name__)
@@ -90,6 +91,8 @@ def parse_book_from_item(item: ET.Element, is_currently_reading: bool = False) -
     if cover_url:
         pattern = r"\._S[YX]\d+(_S[YX]\d+)?_\."
         cover_url = re.sub(pattern, ".", cover_url)
+        download_cover_image(cover_url)
+        cover_url = process_cover_image(cover_url)
 
     review_url = get_text("link")
     # Remove query params from review URL
