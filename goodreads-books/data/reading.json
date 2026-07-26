@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Мій Шульц",
+      "author": "Serhiy Zhadan",
+      "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/255362115.webp",
+      "review_url": "https://www.goodreads.com/review/show/8803400119",
+      "rating": null,
+      "date_started": "2026-07-26",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Шидеври вкраїнської літератури",
       "author": "Михайло Бриних",
       "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/18741503.webp",
