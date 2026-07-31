@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Папа, а шо лучче – ахвіцеp чи камандіp?",
+      "link": "https://www.rozhkov.me/useless-ranks/",
+      "published": "Fri, 31 Jul 2026 06:24:35 GMT"
+    },
+    {
       "title": "Патчворк українського війська",
       "link": "https://www.rozhkov.me/afu-patchwork/",
       "published": "Thu, 30 Jul 2026 06:24:19 GMT"
@@ -114,21 +119,6 @@
       "title": "Деталі імплементації",
       "link": "https://www.rozhkov.me/implementation-details/",
       "published": "Fri, 03 Jul 2026 06:24:49 GMT"
-    },
-    {
-      "title": "Піраміда музичного смаку",
-      "link": "https://zametkin.me/2026/07/01/music-taste/",
-      "published": "Wed, 01 Jul 2026 15:04:14 +0000"
-    },
-    {
-      "title": "Повівся на акційну пропозицію і нічого не виграв",
-      "link": "https://zametkin.me/2026/07/01/read-terms-and-conditions-and-dont-be-foolished/",
-      "published": "Wed, 01 Jul 2026 11:03:48 +0000"
-    },
-    {
-      "title": "Поплавки",
-      "link": "https://www.rozhkov.me/bobbers/",
-      "published": "Wed, 01 Jul 2026 06:24:08 GMT"
     },
     {
       "title": "Listening Is the Silencing of the Mind",
@@ -256,24 +246,9 @@
       "published": "Wed, 13 Nov 2024 00:00:00 +0000"
     },
     {
-      "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
-      "link": "https://reporters.media/zhurnalistyka-velykogo-formatu/",
-      "published": "Thu, 08 Aug 2024 13:12:09 +0000"
-    },
-    {
-      "title": "Більше, ніж яблук, хат і людей",
-      "link": "https://reporters.media/bilshe-nizh-yabluk-hat-i-lyudej/",
-      "published": "Tue, 06 Aug 2024 07:51:00 +0000"
-    },
-    {
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Дивись, як я можу",
-      "link": "https://reporters.media/dyvys-yak-ya-mozhu/",
-      "published": "Wed, 03 Jul 2024 13:15:30 +0000"
     },
     {
       "title": "Airfoil",
