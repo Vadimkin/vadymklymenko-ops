@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Реактивна війна",
+      "link": "https://www.rozhkov.me/reactive-war/",
+      "published": "Mon, 03 Aug 2026 06:24:24 GMT"
+    },
+    {
       "title": "Несподіваний hidden gem повʼязаний з піснею The Sound of Silence (Від Simon & Garfunkel до Disturbed і з несподіваним поворотом до The Bachelors)",
       "link": "https://gallery21.blog/2026/08/02/%d0%bd%d0%b5%d1%81%d0%bf%d0%be%d0%b4%d1%96%d0%b2%d0%b0%d0%bd%d0%b8%d0%b9-hidden-gem-%d0%bf%d0%be%d0%b2%ca%bc%d1%8f%d0%b7%d0%b0%d0%bd%d0%b8%d0%b9-%d0%b7-%d0%bf%d1%96%d1%81%d0%bd%d0%b5%d1%8e-the-sound-o/",
       "published": "Sun, 02 Aug 2026 14:59:42 +0000"
@@ -44,11 +49,6 @@
       "title": "How to be useful as a software architect",
       "link": "https://swizec.com/blog/how-to-be-useful-as-a-software-architect",
       "published": "Sat, 25 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Mistaking making for the thing you've made",
-      "link": "https://world.hey.com/jason/mistaking-making-for-the-thing-you-ve-made-bd348df9",
-      "published": "2026-07-24T17:12:25Z"
     },
     {
       "title": "Життя коротке — але не в тому сенсі, як ми собі думаємо",
@@ -129,6 +129,21 @@
       "title": "Listening Is the Silencing of the Mind",
       "link": "https://moretothat.com/listening-is-the-silencing-of-the-mind/",
       "published": "Thu, 16 Apr 2026 15:00:48 +0000"
+    },
+    {
+      "title": "Huntington Beach",
+      "link": "https://mrgall.com/gallery/2026_03_08/",
+      "published": "Sun, 08 Mar 2026 12:00:00 +0000"
+    },
+    {
+      "title": "ДахаБраха",
+      "link": "https://mrgall.com/gallery/2026_02_24/",
+      "published": "Tue, 24 Feb 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Balboa Park",
+      "link": "https://mrgall.com/gallery/2026_02_22/",
+      "published": "Sun, 22 Feb 2026 12:00:00 +0000"
     },
     {
       "title": "It is 2026; where were we?",
