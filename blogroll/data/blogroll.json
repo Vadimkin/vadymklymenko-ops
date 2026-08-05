@@ -126,11 +126,6 @@
       "published": "Mon, 06 Jul 2026 17:48:18 +0000"
     },
     {
-      "title": "Theory of constraints, AI, and code review",
-      "link": "https://swizec.com/blog/theory-of-constraints-ai-and-code-review",
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
-    },
-    {
       "title": "Listening Is the Silencing of the Mind",
       "link": "https://moretothat.com/listening-is-the-silencing-of-the-mind/",
       "published": "Thu, 16 Apr 2026 15:00:48 +0000"
@@ -241,9 +236,24 @@
       "published": "Sun, 08 Dec 2024 17:00:00 GMT"
     },
     {
+      "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
+      "link": "https://reporters.media/zhurnalistyka-velykogo-formatu/",
+      "published": "Thu, 08 Aug 2024 13:12:09 +0000"
+    },
+    {
+      "title": "Більше, ніж яблук, хат і людей",
+      "link": "https://reporters.media/bilshe-nizh-yabluk-hat-i-lyudej/",
+      "published": "Tue, 06 Aug 2024 07:51:00 +0000"
+    },
+    {
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Дивись, як я можу",
+      "link": "https://reporters.media/dyvys-yak-ya-mozhu/",
+      "published": "Wed, 03 Jul 2024 13:15:30 +0000"
     },
     {
       "title": "Airfoil",
