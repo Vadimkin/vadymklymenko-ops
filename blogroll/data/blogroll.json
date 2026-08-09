@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Beware the spaceships",
+      "link": "https://swizec.com/blog/beware-the-spaceships",
+      "published": "Sat, 08 Aug 2026 00:00:00 GMT"
+    },
+    {
       "title": "Беззвітний збір на операційні витрати",
       "link": "https://www.rozhkov.me/need-money-for-opex/",
       "published": "Wed, 05 Aug 2026 06:24:30 GMT"
