@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Thinking about tests: assertions and matchers",
+      "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+      "published": "Sun, 16 Aug 2026 00:00:00 +0000"
+    },
+    {
       "title": "Stop burning tokens on code review",
       "link": "https://swizec.com/blog/stop-burning-tokens-on-code-review",
       "published": "Sat, 15 Aug 2026 00:00:00 GMT"
@@ -151,11 +156,6 @@
       "published": "Sun, 15 Feb 2026 00:00:00 GMT"
     },
     {
-      "title": "It is 2026; where were we?",
-      "link": "https://zverok.space/blog/2026-01-18-upd.html",
-      "published": "Sun, 18 Jan 2026 00:00:00 +0000"
-    },
-    {
       "title": "2025",
       "link": "https://paulstamatiou.com/2025-year-in-review",
       "published": "Mon, 12 Jan 2026 16:00:00 GMT"
@@ -219,16 +219,6 @@
       "title": "Дискусія «Мітологія і примирення з межовими досвідами»",
       "link": "https://foodiereads.org/2025/09/26/mitologiya-i-prymyrennya-z-mezhovymy-dosvidamy/",
       "published": "Fri, 26 Sep 2025 06:55:11 +0000"
-    },
-    {
-      "title": "Notes on code, text, and war. Week 2: If code is text, then what?",
-      "link": "https://zverok.space/blog/2025-06-21-code-war-notes-week2.html",
-      "published": "Sat, 21 Jun 2025 00:00:00 +0000"
-    },
-    {
-      "title": "Notes on code, text, and war. Week 1: Believing in text",
-      "link": "https://zverok.space/blog/2025-06-11-code-war-notes-week1.html",
-      "published": "Wed, 11 Jun 2025 00:00:00 +0000"
     },
     {
       "title": "The case against conversational interfaces",
