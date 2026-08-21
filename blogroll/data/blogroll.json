@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Vibecoding isn't as fun as writing code by hand",
+      "link": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
+      "published": "Thu, 20 Aug 2026 22:47:34 GMT"
+    },
+    {
+      "title": "The Hopefully Eventually Ultimate Desktop Linux Troubleshooting Guide: Recovering from Crashes and Freezes",
+      "link": "https://www.autodidacts.io/troubleshooting-desktop-linux-crashes-and-freezes/",
+      "published": "Thu, 20 Aug 2026 20:54:14 GMT"
+    },
+    {
       "title": "Стефан Цвейґ – “Монотонізація світу”",
       "link": "https://gallery21.blog/2026/08/18/%d1%81%d1%82%d0%b5%d1%84%d0%b0%d0%bd-%d1%86%d0%b2%d0%b5%d0%b9%d2%91-%d0%bc%d0%be%d0%bd%d0%be%d1%82%d0%be%d0%bd%d1%96%d0%b7%d0%b0%d1%86%d1%96%d1%8f-%d1%81%d0%b2%d1%96%d1%82%d1%83/",
       "published": "Tue, 18 Aug 2026 17:41:24 +0000"
@@ -104,11 +114,6 @@
       "title": "Життя коротке — але не в тому сенсі, як ми собі думаємо",
       "link": "https://gallery21.blog/2026/07/23/%d0%b6%d0%b8%d1%82%d1%82%d1%8f-%d0%ba%d0%be%d1%80%d0%be%d1%82%d0%ba%d0%b5-%d0%b0%d0%bb%d0%b5-%d0%bd%d0%b5-%d0%b2-%d1%82%d0%be%d0%bc%d1%83-%d1%81%d0%b5%d0%bd%d1%81%d1%96-%d1%8f%d0%ba-%d0%bc/",
       "published": "Thu, 23 Jul 2026 18:36:14 +0000"
-    },
-    {
-      "title": "Куда я жмав #29",
-      "link": "https://gallery21.blog/2026/07/21/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-29/",
-      "published": "Tue, 21 Jul 2026 19:13:19 +0000"
     },
     {
       "title": "Guide to data tools landscape for developers",
