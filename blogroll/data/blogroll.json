@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Lusine — Melting Days",
+      "link": "https://zametkin.me/2026/08/23/lusine-melting-days/",
+      "published": "Sun, 23 Aug 2026 10:00:00 +0000"
+    },
+    {
       "title": "How to fit Qwen3.8-27B into 16GB of VRAM and run it on a single RTX 3080 card: the best quantizations and Llama.cpp flags I've found",
       "link": "https://www.autodidacts.io/how-to-fit-qwen3-8-27b-into-16gb-vram-run-with-llama-cpp-rtx-3080-flags-quantizations/",
       "published": "Sun, 23 Aug 2026 04:00:28 GMT"
@@ -124,21 +129,6 @@
       "title": "Guide to data tools landscape for developers",
       "link": "https://sinja.io/blog/data-landscape-guide-for-developers",
       "published": "Tue, 14 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Marconi Union — Multiforms: Ambient Transmissions, Vol.3",
-      "link": "https://zametkin.me/2026/07/12/marconi-union-multiforms-ambient-transmissions-vol-3/",
-      "published": "Sun, 12 Jul 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Abramovych Sculpture Park",
-      "link": "https://zametkin.me/2026/07/08/abramovych-sculpture-park/",
-      "published": "Wed, 08 Jul 2026 10:00:00 +0000"
-    },
-    {
-      "title": "Earth Trax — Everlasting Flame",
-      "link": "https://zametkin.me/2026/07/05/earth-trax-everlasting-flame/",
-      "published": "Sun, 05 Jul 2026 12:00:00 +0000"
     },
     {
       "title": "Listening Is the Silencing of the Mind",
