@@ -1,6 +1,16 @@
 {
   "feed": [
     {
+      "title": "Focus and followthrough are the moat",
+      "link": "https://swizec.com/blog/focus-and-followthrough-are-the-moat",
+      "published": "Thu, 27 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "$5300 in $100s",
+      "link": "https://world.hey.com/jason/5300-in-100s-3be4c194",
+      "published": "2026-08-26T22:21:33Z"
+    },
+    {
       "title": "Штабна соціопатія",
       "link": "https://www.rozhkov.me/headquarters-sociopathy/",
       "published": "Wed, 26 Aug 2026 06:24:37 GMT"
@@ -114,11 +124,6 @@
       "title": "Failure Modes",
       "link": "https://www.autodidacts.io/failure-modes/",
       "published": "Wed, 29 Jul 2026 17:28:29 GMT"
-    },
-    {
-      "title": "Just being is worthwhile",
-      "link": "https://www.autodidacts.io/just-being-is-worthwhile/",
-      "published": "Tue, 28 Jul 2026 18:16:41 GMT"
     },
     {
       "title": "Guide to data tools landscape for developers",
