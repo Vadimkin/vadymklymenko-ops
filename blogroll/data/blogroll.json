@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "$5300 in $100s: The verdict",
+      "link": "https://world.hey.com/jason/5300-in-100s-the-verdict-74c41080",
+      "published": "2026-08-28T03:10:21Z"
+    },
+    {
       "title": "Focus and followthrough are the moat",
       "link": "https://swizec.com/blog/focus-and-followthrough-are-the-moat",
       "published": "Thu, 27 Aug 2026 00:00:00 GMT"
@@ -119,11 +124,6 @@
       "title": "Патчворк українського війська",
       "link": "https://www.rozhkov.me/afu-patchwork/",
       "published": "Thu, 30 Jul 2026 06:24:19 GMT"
-    },
-    {
-      "title": "Failure Modes",
-      "link": "https://www.autodidacts.io/failure-modes/",
-      "published": "Wed, 29 Jul 2026 17:28:29 GMT"
     },
     {
       "title": "Guide to data tools landscape for developers",
