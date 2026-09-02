@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Ode to Metadata",
+      "link": "https://www.autodidacts.io/ode-to-metadata/",
+      "published": "Tue, 01 Sep 2026 21:54:51 GMT"
+    },
+    {
       "title": "$5300 in $100s: The verdict",
       "link": "https://world.hey.com/jason/5300-in-100s-the-verdict-74c41080",
       "published": "2026-08-28T03:10:21Z"
@@ -231,9 +236,24 @@
       "published": "Tue, 27 Aug 2024 00:00:00 GMT"
     },
     {
+      "title": "Журналістика великого формату: друкований Reporters тепер виходить 4 рази на рік",
+      "link": "https://reporters.media/zhurnalistyka-velykogo-formatu/",
+      "published": "Thu, 08 Aug 2024 13:12:09 +0000"
+    },
+    {
+      "title": "Більше, ніж яблук, хат і людей",
+      "link": "https://reporters.media/bilshe-nizh-yabluk-hat-i-lyudej/",
+      "published": "Tue, 06 Aug 2024 07:51:00 +0000"
+    },
+    {
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
+    },
+    {
+      "title": "Дивись, як я можу",
+      "link": "https://reporters.media/dyvys-yak-ya-mozhu/",
+      "published": "Wed, 03 Jul 2024 13:15:30 +0000"
     },
     {
       "title": "Airfoil",
