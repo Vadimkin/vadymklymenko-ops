@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Older than the dog",
+      "link": "https://www.autodidacts.io/how-wise-do-our-mentors-need-to-be/",
+      "published": "Sat, 05 Sep 2026 23:14:30 GMT"
+    },
+    {
       "title": "До побачення, телебачення!",
       "link": "https://kos.fm/sidenotes/do-pobachennya-telebachennya/",
       "published": "Sat, 05 Sep 2026 10:45:00 +0300"
@@ -116,19 +121,19 @@
       "published": "Thu, 16 Apr 2026 15:00:48 +0000"
     },
     {
+      "title": "School of Rock",
+      "link": "https://mrgall.com/gallery/2026_04_12/",
+      "published": "Sun, 12 Apr 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Moonlight Beach",
+      "link": "https://mrgall.com/gallery/2026_04_01/",
+      "published": "Wed, 01 Apr 2026 12:00:00 +0000"
+    },
+    {
       "title": "Oceanside",
       "link": "https://mrgall.com/gallery/2026_03_29/",
       "published": "Sun, 29 Mar 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Los Angeles",
-      "link": "https://mrgall.com/gallery/2026_03_22/",
-      "published": "Sun, 22 Mar 2026 12:00:00 +0000"
-    },
-    {
-      "title": "La Jolla Cove",
-      "link": "https://mrgall.com/gallery/2026_03_20/",
-      "published": "Fri, 20 Mar 2026 12:00:00 +0000"
     },
     {
       "title": "Practicing design and website rehaul",
