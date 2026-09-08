@@ -151,6 +151,11 @@
       "published": "Thu, 25 Dec 2025 20:02:39 +0000"
     },
     {
+      "title": "My favorite type of designers",
+      "link": "https://vanschneider.com/blog/edition-272/",
+      "published": "Tue, 16 Dec 2025 22:57:57 GMT"
+    },
+    {
       "title": "The Three Principles of Self-Understanding",
       "link": "https://moretothat.com/the-three-principles-of-self-understanding/",
       "published": "Thu, 11 Dec 2025 01:24:35 +0000"
@@ -159,6 +164,16 @@
       "title": "The sights and sounds of Bhutan",
       "link": "https://waitbutwhy.com/2025/11/bhutan.html",
       "published": "Tue, 25 Nov 2025 17:15:10 +0000"
+    },
+    {
+      "title": "A cruel reminder for all designers",
+      "link": "https://vanschneider.com/blog/edition-271/",
+      "published": "Mon, 17 Nov 2025 14:34:19 GMT"
+    },
+    {
+      "title": "The WHY always comes first.",
+      "link": "https://vanschneider.com/blog/the-why-always-comes-first/",
+      "published": "Thu, 13 Nov 2025 15:42:18 GMT"
     },
     {
       "title": "How I built a notebook inside Obsidian",
@@ -189,6 +204,11 @@
       "title": "Дискусія «Мітологія і примирення з межовими досвідами»",
       "link": "https://foodiereads.org/2025/09/26/mitologiya-i-prymyrennya-z-mezhovymy-dosvidamy/",
       "published": "Fri, 26 Sep 2025 06:55:11 +0000"
+    },
+    {
+      "title": "The case against conversational interfaces",
+      "link": "https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/",
+      "published": "Thu, 27 Mar 2025 14:13:42 +0000"
     },
     {
       "title": "Browse No More",
@@ -241,6 +261,11 @@
       "published": "Tue, 02 Jan 2024 00:00:00 GMT"
     },
     {
+      "title": "Multi-layered calendars",
+      "link": "https://julian.digital/2023/07/06/multi-layered-calendars/",
+      "published": "Thu, 06 Jul 2023 14:10:12 +0000"
+    },
+    {
       "title": "Server-side Rendering: CDN and Caching",
       "link": "https://zemlan.in/ssr-cdn.html",
       "published": "Wed, 17 May 2023 17:40:00 GMT"
@@ -254,6 +279,11 @@
       "title": "Смішинки перших тижнів повномасштабної війни",
       "link": "https://poohitan.com/p/not-so-funny-stories",
       "published": "Thu, 02 Jun 2022 19:09:00 GMT"
+    },
+    {
+      "title": "The power of defaults",
+      "link": "https://julian.digital/2021/12/20/the-power-of-defaults/",
+      "published": "Mon, 20 Dec 2021 16:39:05 +0000"
     },
     {
       "title": "Прочитане-2020",
