@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "How to copy URLs of multiple Firefox tabs without installing an extension",
+      "link": "https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/",
+      "published": "Thu, 24 Sep 2026 23:26:32 GMT"
+    },
+    {
       "title": "We now auto-approve and merge 15% of PRs",
       "link": "https://swizec.com/blog/we-now-auto-approve-and-merge-15p-of-prs",
       "published": "Sat, 19 Sep 2026 00:00:00 GMT"
