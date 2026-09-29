@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Why I'm excited about Jev-like classifiers",
+      "link": "https://swizec.com/blog/why-im-excited-about-jev-like-classifiers",
+      "published": "Tue, 29 Sep 2026 00:00:00 GMT"
+    },
+    {
       "title": "How to copy URLs of multiple Firefox tabs without installing an extension",
       "link": "https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/",
       "published": "Thu, 24 Sep 2026 23:26:32 GMT"
