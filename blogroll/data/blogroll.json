@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Ted Lasso S04",
+      "link": "https://kos.fm/sidenotes/ted-lasso-s04/",
+      "published": "Sun, 11 Oct 2026 11:00:00 +0300"
+    },
+    {
       "title": "On the Spirit of Teaching",
       "link": "https://moretothat.com/on-the-spirit-of-teaching/",
       "published": "Thu, 08 Oct 2026 01:28:36 +0000"
@@ -51,11 +56,6 @@
       "published": "Mon, 14 Sep 2026 06:24:38 GMT"
     },
     {
-      "title": "До побачення, телебачення!",
-      "link": "https://kos.fm/sidenotes/do-pobachennya-telebachennya/",
-      "published": "Sat, 05 Sep 2026 10:45:00 +0300"
-    },
-    {
       "title": "$5300 in $100s: The verdict",
       "link": "https://world.hey.com/jason/5300-in-100s-the-verdict-74c41080",
       "published": "2026-08-28T03:10:21Z"
@@ -64,11 +64,6 @@
       "title": "$5300 in $100s",
       "link": "https://world.hey.com/jason/5300-in-100s-3be4c194",
       "published": "2026-08-26T22:21:33Z"
-    },
-    {
-      "title": "13. Jungfraubahn",
-      "link": "https://kos.fm/yashchique/13/",
-      "published": "Tue, 25 Aug 2026 10:00:00 +0300"
     },
     {
       "title": "Куда я жмав #30",
@@ -89,11 +84,6 @@
       "title": "Faik Konica — «Що таке свобода?»",
       "link": "https://gallery21.blog/2026/08/13/faik-konica-%d1%89%d0%be-%d1%82%d0%b0%d0%ba%d0%b5-%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b4%d0%b0/",
       "published": "Thu, 13 Aug 2026 18:21:05 +0000"
-    },
-    {
-      "title": "Київ. Квітень 2016",
-      "link": "https://kos.fm/kyiv-april-2016/",
-      "published": "Tue, 04 Aug 2026 11:00:00 +0300"
     },
     {
       "title": "Нові квитки для Дніпровської дитячої залізниці",
