@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "No more tech debt",
+      "link": "https://swizec.com/blog/no-more-tech-debt",
+      "published": "Sat, 17 Oct 2026 00:00:00 GMT"
+    },
+    {
       "title": "Curiosity Traps",
       "link": "https://www.autodidacts.io/curiosity-traps/",
       "published": "Tue, 13 Oct 2026 22:42:04 GMT"
