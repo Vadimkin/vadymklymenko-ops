@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "The Command Line as Franken-REPL",
+      "link": "https://www.autodidacts.io/the-command-line-as-everything-repl/",
+      "published": "Tue, 27 Oct 2026 18:53:15 GMT"
+    },
+    {
       "title": "A Local AI Stack for Language Learning",
       "link": "https://www.autodidacts.io/local-ai-language-learning-stack/",
       "published": "Mon, 26 Oct 2026 21:58:33 GMT"
