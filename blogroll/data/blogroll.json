@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "title": "A Yes Person’s Guide to Saying No",
+      "link": "https://www.autodidacts.io/getting-better-at-saying-no/",
+      "published": "Fri, 30 Oct 2026 06:04:51 GMT"
+    },
+    {
+      "title": "Як всрати жовтень, або 20+к рядків коду заради ⌘C і ⌘V",
+      "link": "https://gallery21.blog/2026/10/29/%d1%8f%d0%ba-%d0%b2%d1%81%d1%80%d0%b0%d1%82%d0%b8-%d0%b6%d0%be%d0%b2%d1%82%d0%b5%d0%bd%d1%8c-%d0%b0%d0%b1%d0%be-20%d0%ba-%d1%80%d1%8f%d0%b4%d0%ba%d1%96%d0%b2-%d0%ba%d0%be%d0%b4%d1%83-%d0%b7%d0%b0/",
+      "published": "Thu, 29 Oct 2026 20:26:18 +0000"
+    },
+    {
+      "title": "The Command Line as Franken-REPL",
+      "link": "https://www.autodidacts.io/the-command-line-as-everything-repl/",
+      "published": "Tue, 27 Oct 2026 18:53:15 GMT"
+    },
+    {
+      "title": "A Local AI Stack for Language Learning",
+      "link": "https://www.autodidacts.io/local-ai-language-learning-stack/",
+      "published": "Mon, 26 Oct 2026 21:58:33 GMT"
+    },
+    {
+      "title": "Куда я жмав #31 (friends, курсори, фотокартки, старі книжечкі, Африка і т.і)",
+      "link": "https://gallery21.blog/2026/10/26/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-31-friends-%d0%ba%d1%83%d1%80%d1%81%d0%be%d1%80%d0%b8-%d1%84%d0%be%d1%82%d0%be%d0%ba%d0%b0%d1%80%d1%82%d0%ba%d0%b8-%d1%81%d1%82%d0%b0/",
+      "published": "Mon, 26 Oct 2026 19:16:56 +0000"
+    },
+    {
+      "title": "Culture of blame",
+      "link": "https://www.rozhkov.me/culture-of-blame/",
+      "published": "Mon, 26 Oct 2026 07:24:00 GMT"
+    },
+    {
       "title": "iPhone Duo",
       "link": "https://kos.fm/sidenotes/iphone-duo/",
       "published": "Sat, 24 Oct 2026 09:00:00 +0300"
@@ -74,21 +104,6 @@
       "title": "Did you know you can link to a timestamp in a plain video file?",
       "link": "https://www.autodidacts.io/how-to-deeplink-to-specific-part-of-text-audio-video-pdf-image/",
       "published": "Wed, 07 Oct 2026 05:20:41 GMT"
-    },
-    {
-      "title": "AI Is an Extension of Your Creative Self",
-      "link": "https://moretothat.com/ai-is-an-extension-of-your-creative-self/",
-      "published": "Wed, 30 Sep 2026 21:31:46 +0000"
-    },
-    {
-      "title": "Why I'm excited about Jev-like classifiers",
-      "link": "https://swizec.com/blog/why-im-excited-about-jev-like-classifiers",
-      "published": "Tue, 29 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The new DESK",
-      "link": "https://vanschneider.com/blog/edition-278/",
-      "published": "Mon, 28 Sep 2026 14:51:29 GMT"
     },
     {
       "title": "$5300 in $100s: The verdict",
