@@ -1,0 +1,100 @@
+{
+  "books": [
+    {
+      "title": "The Seven Basic Plots: Why We Tell Stories",
+      "author": "Christopher Booker",
+      "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/114823.webp",
+      "review_url": "https://www.goodreads.com/review/show/8792586973",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false,
+      "progress": null
+    },
+    {
+      "title": "Убік",
+      "author": "Philip K. Dick",
+      "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/41020103.webp",
+      "review_url": "https://www.goodreads.com/review/show/8775362597",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false,
+      "progress": null
+    },
+    {
+      "title": "Часотрус",
+      "author": "Kurt Vonnegut Jr.",
+      "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/250187360.webp",
+      "review_url": "https://www.goodreads.com/review/show/8511967513",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false,
+      "progress": null
+    },
+    {
+      "title": "Книжкова баржа",
+      "author": "Nina George",
+      "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/228140317.webp",
+      "review_url": "https://www.goodreads.com/review/show/8405124096",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false,
+      "progress": null
+    },
+    {
+      "title": "Infinite Jest",
+      "author": "David Foster Wallace",
+      "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/6759.webp",
+      "review_url": "https://www.goodreads.com/review/show/8398110741",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false,
+      "progress": null
+    },
+    {
+      "title": "Танці з кістками",
+      "author": "Андрій Сем’янків",
+      "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/61867327.webp",
+      "review_url": "https://www.goodreads.com/review/show/8318331764",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false,
+      "progress": null
+    },
+    {
+      "title": "Міжзоряний мандрівник",
+      "author": "Jack London",
+      "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/25042058.webp",
+      "review_url": "https://www.goodreads.com/review/show/8318327325",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false,
+      "progress": null
+    },
+    {
+      "title": "Не сподівайтеся позбутися книжок",
+      "author": "Umberto Eco",
+      "cover_url": "https://raw.githubusercontent.com/Vadimkin/vadymklymenko-ops/main/goodreads-books/data/images/25418261.webp",
+      "review_url": "https://www.goodreads.com/review/show/8308160151",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false,
+      "progress": null
+    }
+  ]
+}

@@ -22,10 +22,10 @@ jobs:
         run: |
           cd goodreads-books
           pip install -r requirements.txt
-      - name: Parse goodreads via RSS
+      - name: Parse goodreads public profile
         run: |
           cd goodreads-books
-          python run_rss.py
+          python run_public.py
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
