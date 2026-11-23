@@ -1,74 +1,14 @@
 {
   "feed": [
     {
-      "title": "Now We Act (From Ukraine 2/2): With Rep. Jim Himes on Investigation and Reform",
-      "link": "https://snyder.substack.com/p/now-we-act-from-ukraine-22-with-rep",
-      "published": "Sat, 21 Nov 2026 13:24:55 GMT"
-    },
-    {
-      "title": "Now We Act (from Ukraine 1/2): Live with Senator Elissa Slotkin on Security and Leadership",
-      "link": "https://snyder.substack.com/p/now-we-act-from-ukraine-12-live-with",
-      "published": "Fri, 20 Nov 2026 23:56:48 GMT"
-    },
-    {
-      "title": "Now We Act: With Senator Ruben Gallego on Exposing the Conspiracies",
-      "link": "https://snyder.substack.com/p/now-we-act-with-senator-ruben-gallego",
-      "published": "Wed, 18 Nov 2026 22:21:29 GMT"
-    },
-    {
-      "title": "Now We Act: With Rep. Raja Krishnamoorthi on the Strength of Democracy",
-      "link": "https://snyder.substack.com/p/now-we-act-with-rep-raja-krishnamoorthi",
-      "published": "Wed, 18 Nov 2026 17:05:35 GMT"
-    },
-    {
-      "title": "Now We Act: With Rep. Jamie Raskin on the Constitution vs. Corruption",
-      "link": "https://snyder.substack.com/p/now-we-act-with-rep-jamie-raskin",
-      "published": "Wed, 18 Nov 2026 13:46:28 GMT"
-    },
-    {
       "title": "Piping Hot: how hard can it be to have a realtime, unbuffered,  streaming, non-newline-delimited regex filter pipeline in Bash?",
       "link": "https://www.autodidacts.io/realtime-streaming-regex-filters-in-bash-pipeline-solve-sed-buffering-newline-problems-with-perl/",
       "published": "Tue, 17 Nov 2026 22:44:17 GMT"
     },
     {
-      "title": "Now We Act: With Rep.-Elect Brad Lander on Cooperation vs. Corruption",
-      "link": "https://snyder.substack.com/p/now-we-act-with-rep-elect-brad-lander",
-      "published": "Tue, 17 Nov 2026 22:32:29 GMT"
-    },
-    {
-      "title": "Now We Act: With Senator Sheldon Whitehouse on Dark Money and a Brighter Future",
-      "link": "https://snyder.substack.com/p/now-we-act-with-senator-sheldon-whitehouse",
-      "published": "Tue, 17 Nov 2026 19:01:28 GMT"
-    },
-    {
-      "title": "Now We Act: With Rep. Sarah McBride on Care and Freedom",
-      "link": "https://snyder.substack.com/p/now-we-act-with-rep-sarah-mcbride",
-      "published": "Tue, 17 Nov 2026 15:55:06 GMT"
-    },
-    {
-      "title": "Oleh Kadanov - Ukrainian War Poems (Issue #15)",
-      "link": "https://7uapoems.substack.com/p/oleh-kadanov-ukrainian-war-poems",
-      "published": "Mon, 16 Nov 2026 18:32:47 GMT"
-    },
-    {
-      "title": "On “Backtalker” with Kimberlé Crenshaw",
-      "link": "https://snyder.substack.com/p/on-backtalker-with-kimberle-crenshaw",
-      "published": "Sun, 15 Nov 2026 14:22:56 GMT"
-    },
-    {
-      "title": "Now We Act: With Senator Richard Blumenthal on the Opportunity of a Lifetime",
-      "link": "https://snyder.substack.com/p/now-we-act-with-senator-richard-blumenthal",
-      "published": "Sat, 14 Nov 2026 13:43:31 GMT"
-    },
-    {
       "title": "Software has no value",
       "link": "https://swizec.com/blog/software-has-no-value",
       "published": "Sat, 14 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Куда я жмав #32",
-      "link": "https://vtlk.substack.com/p/32",
-      "published": "Thu, 12 Nov 2026 19:37:54 GMT"
     },
     {
       "title": "Куда я жмав #32",
@@ -92,23 +32,8 @@
     },
     {
       "title": "«О Уоммібатто»: як прерафаеліти стали одержимі вомбатами",
-      "link": "https://vtlk.substack.com/p/3e4",
-      "published": "Sat, 07 Nov 2026 15:46:58 GMT"
-    },
-    {
-      "title": "«О Уоммібатто»: як прерафаеліти стали одержимі вомбатами",
       "link": "https://gallery21.blog/2026/11/07/%d0%be-%d1%83%d0%be%d0%bc%d0%bc%d1%96%d0%b1%d0%b0%d1%82%d1%82%d0%be-%d1%8f%d0%ba-%d0%bf%d1%80%d0%b5%d1%80%d0%b0%d1%84%d0%b0%d0%b5%d0%bb%d1%96%d1%82%d0%b8-%d1%81%d1%82%d0%b0%d0%bb%d0%b8/",
       "published": "Sat, 07 Nov 2026 15:37:08 +0000"
-    },
-    {
-      "title": "The war changed classic PR: it's important to know not only what to say, but also when to remain silent",
-      "link": "https://tlfrd.substack.com/p/the-war-changed-classic-pr-its-important",
-      "published": "Sat, 07 Nov 2026 07:19:17 GMT"
-    },
-    {
-      "title": "Війна змінила класичний PR: важливо знати не лише що говорити, а й коли мовчати",
-      "link": "https://tlfrd.substack.com/p/pr",
-      "published": "Sat, 07 Nov 2026 06:53:20 GMT"
     },
     {
       "title": "How do we auto-approve and merge 60% of PRs?",
@@ -126,19 +51,9 @@
       "published": "Fri, 06 Nov 2026 05:34:36 GMT"
     },
     {
-      "title": "Фотографії Едварда Кертіса: церемоніальне вбрання й маски кваквака'вакв (бл. 1914)",
-      "link": "https://vtlk.substack.com/p/1914",
-      "published": "Thu, 05 Nov 2026 18:48:35 GMT"
-    },
-    {
       "title": "Фотографії Едварда Кертіса: церемоніальне вбрання й маски кваквака’вакв (бл. 1914)",
       "link": "https://gallery21.blog/2026/11/05/%d1%84%d0%be%d1%82%d0%be%d0%b3%d1%80%d0%b0%d1%84%d1%96%d1%97-%d0%b5%d0%b4%d0%b2%d0%b0%d1%80%d0%b4%d0%b0-%d0%ba%d0%b5%d1%80%d1%82%d1%96%d1%81%d0%b0-%d1%86%d0%b5%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%96/",
       "published": "Thu, 05 Nov 2026 18:46:46 +0000"
-    },
-    {
-      "title": "Оповіді про бога-сома: землетруси на японських гравюрах (1855 р.)",
-      "link": "https://vtlk.substack.com/p/1855",
-      "published": "Mon, 02 Nov 2026 20:21:31 GMT"
     },
     {
       "title": "Оповіді про бога-сома: землетруси на японських гравюрах (1855 р.)",
@@ -146,24 +61,9 @@
       "published": "Mon, 02 Nov 2026 20:10:04 +0000"
     },
     {
-      "title": "Як змінилась поведінка користувачів: щорічне дослідження Digital Research 2026 від newage.",
-      "link": "https://dariiavozna.substack.com/p/digital-research-2026-newage",
-      "published": "Mon, 02 Nov 2026 16:42:45 GMT"
-    },
-    {
       "title": "Nobody learns good taste by being told",
       "link": "https://vanschneider.com/blog/nobody-learns-good-taste-by-being-told-from-the-desk-of-van-schneider-edition-280/",
       "published": "Mon, 02 Nov 2026 15:45:07 GMT"
-    },
-    {
-      "title": "\"The main question is not 'how to raise motivation,' but 'what in our system takes away motivation and energy'\"",
-      "link": "https://tlfrd.substack.com/p/the-main-question-is-not-how-to-raise",
-      "published": "Mon, 02 Nov 2026 06:29:19 GMT"
-    },
-    {
-      "title": "«Головне питання — не “як підняти мотивацію”, а “що в нашій системі забирає мотивацію й енергію”»",
-      "link": "https://tlfrd.substack.com/p/c5c",
-      "published": "Mon, 02 Nov 2026 05:58:15 GMT"
     },
     {
       "title": "A Yes Person’s Guide to Saying No",
@@ -172,18 +72,8 @@
     },
     {
       "title": "Як всрати жовтень, або 20+к рядків коду заради ⌘C і ⌘V",
-      "link": "https://vtlk.substack.com/p/20-c-v",
-      "published": "Thu, 29 Oct 2026 20:39:08 GMT"
-    },
-    {
-      "title": "Як всрати жовтень, або 20+к рядків коду заради ⌘C і ⌘V",
       "link": "https://gallery21.blog/2026/10/29/%d1%8f%d0%ba-%d0%b2%d1%81%d1%80%d0%b0%d1%82%d0%b8-%d0%b6%d0%be%d0%b2%d1%82%d0%b5%d0%bd%d1%8c-%d0%b0%d0%b1%d0%be-20%d0%ba-%d1%80%d1%8f%d0%b4%d0%ba%d1%96%d0%b2-%d0%ba%d0%be%d0%b4%d1%83-%d0%b7%d0%b0/",
       "published": "Thu, 29 Oct 2026 20:26:18 +0000"
-    },
-    {
-      "title": "Таємниці магазинчика біля дому: як працює ринок дистрибуції",
-      "link": "https://dariiavozna.substack.com/p/784",
-      "published": "Thu, 29 Oct 2026 07:02:17 GMT"
     },
     {
       "title": "The Command Line as Franken-REPL",
@@ -197,11 +87,6 @@
     },
     {
       "title": "Куда я жмав #31 (friends, курсори, фотокартки, старі книжечкі, Африка і т.і)",
-      "link": "https://vtlk.substack.com/p/31-friends",
-      "published": "Mon, 26 Oct 2026 19:23:49 GMT"
-    },
-    {
-      "title": "Куда я жмав #31 (friends, курсори, фотокартки, старі книжечкі, Африка і т.і)",
       "link": "https://gallery21.blog/2026/10/26/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-31-friends-%d0%ba%d1%83%d1%80%d1%81%d0%be%d1%80%d0%b8-%d1%84%d0%be%d1%82%d0%be%d0%ba%d0%b0%d1%80%d1%82%d0%ba%d0%b8-%d1%81%d1%82%d0%b0/",
       "published": "Mon, 26 Oct 2026 19:16:56 +0000"
     },
@@ -209,11 +94,6 @@
       "title": "Culture of blame",
       "link": "https://www.rozhkov.me/culture-of-blame/",
       "published": "Mon, 26 Oct 2026 07:24:00 GMT"
-    },
-    {
-      "title": "Кінець історії та останній новинний сайт",
-      "link": "https://media3.substack.com/p/end",
-      "published": "Mon, 26 Oct 2026 06:31:09 GMT"
     },
     {
       "title": "iPhone Duo",
@@ -226,9 +106,34 @@
       "published": "Fri, 23 Oct 2026 23:29:39 +0000"
     },
     {
+      "title": "Літо 2026",
+      "link": "https://kos.fm/summer-2026/",
+      "published": "Fri, 23 Oct 2026 09:00:00 +0300"
+    },
+    {
+      "title": "Temecula",
+      "link": "https://mrgall.com/gallery/2026_10_11/",
+      "published": "Sun, 11 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Ted Lasso S04",
+      "link": "https://kos.fm/sidenotes/ted-lasso-s04/",
+      "published": "Sun, 11 Oct 2026 11:00:00 +0300"
+    },
+    {
+      "title": "On the Spirit of Teaching",
+      "link": "https://moretothat.com/on-the-spirit-of-teaching/",
+      "published": "Thu, 08 Oct 2026 01:28:36 +0000"
+    },
+    {
       "title": "Støvfigur — Støvfigur",
       "link": "https://zametkin.me/2026/10/07/st-vfigur-st-vfigur/",
       "published": "Wed, 07 Oct 2026 12:55:28 +0000"
+    },
+    {
+      "title": "AI Is an Extension of Your Creative Self",
+      "link": "https://moretothat.com/ai-is-an-extension-of-your-creative-self/",
+      "published": "Wed, 30 Sep 2026 21:31:46 +0000"
     },
     {
       "title": "Cuyamaca Outdoor School",
@@ -264,11 +169,6 @@
       "title": "Huntington Beach",
       "link": "https://mrgall.com/gallery/2026_08_02/",
       "published": "Sun, 02 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Balboa Park",
-      "link": "https://mrgall.com/gallery/2026_07_26/",
-      "published": "Sun, 26 Jul 2026 12:00:00 +0000"
     },
     {
       "title": "Mistaking making for the thing you've made",
@@ -309,11 +209,6 @@
       "title": "How I built a notebook inside Obsidian",
       "link": "https://sinja.io/blog/how-i-built-notebook-in-obisidian-emera",
       "published": "Fri, 07 Nov 2025 00:00:00 GMT"
-    },
-    {
-      "title": "Miss me?",
-      "link": "https://toytakeorg.substack.com/p/miss-me",
-      "published": "Mon, 03 Nov 2025 13:19:27 GMT"
     },
     {
       "title": "Старі фото. 4-та ранку. Кейт Мосс. Та флешбеки з фотосесій.",
@@ -374,31 +269,6 @@
       "title": "Building an AI toolbar for text editors",
       "link": "https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors",
       "published": "Tue, 09 Jul 2024 00:00:00 GMT"
-    },
-    {
-      "title": "Правильний вибір",
-      "link": "https://blnk.substack.com/p/f74",
-      "published": "Wed, 08 May 2024 12:59:29 GMT"
-    },
-    {
-      "title": "Концепція: Працювати в ЗСУ",
-      "link": "https://blnk.substack.com/p/197",
-      "published": "Wed, 01 May 2024 11:52:34 GMT"
-    },
-    {
-      "title": "#тойтаке. Лист №32",
-      "link": "https://toytakeorg.substack.com/p/32",
-      "published": "Fri, 19 Apr 2024 07:18:50 GMT"
-    },
-    {
-      "title": "Геть від раціонального",
-      "link": "https://blnk.substack.com/p/d35",
-      "published": "Tue, 16 Apr 2024 15:07:04 GMT"
-    },
-    {
-      "title": "#тойтаке. Лист №31",
-      "link": "https://toytakeorg.substack.com/p/31",
-      "published": "Thu, 28 Mar 2024 09:15:08 GMT"
     },
     {
       "title": "Airfoil",
