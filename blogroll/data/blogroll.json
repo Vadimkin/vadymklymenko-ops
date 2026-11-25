@@ -1,6 +1,11 @@
 {
   "feed": [
     {
+      "title": "Hillclimbing your prompts",
+      "link": "https://swizec.com/blog/hillclimbing-your-prompts",
+      "published": "Wed, 25 Nov 2026 00:00:00 GMT"
+    },
+    {
       "title": "Куда я жмав #33",
       "link": "https://gallery21.blog/2026/11/24/%d0%ba%d1%83%d0%b4%d0%b0-%d1%8f-%d0%b6%d0%bc%d0%b0%d0%b2-33/",
       "published": "Tue, 24 Nov 2026 18:22:22 +0000"
@@ -111,9 +116,19 @@
       "published": "Fri, 23 Oct 2026 23:29:39 +0000"
     },
     {
+      "title": "Пройшов Cyberpunk 2077 + Phantom Liberty та подивився «Cyberpunk: Edgerunners»",
+      "link": "https://www.rozhkov.me/cyberpunk-2077/",
+      "published": "Fri, 23 Oct 2026 06:24:48 GMT"
+    },
+    {
       "title": "Літо 2026",
       "link": "https://kos.fm/summer-2026/",
       "published": "Fri, 23 Oct 2026 09:00:00 +0300"
+    },
+    {
+      "title": "Розмір має значення: IC track",
+      "link": "https://www.rozhkov.me/size-matters/",
+      "published": "Mon, 19 Oct 2026 06:24:48 GMT"
     },
     {
       "title": "Temecula",
